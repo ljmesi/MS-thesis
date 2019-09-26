@@ -31,3 +31,6 @@ RUN conda install biopython
 
 # This is needed for multiline grep searches
 RUN apt-get install -y pcre2-utils
+
+# Install ggtree for fancy publication ready trees
+RUN R -e "BiocManager::install('ggtree')"
