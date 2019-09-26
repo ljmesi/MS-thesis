@@ -1,0 +1,3956 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/InR-PA.fas analyses/2019-09-02/polypeptides/C_lectularius_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000502-PA
+         Model: affine:local:protein2protein
+     Raw score: 464
+   Query range: 1405 -> 1653
+  Target range: 9 -> 257
+
+ 1406 : TVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHR : 1467
+        :|::  .:|:|::| .:..:: .::. ::.|:||||||::.  |||| |..|||. :|::| 
+   10 : SVEDIKVERDRADFHRDVRILGALEDINIARVLGVCSRDEQLCVVMEYMDHGDLTQFLKTHV :   71
+
+ 1468 : PEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVAD : 1529
+        |.:.. ::     .:|    |:. ::. :  ||.:||.|| ||.: :|||||||:|||:|:.
+   72 : PADSSRPL-----PLG----VKTLSFNCLLYMATQIASGMRYLESLNFVHRDLATRNCLVGK :  124
+
+ 1530 : DLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMAT : 1591
+        :  :||:||| ..: |. |||: ...  ||||||: ||:  | |:  |||.|||| |||: .
+  125 : GYQIKISDFGTDNEAYALDYYKVNGTMALPVRWMAWESVYLGKYTIKSDVWSFGVCLWEILN :  186
+
+ 1592 : L-AAQPYQGLSNEQVLRYV-----IDGG--VMER-PENCPDFLHKLMQRCWHHRSSARPSFL : 1644
+        :   :|::::::.:|:  :      ::|   : | | .|.. : .||. ||::.. .||:| 
+  187 : MCRRRPFDSMTDAEVVENLGHLQEDEAGFTPLPRPPPPCTKDIVDLMAECWRQSEHQRPTFC :  248
+
+ 1645 : DIIAYLEPQ : 1653
+        :|  :|:.:
+  249 : QIHLFLQRK :  257
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1405 1653 . CLEC000502-PA 9 257 . 464 M 70 70 G 5 0 M 3 3 G 4 0 M 105 105 G 0 1 M 17 17 G 0 5 M 4 4 G 0 2 M 4 4 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012947-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 2033 -> 2118
+  Target range: 69 -> 154
+
+ 2034 : NARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVS : 2095
+        ::::.:..:|:::|:||::|.|:.: ::|: |: . |    .: .:|| |.|:.| |.:: |
+   70 : KGKEDDEENDQEEEEEEEEEAEEKEEEEEEEEEEEDEEDEEKKKPKRATPKKAAPKRKKGSS :  131
+
+ 2096 : QTRKSPTNPNSGIGATGAGNRSN : 2118
+        :....::: :.: .. :: ::::
+  132 : DESDDASEDKESDEEYSPKKKAK :  154
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 2033 2118 . CLEC012947-PA 69 154 . 101 M 85 85
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012459-PA
+         Model: affine:local:protein2protein
+     Raw score: 149
+   Query range: 1474 -> 1636
+  Target range: 201 -> 366
+
+ 1475 : MMTYLNRIGVTGNVQPPT-Y--GRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTV : 1533
+        :|.|||  ::  ::|.:. :  ||    | ||..|:::|    :|.|||   | ::. |  |
+  202 : VMEYLNGGDLMFHIQQSGRFDEGRARFYAAEIVSGLSFLHKWGIVYRDLKLDNVLLDFDGHV :  263
+
+ 1534 : KIGDFGMTRDIYETDYYRKGTKGL-LPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAA : 1594
+        :|:|||| :      |  |.|..:  .  .|:|| :::  |:  :| .|||::|.||  ::.
+  264 : RIADFGMCK---LQIYLDKTTDTFCGTPDYMAPEVIKGLKYNQCADWWSFGILLYEM-LVGQ :  321
+
+ 1595 : QPYQGLSNEQVLRYVIDG-GVMER--PENCPDFLHKLMQRCWHHR : 1636
+         |: | .:::::: : :. . | .  :..  .:| .|||: | .|
+  322 : SPFSGCDEDDLFWSICNTRPHMPSYLSAPAKSILSDLMQKNWTKR :  366
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1474 1636 . CLEC012459-PA 201 366 . 149 M 18 18 G 0 1 M 1 1 G 0 2 M 49 49 G 3 0 M 12 12 G 0 1 M 32 32 G 1 0 M 22 22 G 0 1 M 5 5 G 0 2 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001039-PA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 1390 -> 1649
+  Target range: 32 -> 296
+
+ 1391 : KSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRL---LGVCSRGQPALV : 1449
+        :|.:  | ::  : ..::. :.:   | |:: :.: .:: : . :||    |. . : ..: 
+   33 : QSMSEIGFGKMETYTKIHKLGEGTYATVFMGRSRLTDNLVALKEIRLEHEEGAPCTAIREVS :   94
+
+ 1450 : VMELMKKGDLKSYLRAHRPEERDEAMMTYLNR-----IGVTGNVQPPTYGRIYQMAIEIADG : 1506
+        ::. :|.::: :     :.|.. . :..||:.     ::| ||  :|   :::   :::  |
+   95 : LLKELKHANIVTLHDIVHTEKSLTLVFEYLENDLKDYMDVRGNSLSPHNVKLF--LFQLLRG :  154
+
+ 1507 : MAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESL : 1568
+        :||   ::::|||| ::| ::.:  .:|::|||::|.   ..  :  ::.::.::..||: |
+  155 : LAYCHKRRILHRDLKPQNLLINERGELKLADFGLARAKSVPT--KAYSNEVVTLWYRPPDVL :  214
+
+ 1569 : RDGV-YSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG-GVMERPENCPDFL-HK : 1627
+        .::. ||:. |: : | ::.|||: : . :.| : |: |  :.   | ::.:.. :.   :.
+  215 : MGSTEYSTQIDM-GVGCIFFEMAS-GRPLFPGTTVEEELTLITRVLGPLDMSAPPAKPPGQT :  274
+
+ 1628 : LMQRCWHHRSSARPSFLDIIAY : 1649
+        |:|:    :.|: . : .::||
+  275 : LLQKAPTLKKSGVTLLTSFLAY :  296
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1390 1649 . CLEC001039-PA 32 296 . 132 M 47 47 G 0 3 M 44 44 G 0 5 M 16 16 G 2 0 M 49 49 G 2 0 M 22 22 G 0 1 M 7 7 G 1 0 M 11 11 G 1 0 M 20 20 G 0 1 M 13 13 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001794-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 1515 -> 1638
+  Target range: 257 -> 389
+
+ 1516 : VHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRW-MPPESLRDGV-YSS : 1575
+        .|||: :|| :: .|||. |:|||::  |::.:    :|.| :..|: |:|| | ::: :|.
+  258 : AHRDFKSRNVLLKSDLTACIADFGLAL-IFQPGKPCGDTHGQVGTRRYMAPEVLEGAINFSR :  318
+
+ 1576 : AS----DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGG---VMERPENC--PDFLHKL : 1628
+        .:    |::: |:||||:||  :.. ::: .|  |.:  : |   .:|  ::|  ..  : :
+  319 : DAFLRIDMYACGLVLWELATRCTAQ-ESVIGEYQLPFEEEVGQHPTLEDMQECVVHKKQRPI :  379
+
+ 1629 : MQRCWHHRSS : 1638
+        ::. |: :::
+  380 : LKNTWRVHPG :  389
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1515 1638 . CLEC001794-PA 257 389 . 120 M 27 27 G 1 0 M 19 19 G 0 1 M 10 10 G 0 1 M 5 5 G 0 4 M 19 19 G 1 0 M 16 16 G 0 3 M 8 8 G 0 2 M 17 17
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012911-PA
+         Model: affine:local:protein2protein
+     Raw score: 413
+   Query range: 1425 -> 1641
+  Target range: 0 -> 193
+
+ 1426 : MKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGN : 1487
+        |::||  |:::|:|||: .:|. :|||| | |:|::||..:::.   .::: |         
+    1 : MQQFDHKHIIKLIGVCT-ENPVCIVMELAKLGELRAYLNDNKSTLGLSTLLLY--------- :   53
+
+ 1488 : VQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDY : 1549
+                |||:    :.:::||.:|||||||:|||| :||.:  ||:||||::| : : .|
+   54 : --------IYQL----STALSYLESKKFVHRDIAARNVLVASEDCVKLGDFGLSRWVEDQSY :  102
+
+ 1550 : YRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVID : 1611
+        | |:::  ||::||:|||:.   :::||||. ||| :||: :|: :|:||:.|::|:  : :
+  103 : Y-KASRMKLPIKWMSPESINFRRFTTASDVWMFGVCMWEILSLGIKPFQGVRNNEVIGKLDN :  163
+
+ 1612 : GGVMERPENCPDFLHKLMQRCWHHRSSARP : 1641
+        |. :. |:.||  |..|| :||:. :| ||
+  164 : GERLGLPQGCPPRLYSLMVQCWQYEPSKRP :  193
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1425 1641 . CLEC012911-PA 0 193 . 413 M 17 17 G 1 0 M 35 35 G 17 0 M 4 4 G 4 0 M 47 47 G 1 0 M 90 90
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010061-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 1671 -> 2142
+  Target range: 246 -> 713
+
+ 1672 : QHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQP--PESPIAMV : 1731
+        |:|:.  .: . |  ...: : :.|.:.|::.:...||. .   :::: :::  .. .:.: 
+  247 : QQRQHREEQLATLRKMQQILFPEALPGPEENAHVENPLPENIDMNKPPSNHSDWHKLQMQLN :  308
+
+ 1732 : DDQGS--HLPFSLPSGFIASSTPDGQTV-MATAFQNIP---AAQGDISATYVVPDADALDGD : 1787
+        ||| :  : : : |::: .:: :.: .: :.:: .: |   ::: .:::. . :: :: .:.
+  309 : DDQKNRKNRASGPPPSYQQATRSASVPIALQSPNPSSPNNTTSNLSLPSPRTCSGINSPADK :  370
+
+ 1788 : RGYEIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPS : 1849
+         :  | :|||.  | |.: ..:.:..  : . || | | :: .  |:..: .:  :|   .|
+  371 : VSNRIPGPSPT-MESPNPVRNANSNPPTPVSSHLSP-KHKDKINASNEFSPSI--DSLYCRS :  428
+
+ 1850 : TASAGSSNASSHTGR-PSLKK-TVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTS : 1909
+        ..| |: :.:|:||: |:|.  . :: ::  ..| .::|  :|:  :|:| |..:.::| |:
+  429 : VQSIGGQKQGSNTGKEPNLMPVPSPQQIQYLNAFEGQELTIQKQ--PNTSLKETGRKTPVTP :  488
+
+ 1910 : SNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDES : 1971
+        : |:|.:   .:.. ::  :|:|||:|: .|.|.  . ::.:|.::| : :: |     : :
+  489 : P-TSLEG---VLPATSSGITGDSGSSGANNGVPSSVGVGTGAGTDGGPGSGNYPCIGPDNVP :  546
+
+ 1972 : IASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPL : 2033
+        :.::: :: :::: ::::: : : : :    .| :|  ::||: :.:  : :.|  :.::| 
+  547 : LNPNRISV-SAANKSSHFDPISSLAQMSQQLTNNVP--NSPVNQPNLMPNMHQNMVSFNSPN :  605
+
+ 2034 : NARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVS : 2095
+        :.::  | :| :: .:   ::  ::  :.| .  : :  : :.:.  ::::|  .. : : .
+  606 : SNQHLMSMADLHHMPNPPPDHRIQNQMQSHFGAQRAQCTS-AMSPGISVSPKMMQGYGVAQR :  666
+
+ 2096 : QTRKSPTNPNSGIGATGAGNRSNLLKENWLRPASTPRPPPPNGFIGR : 2142
+        .  :: . ..:.| ....:..:     :: ::::.||:||: .|: |
+  667 : PMTRPIGYNGANIQVKPNAPNTIQYLPSRPQSTPGPRAPPSLEFLQR :  713
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1671 2142 . CLEC010061-PA 246 713 . 108 M 52 52 G 0 2 M 13 13 G 0 2 M 21 21 G 0 1 M 9 9 G 0 3 M 32 32 G 1 0 M 24 24 G 1 0 M 16 16 G 2 0 M 22 22 G 0 1 M 5 5 G 0 1 M 22 22 G 2 0 M 17 17 G 1 0 M 5 5 G 3 0 M 60 60 G 1 0 M 27 27 G 2 0 M 64 64 G 1 0 M 68 68
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004006-PA
+         Model: affine:local:protein2protein
+     Raw score: 416
+   Query range: 1326 -> 1651
+  Target range: 679 -> 983
+
+ 1327 : LFGYVCYLHKR-KVPSNDLHMNTEVNPFYASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYE : 1387
+        |||  . | .: ::.::.|: .|.::::|.  : :  | | ::: ::: :.:|:|.:| || 
+  680 : LFGKDSSLWSHFNLQNSSLDSTTSIQSIYELSRNL--DSEGIKNIVLE-TRIGKGCYGEVYR :  738
+
+ 1388 : GILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALV : 1449
+        :| .  ...:  :  |:|.:|.| :...|::| .| ::||.:.  ::| : ||  :..  |:
+  739 : AIAEYTNHASEPQIVAVKKLNTNHSSSGRADFQREIAIMKSLKHPNIVEVKGV-IQEPEILL :  799
+
+ 1450 : VMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLA : 1511
+        :|| : :|.||..| ::| :        : :|             :::: :::|| ||.|||
+  800 : IMEYVPQGSLKCHLCSNRDH--------FTER-------------HLFKYSLDIARGMDYLA :  840
+
+ 1512 : AKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVY : 1573
+        .|::||||||||| :||.::||||:|||:: :: :.:||   |   ||: | :|||::|| :
+  841 : QKNIVHRDLAARNILVASEFTVKISDFGLA-QVTDNNYYILKTCRELPLLWYAPESIQDGKF :  901
+
+ 1574 : SSASDVFSFGVVLWEMATLAAQP---YQGLSNEQVLRYVIDGGVMERPENCP-DFLHKLMQR : 1631
+        |: |||.|:||:|.|| :::.:|    |: :.| :  .: .|. : |||:|| :   .:| |
+  902 : STYSDVWSYGVLLYEMFSFGQDPVINNQSSNAETLYTCLKSGTRLPRPESCPGEVYASVMMR :  963
+
+ 1632 : CWHHRSSARPSFLDIIAYLE : 1651
+        ||. ....||||:.||. ::
+  964 : CWKFNDKERPSFMTIIEIVN :  983
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1326 1651 . CLEC004006-PA 679 983 . 416 M 11 11 G 0 1 M 23 23 G 2 0 M 11 11 G 1 0 M 66 66 G 1 0 M 28 28 G 8 0 M 4 4 G 13 0 M 47 47 G 1 0 M 54 54 G 0 3 M 26 26 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004006-PA
+         Model: affine:local:protein2protein
+     Raw score: 152
+   Query range: 1560 -> 1640
+  Target range: 535 -> 615
+
+ 1561 : RWMPPE--SLRDGVY-SSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPE : 1619
+        :|:|||  . ||.:| .:|:||.::|..||:: : :.||:    |. :  : :.   ::.|.
+  536 : HWIPPELYDDRDEIYKRTAADVWALGTTLWQVFSYGEQPF---VNGSIKDFYLSRKRLDMPK :  594
+
+ 1620 : NCPDFLHKLMQRCWHHRSSAR : 1640
+        :|:: : :::: |||| :..|
+  595 : DCSEEIFRIIEECWHHDPDQR :  615
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1560 1640 . CLEC004006-PA 535 615 . 152 M 6 6 G 0 2 M 7 7 G 0 1 M 24 24 G 3 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003629-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 770 -> 974
+  Target range: 1519 -> 1717
+
+  771 : VSTINQLLPMLASKPKFFEKSDVGADSNGNRGSCGTAVLNVTLQSVGANSAMLNVTTKVEIG :  832
+        |.: : :|. | ...::  .  |:| ::.. |:.:|:|   . ::|.:. ::   :| :. .
+ 1520 : VDSRQVVLTDLMRDHNY--EIVVAAFNSEGVGPYSTPVTVYVGEAVPTGQPLRVNATPISPT : 1579
+
+  833 : EPQKPSNATIVFKDPRAFIGF-VFYHMIDPYGNSTKSSDDPCDDRWKVSSPEKSGVMVLSNL :  893
+        | : . .:.   .:. .::|: :|| |::  :. . ::|:  ::  .|  |.. .   |  |
+ 1580 : EIRVRWTPPQSSMQNGDLLGYKIFYLMVE--SPQDLGPDEKIEEETEV-VPATYNSHSLVFL : 1638
+
+  894 : IPYTNYSYYVRTMAISSELTNAESDVKNFRTNPGRPSKVTEVVATAISDSKINVTWSYLDKP :  955
+          ||:|.  ::.:|:::. ..: |.  . ||:.| |:   ::  |.|: :.: |:|.  .|.
+ 1639 : DKYTKYK--IQILAFNPAGDGPRSTPITVRTHQGLPGPPRNLEFTEITMTSLIVSWDPPKKR : 1698
+
+  956 : YGVLTRYFIKAKLINRPTR :  974
+         | |. |::. .  ::..|
+ 1699 : NGELIGYIVTYETAEQNDR : 1717
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 770 974 . CLEC003629-PA 1519 1717 . 108 M 17 17 G 2 0 M 64 64 G 0 1 M 7 7 G 2 0 M 17 17 G 1 0 M 20 20 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003629-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 1195 -> 1292
+  Target range: 1242 -> 1341
+
+ 1196 : QTTKRKKFADIVMDLKVDLEHANNTESPVRVRWTPPVDPNGEIVTYEVAYKLQKPDQVEEKK : 1257
+        ...: :.|.|:  :   ::. :: : : .|: |. | :|||||::| :.|:||...    ..
+ 1243 : PPVRVQTFEDVP-GAPSNVSFPDVSLTMARIIWDEPDEPNGEIIAYRINYRLQHNTYGVPST : 1303
+
+ 1258 : CIPAADFNQTA-GY-LIKLN-EGLYSFRVRANSIAGYG : 1292
+           : :|..:. .| :..|: |  | |.|.|::  |.|
+ 1304 : FNFSREFPPSDRTYRVTELEPEQYYMFSVSAQTKLGWG : 1341
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1195 1292 . CLEC003629-PA 1242 1341 . 106 M 12 12 G 1 0 M 60 60 G 0 1 M 2 2 G 0 1 M 5 5 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001309-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 1501 -> 1715
+  Target range: 134 -> 345
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWM : 1563
+        :| .:: .| .::::|||: | | . :   .||:||||.:    .::  :.      : .. 
+  135 : QILSAVKHLHERNIIHRDIKAENVFCGPRGIVKLGDFGFSTRASGSEELKTFCG---SPPYA :  193
+
+ 1564 : PPESLRDGVYSS-ASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPE---NC : 1621
+        :|| :||. ||: : |:.::||:|. |:| :  |:.: | . : | :: | : ..::   .|
+  194 : APELFRDESYSGRPVDIWALGVLLFFMTT-GHMPFPADSIAGLKRSILLGVITAPAHLSLPC :  254
+
+ 1622 : PDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQHREKERKERNQ : 1683
+        ..::: ::::  .:| |  .  :.  ..::.:. |:   |  :  :. |:.  . .:.|:..
+  255 : RTLIRGILRQTPKDRFSLDQ--IAESEWMNGHSINGGTCEKYILSPTLGVPMEKLSQEEKTA :  314
+
+ 1684 : LDAFAAVPLDQDLQDREQQEDATTPLRMGDYQ : 1715
+         : :.|:.:.|.: ::|  ::| :.: ::.|:
+  315 : REKLEALGITQSMLEHEMIQGARSTV-IASYR :  345
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1715 . CLEC001309-PA 134 345 . 111 M 54 54 G 3 0 M 17 17 G 0 1 M 16 16 G 1 0 M 27 27 G 0 3 M 22 22 G 2 0 M 66 66 G 1 0 M 5 5
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012537-PA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 1501 -> 1629
+  Target range: 124 -> 255
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVAD--DLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR : 1561
+        ::| |:.:| :|:  | || :.| ::..  :|.:||:|||.: |: ..:  : . :|  :  
+  125 : QLALGLEFLRSKNVCHFDLKPSNLLLVTKPNLKLKIADFGFA-DFLSEETLKWTLRG--SPL :  183
+
+ 1562 : WMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVME-RP---- : 1619
+        .|:|| |    ::. ||:.| |:::.|   |::.|: .|: .|::  : :   :| ||    
+  184 : YMAPEILIYRYFNEKSDLWSVGIIMYE-CLLGSAPFVTLTCKQLIIDIKNQVPIEVRPGLLS :  244
+
+ 1620 : ENCPDFLHKLM : 1629
+        .:| |:|::|:
+  245 : SDCEDLLRRLL :  255
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1629 . CLEC012537-PA 124 255 . 121 M 28 28 G 0 2 M 12 12 G 1 0 M 14 14 G 2 0 M 30 30 G 1 0 M 27 27 G 0 1 M 2 2 G 0 4 M 11 11
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001964-PA
+         Model: affine:local:protein2protein
+     Raw score: 437
+   Query range: 1354 -> 1651
+  Target range: 199 -> 481
+
+ 1355 : ASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRER : 1416
+        ..::.  .: .: | .:   : : :|:||.|| |  ..   :|:: |  :|||.::|:. : 
+  200 : VDLHHRIAQLTIQRCRVRLKSIVLEGTFGKVYRGSYTE--EDGIEEEVLVKTVTDQASTIQV :  259
+
+ 1417 : TNFLSEASVMKEFDTYHVVRLLGVCSRGQ-PALVVMELMKKGDLKSYLRAHRPEERDEAMMT : 1477
+        : :| |: .| .:.  :::.:|||.  :: :::::      .:||.:|:  :          
+  260 : SLLLQEGMTMYGLSHKNILSILGVSIEDHTAPFLIYPHQGYTNLKRFLQKCK---------- :  312
+
+ 1478 : YLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFG : 1539
+         | . ||: .: ...   : :||::| .||.||  |:::|:|||:|||::.|.| |:|:| :
+  313 : -LCPEGVAHTLTTQE---VVDMALQIISGMQYLHKKRLLHKDLATRNCVIDDKLRVQIADNA :  369
+
+ 1540 : MTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLS : 1601
+        ::||:: :||.  |.:.  ||:|:: ||: : .:|::|||. |||||||::|||.||| .:.
+  370 : LSRDLFPADYHCLGDNENRPVKWLAIESITQKTFSTSSDVWMFGVVLWELTTLAQQPYVEID :  431
+
+ 1602 : NEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLE : 1651
+        . ::  |: ||  :.:| |||| |  :|. ||   :..||:| :: ..|:
+  432 : PFEITAYLRDGYRLAQPINCPDELFAVMAYCWAMLPEDRPTFPQLQVCLQ :  481
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1354 1651 . CLEC001964-PA 199 481 . 437 M 38 38 G 2 0 M 51 51 G 0 1 M 22 22 G 11 0 M 14 14 G 3 0 M 156 156
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012796-PA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 1367 -> 1607
+  Target range: 0 -> 213
+
+ 1368 : RENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEF : 1429
+        .:: |::. :|:|::|:|:.|  |. ..  . :    |. ||...:  .:. :.| |::||:
+    1 : MDKYIKIEKIGEGTYGVVFKGKHKKTGNFVAIK----KIRNEGEEEGVPSTAVREISLLKEL :   58
+
+ 1430 : DTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP : 1491
+           ::| | .|   .:.  ::.|::.. |||.|| :  .  .:..:.::|            
+   59 : VHPNIVGLQEVLMEENRLYLIFEFLTM-DLKKYLDSLENLMPESQVKSFL------------ :  108
+
+ 1492 : TYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKG : 1553
+             ||    | ::: :   :: :|||| ::| ::|:. .:||:|||:.|.|  .   |  
+  109 : -----YQ----ILQAILFCHKRRVLHRDLKPQNLLLANKNVIKIADFGLGRAI--GIPVRVY :  158
+
+ 1554 : TKGLLPVRWMPPESLRDGV-YSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLR : 1607
+        |..::.::..:|| | ::. ||.: |:.|:: :: ||||  :  . : . :|::|
+  159 : THEVVTLWYRAPEVLLGATRYSCPVDIWSIACIFAEMATKKPLFHGDSEIDQLFR :  213
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1367 1607 . CLEC012796-PA 0 213 . 124 M 33 33 G 4 0 M 52 52 G 1 0 M 22 22 G 17 0 M 2 2 G 4 0 M 42 42 G 2 0 M 26 26 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006430-PA
+         Model: affine:local:protein2protein
+     Raw score: 652
+   Query range: 1314 -> 1653
+  Target range: 815 -> 1144
+
+ 1315 : LLGIGLAFLIVSL-FGYVCYLHKRKVPSNDLHMNT-EVNPFYASMQYIPDDWEVLRENIIQL : 1374
+        ::|||: :||: : |  : . ..:||. .: .|:: .:: : .:     |.||: :|:::  
+  816 : IIGIGILILILIVCFLIIKHRYDKKVRLTQKYMESLGIDLLSVGPIPSLDTWEISKEKVVIN :  877
+
+ 1375 : APLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVR : 1436
+          ||:|:|| ||.|  .:: .:    . |:||:: .:|. |: :|||||.||| |:  ::|:
+  878 : RKLGEGAFGTVYGG--EAYFNEKGWVAVAVKTLKVGSTTEEKLDFLSEAEVMKRFEHKNIVQ :  937
+
+ 1437 : LLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQ : 1498
+        |||||::::|. .:||:|  ||||::| |:|          .| .   ::: :  :  :: :
+  938 : LLGVCTKSEPVYTIMEFMLYGDLKTFLLARR----------HLVNEKFSDDSDEISSKKLTN :  989
+
+ 1499 : MAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPV : 1560
+        ||::|| :::|||. ::||||:|:|||::..: .||:||||||| ::|:|||: . ||:|||
+  990 : MALDIARALSYLAELRYVHRDVASRNCLINAQRVVKLGDFGMTRPMFESDYYKFNRKGMLPV : 1051
+
+ 1561 : RWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCP : 1622
+        |||:||||  ||:::||||.||||:|.|: |::: |:|||:|:||| .| :|..:: |..  
+ 1052 : RWMAPESLVLGVFTPASDVWSFGVLLFEIITFGSFPFQGLTNNQVLEHVKQGNTINIPAGIK : 1113
+
+ 1623 : DFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+          |: |::.||:. .. ||   :|:.:|..:
+ 1114 : PQLDCLIKSCWEKDRKKRPHASEIVEFLANN : 1144
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1314 1653 . CLEC006430-PA 815 1144 . 652 M 13 13 G 0 1 M 21 21 G 0 1 M 40 40 G 2 0 M 77 77 G 10 0 M 176 176
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003712-PA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 522 -> 667
+  Target range: 67 -> 210
+
+ 523 : NSKLCQTKCPEKCRN-NCIDEHTCCSQDCLGGCVIDKNGNESCIS-CRNVSFNNICMDSCPKGY : 584
+       ::::| . | : |:| :||| :.|    | .|.: ::|:  ||:: ||::. |. |:.: .  .
+  68 : KPNVCVPVCKHGCQNGECIDVNVC---RCNPGYIAENNS--SCLPWCRELCVNGACIAPEHCLC : 126
+
+ 585 : YQFDSRCVTANECITLTKFE-TNSVYSGIPYNGQCITHCPTGYQKSE-NKRMCEP----CPGGK : 642
+       :.  ::  ..  | :  .|| .|: .:|:   .:|   |..||:|:: ...:|:|    | .: 
+ 127 : FPHYAKTNNEYVCESTCDFECINGECTGV---NEC--SCNEGYRKNDTTSNVCDPVCEYCENAI : 185
+
+ 643 : CDKECSSGLIDSLERAREFHGCTII : 667
+       |:.  ... ::: |.::: : |. :
+ 186 : CESPGRCTCFHGYEPSQDPRVCVPV : 210
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 522 667 . CLEC003712-PA 67 210 . 127 M 15 15 G 0 1 M 8 8 G 3 0 M 12 12 G 2 0 M 4 4 G 0 1 M 38 38 G 0 1 M 8 8 G 3 0 M 3 3 G 2 0 M 10 10 G 0 1 M 7 7 G 0 4 M 30 30
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003712-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 522 -> 663
+  Target range: 202 -> 334
+
+ 523 : NSKLCQTKCPEKCRNN-CIDEHTCCSQDCLGGCVIDKNGNESCIS-CRNVSFNNICMDSCPKGY : 584
+       ::::| . | : | |. | | :.|   .|::|.  . |. . |:: |.: . |. |:.:   ..
+ 203 : DPRVCVPVCKDGCVNGYCSDPDKC---TCFSGYQSSANNYSQCVPICSKECKNGKCVAPEVCEC : 263
+
+ 585 : YQFDSRCVTANECITLTKFE-TNSVYSGIPYNGQCITHCPTGYQK-SENKRMCEPCPGGKCDKE : 646
+       :   :: ... || .  .|| .|: .:|:   .:|   |..|| | :....:|:|     |:  
+ 264 : FLHYAKTTNEYECKPTCSFECINGECTGV---NEC--SCNEGYTKDNTTSNVCDP----VCE-Y : 317
+
+ 647 : CSSGLIDSLERAREFHG : 663
+       |.::: :| :| : |||
+ 318 : CENSFCESPDRCKCFHG : 334
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 522 663 . CLEC003712-PA 202 334 . 120 M 16 16 G 0 1 M 7 7 G 3 0 M 18 18 G 0 1 M 38 38 G 0 1 M 8 8 G 3 0 M 3 3 G 2 0 M 8 8 G 0 1 M 9 9 G 4 0 M 3 3 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003712-PA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 482 -> 624
+  Target range: 282 -> 426
+
+ 483 : ECRLSKCPG--EIRIEEGHDTTAIEGEL-NASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDEH : 543
+       ||  :.|.|  | . :||.......::: :: |:  :| .:| ::. |  || : . :.. : |
+ 283 : ECINGECTGVNECSCNEGYTKDNTTSNVCDPVCEYCEN-SFCESPDRC--KCFHGY-EPSRNPH : 342
+
+ 544 : TC---CSQDCLGGCVIDKNGNESCISCRNVSFNNI-CMDSCPKGYYQFDSRCVTANECITLTKF : 603
+       .|   |.:|||.|.  | :  ..  : :. . ::. |:  |:|..   :: ||::: |  |: |
+ 343 : VCDPVCKEDCLNGYCSDPDVCTCNSGFQTSENSSTECIPICSKECN--NGECVAPEVCECLSGF : 404
+
+ 604 : ETNSVYSGIPYNGQCI-THCPT : 624
+       . :| :..  .:::|| :.|::
+ 405 : TLKSGFCEPVCQDECINSYCAA : 426
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 482 624 . CLEC003712-PA 282 426 . 115 M 9 9 G 0 2 M 17 17 G 0 1 M 9 9 G 1 0 M 9 9 G 2 0 M 6 6 G 1 0 M 9 9 G 0 3 M 30 30 G 0 1 M 10 10 G 2 0 M 32 32 G 0 1 M 5 5
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010874-PA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 1501 -> 1647
+  Target range: 29 -> 177
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVAD-DLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRW : 1562
+        :| :|: || .:|:||||: : | :|.. . .|||:||| :: : .     |.  | |  :.
+   30 : QILEGLKYLHDQKIVHRDIKGDNVLVNTYSGVVKISDFGTSKRLAAMCPDTKTFAGTL--QY :   89
+
+ 1563 : MPPESLRDG--VYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMER--PEN : 1620
+        |:|| : .|   |::::|:.|:| .: |||| : .|: .|:: |.  : ::   ::.  ||:
+   90 : MAPEVIDKGQRGYGAPADIWSLGCTIVEMAT-GKPPFIELGSPQAALFKVGYYKIHPVLPEE :  150
+
+ 1621 : CPDFLHKLMQRCWHHRSSARPSFLDII : 1647
+         :|  .::::||.:. :| |::  :::
+  151 : LSDKAKNFIKRCFDPDPSKRATASELL :  177
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1647 . CLEC010874-PA 29 177 . 137 M 28 28 G 0 1 M 29 29 G 2 0 M 11 11 G 0 2 M 20 20 G 1 0 M 25 25 G 0 2 M 30 30
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006042-PA
+         Model: affine:local:protein2protein
+     Raw score: 178
+   Query range: 1376 -> 1671
+  Target range: 1716 -> 2004
+
+ 1377 : LGQGSFGMVYEG--ILKSFPPNGVDRECAIKTVNENATDRERTNF-LSEASVMKEFDTYHVV : 1435
+        ||:|:||.|::|  :||: ..:      ||:.|. .:...:.: :  .| ::: .    ::|
+ 1717 : LGRGAFGFVFQGTCMLKTTGTKLSVAIKAIQPVPPPSGASNSAVIAYKELGILLTVRHPNIV : 1778
+
+ 1436 : RLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIY : 1497
+        .|:|:|   :|  :::.|  :|.|.: ||: |   | .|    |:.|.| | : . : :  |
+ 1779 : PLIGICL--DPLCLILGLAPQGALHTSLRSFR---RCAAT---LHPITVQGIILQVAKALEY : 1832
+
+ 1498 : QMAIEIADGMAYLAAKKFVHRDLAAR-NCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLL : 1558
+          . :|      | :.: : :.|:|. :   .    :|::|:|::| .      ..||||: 
+ 1833 : LHQQHII--YRDLKSENVLVWALPAPFQDHSEVPAHIKLADYGISRLT-----LPSGTKGFG : 1887
+
+ 1559 : PVR-WMPPESLR---DGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGG--- : 1614
+        ..  .|:|| ::   :. |:.  | ||||: :.|:.||  ||::  ::| |  .:::||   
+ 1888 : GTEGFMAPEIMKYNGEEEYTEKVDCFSFGMFIYELVTL-HQPFE--NHESVKECILEGGRPN : 1946
+
+ 1615 : VMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGL : 1671
+        : :| .: |. : .||  || |::..||:  :|::  .:.  .  :. :|: ||.: |
+ 1947 : LTQRETHWPSCILDLMVLCWSHQPCDRPTASQIVSISSAPEFTHLYDVISLNHSSSIL : 2004
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1376 1671 . CLEC006042-PA 1716 2004 . 178 M 12 12 G 0 2 M 31 31 G 0 1 M 23 23 G 2 0 M 23 23 G 3 0 M 5 5 G 3 0 M 26 26 G 2 0 M 17 17 G 0 1 M 21 21 G 5 0 M 12 12 G 0 1 M 8 8 G 0 3 M 23 23 G 1 0 M 5 5 G 2 0 M 13 13 G 0 3 M 58 58
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009660-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 1684 -> 2109
+  Target range: 263 -> 696
+
+ 1685 : DAFAAVPLDQDLQD-REQQEDATTPLRMGDYQQNSSLDQP-PESPIAMVDDQGSHLPFSLPS : 1744
+        :: |::| :  |.: :.::.....|  .|:  :::: : | |.: :: :: .|  || |:| 
+  264 : ESVAGLPSEIVLPGTKGEKGSQGEPGLKGEPGREGPRGFPGPKGDVGPMGPPG--LP-SIPI :  322
+
+ 1745 : GFIASSTPDGQTVMATAFQNIPAAQG-DISATYVVPDADALDGDRGYEIYDPSPKCAELPTS : 1805
+        :| ::..| |..  :.. :.:|::.| : .::   |:. : .|::|:    .:|  ..|..:
+  323 : SFPGPEGPPGPKGEPGN-DGVPGTPGVGNKGSKGEPGVFGQKGEQGFVGLPGTPGADGLRGA :  383
+
+ 1806 : RSGSTGGGKLSGEQ--HLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSSNASSHTGRP : 1865
+         :|:.|.  |.||:  : :| :. .|.: :.:  .: :|:.: |.:.:: | :.::: :| |
+  384 : -PGPPGEIGLKGEKGYDGFPGQPGPPGLTGKTGEKGDMGSEGHQGPIGPRGLPGSAGAAGFP :  444
+
+ 1866 : SLKKT-VADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGT : 1926
+        ::  |  | : :.. .: ...  . ...: .: :..:.:  |: ::. .|.:.:   |: |:
+  445 : GVPGTNGAPGEKGERGLPGPPGPPGESISVTSYNTDHDGYLPGLPGARGLPGPAGMPGERGA :  506
+
+ 1927 : IESGGSGSAGSYTGTPRFYTPSATPG-----GGSGMAISDNPNYRLLDESIASEQATILTTS : 1983
+        ... |::::.: .| |   .||: ||     |.:|:    .|. |  .||  .:  : :  .
+  507 : TGERGPDGPPGVPGLPGKEGPSGMPGPPGQRGPPGLHGHPGPPGRSYSESEIKDMCAAVLRE :  568
+
+ 1984 : SPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISH-NPNYQPMQAPLNARQSQSSSDE : 2044
+          :.  |:: .|.:: : .   .| . .|  :.|:. .: ||. |. ::  ... :.:::: 
+  569 : QMSQLSELLIGPPGVPGRG---KPGPPGPPGLQGLPGDQGNPGLQGERGFPGQPGPAGPPGV :  627
+
+ 2045 : DNEQEEDDEDEDDDVDDEHVE-HIKMERMPLSR-PRQRALPSKT--QPPRSRSVSQTRKSPT : 2102
+        |. |.|.:| .: ::::  || .: |   | :. |:  :||::|  :. ::::  ..:::| 
+  628 : DGRQGEKGERGERGLEGVGVEGPVGMRGPPGPPGPQGIGLPGRTGERGEQGKPGMPGQRGPQ :  689
+
+ 2103 : NPNSGIG : 2109
+        .|.:. |
+  690 : GPPGPPG :  696
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1684 2109 . CLEC009660-PA 263 696 . 112 M 14 14 G 0 1 M 25 25 G 0 1 M 12 12 G 2 0 M 2 2 G 1 0 M 21 21 G 1 0 M 8 8 G 0 1 M 35 35 G 1 0 M 13 13 G 0 2 M 51 51 G 0 1 M 82 82 G 0 5 M 50 50 G 3 0 M 17 17 G 0 1 M 43 43 G 0 1 M 11 11 G 0 1 M 10 10 G 0 2 M 23 23
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005237-PA
+         Model: affine:local:protein2protein
+     Raw score: 654
+   Query range: 1333 -> 1650
+  Target range: 803 -> 1109
+
+ 1334 : LHKRKVPSNDLHMNTEVNPFYASMQY-IPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFP : 1394
+        |:: :|:||.:  : : |  :::  | :.|  |: ||::  : :||||:|| ||:|::|: :
+  804 : LNRLRVASNSMMTEYNPNYEFGGGVYSLRDLKEIPREHLRLVKALGQGAFGEVYQGFFKNRA :  865
+
+ 1395 : PNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKK : 1456
+        .::|:.  |:||:.| ::.:. |:|| || :|..|:  ::|:::|||  .:| ::|:||:  
+  866 : GDAVEMPVAVKTLPELSSSQAETDFLMEALIMSKFNHPNIVHFIGVCFGEHPRFIVIELLAG :  927
+
+ 1457 : GDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHR : 1518
+        ||||::||. ||.               .:...| |   : :  |::|.|  |:..::|:||
+  928 : GDLKTFLREARPK---------------PDRAAPLTMKDLLNCIIDVAKGCKYMEENRFIHR :  974
+
+ 1519 : DLAARNCMVAD---DLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSAS : 1577
+        |:|||||:::.   : .|||:||||:|||| :||||||.|::||::|||||::.||:::: :
+  975 : DIAARNCLLTSKGPGRVVKIADFGMARDIYRADYYRKGGKAMLPIKWMPPEAFMDGIFTTKT : 1036
+
+ 1578 : DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSA : 1639
+        ||.||||::||: :::  || | :| :|:: |.:|| :..|.|||. |. :| :||:..:..
+ 1037 : DVWSFGVLMWEVMSMGYMPYTGCTNREVMQLVTNGGRLAPPTNCPSQLYGIMTQCWQPNPDN : 1098
+
+ 1640 : RPSFLDIIAYL : 1650
+        ||:|  |:. |
+ 1099 : RPGFPLILERL : 1109
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1333 1650 . CLEC005237-PA 803 1109 . 654 M 26 26 G 0 1 M 110 110 G 15 0 M 45 45 G 0 3 M 121 121
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000148-PA
+         Model: affine:local:protein2protein
+     Raw score: 306
+   Query range: 1493 -> 1661
+  Target range: 197 -> 362
+
+ 1494 : GRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTK : 1555
+        .|:   | :||.|| || ::|::|||| :.| :::::  |||:|||  |:  |..  :.: .
+  198 : ERLISWAKQIASGMLYLHSNKIIHRDLKSPNVLIGEQKCVKISDFGTCRQWNEIS-TKMSFT :  258
+
+ 1556 : GLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGV-ME : 1616
+        |  .: ||:|| :|:. .|.  |:.|:||||||: |  . ||:::.:..::: | ..:: : 
+  259 : G--TIAWMAPEVIRNEPCSEKVDIWSYGVVLWELLT-CETPYKDVDSSAIIWGVGSNSLQLP :  317
+
+ 1617 : RPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKE : 1661
+         |.:||: :. ||::|| .::..|||| :|: .|: . ::: .|:
+  318 : IPSSCPEGFKLLMKQCWSPKPKNRPSFKHILHHLDIAASDATWKQ :  362
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1493 1661 . CLEC000148-PA 197 362 . 306 M 55 55 G 1 0 M 7 7 G 2 0 M 33 33 G 1 0 M 22 22 G 0 1 M 47 47
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002411-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 1501 -> 1769
+  Target range: 69 -> 331
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWM : 1563
+        :|..:::|  ::: ||||| | | ::..::.:|::|||.:.: :|::   |.  |  : .. 
+   70 : QIVAAVSYCHSRNVVHRDLKAENLLLDANMKIKLADFGFSNE-FEAGDKLKTWCG--SPPYA :  128
+
+ 1564 : PPESLRDGVYSSA-SDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERP----EN : 1620
+        :|| :::  |.:: :|:.|:||||. :.  :: |::| :.   |:  : :|:.  |    .:
+  129 : APELFQGVQYDGPKADIWSLGVVLYVLVC-GSLPFDG-NTLWSLKNKVISGMFRIPFFMSAD :  188
+
+ 1621 : CPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQHREKERKERN : 1682
+        | :::::::    ::| | :.  :    .::. ||:: :....  :.. :|:. . :..  :
+  189 : CEQLIRQMLLIDPERRLSIKQ--IRAHRWMNQVCPDPSYEAAE--DKSLDLEPIKINNSVVE :  246
+
+ 1683 : QLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVDDQGSHLPFSLPS : 1744
+        :: .::::. :| ::. .::  . .:  : :   :.  :: ::||:. .. |:|: : |:.:
+  247 : HMLQLPSINKEQIIEAVSNNCFDHIS-AIYNLLVDKLEGRISNSPVVNTTLQSSRRA-SITT :  306
+
+ 1745 : GFIASSTPDGQTVMATAFQNIPAAQ : 1769
+        | :.. ||: :|.|:. . .:||.:
+  307 : GVVERLTPEMETAMSPLMVTMPAVH :  331
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1769 . CLEC002411-PA 69 331 . 128 M 42 42 G 1 0 M 12 12 G 2 0 M 18 18 G 0 1 M 15 15 G 1 0 M 7 7 G 1 0 M 18 18 G 0 4 M 23 23 G 2 0 M 20 20 G 2 0 M 43 43 G 1 0 M 30 30 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005459-PA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1501 -> 1612
+  Target range: 143 -> 256
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYR--KGTKGLLPVR : 1561
+        :: ::: |: .|.:||||| : | ::.:: .:|:.|||.: .: ..:     :|| | |:  
+  144 : QLFEALKYIHQKDIVHRDLKPENILLDENYDIKLTDFGFACTLRKGELLTELRGTPGYLAPE :  205
+
+ 1562 : WMPPESLRD-GVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG : 1612
+         :. : : | : |: : |:.: ||::..:  :: .|:   .:  .:| :::|
+  206 : LLRVNMFDDVDGYGLPVDIWACGVIMYSL-LVGCPPFWHRKQYITIRNIMEG :  256
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1612 . CLEC005459-PA 143 256 . 119 M 50 50 G 0 2 M 19 19 G 0 1 M 19 19 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC007564-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 1378 -> 1646
+  Target range: 24 -> 269
+
+ 1379 : QGSFGMVYEGILKSFPPNGVDRECAIKTVNE-NATDRERTNFLSEASVMKEFDTYHVVRLLG : 1439
+        ::::|. . :::|  ..  .: . |:|.::. : .: .|:::: |.. ||  :  :|||| .
+   25 : EATLGRGHFAVVKLARHVFTGEKVAVKVIDKCKLDGVSRAHLFQEVRCMKLVQHPNVVRLYE :   86
+
+ 1440 : VCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAI : 1501
+        | .      :|:|| . ||| .|:. | :. .:   ..|:.:|     |:: :| :  ::  
+   87 : VIDTQTKLYLVLELADGGDLYDYIMRHESGLSEPLAREYFGQI-----VRAISYCHRLHV-- :  142
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCM-VADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRW : 1562
+                      ||||| : | :  ..| .||:.|||.:..:. .:   .:  :|    .
+  143 : --------------VHRDLKPENVVFFEKDGVVKLTDFGFSNKFCPGQKLETSCGSL---AY :  186
+
+ 1563 : MPPESLRDGVY-SSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPD : 1623
+         :|| | :: | ::| ||.|:||:|. :.  :..|:|.:::.:.|  ::|     ..: .|:
+  187 : SAPEILLGDSYDAPAVDVWSLGVILYMLVC-GQAPFQEVNDSETLTMIMDCKYTVPNHVSPQ :  247
+
+ 1624 : FLHKLMQRCWHHRSSARPSFLDI : 1646
+          .:|: |   :::. |::: :|
+  248 : C-KRLIGRMLVRQPDKRATLDEI :  269
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1378 1646 . CLEC007564-PA 24 269 . 109 M 31 31 G 0 1 M 73 73 G 5 0 M 12 12 G 16 0 M 11 11 G 0 1 M 31 31 G 3 0 M 13 13 G 0 1 M 18 18 G 1 0 M 32 32 G 1 0 M 21 21
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003718-PA
+         Model: affine:local:protein2protein
+     Raw score: 394
+   Query range: 1360 -> 1604
+  Target range: 456 -> 672
+
+ 1361 : PDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSE : 1422
+        .: ||: .:::|  . :|:|:|| ||.| |:     :.: | |:|| . ..:: :: :|| |
+  457 : RERWELNNDDVILQDKIGRGNFGDVYKGKLR-----ATEEEVAVKTCRITVAEEHKRKFLQE :  513
+
+ 1423 : ASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGV : 1484
+        :.::|::|  ::|:|:|:| : || ::||||:  |.| :.|       |::|::. ::::  
+  514 : GRILKQYDHPNIVKLIGICVQKQPIMIVMELVVGGSLLTHL-------RNNALVVNVKQLV- :  568
+
+ 1485 : TGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYE : 1546
+                      |  : |.|| ||.:|: :|||||||||:|::: ||||:||||:|:  |
+  569 : -------------SMCRDAAAGMRYLESKNCIHRDLAARNCLVGENNTVKISDFGMSRE--E :  614
+
+ 1547 : TDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQ : 1604
+        .:|  .:..  :|::| :||:|. | |:| .||.|:||: ||: : :: ||.|:||.:
+  615 : EEYIVSDGMKQIPIKWTAPEALNFGKYTSLCDVWSYGVLCWEIFAKGGTPYPGMSNSK :  672
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1360 1604 . CLEC003718-PA 456 672 . 394 M 31 31 G 5 0 M 67 67 G 7 0 M 13 13 G 14 0 M 46 46 G 2 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000396-PA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 1372 -> 1611
+  Target range: 37 -> 261
+
+ 1373 : QLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHV : 1434
+        :|: :|||:|| |:.:  |. |:: |...   |.: :|..:  ... |.| .::: :.  :|
+   38 : KLTKIGQGTFGEVFKAKDKKNPSKVVAMK---KVLMDNEKEGFPITALREIRILQLLKHENV :   96
+
+ 1435 : VRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRI : 1496
+        |.|:.:| |.:::    : . ::.:  ||  :  |   :.: . |:.:.|. |:     | |
+   97 : VNLIEIC-RTKAT---HDNKYRSTF--YLVFDFCE---HDLAGLLSNVNVKFNL-----GEI :  144
+
+ 1497 : YQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDY--YRKGTKG : 1556
+         ::. :: :|: |: ::|::|||: | | :::.. .:|::|||::|.: :|.    .: |: 
+  145 : KRVVQQLLNGLYYIHSNKILHRDMKAANVLITKSGVLKLADFGLARAFSQTKNGQVNRYTNR :  206
+
+ 1557 : LLPVRWMPPESLRDG-VYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVID : 1611
+        ::.::..||| | ::  |::: |:.: | :: || |  :.  || |:.| |. : :
+  207 : VVTLWYRPPELLLGDRNYGPPVDLWGAGCIMAEMWT-RSPIMQGSSESQQLSLISQ :  261
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1372 1611 . CLEC000396-PA 37 261 . 148 M 29 29 G 3 0 M 37 37 G 1 0 M 5 5 G 3 0 M 9 9 G 2 0 M 8 8 G 3 0 M 16 16 G 5 0 M 56 56 G 0 2 M 22 22 G 0 1 M 20 20 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025231-PA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 1493 -> 1614
+  Target range: 276 -> 392
+
+ 1494 : GRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTK : 1555
+        .|:|  : || .:::|| |: ::.|||   | ::..|  :||:|||: ::  .   | ..||
+  277 : TRFY--GAEIISALGYLHANGIIYRDLKLENLLLDKDGHIKIADFGLCKEDIK---YGSTTK :  333
+
+ 1556 : GL-LPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGV : 1614
+        .:  .  .::|| | |. |:.| | .: |||:.||  ::  |: . .:: ::  :| ..|
+  334 : TFCGTPEYLAPEVLEDNDYGRAVDWWGVGVVMYEM-MVGRLPFYNKDHDVLFTLIIMEEV :  392
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1493 1614 . CLEC025231-PA 276 392 . 131 M 4 4 G 2 0 M 47 47 G 3 0 M 8 8 G 0 1 M 32 32 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006567-PC
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1446 -> 1586
+  Target range: 99 -> 242
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP---TYGRIYQMAIEIAD : 1505
+        .: : .::|..:: .:  .:. :. |  .|.| .: .: :.::|    : .   :. ::: :
+  100 : EIGIHKILKSPHIIRFYGNRSENGIDYIFMEYAPHGELFDRIEPDVGMSTNDAQKFMMQLLN :  161
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPES : 1567
+        |:.|| :: :.|||: : | ::.:. .:||:|||::  : . :  |  .|   .:..::|| 
+  162 : GVEYLHSRGIAHRDIKPENLLLDEKDNLKISDFGLATLFRSHGKERPLDKKCGTLPYVAPEV :  223
+
+ 1568 : LRDGVYSSASDVFSFGVVL : 1586
+        |: .  : ::||.| |:||
+  224 : LHRPYAAQPADVWSCGIVL :  242
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1586 . CLEC006567-PC 99 242 . 119 M 45 45 G 0 3 M 95 95
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006567-PA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1446 -> 1586
+  Target range: 52 -> 195
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP---TYGRIYQMAIEIAD : 1505
+        .: : .::|..:: .:  .:. :. |  .|.| .: .: :.::|    : .   :. ::: :
+   53 : EIGIHKILKSPHIIRFYGNRSENGIDYIFMEYAPHGELFDRIEPDVGMSTNDAQKFMMQLLN :  114
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPES : 1567
+        |:.|| :: :.|||: : | ::.:. .:||:|||::  : . :  |  .|   .:..::|| 
+  115 : GVEYLHSRGIAHRDIKPENLLLDEKDNLKISDFGLATLFRSHGKERPLDKKCGTLPYVAPEV :  176
+
+ 1568 : LRDGVYSSASDVFSFGVVL : 1586
+        |: .  : ::||.| |:||
+  177 : LHRPYAAQPADVWSCGIVL :  195
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1586 . CLEC006567-PA 52 195 . 119 M 45 45 G 0 3 M 95 95
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005964-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 1501 -> 1629
+  Target range: 109 -> 242
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARN--CMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR : 1561
+        :| :|::::  ::::| || : |  |:. .:  :|| |||::|. :|.|  :|    : .  
+  110 : QICEGVSFIHINNIIHLDLKPENILCLTKTGNRIKIIDFGLARK-FEPD--KKLQVLFGTPE :  168
+
+ 1562 : WMPPESLRDGVYSSASDVFSFGVV----LWEMAT-LAAQPYQGLSNEQVLRYVIDGGVMER- : 1618
+        .::|| :. :  |.|:|:.| ||:    | .::. ::.:  :.:||  : :|  |:...:  
+  169 : FVAPEVVNFDQISCATDMWSVGVICYVLLSGLSPFMGENDIETMSNVTLGKYDYDDEAFDDI :  230
+
+ 1619 : PENCPDFLHKLM : 1629
+        : :  ||: ||:
+  231 : SVQAKDFISKLL :  242
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1629 . CLEC005964-PA 109 242 . 104 M 23 23 G 0 2 M 19 19 G 1 0 M 4 4 G 2 0 M 35 35 G 0 4 M 6 6 G 0 1 M 26 26 G 0 1 M 12 12
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002692-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 1846 -> 2129
+  Target range: 199 -> 488
+
+ 1847 : QPSTASAGSSNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPST : 1908
+        |.|.::  .::. : .::  :.:|   | :.:..  .::  :  :|  ..|..:: .::|  
+  200 : QTSPSPHFDGQNLASISKVHMHRTQLLSPHPQQRQSPHQQRQSPHTQHRQSPHPQHRQSPHH :  261
+
+ 1909 : SSNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGG--SGMAISDNPN---- : 1965
+        :::.:| :|| : : :.| ..::: |: :|.:::  |:|::||. .  :. ::. :|:    
+  262 : PPSPHLHPHPSPPAMVTTYSKSATVSSYPYPAAAVHYAPPTTPPKTMVNTPTVCYKPSRPTR :  323
+
+ 1966 : YRLLDESIASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPM---NETPVQMAGVTISHN : 2023
+          ::..::::..   |:  : .|..:  : .::| :..:.. ..   .:. : :: || : .
+  324 : NDIVSKPLTPSPYQQLSQHNLPPPHQTAQ-GSGLPPPPAAHATKTFSGQGIISITQVTPTSP :  384
+
+ 2024 : PNYQPMQAPLNARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSK : 2085
+        .: ||:: .::. ::||:. ..:|  |: : .. ..::|.|     |  ||  . . ::.: 
+  385 : QQLQPLDLGVKE-EPQSPKRKAEEIPEEVDLKKVKTEEEPVLARVSEASPLLATAATTITTV :  445
+
+ 2086 : TQPPRSRSVSQTRKSPTNPNSGIGATGAGNRSNLLKENWLRPAS : 2129
+         :.:  :. :||...||:|:.: ::  :: . : ||..||:. |
+  446 : LNTSLQQDRPQTPTKPTEPEKSNSPR-PSYPVHKLKKAWLQRHS :  488
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1846 2129 . CLEC002692-PA 199 488 . 109 M 108 108 G 0 2 M 10 10 G 0 4 M 29 29 G 1 0 M 14 14 G 0 3 M 27 27 G 1 0 M 75 75 G 1 0 M 17 17
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001708-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 1882 -> 2135
+  Target range: 403 -> 653
+
+ 1883 : NRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRF : 1944
+        :.:| .:  .::::...::::..|..:::.. .::| : .. :. |::...:|.: .:. . 
+  404 : SPELTAEPEPSAEPEPSPEPAAEPEPTPEPAAEPEPSPEPP-AEPEPSPEPAAEPEPSPEPA :  464
+
+ 1945 : YTPSATPGGGSGMAISDNPNYRLLDESIASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYM : 2006
+         .|.::|..:|. . | :|.     |:.|  :::  ..:||:|: |   :|.: .: :|:  
+  465 : AEPESSPEPASEPEPSPEPAAE--PEPTAVPEPSAKPEPSPEPSAEPESSPEPAAAQEPSAE :  524
+
+ 2007 : PMNET-PVQMAGVTISHNPNYQPMQAPLNARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHI : 2067
+        | ..| | . |. . |.:|. :| ::: :: .|..::.| :  .| : . : ..: |.  ::
+  525 : PEPATEPEPSAEPEPSPEPAAEP-EPSAEPEPSPEPAAEPEPSAEPEPSPEPSAEPEPSPEL :  585
+
+ 2068 : KMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPNSGIGATGAGNRSNLLKENWLRPAS : 2129
+        .:|:.| : | . : || ...: : : ::.  .|..:... :. .::.::::  |.   |.:
+  586 : SLEHKPSPEPAAEPDPSPEPTAEPEPSPEPAAEPEPSPEPAAEHETSPKPSVEPEPSPEPVA :  647
+
+ 2130 : TPRPPP : 2135
+        .| |:|
+  648 : EPEPSP :  653
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1882 2135 . CLEC001708-PA 403 653 . 113 M 41 41 G 1 0 M 42 42 G 2 0 M 43 43 G 0 1 M 17 17 G 1 0 M 106 106
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001708-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 1793 -> 2088
+  Target range: 417 -> 708
+
+ 1794 : DPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGS : 1855
+        :|||. |. |.: :.:::... |.|..  |  :.:|:  :.: |:   .::. ::|..:|:.
+  418 : EPSPEPAAEPEPTPEPAAEPEPSPEPPAEPEPSPEPAAEPEPSPE---PAAEPESSPEPASE :  476
+
+ 1856 : SNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSH : 1917
+        :::|::.:  :  .:|:::  : ..  :.   .:....:.|::.::|...|:|.::.: .::
+  477 : PEPSPEPAAEPEPTAVPEPSAKPEPSPEPSAEPESSPEPAAAQEPSAEPEPATEPEPSAEPE :  538
+
+ 1918 : PVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQATI : 1979
+        | : .. ..  |:.:.::.. ::.|   .|||.|..::. : . :|:  |  |  :| ::: 
+  539 : PSPEPAAEPEPSAEPEPSPEPAAEP---EPSAEPEPSPEPSAEPEPSPELSLEHKPSPEPAA :  597
+
+ 1980 : LTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNARQSQSS : 2041
+         ..:||:|. |  .:|.: ...:|:  | .|  .  :  ::..:|: :|:..| .:.:: :.
+  598 : EPDPSPEPTAEPEPSPEPAAEPEPSPEPAAEHETS-PKPSVEPEPSPEPVAEPEPSPEPTAE :  658
+
+ 2042 : SDEDNEQEEDDE---DEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQP : 2088
+        :: ..|.... |   :...::.  :|. .. |. | |..:    :|| :|
+  659 : PEPSPEPAAKPEWSTESTAELSPMRVSSTEPESSPESSTQSEHSASKLEP :  708
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1793 2088 . CLEC001708-PA 417 708 . 109 M 45 45 G 3 0 M 101 101 G 3 0 M 69 69 G 1 0 M 38 38 G 0 3 M 35 35
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005989-PA
+         Model: affine:local:protein2protein
+     Raw score: 171
+   Query range: 1208 -> 1466
+  Target range: 178 -> 432
+
+ 1209 : DLKVDLEHANNTESPVRVRWTPPVDPNGEIVTYEVAYKLQKPDQVEEKKC--IPAADFNQTA : 1268
+        ||.:: . . :. .  : :|    |::|.|     .| ::. : :. :|.    :.  .| |
+  179 : DLSLEKGAEYEVLDDSQEHWWKVKDSHGSIGYIPSNY-VKEKELLGLQKYEWYVGDMSRQRA :  239
+
+ 1269 : GYLIKLNEGLYSFRVRANSIAG-Y--GDFTEV--EHIKVEPPPSYAKVFFWLLGIGLAFLIV : 1325
+        . |:| :|   .| ||.:|. | |  : :| |  .|:|  .    ::  |.| .      | 
+  240 : ESLLKQEEKEGCFVVRNSSTKGLYTLSLYTRVPHAHVKHYHIKQNSRGDFFLSEKHCCPSIP :  301
+
+ 1326 : SLFGYVCYLHKRKVPSNDLHMNTEVNPFYASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYE : 1387
+        .|:.|  . |:.   :: |. :.  .|  ::    .|.||: ..::| |. || | ||:|  
+  302 : ELINY--HRHNSGGLASRLKTSPCDRPVPPTAGLSHDKWEIDPAELILLEELGSGQFGVVRR :  361
+
+ 1388 : GILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALV : 1449
+        |  ::     :|   |:| ::|.: . :  :|:.||.||..::  ::|:| ||||: :|  :
+  362 : GKWRG----CIDT--AVKMMKEGTMSED--DFIEEAKVMTKLQHGNLVQLYGVCSKHRPIYI :  415
+
+ 1450 : VMELMKKGDLKSYLRAH : 1466
+        | | ||.|.| :||| |
+  416 : VTEYMKHGSLLNYLRRH :  432
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1208 1466 . CLEC005989-PA 178 432 . 171 M 37 37 G 1 0 M 12 12 G 0 2 M 32 32 G 0 1 M 1 1 G 0 2 M 6 6 G 0 2 M 33 33 G 2 0 M 60 60 G 4 0 M 4 4 G 2 0 M 13 13 G 2 0 M 49 49
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004285-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 578 -> 650
+  Target range: 1402 -> 1476
+
+  579 : SCPKGYYQ--FDSRCVTANECITLTKFETNSVYSGIPYNGQCITHCPTGYQKSENKRMC--- :  636
+        |||||:|:  : ::|:..|||:. :  .|:. ::.|. : :|   |:.|:| .:: .:|   
+ 1403 : SCPKGFYKHMYYNHCIDENECLK-SPCGTSKCFNTIG-SYKC--GCSEGFQFDQSISLCVQL : 1460
+
+  637 : -EPCPGGKCDKECSSG :  650
+          :|::::|. .| :|
+ 1461 : SPACADAQCAFGCFPG : 1476
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 578 650 . CLEC004285-PA 1402 1476 . 107 M 8 8 G 0 2 M 13 13 G 1 0 M 13 13 G 1 0 M 4 4 G 2 0 M 15 15 G 0 4 M 15 15
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008839-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 1493 -> 1546
+  Target range: 613 -> 667
+
+ 1494 : GRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGM-TRDIYE : 1546
+        .|:.::  ||.:|: .: .: ::|||| : | .::::  |||||||: |..|::
+  614 : ERVWRLLREIVEGLCHIHQQGIIHRDLKPVNIFIGHEDHVKIGDFGLATSSIFQ :  667
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1493 1546 . CLEC008839-PA 613 667 . 105 M 47 47 G 0 1 M 6 6
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002864-PA
+         Model: affine:local:protein2protein
+     Raw score: 530
+   Query range: 1374 -> 1646
+  Target range: 2 -> 275
+
+ 1375 : APLGQGSFGMV--YEGILKS-----FPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEF : 1429
+        : ||||:|| :  :  : |:      ..:|:.|  |:|||:|.||::|:.::|.| ::|:|:
+    3 : TVLGQGNFGQIELFLKVWKAEADDISGHEGLTRLVAVKTVKEGATQKEKEDLLRELGIMQEL :   64
+
+ 1430 : DTY-HVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQP : 1490
+        ::. :|| ||| |:  :| |::|| :. |.| ::||.||. .:      |:|  ::::.: :
+   65 : GAHPNVVTLLGCCTDKEPYLLIMEYVMYGKLLAFLREHRTRAH------YFNFSDLSSALTS :  120
+
+ 1491 : PTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETD--YY : 1550
+        .. . ::  |  :| ||.||.:| ::|||||||| :|.::   ||:||||:|:: :|:  | 
+  121 : RDLT-VF--AYCVARGMEYLVTKGIIHRDLAARNILVDHNKLCKIADFGMSRNVRDTGQIYE :  179
+
+ 1551 : RKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG : 1612
+        ::..:| :|:|||:||||: ::::  |||.|||::|||: ||:: ||:.::. :|::.| :|
+  180 : QRPNRGAMPIRWMAPESLHFSLFTHKSDVWSFGILLWEIITLGSTPYNTMGAREVMHHVREG :  241
+
+ 1613 : GVMERPENCPDFLHKLMQRCWHHRSSARPSFLDI : 1646
+          :|:|.:|.. : ::: :|||: :. |||| ::
+  242 : YRLEKPKHCRSEFFRVLTKCWHNDPEKRPSFSEL :  275
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1374 1646 . CLEC002864-PA 2 275 . 530 M 11 11 G 0 2 M 7 7 G 0 5 M 40 40 G 0 1 M 39 39 G 6 0 M 17 17 G 1 0 M 2 2 G 2 0 M 49 49 G 0 2 M 98 98
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC011579-PA
+         Model: affine:local:protein2protein
+     Raw score: 363
+   Query range: 1499 -> 1645
+  Target range: 1011 -> 1158
+
+ 1500 : AIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR : 1561
+        : :||.||.|||::| :| |||||| ::|:: .||| |||:::::|:.: | |:.:. |||:
+ 1012 : SYQIAKGMEYLASRKVLHGDLAARNILLAENNIVKICDFGLAKNMYDKENYTKSGNPKLPVK : 1073
+
+ 1562 : WMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLS-NEQVLRYVIDGGVMERPENCP : 1622
+        ||: |::|| ::|:.||:.::|:.|||: :|:. ||.|:  ..:::. :::|  |:.|   .
+ 1074 : WMSIEAIRDRIFSTQSDIWAYGITLWEIFSLSNTPYPGIQMGGDLFNSLLGGYRMDMPPYAT : 1135
+
+ 1623 : DFLHKLMQRCWHHRSSARPSFLD : 1645
+          :.:||  ||:: :: |||| :
+ 1136 : IDIYNLMLECWREEPTLRPSFTE : 1158
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1499 1645 . CLEC011579-PA 1011 1158 . 363 M 102 102 G 0 1 M 44 44
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008481-PA
+         Model: affine:local:protein2protein
+     Raw score: 420
+   Query range: 1359 -> 1847
+  Target range: 104 -> 565
+
+ 1360 : IPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLS : 1421
+        :|:.  :  :.||    || |.||:| :|:   ...:|   : ||| :: :  :.:..:||.
+  105 : VPNKHIIPADAIIVNKELGTGEFGVVQQGV---WTNDGERIQVAIKCLSRERMQNNPIEFLK :  163
+
+ 1422 : EASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIG : 1483
+        ||::|..:|  |:||| ||      .| . .||  ::| : ||         :::..|:  :
+  164 : EAAIMHAIDHEHIVRLYGV------VLDTNALMLVSELAA-LR---------SLLECLKEPS :  209
+
+ 1484 : VTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDI- : 1545
+        : ::   |. : :.:.||:| |||.||..|:::|||||||| :| .. .|||:|||::|.: 
+  210 : LRSSF--PVLS-LCNFAIQICDGMEYLEQKRLIHRDLAARNILVFSKNKVKISDFGLSRALG :  268
+
+ 1546 : YETDYYRKG-TKGL-LPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQ : 1604
+         ..|||:.. . .| ||: | :||.:    ::|||||.:::|.|||| : : ||..:|:.:|
+  269 : VGKDYYQTNFNVNLKLPIAWCAPECITYLKFTSASDVWAYAVTLWEMFSYGFQPWAALTGQQ :  330
+
+ 1605 : VLRYVIDGGV--MERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSF : 1664
+        :|  : :..   :|||| ||.  ..:|::|||| :: ||.| |:|  | ::| ..| :.:  
+  331 : ILEAIDEPNPQRLERPECCPKDYYSVMRKCWHHDPNKRPKFSDLIRQL-SDCKPEQVQAI-- :  390
+
+ 1665 : YHSEAGLQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPES : 1726
+               |:...|:..|:||  | .  :   |:..  |   .|.|:.|  ::..:   .|. 
+  391 : -------QDSGEEKMKRDQL-IFRVGDVITVLDKSPVQ---GTNLWKGILNNGKTGVFNPAL :  440
+
+ 1727 : PIAMVDDQGSHLPFSLPSGFIASSTPDGQTVMATAFQN--IPAAQGDISAT-YVVPDADALD : 1785
+        .:| :   ||:|| : |:.|: :.. :: : . . ::.  |: :|||:. | .|  |:. ::
+  441 : TVAYL---GSNLPSNKPTEFVRGDGKNAYSSKRNRLKPDMISCPQGDVKHTGHVGLDGSYFG :  499
+
+ 1786 : GDR--GYEIYDPSPKCAELP-TSRSGSTGGGKLSGEQ-HLLPRKGRQPTIMSSSMPDDVIGG : 1843
+        : .  | . |:. |. .  | .:::::.::|.:|::: .||:. .::..  |:: .|.. ::
+  500 : DISSLGGSKYEHVPHQVVAPYKPHTDNEDAGSISADRVPLLSNITHNGNCASAGWTDATSSS :  561
+
+ 1844 : SSLQ : 1847
+        . ::
+  562 : KLMD :  565
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1359 1847 . CLEC008481-PA 104 565 . 420 M 30 30 G 3 0 M 48 48 G 6 0 M 15 15 G 1 0 M 2 2 G 9 0 M 15 15 G 2 0 M 4 4 G 1 0 M 49 49 G 0 1 M 9 9 G 0 1 M 4 4 G 0 1 M 57 57 G 0 2 M 36 36 G 1 0 M 11 11 G 9 0 M 13 13 G 1 0 M 17 17 G 3 0 M 26 26 G 3 0 M 30 30 G 0 2 M 11 11 G 0 1 M 13 13 G 0 2 M 15 15 G 0 1 M 16 16 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003152-PA
+         Model: affine:local:protein2protein
+     Raw score: 136
+   Query range: 545 -> 650
+  Target range: 382 -> 492
+
+ 546 : CSQDCLG-GCVIDKNGNESCISCRNVSFNNICMDSCP-KGYYQFDSRCVTAN-ECITLT--KFE : 604
+       |  :| | ||    ..:. |||| | .:|. |::.|| .:|:. |: |:. : :| | |   ::
+ 383 : CHSQCDGKGCY--GPEDTQCISCANYKLNRSCVQKCPDEDYFASDGLCIKCHRDCRTCTGPGYH : 444
+
+ 605 : TNSVYSGIPYN----GQCITHCPTGYQKSENKRMCEPCPGGKCDKECSSG : 650
+       :  ..:   |     : ||  || .| :.|:.|.| :|. ..|. .|..|
+ 445 : SCLTCARNLYYITDLALCIQSCPHTYFQEEETRRCVSCH-ETCA-SCEDG : 492
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 545 650 . CLEC003152-PA 382 492 . 136 M 7 7 G 0 1 M 3 3 G 2 0 M 24 24 G 0 1 M 14 14 G 0 1 M 6 6 G 0 2 M 14 14 G 0 4 M 24 24 G 1 0 M 4 4 G 1 0 M 5 5
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003482-PA
+         Model: affine:local:protein2protein
+     Raw score: 170
+   Query range: 1479 -> 1607
+  Target range: 285 -> 416
+
+ 1480 : NRIGVTGNVQPPTYGRIYQMAIEIADGMAYL---AAKKFVHRDLAARNCMVADDLTVKIGDF : 1538
+        :||  .:..:| |.:: . :|...| |:.||   :.| :|| |: : | ::.  |. |||||
+  286 : DRILCKDGTKPLTWSQRHSIATGTARGIQYLHTVGEKPLVHGDIKSANILLDPYLVPKIGDF :  347
+
+ 1539 : GMTRDIYETDYYR-KGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQG : 1599
+        |::|:    :| : | ::   . ..:| | ||:  :|:  |.:||||||.|:|| : ::|: 
+  348 : GLAREGPMQQYTHVKVSRVHGTRPYLPDEFLRGKKFSTKVDTYSFGVVLFELAT-GLRAYDC :  408
+
+ 1600 : LSNEQVLR : 1607
+         :.|: |:
+  409 : NAPEKFLK :  416
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1479 1607 . CLEC003482-PA 285 416 . 170 M 31 31 G 0 3 M 41 41 G 0 1 M 40 40 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008476-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 1366 -> 1612
+  Target range: 38 -> 256
+
+ 1367 : LRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKE : 1428
+        |::.:  :| ||||::|.|  |: |. ..: . :  :||. : : || : ..: .|  :|..
+   39 : LKQRFETIAKLGQGTYGKVQLGVNKETGQEVAIK--TIKKCKIE-TDADLIRIRREIQIMSS :   97
+
+ 1429 : FDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQP : 1490
+        :   .:::: .| .. :  ::|||    |:| .||. .:  : .||.               
+   98 : LRHPYIIHIYEVFENRDKIVLVMEYAAGGELYDYLSKKKVLDEAEAR--------------- :  145
+
+ 1491 : PTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRK : 1552
+            ||::   :|| :: |   .:: ||||   | ::.:| ..||:|||:: :::::.   :
+  146 : ----RIFR---QIAMAVYYCHKHQICHRDLKLENILLDNDGNAKIADFGLS-NVFDSSRLLN :  198
+
+ 1553 : GTKGLLPVRWMPPESLRDGVY-SSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG : 1612
+        .  |  :  . :|| :::  | ::. | .|:||:|..: . :| |::| : .:::: : .|
+  199 : TFCG--SPLYASPEIVKGIPYHGPEVDCWSLGVLLYTL-VYGAMPFDGSNFKRLVWQISAG :  256
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1366 1612 . CLEC008476-PA 38 256 . 106 M 34 34 G 2 0 M 8 8 G 1 0 M 64 64 G 19 0 M 4 4 G 3 0 M 40 40 G 1 0 M 14 14 G 2 0 M 15 15 G 0 1 M 16 16 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004138-PA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 1445 -> 1590
+  Target range: 21 -> 167
+
+ 1446 : PALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNV----QPPTYGRIYQMAIEI : 1503
+        ..: |:.::...:: ||| :   :..    |.| :  .::  :    :| .   |.::  :|
+   22 : NEVEVLSVLHHPNIISYLGSFEINGMLIIEMEYADGGTLSQFIIKSKNPINELEIWNLYKQI :   83
+
+ 1504 : ADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPP : 1565
+        ..::.|: ..:::|||| : | .::.:|.:|:||||::: : ..   .:: . | .  .::|
+   84 : VAAIQYMHEHNILHRDLKTANVFLTKELDIKVGDFGISKVMNTK---SQAQTVLGTPYYISP :  142
+
+ 1566 : ESLRDGVYSSASDVFSFGVVLWEMA : 1590
+        |   :  |.. ||:.::| :|.|:|
+  143 : EMCEGKQYDEKSDMWALGCILYELA :  167
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1445 1590 . CLEC004138-PA 21 167 . 129 M 43 43 G 0 4 M 59 59 G 3 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005682-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 169 -> 265
+  Target range: 257 -> 351
+
+ 170 : NKRRRRQHQQQHHHHYQHHHQQHHQQHHQRQQANVSYTKFLLLLQTLAAATTRLSLSPKNYKQQ : 233
+       ::::::|:|| |:.: |:::||::||::|:||.:    .     |  ...  :    .:: :||
+ 258 : QQQQQQQQQQLHQKQQQQQQQQQQQQQQQQQQQQQQVQHQQQQQQQQQQQQQQQQQQQQQQQQQ : 321
+
+ 234 : QQLQHNQQLPRATPQQKQQEKDRHKCFHYKHN : 265
+       ||:||:|| .:. ||  ||:|:::: :|.:::
+ 322 : QQVQHQQQQQQQQPQ--QQQKQQQQNYHHQQH : 351
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 169 265 . CLEC005682-PA 257 351 . 122 M 79 79 G 2 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005682-PA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 169 -> 258
+  Target range: 251 -> 340
+
+ 170 : NKRRRRQHQQQHHHHYQHHHQQHHQQHHQRQQANVSYTKFLLLLQTLAAATTRLSLSPKNYKQQ : 233
+       ::::::|:|||::::  |:.||::||::|:||.:    :   : :  ...  :    .:: :||
+ 252 : QQKQQQQQQQQQQQQQLHQKQQQQQQQQQQQQQQQQQQQQQQVQHQQQQQQQQQQQQQQQQQQQ : 315
+
+ 234 : QQLQHNQQLPRATPQQKQQEKDRHK : 258
+       || |::||:.:. .||:|| ::::|
+ 316 : QQQQQQQQVQHQQQQQQQQPQQQQK : 340
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 169 258 . CLEC005682-PA 251 340 . 121 M 89 89
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005682-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 169 -> 265
+  Target range: 252 -> 349
+
+ 170 : NKRRRRQHQQQHHHHYQHHHQQHHQQHHQRQQANVSYTKFLLLLQTLAAATTRLSLSPKNYKQQ : 233
+       :|::::|:|||:::: ::.:||::||::|:||.:    :  :  |  ...  :    .:: :||
+ 253 : QKQQQQQQQQQQQQQLHQKQQQQQQQQQQQQQQQQQQQQQQVQHQQQQQQQQQQQQQQQQQQQQ : 316
+
+ 234 : QQLQHNQ-QLPRATPQQKQQEKDRHKCFHYKHN : 265
+       || |::| | .:. .||:.|::::::  :|.|:
+ 317 : QQQQQQQVQHQQQQQQQQPQQQQKQQQQNYHHQ : 349
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 169 265 . CLEC005682-PA 252 349 . 118 M 71 71 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005682-PA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 168 -> 258
+  Target range: 229 -> 316
+
+ 169 : FNKRRRRQHQQQHHHHYQHHHQQHHQQHHQRQQANVSYTKFLLLLQTLAAATTRLSLSPKNYKQ : 232
+       |::::::|: :::::: ||::||:.||::|:||.:    : |   |  ...  :    .:: :|
+ 230 : FSQQQHQQQVEKQQQQQQHQQQQQKQQQQQQQQQQ---QQQLHQKQQQQQQQQQQQQQQQQQQQ : 290
+
+ 233 : QQQLQHNQQLPRATPQQKQQEKDRHK : 258
+       |||:||:|| .:. .||:||::::::
+ 291 : QQQVQHQQQQQQQQQQQQQQQQQQQQ : 316
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 168 258 . CLEC005682-PA 229 316 . 116 M 35 35 G 3 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001747-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 1650 -> 2143
+  Target range: 824 -> 1315
+
+ 1651 : EPQCPNSQFKEVSFYHSEAGLQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMG : 1712
+        ||:  : : . .   ..|.: : :| :.:| :. ::::    ::: :. .|:.::| ||  .
+  825 : EPETEHQESHPTQPLPDEESQHGHEADSQETHPTQPLPHEESQHGHEAGSQETHPTQPLTSE :  886
+
+ 1713 : DYQQNSSLDQPPESPIAMVDD-QGSHLPFSLPSGFIASSTPDGQTVMATAFQNIPAAQGDIS : 1773
+        :  .:|.:: . | | . .|: ::.. | ::: .  :: ||..:.  : :  : ...:::::
+  887 : ESSPESDVESHEEHPNQPADNGESRPHPVTVSHEEQSTQTPTNEESSPQTEVEGHEEHSHLT :  948
+
+ 1774 : ATYVVPDADALDGDRGYEIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSS : 1835
+        :.   ::::  ...:| | | . .  .:  :. :::: ::. ...  |  ..|::  .  | 
+  949 : SDNEESQPEHETESHG-EQYIHMHGEDHKLAEEGAPAQSASSEPTTVLNEMEGQEKHTTQSY : 1009
+
+ 1836 : MPDDVIGGSSLQPSTASAGSSNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNAS : 1897
+          ::: ..|. :.: . .: ::...::.:|  ..: .:. :..:   ::|  .:. .::: |
+ 1010 : NKEELQPESERDQTQELQSLGQEEEESNKPHSESSSNEEPQPES---EKH--TEHTEAPHIS : 1066
+
+ 1898 : HKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAI : 1959
+        | ..: .::...|:.. ::|. . .:| . .|.:|: ..: |  : . :..:..:. :.:: 
+ 1067 : HPEPSLPPSEEESDVTHSTHTHDGEELHPGSSEDSDLNEGPTQQAEMLSNESPHSTQATLTE : 1128
+
+ 1960 : SDNPNYRLLDESIASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTIS : 2021
+        .::.:    :..::|.|:|: ..|..::: .  : ..:||:.| :: | : |.|  .| : |
+ 1129 : DHQTESERGNTELPSTQPTFHKESETQSEVGNDEVHPTLVADNEKF-PSEPTTVSSEGESQS : 1189
+
+ 2022 : H---NPNYQPMQAPL-NARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQ : 2079
+        |   .|.|:  ::.  :..: |.: :.: :.:.:.| |:.: : .: .: ...:   |: .:
+ 1190 : HTLQPPTYEESHTQTEEVNNVQEPVHGEFQPNSETEVENTEPHLTQHSDSEKSQAEASQESH : 1251
+
+ 2080 : RALPSKTQPPRSRSVSQTRKSPTNPNSGIGATGAGNRSNLLKENWLRPASTPRPPPPNGFIG : 2141
+         :||:..: :.: | . ::. .::. |: : | :.. ..  ..:   ::::  .:|.:. ::
+ 1252 : TTLPTTNEESSPASEEVSHEHHSDHVSDEDKTQPETEEASQESHTTVSTTSEETSPHSEVVS : 1313
+
+ 2142 : RE : 2143
+        :|
+ 1314 : HE : 1315
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1650 2143 . CLEC001747-PA 824 1315 . 118 M 83 83 G 0 1 M 56 56 G 1 0 M 89 89 G 3 0 M 3 3 G 2 0 M 118 118 G 1 0 M 16 16 G 0 3 M 11 11 G 0 1 M 110 110
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001747-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 1672 -> 2118
+  Target range: 1014 -> 1468
+
+ 1673 : HREKERKERNQLDAFAAVPLDQDLQDRE---QQEDATTPLRMGDYQQNSSLDQP-PESPIAM : 1730
+        :.|.||.: ::|::::.   : : .:.|   ::| ...: : .:. :.: :.:| |. | : 
+ 1015 : QPESERDQTQELQSLGQEEEESNKPHSESSSNEEPQPESEKHTEHTEAPHISHPEPSLPPSE : 1076
+
+ 1731 : VDDQGSHLPFSLPSGFIASSTPDGQTVMATAFQ--NIPAAQGDISATYVVPDADALDGDRGY : 1790
+         :.: :| . :  :. : :::::: .: ..: |  :: :.::  |:  .:.:.:. :::|| 
+ 1077 : EESDVTHSTHTHDGEELHPGSSEDSDLNEGPTQQAEMLSNESPHSTQATLTEDHQTESERGN : 1138
+
+ 1791 : EIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTAS : 1852
+        .   ::.  :.:...... :. |: . :. |:: :.: |:  ::  :::   : :|||:| .
+ 1139 : TELPSTQ--PTFHKESETQSEVGNDEVHPTLVADNEKFPSEPTTVSSEGESQSHTLQPPTYE : 1198
+
+ 1853 : AGSSNASS-HTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNA--PSTSSN : 1911
+        .: :::.. :. : ::. . . :  ...: .:.|| :|. :..:.:: |:.|::  |:|:.:
+ 1199 : ESHTQTEEVNNVQEPVHGEFQPNSETEVENTEPHLTQHSDSEKSQAEASQESHTTLPTTNEE : 1260
+
+ 1912 : TNLTSHPVAMGNLGT-IESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESI : 1972
+        :: :|: |: .: :. :...:.. :.: .::.  .|. :|.:..::   .  :: :  |:  
+ 1261 : SSPASEEVSHEHHSDHVSDEDKTQPETEEASQESHTTVSTTSEETSPHSEVVSHEQHSDHVS : 1322
+
+ 1973 : ASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLN : 2034
+        ..|::   |..::: :.. : ....  |.::: :: :: : :::: . ::. . :: |.: .
+ 1323 : DKEETQPETDEASQESHTPVSTTGEESSPHSEVVSHEQHSDHVSDKEETQPETDEASQESHT : 1384
+
+ 2035 : ARQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQ : 2096
+        :  : :.... :.: |.:|::.|::.|.: .: . :  : ...   : .|.. :|:|  ||:
+ 1385 : TVSTTGEESSPHSEVESHEQHSDHISDKEETQPETDEASQESHTTVSTTSEESSPHSEVVSH : 1446
+
+ 2097 : TRKSPTNPNSGIGATGAGNRSN : 2118
+        .:.| . ::.. ... ::: |:
+ 1447 : EQHSDDVSDKEETQPVTDEASQ : 1468
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1672 2118 . CLEC001747-PA 1014 1468 . 112 M 28 28 G 0 3 M 23 23 G 0 1 M 40 40 G 0 2 M 34 34 G 2 0 M 61 61 G 0 1 M 45 45 G 0 2 M 21 21 G 0 1 M 192 192
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001747-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 1687 -> 2107
+  Target range: 442 -> 874
+
+ 1688 : AAVPLDQDLQDREQQEDATTP-LRMGDYQQNSSLDQPPESPIAMVDDQ----GSHLPFSLPS : 1744
+        .: |||:. :..:  |:::|| |  :. : .:::....| | :::. |    :.||. :  :
+  443 : ETSPLDDKNESPQTLEETSTPGLESSSAETGPTVAPNGEQPEGVLTPQQTKPSDHLTSNEIP :  504
+
+ 1745 : GFIASSTPDGQTVMATAFQNIPAAQG-DISATYVVPDADALDGDRGYEIYDPSPKCAELPTS : 1805
+        . :: :: |. .: :.. ..||:. :  :.:.  .|:::. ..::. :  :  .: ..: . 
+  505 : ESVSLPSEDNSELEPIESARIPGEGSCLVDGKTYAPNSEVPKNQKPSDAPEIQNQ-VSIDKI :  565
+
+ 1806 : RSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSS--NASSHTGRP : 1865
+          : ..:|.||:..:  .....|..: .|: . .|:.|.: : : . :|.|  :::|:| .:
+  566 : DMSIDEDGHLSATPQETTSHPPQQGFTESTDQVTVVPGKTDDVPLVHGGESAFHGGSETVSA :  627
+
+ 1866 : SLKK--TVADSVRNKANFINRHLFNH--KRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGN : 1923
+        . :|    ::|. :..:| ::   .|  ..|.:. |::.|..:|.:.:::..:..:. ::::
+  628 : EENKLSQNGESAAEHVEFEDKTEETHLPENTETGLSDNKNQKEAHTETTQKPVEEETRPVSS :  689
+
+ 1924 : LGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQATILTTSSP : 1985
+        ||: || .. :.:.:. ..::   :::|  .::   || :: .  ::. :.:: :  ..:: 
+  690 : LGS-ESHTEKPESDFGQIHHL--DGSSPQVENANHESDFSQTSDSEHEPSDNEKSQPEVTTE :  748
+
+ 1986 : NPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLN-ARQSQSSSDEDN : 2046
+        ..: :  ||||: |..: :. . .....: .. . :::.: :| |:| | ..|:::.:::::
+  749 : THESHQTHPPTTEVEGQEEHSNQASDNTESQPEPETEHQESHPTQPPTNEESQPEPETEHQE :  810
+
+ 2047 : EQEED---DEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPN : 2105
+        .: .:   :|:.: : :.|| |    :.:| . :::   :.. :...::::::. . ..: .
+  811 : SHPTQPPTNEESQPEPETEHQESHPTQPLPDEESQHGHEADSQETHPTQPLPHEESQHGHEA :  872
+
+ 2106 : SG : 2107
+        ::
+  873 : GS :  874
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1687 2107 . CLEC001747-PA 442 874 . 107 M 21 21 G 0 1 M 26 26 G 0 4 M 36 36 G 0 1 M 28 28 G 1 0 M 57 57 G 0 2 M 13 13 G 0 2 M 20 20 G 0 2 M 37 37 G 1 0 M 17 17 G 2 0 M 88 88 G 0 1 M 17 17 G 0 3 M 56 56
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001747-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 1665 -> 2118
+  Target range: 1242 -> 1697
+
+ 1666 : HSEAGLQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESP : 1727
+        ::||: : :.. ....:: .: :.   :::  |:  :|| | |   .. |:: :   .... 
+ 1243 : QAEASQESHTTLPTTNEESSPASEEVSHEHHSDHVSDEDKTQPETEEASQESHTTVSTTSEE : 1304
+
+ 1728 : IAMVDDQGSHLPFSLPSGFIASSTPDGQTVMATAFQNIPAAQGDISA-TYVVPDADALDGDR : 1788
+        .:  .:  || . | . :  ..: |:.:.. ..:  .:::: .: |: : ||::.:  |  .
+ 1305 : TSPHSEVVSHEQHSDHVSDKEETQPETDEASQESHTPVSTTGEESSPHSEVVSHEQHSDHVS : 1366
+
+ 1789 : GYEIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPST : 1850
+        : |  :|... |.  :  : ||.|.. |.: :: ::. :   | ... .:  .:.:| :: |
+ 1367 : DKEETQPETDEASQESHTTVSTTGEESSPHSEVESHEQHSDHISDKEETQPETDEASQESHT : 1428
+
+ 1851 : ASAGSSNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNT : 1912
+        : :.:|:.||. :    ..  :|.|.:|.:  .:.: :: . .|::: .:.:.:::: |. .
+ 1429 : TVSTTSEESSPHSEVVSHEQHSDDVSDKEE--TQPVTDEASQESHTTVSTTGEESSPHSEVV : 1488
+
+ 1913 : NLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIAS : 1974
+        : .    ..:: .|  ..|.:|..|.|..:   . |:....|.: :   :..    : . .|
+ 1489 : SHEHSDHVFDKEETQPETGEASQESHTTVSTTSEESSPHPEGESHSQQVHTGEEQPEFEKES : 1550
+
+ 1975 : EQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNAR : 2036
+        | .    ::| :.:  : :  : :.|:.|.:    ::  :: ..  .::.:::. |.||:.:
+ 1551 : EGVHPAQAASEETSTPLSEEESHVASSPPTFSENVDAEHELHPTQSKNENDFNN-QVPLEDK : 1611
+
+ 2037 : QSQSSSDEDNEQEEDDEDEDDDVD-DEHVEHIKMERMPLSRPRQRALPS---KTQPPRSRSV : 2094
+        :::::|.| :  ..::. .::::: :|||||   .  . : .:: :|..   | :.. : ||
+ 1612 : HGETASAEPEVSTSEQGFSENHLEHEEHVEHAPEKTTQETDRHDESLTESNVKHNGHVTESV : 1673
+
+ 2095 : SQTRKSPTNPNSGIGATGAGNRSN : 2118
+        . .:. ||. . : ::|.: .:.|
+ 1674 : DVEHEVPTTEGLSYSSTESQTHDN : 1697
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1665 2118 . CLEC001747-PA 1242 1697 . 107 M 109 109 G 0 1 M 106 106 G 2 0 M 146 146 G 1 0 M 31 31 G 0 1 M 24 24 G 0 3 M 34 34
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001747-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 1673 -> 2108
+  Target range: 278 -> 706
+
+ 1674 : REKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVDDQG : 1735
+        .::|:.|.:::.. :|    ..::: : .|: .|. ::|: :.::: .: :|: .:  |:.:
+  279 : SNNEKEENHNIADSSASESIPSVENENVPEGFGTGEKVGGLKPENTESHDSEPLTPTSDEAA :  340
+
+ 1736 : SHLPFSLPSGFIASSTPDGQTVMATAFQNIPAAQGDISATYVVPDADALDGDRGYEIYDPSP : 1797
+          :| :  .   :.|| . ::: .|:  ::| .:.:   |..|...:. | ||. . .:.||
+  341 : QVIPEGTEEVKPSESTEKVHSLEVTS--ELP-VDTESVHTHTVNKEQEGDVDRESTEHETSP :  399
+
+ 1798 : KCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSSNAS : 1859
+        . : :: :  | .:    : |:.  . .|.: .   |::. : ...|:|: ...|: : :.:
+  400 : TETPVSHGEMGQDAQKPTTQEEYQENVEGSHVNEEHSTLTPH-TETSPLDDKNESPQTLEET :  460
+
+ 1860 : SHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAM : 1921
+        | .|  | . ..: :| .:::  :  | .:: ..|:   .:: ::: | :|:.| . :|:. 
+  461 : STPGLESSSAETGPTVAPNGEQPEGVLTPQQTKPSDHLTSNEIPESVSLPSEDNSELEPIES :  522
+
+ 1922 : GNLGTIES--GGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQATILT : 1981
+        :.:.. .|   :: : :: :..|:  .||.:|.  : ::| |: : .: :::  |. :   |
+  523 : ARIPGEGSCLVDGKTYAPNSEVPKNQKPSDAPEIQNQVSI-DKIDMSIDEDGHLSATPQETT :  583
+
+ 1982 : TSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNARQSQSSSD : 2043
+        : :|:..:.    ..::|:.:.: :|:    |: :. ::  .::  : :..  :::::|:::
+  584 : SHPPQQGFTESTDQVTVVPGKTDDVPL----VHGGESAFHGGSETVSAEENKLSQNGESAAE :  641
+
+ 2044 : EDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPN : 2105
+        : : ::..:|.:  : .:. :.: | :: : : . |::: ..|:| .| : .   ..|.:  
+  642 : HVEFEDKTEETHLPENTETGLSDNKNQKEAHTETTQKPVEEETRPVSSLGSESHTEKPESDF :  703
+
+ 2106 : SGI : 2108
+        : |
+  704 : GQI :  706
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1673 2108 . CLEC001747-PA 278 706 . 106 M 88 88 G 2 0 M 3 3 G 1 0 M 72 72 G 1 0 M 89 89 G 0 2 M 30 30 G 1 0 M 48 48 G 4 0 M 96 96
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000223-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 1501 -> 1631
+  Target range: 347 -> 471
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWM : 1563
+        ::||:: |  :|. :|||: : | :::.:  :||:|||  :.:...:  |... | |   .:
+  348 : QLADALIYCHSKSVIHRDIKPENILLGAEGQLKIADFG--WSVHAPNSRRETICGTL--DYL :  405
+
+ 1564 : PPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFL : 1625
+        ||| :::  .. : |:.| ||: .|:   : .|::: | .:.  | |. :| . | : ::: 
+  406 : PPEMVKNLQHDYTVDLWSSGVLCYEILC-GKPPFEAKSYKETY-YNITHAVYSFPPHVSNLA :  465
+
+ 1626 : HKLMQR : 1631
+         .|:::
+  466 : CDLIRK :  471
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1631 . CLEC000223-PA 347 471 . 102 M 38 38 G 2 0 M 17 17 G 2 0 M 31 31 G 1 0 M 14 14 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000765-PA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 1501 -> 1643
+  Target range: 64 -> 210
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWM : 1563
+        :: :|:.|   |:|:|||:  .| ::.:  .||::|||::|   ..|  |  |: ::.::..
+   65 : QLLEGLNYCHKKNFLHRDIKCSNILMNNRGEVKLADFGLARLYNAEDRQRPYTNKVITLWYR :  126
+
+ 1564 : PPE-SLRDGVYSSASDVFSFGVVLWEM---ATLAAQPYQGLSNEQVLRYVIDGGVMERPENC : 1621
+        |||  | :. |::| |:.| | :| |:    .| .|: : :  | : |   ...   :|   
+  127 : PPELLLGEERYGPAIDIWSCGCILGELFLKKPLFQQSNEMMQLEIISRLCGTPTPAVWPLVI :  188
+
+ 1622 : PDFLHKLMQRCWHHRSSARPSF : 1643
+           | .|::.   ||.. | .|
+  189 : ELPLWHLLKSKKIHRRRLRDEF :  210
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1643 . CLEC000765-PA 64 210 . 131 M 65 65 G 0 1 M 23 23 G 0 3 M 54 54
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003908-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 1499 -> 1589
+  Target range: 213 -> 300
+
+ 1500 : AIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR : 1561
+        | |:  |:..:  : :|.||| : | ::.::  |:|:|:|:: | :..   :|.  :: .  
+  214 : AAEVILGLEHMHRRYIVYRDLKPANILLDEHGHVRISDLGLACD-FSK---KKPHASVGTHG :  271
+
+ 1562 : WMPPESLRDG-VYSSASDVFSFGVVLWEM : 1589
+        .|:|| |..| .|.|::| |||| :|..:
+  272 : YMAPEVLSKGTAYDSSADWFSFGCMLYKL :  300
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1499 1589 . CLEC003908-PA 213 300 . 103 M 44 44 G 1 0 M 3 3 G 3 0 M 21 21 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001755-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 1497 -> 1600
+  Target range: 103 -> 201
+
+ 1498 : QMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLP : 1559
+        :: ::: .:: || ::: :|||| ::| :: .: |.|: |||.:|::  :..  .:.||  |
+  104 : KIIFDLISALYYLHSNRVLHRDLKPQNVLLCKNGTAKLCDFGFARNMSLSTHLLTSIKG-TP :  164
+
+ 1560 : VRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGL : 1600
+        : .|:|| : :: |. ::|   : .|:.|  :|:  :|: |
+  165 : L-YMAPELMEESPYDHTAD---LCTVVYEQKSLGCIAYEIL :  201
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1497 1600 . CLEC001755-PA 103 201 . 117 M 59 59 G 1 0 M 3 3 G 1 0 M 17 17 G 3 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010871-PA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 1591 -> 2059
+  Target range: 17 -> 491
+
+ 1592 : LAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+        :|:|.| : :.    :   .: | ::.:: |:   :  :.  ::..:..:|| :  . : | 
+   18 : MAPQGYGAYPPPLGNQMPPSSQVPQQQNQPPQNGVQSQESPMREPRAEMASFGQQNVNVPPS :   79
+
+ 1654 : CPNSQFKEVSFYHSE-AGLQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDY : 1714
+         .::     :. ::: :::  ::|..: . | :.:..:|| |  |:: ...:..|. .|:  
+   80 : FNQNSNLPPNMNQGQMPSMMMQNKAPQPNLQSQNINQMPLPQMSQNKLPPTQNPTTQSMAPL :  141
+
+ 1715 : QQNS-SLDQPPESPIAMVDDQGSHL-PFSLPSGFIASSTPDGQTVMATAFQN--IPAAQGDI : 1772
+        |::  : . . .: :: ..:::: : |.| .:..:::::.:.: : :|: |.  :|:: .  
+  142 : QNKIMPPTTTLANMMPPTSNHDNMMPPMSNQPNMMPPTSNQPNMMPPTSNQPNMVPPTSNLA :  203
+
+ 1773 : SATYVVPDADALDGDRGYEIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSS : 1834
+        : . . .:|: : ......   |::. |:: .:  . :. .  |. .:::|. :.::.: ::
+  204 : NMPPTSTHANMMPPTSNHANMPPTSTPANMMPPTLNHANMPPTSTPANMMPPASNHANMPPT :  265
+
+ 1835 : SMPDDVIGGSSLQPSTASAGSSNA--SSHTGRPSLKKTVADSVRNKANFINRHLFNHKRT-G : 1893
+        | |.::::.:| ::: :::.::..  |: :.:.::. . ::. .  :|: . ::...... |
+  266 : STPANMMSPTSNHANMPPTTTPANVMSPTSNHGNMMPPSSNRGMMPPNLATGNMMAPTSNYG :  327
+
+ 1894 : SNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGS : 1955
+          :: .::||  |:.: :.|: :.|:.:|.  .:.: .: ::    | ..  :|: ..|.. 
+  328 : MMPPTSTHASMMPPGPLHNNM-GPPMNLGPQKNVAPQNNMGPQMNLGHQNNMAPPMNTGPPQ :  388
+
+ 1956 : -GMAISDNPNYRLLDESIASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMA : 2016
+         ||:::.:.:     .::. : :  : .: . .. .|. |  :   .:..|  :|..| || 
+  389 : LGMPMPTQNHLVKNMANMNLNGPQPMQPTQQMNPMGMKSPMQNY--PSHGYPMINGGPGQMH :  448
+
+ 2017 : GVTISHNPNYQPMQAPLNARQSQSSSDEDNEQEEDDEDEDDDV : 2059
+        | .:::..: .  : | : :| .: :    :  |:|: ...::
+  449 : GNGMPDPNSTAKPNMPPSMHQQPGHPPMMMQVMEEDQRTKSGI :  491
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1591 2059 . CLEC010871-PA 17 491 . 114 M 77 77 G 0 1 M 50 50 G 0 1 M 20 20 G 0 1 M 26 26 G 0 2 M 94 94 G 0 2 M 34 34 G 0 1 M 22 22 G 1 0 M 40 40 G 0 1 M 43 43 G 2 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005455-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 260 -> 475
+  Target range: 134 -> 340
+
+ 261 : HYKHNYSYSPGISLLLFILLANTLAIQAVVLPAHQQHLLHNDIADGLDKTALSVSGTQSRWTRS : 324
+       | .:  || :| :|  |::::.:  :::  |    :: | .. :: :.  :|.|    : |. .
+ 135 : HSDRYVSYVSGRALSAFLMVSRA-HVDPRWLDRLTENALSTSHPQKMA-FSLDVMKRVTEWKDC : 196
+
+ 325 : ESNPTMRLSQNVKP-CKSMDIRNMVSHFNQLENCTVIEGFLLIDLINDASPLNRSFPKLTEVTD : 387
+       :.:|    . :: | |. :.:.:  |  :   :|  |.: |  .  . .|.::| ::. .. .|
+ 197 : DEHPLEERDVQLPPLCHVLSVSDPDSLDSSQIKCLCIKA-LEAKWPAIVSRFDRLLATSPAQND : 259
+
+ 388 : YIIIYRVTGLHSLSKIFPNLSVIRGNKLFDGYALVVYSNFDLMDLGLHKLRSITRGGVRIEKNH : 451
+        .:|  :.  ::: .: :|||:: .: ::.   |. :   .|:: |   :.:|.:  :    |:
+ 260 : STVITFLGLWEAIISVKANLSIVDTKPFYA--HLANF--VALLNSG---VSPIVWKHMLDLFNE : 316
+
+ 452 : KLCYDRTIDWLEILAENETQLVVL : 475
+        |||:.|:.  :||||:   |. |
+ 317 : VLCYGSTLALQDILAEEPCSLAHL : 340
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 260 475 . CLEC005455-PA 134 340 . 100 M 23 23 G 1 0 M 24 24 G 1 0 M 29 29 G 0 1 M 24 24 G 1 0 M 54 54 G 2 0 M 5 5 G 2 0 M 7 7 G 3 0 M 39 39
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002668-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 1315 -> 1591
+  Target range: 579 -> 854
+
+ 1316 : LGIGLAFLIVSLFGYVCYLHKRKVPSNDLHMNTEVNPFYASMQYIPDDWEVLRENIIQLAPL : 1377
+        ::::|:  :.:  ..   |:||:: .:   : ...::||:|   | :..  :: |  : .  
+  580 : IAVDLSSQLTPTSEHGPSLRKRNIIKS---LWEKASSFYTSNVKIENSF--IKVNKQRKVEY :  636
+
+ 1378 : GQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLG : 1439
+        . :: ::|:|   |. : : :  | .:|. |:: ::  ..: :::.|  .  ::||  .|  
+  637 : TTSGSSIVFERSKKDQSESVIFEEEEVKDSNNDCSEDVSNSRFNDESRYD--NSYHKPNLKR :  696
+
+ 1440 : VCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAI : 1501
+          : : .     :  .::. |.||  :..  | :::.   ::::.. : :...  ||::   
+  697 : PKTLDLHISGSTNSPMQSKGKKYLYIQMQLCRRDSLK---DWLSANQQRDTNEVLRIFN--- :  753
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYE--TDYY-----RKGTKG : 1556
+        :|.:::.|:  : ::|||| :.| . : |  :|:||||:. .: :  .::      || ::.
+  754 : QIVQAVEYVHFQGLIHRDLKPSNIFFSLDGQIKVGDFGLVTAMADEGEEFLSPVLGRKVSNE :  814
+
+ 1557 : LLPVR-----WMPPESLRDGVYSSASDVFSFGVVLWEMAT : 1591
+          ..|     .|:|| :.:  |.   |::|:||:|.|: |
+  815 : KHTARVGTQLYMSPEQVSGQQYDYKVDIYSLGVILFELLT :  854
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1315 1591 . CLEC002668-PA 579 854 . 108 M 27 27 G 3 0 M 19 19 G 2 0 M 61 61 G 2 0 M 47 47 G 3 0 M 19 19 G 3 0 M 45 45 G 0 2 M 4 4 G 0 5 M 11 11 G 0 5 M 30 30
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004673-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 1453 -> 1737
+  Target range: 0 -> 269
+
+ 1454 : MKKGDLKSYLRAHRPEERDEA-MMTYLNRIGVTGNVQPP-TYGRIYQMAIEIADGMAYLAAK : 1513
+        |  | |::: .... || ::. ::  |   .:   :|   ...|:  :  ::  |: .| : 
+    1 : MIIGLLNAFTPQKSLEEFQDVYLVMELMDANLCQVIQMDLDHERMSYLLYQMLCGIKHLHSA :   62
+
+ 1514 : KFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSS : 1575
+         ::|||| :.| :| .| |:|| |||::|.  .|.: .  |  ::.  ..:|| : :  |..
+   63 : GIIHRDLKPSNIVVKSDCTLKILDFGLARTA-GTTFMM--TPYVVTRYYRAPEVILGMGYKE :  121
+
+ 1576 : ASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRS : 1637
+        . |:.| | :: ||   ::  :.| .: :  . :|:   :. |  .::|: :| .  ::.  
+  122 : NVDIWSVGCIMGEMIR-GGVLFPGTDHIDQWNKIIEQ--LGTP--SSEFMMRLQPTVRNY-V :  177
+
+ 1638 : SARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQHREKERKERNQLDAFAAVPLDQDLQDR : 1699
+        ..||.: : :::      :. | :| ::.|::: : | |..:.|: |... .:  :: :   
+  178 : ENRPRYSG-FPF------DKLFPDV-LFPSDSSDHSRLKASQARDLLSQMLVIDPEKRISVD :  231
+
+ 1700 : EQQEDATTPLRMGDYQQNSSLDQPPESPIAMVDDQGSH : 1737
+        |.  :: ..:: :: : |::   | : ::.  ::  .:
+  232 : EALMHPYINVWYDEGEVNAPAPGPYDHSVDEREHSVEQ :  269
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1453 1737 . CLEC004673-PA 0 269 . 107 M 21 21 G 0 1 M 17 17 G 0 1 M 53 53 G 1 0 M 6 6 G 2 0 M 38 38 G 1 0 M 20 20 G 2 0 M 4 4 G 2 0 M 15 15 G 1 0 M 9 9 G 1 0 M 3 3 G 6 0 M 7 7 G 1 0 M 74 74
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010008-PA
+         Model: affine:local:protein2protein
+     Raw score: 442
+   Query range: 1357 -> 1665
+  Target range: 110 -> 390
+
+ 1358 : QYIPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNF : 1419
+        : ..|:||: |.::  :  ||:| || |.||: :: .|       ||||:  ::...:..:|
+  111 : HSTRDQWEIDRSSLKFVRKLGHGQFGEVWEGLWNNTTP------VAIKTL--KPGTMDPKDF :  164
+
+ 1420 : LSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNR : 1481
+        |:|| :||.:   .:::| :||:..:|  :: ||||:|.| .||     :.::  ::     
+  165 : LAEAQIMKKLRHTKLIQLYAVCTMEEPIYIITELMKNGSLLEYL-----QGKGRCLL----- :  217
+
+ 1482 : IGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRD : 1543
+                    ::: :|| :||.|||||.:::::|||||||| :|:|. .|||:|||::| 
+  218 : -----------LAQLIDMAAQIAAGMAYLESQNYIHRDLAARNVLVGDSNIVKIADFGLARL :  267
+
+ 1544 : IYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQV : 1605
+        | |.:|  : . : :|::| :||: . : :|  |||.|||::| |:.| :  ||.|::|.:|
+  268 : IKEDEYEARVG-ARFPIKWTAPEAANYSKFSIKSDVWSFGILLTELVTYGRIPYPGMTNAEV :  328
+
+ 1606 : LRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEP--QCPNSQFKEVSFY : 1665
+        |: | :|  |  | :||: |..:|  |||. :  ||:| .:   ||      .|::||.| |
+  329 : LHQVEHGYRMPCPPSCPETLYEIMLECWHKDPMKRPTFETLQWKLEDFFTMEGSEYKEASAY :  390
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1357 1665 . CLEC010008-PA 110 390 . 442 M 38 38 G 6 0 M 6 6 G 2 0 M 54 54 G 5 0 M 8 8 G 16 0 M 62 62 G 1 0 M 97 97 G 0 2 M 13 13
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001560-PA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1501 -> 1630
+  Target range: 114 -> 245
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWM : 1563
+        :| .::|||  | :.|||| : | ::..||.:|: |||:  :  ..   :  |.   |. . 
+  115 : QILSAVAYLHKKGYAHRDLKPENILLDKDLNLKLIDFGLCANPAGGMSSHLKTSCGSPT-YA :  175
+
+ 1564 : PPESLRDGVY-SSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERP---ENC : 1621
+        :|| :::  | :|. ||.|:||:|..:   :  |::: | | : : ::.|   |.|   |:.
+  176 : APELIQGKKYLGSQVDVWSLGVLLYALLC-GFLPFDSDSIESLYKKILSGVYDEPPWLTEQS :  236
+
+ 1622 : PDFLHKLMQ : 1630
+         :::.:::|
+  237 : KNIIKNMLQ :  245
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1630 . CLEC001560-PA 114 245 . 119 M 59 59 G 1 0 M 12 12 G 0 1 M 18 18 G 1 0 M 26 26 G 0 3 M 12 12
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005265-PA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 1495 -> 1629
+  Target range: 116 -> 246
+
+ 1496 : IYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGL : 1557
+        :||:: .|.   : |.: . :|||: : | .:.:: ..|:||||::| | :.:  ...|: :
+  117 : LYQVSKAIQVCHTKLVGFTVLHRDIKPANVFLDQEGNAKLGDFGLAR-IEQDE--PTTTNFV :  175
+
+ 1558 : LPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGG-VMERP : 1618
+         .  .::|| :|:  .:. ||:.::| ::.|| :| : |::| :| : | : |.:|  .| |
+  176 : GTPYYLSPEVVRGHGHNRKSDIWALGCLVYEMCSLRP-PFNG-TNMKELTFKIKSGKYKEIP :  235
+
+ 1619 : ENCPDFLHKLM : 1629
+        . .:: |:|::
+  236 : SFYSENLRKVI :  246
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1495 1629 . CLEC005265-PA 116 246 . 124 M 47 47 G 1 0 M 5 5 G 2 0 M 44 44 G 1 0 M 4 4 G 1 0 M 13 13 G 0 1 M 16 16
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008148-PA
+         Model: affine:local:protein2protein
+     Raw score: 234
+   Query range: 1450 -> 1696
+  Target range: 80 -> 328
+
+ 1451 : MELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADG--MAYL : 1510
+        ..:: |:: |:   | :  | :... ::   :   :.|:.|.  ::|   .| : |  |.| 
+   81 : FGVVYKAEWKNKEVAVKLIETEAEKASFKVELKQLSRVRHPNIVKLYGACTEKPVGLVMEYA :  142
+
+ 1511 : -AAKKFVHRDLAARNCMVADDLTV-KIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRD : 1570
+         ::. :  :|| :.| ::..: || || ||| :   .:.. |....||  :. ||:|| : .
+  143 : EGGSLYNCKDLKPPNLLLVKGGTVLKICDFGTA---CDKKTYMTNNKG--SATWMAPEVFES :  199
+
+ 1571 : GVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQ--VLRYVIDGGVMERPENCPDFLHKLMQ : 1630
+        : |:. .||:|.|::|||: | . :||:|: :..  ::: | .|       |||  ::||: 
+  200 : SKYTEKCDVYSWGIILWEVITREKNPYKGIQSTAYTIMWAVHKGVRPPLIINCPPPIEKLIT :  261
+
+ 1631 : RCWHHRSSARPSFLDIIAYLEPQCPN-SQFKEVSFYHSEAGLQHREKERKERNQLDAFAAVP : 1691
+        :||:.  ..|||: :::  :|   |  | :.|    :.|.:  : ..: :: :  :.|..  
+  262 : KCWDKDLEVRPSISEVVRIMELLLPYFSGYDEPITSEEEDSSINEGSQEQDYDYSNEFDDDE :  323
+
+ 1692 : LDQDL : 1696
+        | :::
+  324 : LPEEI :  328
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1450 1696 . CLEC008148-PA 80 328 . 234 M 56 56 G 0 2 M 4 4 G 0 1 M 23 23 G 0 1 M 8 8 G 3 0 M 12 12 G 2 0 M 46 46 G 0 2 M 52 52 G 0 1 M 40 40
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008148-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 1315 -> 1459
+  Target range: 16 -> 147
+
+ 1316 : LGIGLAFLIVSLFGYVCYLHKRKVPSNDLHMNTEVNPFYASMQYIPDDWEVLR-ENIIQLAP : 1376
+        | ||  ||: : |:|   : | :| .:||  |..: :| :::    .  | :. |:|. | |
+   17 : LFIGPLFLF-NTFAYKVIFLKLRVEKSDL--NEGLMAFEGAVGPNETFVEKINYEDITILKP :   75
+
+ 1377 : LGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLL : 1438
+        :|:||||:||.:  |       ::| |:| ::   |: |:::|  | . :.     ::|:| 
+   76 : IGKGSFGVVYKAEWK-------NKEVAVKLIE---TEAEKASFKVELKQLSRVRHPNIVKLY :  127
+
+ 1439 : GVCSRGQPALVVMELMKKGDL : 1459
+        |.|: .:|. :|||  . |.|
+  128 : GACT-EKPVGLVMEYAEGGSL :  147
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1315 1459 . CLEC008148-PA 16 147 . 105 M 9 9 G 1 0 M 19 19 G 2 0 M 22 22 G 0 1 M 23 23 G 7 0 M 10 10 G 3 0 M 31 31 G 1 0 M 16 16
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012978-PA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 1476 -> 1599
+  Target range: 208 -> 339
+
+ 1477 : TYLNRIGVTGNVQPP----TYGRIYQMAIEIADGMAYL---AAKKFVHRDLAARNCMVADDL : 1531
+        .|::. ::..|::|.    .. : |::| ..|:|:..|   :.| .||||: : | ::.:: 
+  209 : VYMENGSLEENLKPGKNCLDWKKRYKIACGTAEGIVHLHTFTEKPMVHRDIKSANILLDQHY :  270
+
+ 1532 : TVKIGDFGMTRDIYETDYYRKG--TKGLLPVR-WMPPESLRDGVYSSASDVFSFGVVLWEMA : 1590
+        . |:||||:.|:  ::.  :.   |..:|... .|:||::|::: |   ||||||||| |: 
+  271 : IPKVGDFGLVRHGSNAKSTKTVALTSTVLGTSAYMAPEAFRGDI-SVKMDVFSFGVVLLELI :  331
+
+ 1591 : TLAAQPYQG : 1599
+        | : .|:::
+  332 : T-GLPPFDS :  339
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1476 1599 . CLEC012978-PA 208 339 . 138 M 15 15 G 0 4 M 19 19 G 0 3 M 43 43 G 0 2 M 8 8 G 0 1 M 11 11 G 1 0 M 18 18 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000083-PA
+         Model: affine:local:protein2protein
+     Raw score: 338
+   Query range: 1445 -> 1653
+  Target range: 161 -> 381
+
+ 1446 : PALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNV----QPPTYGRIYQMAIEI : 1503
+        ..: ::. ::. :: . | .  :|:.  |:|.: : :|  :::    :. .|| :  |:::|
+  162 : REIKLLSSLNDQNVVRTLGVCTAEQPPWAVMEFPSELGDLAHLLTSNENLKYGCLMFMSLQI :  223
+
+ 1504 : ADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPP : 1565
+        |.|| |:.:|::||:|||||||:|: : |:||:|::| . |||.:|   |.:.  |:||:: 
+  224 : ASGMKYMESKNLVHKDLAARNCLVGRGYTIKIADIAMCNPIYEKHYSEIGGRPPAPIRWLAW :  285
+
+ 1566 : ESLRDGVYSSASDVFSFGVVLWEMATLAAQ-PYQGLSNEQVLR------YVID-GGVMERPE : 1619
+        ||:  : .:.||.|.||:|.|||: .  .: |: .|:|:||::      |  : . |: :|.
+  286 : ESILLDRHTCASSVWSFAVTLWEVFNRCNDIPFSNLTNDQVVQNAEQMYYGGELPVVLPKPS :  347
+
+ 1620 : NCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+         |.  :|.|| :||.:  :.||:| :|  :|..:
+  348 : ICTCDVHDLMIKCWKRDQNVRPTFREIYLFLKRK :  381
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1445 1653 . CLEC000083-PA 161 381 . 338 M 43 43 G 0 4 M 107 107 G 0 1 M 12 12 G 0 6 M 4 4 G 0 1 M 42 42
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000921-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 1481 -> 1620
+  Target range: 458 -> 598
+
+ 1482 : IGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFG-MTR : 1542
+        : |.|.: ||. :|:|    |.. ::.|| :  :||||| : | :::.   :|:.||| |: 
+  459 : VKVIGPL-PPDMARFY--FAETVLAVEYLHSYGIVHRDLKPDNLLITALGHIKLTDFGLMAT :  517
+
+ 1543 : DIYETDYYRK----GTKGLLPVR-WMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQG : 1599
+        ::||.   |.    :.| ::... .::|| :    |:.: | .|.|::|.|.  ::  |: |
+  518 : NLYEVYIDRDSRQFSDKQVFGTPEYIAPEVILRQGYGKPVDWWSMGIILYEF-LIGCVPFFG :  578
+
+ 1600 : LSNEQVLRYVIDGGVMERPEN : 1620
+         :.|::: ..::::: |:|::
+  579 : DTPEELFAHTVNDDI-EWPDD :  598
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1481 1620 . CLEC000921-PA 458 598 . 117 M 7 7 G 1 0 M 8 8 G 2 0 M 40 40 G 0 1 M 13 13 G 0 4 M 9 9 G 0 1 M 28 28 G 1 0 M 24 24 G 1 0 M 5 5
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000921-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 1814 -> 2117
+  Target range: 1081 -> 1389
+
+ 1815 : LSGEQHLLPRKGRQPT-IMSSSMPDDVIGGSSLQPSTASAGSSN-ASSHTGRPSLKKTVADS : 1874
+        ::.: : :.|... |. :||:| |:.  :::|  :|::|.||:. ::||  |||  ..: :.
+ 1082 : ITTHVDPVTRSPSTPKLVMSPSDPNTRSSDTSGSSSSSSNGSPAVPTSHYQRPSTLHGLKHK : 1143
+
+ 1875 : VRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSGSAG : 1936
+        ::: |: |:..  ::::: :: : .: |..::::: .:: |. | :::  .. ::|:|.:: 
+ 1144 : LHSAAKTIHSP--SRRKSVGHIPLSPLARTPSPSPVPSSPTRSPSPLAFPPGHQPGSSNTTQ : 1203
+
+ 1937 : SYTGTPRFYTPSATPGGGSGMAISDNPNYR--LLDESIASEQATILTTSSPNPNYEMMHPPT : 1996
+        ||:.. .  |:: .. . :  | :::|  |  |  :.: :  |.. |.|.|..   : :|: 
+ 1204 : SYSPGCSGATATKKGFNRPKSAEPGSPLLRRALSPDRLHPRSAETKTKSCPTTISPLCDPAL : 1265
+
+ 1997 : SLVSTNPNYMPMNETPVQMAGVTISHNP-NYQPMQAPLNARQSQSSSDEDNEQEEDDEDED- : 2057
+        .:. :. . :.:...: .:. :... :| : :| : ||.  :.:.:|: ::  .:|:.:.| 
+ 1266 : KVTISTLPRVTITSKSPPVQKINTDADPVKSKPPEHPLRKEKERRNSEPEHLITHDESESDF : 1327
+
+ 2058 : -DDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPNSGIGATGAGNRS : 2117
+         .  ..:.: :|  |: : : .::   |:   .:.:.| : ...|.|:. :.  :|.:.|.|
+ 1328 : LSISSSQPLPRIAEEKDSPTATKDDIAPAICSNSSGNSSNVGSHSTTSTIGTNISTTSNNNS : 1389
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1814 2117 . CLEC000921-PA 1081 1389 . 104 M 16 16 G 0 1 M 27 27 G 0 1 M 28 28 G 2 0 M 79 79 G 0 2 M 58 58 G 0 1 M 32 32 G 0 2 M 61 61
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000444-PA
+         Model: affine:local:protein2protein
+     Raw score: 179
+   Query range: 1493 -> 1651
+  Target range: 288 -> 444
+
+ 1494 : GRIYQMAIEIADGMAYLAA-KKFVHR-DLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKG : 1553
+        ::  :.| ::| |||:| : .::..: :|.:|: |:.:||:.:|   .|: . :.   ::. 
+  289 : AQALRFAGDVARGMAFLHSLERITPQYHLNSRHIMIDEDLSARI---NMADAKFS---FQEK :  344
+
+ 1554 : TKGLLPVRWMPPESLR---DGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQV-LRYVID : 1611
+        .:   |. ||:|::|:   .:   .|||:.||:|:|||::| .. |:.:||. :| :| .::
+  345 : GRIYYPA-WMSPDALQKRPTDRNWEASDMWSFAVLLWELSTREV-PFADLSPMEVGMRVALE :  404
+
+ 1612 : GGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLE : 1651
+        |  :. | . :  | ||:: | :: :: ||:|  ::: |:
+  405 : GLRVTIPPGISPHLAKLIRICMNEDPGKRPTFDMVLPILD :  444
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1493 1651 . CLEC000444-PA 288 444 . 179 M 19 19 G 0 1 M 6 6 G 0 1 M 17 17 G 3 0 M 8 8 G 3 0 M 11 11 G 1 0 M 8 8 G 0 3 M 25 25 G 1 0 M 10 10 G 0 1 M 46 46
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002070-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 1498 -> 1601
+  Target range: 124 -> 237
+
+ 1499 : MAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGT--KGLL : 1558
+        :: :| .:: |: : ::||||| : | :::.  .|:|:|||::|.: : :   :|:  .  :
+  125 : ISYQILSALRYIHSANIVHRDLKPANILLGARCEVRIADFGLARSLEDRGTVENGSPLTKYV :  186
+
+ 1559 : PVRW-MPPESLRDG------VYSSASDV-FSFGVVLWEMATLAAQPYQGLS : 1601
+        :.|| .:|| | :|      : || . : :: :| :|.:: : |: .:|::
+  187 : ATRWYRAPELLLNGKKYLRKLLSSCRYIKYTTSVDIWSLGCIIAEMHNGVP :  237
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1498 1601 . CLEC002070-PA 124 237 . 105 M 56 56 G 0 2 M 8 8 G 0 1 M 9 9 G 0 6 M 8 8 G 0 1 M 22 22
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001497-PA
+         Model: affine:local:protein2protein
+     Raw score: 328
+   Query range: 1354 -> 1646
+  Target range: 123 -> 391
+
+ 1355 : ASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRER : 1416
+        .:.::: .:| :  :::   .|:|:|.||   : :|  |..: |    |:| :::::.. ::
+  124 : DTKKFVEAGWVIQEHELEYREPIGKGEFG---DVLLAIFRGEKV----AVKMLKDSSEAAQK :  178
+
+ 1417 : TNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTY : 1478
+          ||:|||:|..:.  ::|:|||:     .  :| | | ||.| .|||::            
+  179 : --FLAEASLMTSLTHENLVKLLGLVFDKTHISLVTEYMGKGSLVDYLRSR------------ :  227
+
+ 1479 : LNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGM : 1540
+         .|  || : |        :.| :. .||.||. :| ||||||||| ::::: ..|::|||:
+  228 : -GRQHVTKKHQ-------INFACDTCSGMEYLERRKVVHRDLAARNVLISENGVAKVADFGL :  280
+
+ 1541 : TRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGL-- : 1601
+        :|   |.::  . .|  ||::| :||:|::|::|: ||:.|||::|||: :::  ||. :  
+  281 : AR---EENFTLDCGK--LPIKWTAPEALKQGIFSNKSDMWSFGILLWEIYSFGRVPYPRIVM :  337
+
+ 1602 : --------SNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDI : 1646
+                : .:|::.| .|  || ||.||   ..:|:: |: .:. ||:| ||
+  338 : LRVNVFISPLAEVVKHVEKGYKMEAPEGCPPEAYEIMKQAWDLNPDKRPNFRDI :  391
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1354 1646 . CLEC001497-PA 123 391 . 328 M 29 29 G 3 0 M 12 12 G 4 0 M 14 14 G 2 0 M 48 48 G 13 0 M 10 10 G 7 0 M 46 46 G 3 0 M 10 10 G 2 0 M 43 43 G 0 10 M 46 46
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025069-PA
+         Model: affine:local:protein2protein
+     Raw score: 235
+   Query range: 1446 -> 1651
+  Target range: 73 -> 286
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLN--RIG--VTGNVQPPTYGRIYQMAIEIA : 1504
+        .: :|: :...:: ::: .  .|.: :|: .|:|  |:.  : ..  | .::   ::|::|:
+   74 : EVQLMNQLSHPNILGFMGVCVHEGQLHALTEYINGGRLEQIIQNRSIPLPFSVRMKLALDIG :  135
+
+ 1505 : DGMAYLAAKKFVHRDLAARNCMV-----ADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR : 1561
+        .||.||  |.: ||||:::| :|     ::::|. :||||.: .| :   || .| |  :. 
+  136 : KGMEYLHCKDIFHRDLTSKNVLVKTNNETGEMTAVVGDFGFAAKIPNRCGYRLTTVG--SAY :  195
+
+ 1562 : WMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQ--VLRYVIDGGVMERPENC : 1621
+        ||:||.|::. |. :|||||:|::| |: : ...  : |:..:   | |:  : : :  :. 
+  196 : WMSPECLKGEWYDQSSDVFSYGIILCELIARVEADPDILTRTENFGLDYIAFAKLCQAEQPP :  257
+
+ 1622 : PDFLHKLMQRCWHHRSSARPSFLDIIAYLE : 1651
+        :.|| ||   | :. :..|||| :|:: ||
+  258 : SAFL-KLAFTCCNYEPRQRPSFAEIVPQLE :  286
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1651 . CLEC025069-PA 73 286 . 235 M 34 34 G 0 2 M 3 3 G 0 2 M 44 44 G 0 5 M 29 29 G 2 0 M 46 46 G 0 2 M 21 21 G 1 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000671-PA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 1501 -> 1657
+  Target range: 0 -> 161
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLL--PVR : 1561
+        :|.:::.|| |:.:.||||   | :::.   |||:|||.:|   : .  ::  .: :  :. 
+    1 : QIVNAVEYLHARDIAHRDLKCENVLLSSRDQVKIADFGFSRWCRDLTTNKRILSDTFCGSAA :   62
+
+ 1562 : WMPPESLRDGVYSSAS-DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENC- : 1622
+        . :|| |::  |::   ||.|.| :|. |   |: |::: : .|:|: : .   :. |.:| 
+   63 : YAAPEILQGIKYNPKMYDVWSMGCILYIMLC-ATMPFDDTNVKQMLK-IQTMRKLTFPTKCI :  122
+
+ 1623 : -PDFLHKLMQRCWHHRSSARPSFLDIIA--YLEPQCPNS : 1657
+         ::  ::|: :  :.  : |::: :| :  .|.:.|..:
+  123 : LSGRARRLILHILEPDVTRRATINQIAGSQWLSAACTPN :  161
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1657 . CLEC000671-PA 0 161 . 115 M 57 57 G 0 2 M 19 19 G 0 1 M 14 14 G 1 0 M 15 15 G 1 0 M 13 13 G 0 2 M 27 27 G 0 2 M 9 9
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005856-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 1496 -> 1633
+  Target range: 114 -> 263
+
+ 1497 : YQMAIE-IADGMAYLAAKKFVHRDLAARNCM--VADDLTV--KIGDFGMTRDIYETDYYRK- : 1553
+        : :.:: ::.|| .| .:::||||| : | |  : || :.  |:.||| :|:: |.: : . 
+  115 : FLLVLDHLTAGMKHLRDNNLVHRDLKPGNIMKFICDDGSTIYKLTDFGAARHLEEDEQFVSL :  176
+
+ 1554 : -GTKGLLPVRWMPPESLRDGV---YSSASDVFSFGVVLWEMAT--LAAQPYQGLSNEQVLRY : 1608
+         ||.. |.     .. ||.:|   :::: |:.|:||.|.::||  |: :|| | .|.:.: :
+  177 : YGTEEYLHPDMYERAVLRKAVRKTFGATVDLWSIGVTLYHVATGNLPFRPYGGRRNKETMYF :  238
+
+ 1609 : VIDGGVMERPENCPDFLHKLMQRCW : 1633
+        :..    .  .. ..: :  :::|:
+  239 : ITTKKESGVISGTQSLENGPINWCR :  263
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1496 1633 . CLEC005856-PA 114 263 . 112 M 6 6 G 0 1 M 24 24 G 0 2 M 7 7 G 0 2 M 19 19 G 0 2 M 20 20 G 0 3 M 19 19 G 0 2 M 42 42
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC007368-PA
+         Model: affine:local:protein2protein
+     Raw score: 658
+   Query range: 1336 -> 1651
+  Target range: 1909 -> 2215
+
+ 1337 : RKVPSNDLHMNTEVNPFYASMQYIPDD-WEVLRENIIQLAP-LGQGSFGMVYEGILKSFPPN : 1396
+        |::|. . |:::. | :|:: :  | .    || : | |:  || |:|| |:||  :::|.:
+ 1910 : RQIPRWSAHVQSS-NILYTGGNLAPVSLLPHLRRDQITLSKFLGSGAFGEVFEGQARNLPNS : 1970
+
+ 1397 : GVD-RECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKG : 1457
+        . |    |:||:...|.|:|:::||.|| :|.:|   |:::|||||  .:| :::||||. |
+ 1971 : ESDITRVAVKTLRKGANDQEKAEFLKEAQLMSNFRHAHILQLLGVCLDNDPHFIIMELMEGG : 2032
+
+ 1458 : DLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRD : 1519
+        || ||||| ||  :.|: :| ::               :  | :::|.|  ||....|||||
+ 2033 : DLLSYLRASRPLLKTESGLTLID---------------LLSMCVDVAKGCCYLEEMHFVHRD : 2079
+
+ 1520 : LAARNCMVA----DDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSAS : 1577
+        || |||:|:    :| .|||||||::||||..|||||...||||||||:|||| |||::..|
+ 2080 : LACRNCLVSSRVREDRIVKIGDFGLARDIYKNDYYRKEGEGLLPVRWMSPESLVDGVFTCQS : 2141
+
+ 1578 : DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSA : 1639
+        ||.:|||:|||: :|:.|||.: :| :|| || :|| :.:|.|..  :..|| :||: .:..
+ 2142 : DVWAFGVLLWEIMSLGQQPYPARNNLEVLYYVRNGGRLSQPTNSNVHMYDLMIKCWNFNPEE : 2203
+
+ 1640 : RPSFLDIIAYLE : 1651
+        ||:|   :. ||
+ 2204 : RPTFKYCLDVLE : 2215
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1336 1651 . CLEC007368-PA 1909 2215 . 658 M 13 13 G 1 0 M 13 13 G 0 1 M 13 13 G 0 1 M 23 23 G 0 1 M 81 81 G 15 0 M 33 33 G 0 4 M 123 123
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005838-PA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 1497 -> 1647
+  Target range: 120 -> 266
+
+ 1498 : QMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLP : 1559
+        ::  ::.:|: || :.:::||||:  | :::..: |||:|||:: ::  .|  :..  |  .
+  121 : HIMKQVVEGLLYLHSHNILHRDLTLANLLLTKKMRVKIADFGLATQLSRPDEKHMTMCG--T :  180
+
+ 1560 : VRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENC : 1621
+         ..::||  . : .: .:||.::| :|..: : : .|::. : . .|  |: :.   .:. .
+  181 : PNYISPEVAMRSSHGLEADVWGLGCMLYTLLA-GKPPFDTDAVKSTLTRVVMAEFQMPSGIS :  241
+
+ 1622 : PDFLHKLMQRCWHHRSSARPSFLDII : 1647
+        |:  :.|:::  :..:..|  : :|:
+  242 : PE-ARDLIEKLLRKNPRDRIHLSEIL :  266
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1497 1647 . CLEC005838-PA 120 266 . 129 M 59 59 G 2 0 M 33 33 G 1 0 M 31 31 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC007230-PA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 1338 -> 1631
+  Target range: 720 -> 1003
+
+ 1339 : VPSNDLHMNTEVNPFYASMQYIPDDWEVLRENIIQLAP-LGQGSFGMV--YEGILKSFPPNG : 1397
+        |..::: : :.:.| |.. : |.:: .||  : : |:  :|:|:|::|   :|::  |    
+  721 : VNKEHMLLLSALGP-YVDQEAIQGN-AVLGPHGFYLGKIIGRGAFSIVRKVNGFVWFF--LF :  778
+
+ 1398 : VDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDL : 1459
+        :: . : |   :..: :  ::| : ..::|.| . ::  : ::   .: .:: .    .:. 
+  779 : MQVAVSKKHNFQRVAVKIIAKFQAPDELIKKFLPREICVVKAL---THKNIIRFLATIESTH :  837
+
+ 1460 : KSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLA : 1521
+        : ||  : :|  ...:: :|.| | ..:::: :.   :|   |::.:: |  .:  ||||: 
+  838 : RVYLVMELAE--AGNLLQFLRRHGRVTELRAKAW---FQ---ELTSAVHYCHQNGVVHRDIK :  891
+
+ 1522 : ARNCMVADDLTVKIGDFGMTR-DIYETDYYRKGTKGL-LPVRWMPPESLRDGVYSS-ASDVF : 1580
+          | : . .  ||::|||.:: :|:|.:    .:..:  :  . :|| || :.| :  :||.
+  892 : CENILFDLTGCVKLSDFGFAKTGIFEVNGIAPTSHTFCGSYAYASPEILRLSTYQPLLADVW :  953
+
+ 1581 : SFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQR : 1631
+        |.|||||.| . :  |::: | .::|: | .. |. :. : :. |:.|:::
+  954 : SMGVVLWAM-VYGKLPFDSSSYSKLLKQVETPIVFPQTPSISKELQSLVKQ : 1003
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1338 1631 . CLEC007230-PA 720 1003 . 134 M 14 14 G 1 0 M 10 10 G 1 0 M 12 12 G 0 1 M 9 9 G 0 2 M 8 8 G 2 0 M 45 45 G 3 0 M 26 26 G 2 0 M 22 22 G 3 0 M 2 2 G 3 0 M 41 41 G 0 1 M 15 15 G 0 1 M 18 18 G 0 1 M 14 14 G 1 0 M 41 41
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000910-PA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 1887 -> 2131
+  Target range: 412 -> 663
+
+ 1888 : NHKRTGSNASHKSNASNAPSTSSNTNLTSHPV-AMGNLGTIESGGSGSAGSYTGTPRFYTPS : 1948
+        ::. .||: .:.:|: : |..: ::: |: || .:.: .|.::..:. :.  .:.::: :..
+  413 : QNEEEGSDIDQDNNSLSLPEKPIKSSPTTTPVKEVPSSTTTQPTTPTQSTITPSISKIISNK :  474
+
+ 1949 : ATPGGGSGMAISDNPNY----RLLDESIASEQATILTTSSPNPNYEMMHPPTSLVSTNPNYM : 2006
+          |.  :: .:  .||:    .||:: :  :| .|    |.:.:.:   |..:| ::.: |:
+  475 : LQPPHLNAHQMQMPPNFNGALSLLQQQVLQDQHPISHHHSHHHHHHPQIPHPALSNAAAMYL :  536
+
+ 2007 : PMNETPVQMAGVTISHNPNYQPMQAPLNARQSQSSSDEDNEQEEDD--EDEDDDVDDEHVEH : 2066
+        .:::.    ... ::.::. .: |.. :.:| |   :::::|::::  ::.::: :::| : 
+  537 : GVSHKFFMEQEARLNKEAAIAAEQQQQQQQQQQQQQQQQQHQQQQHLTQQAQHHQQQHHSQS :  598
+
+ 2067 : IKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPNSGIGATGAGNRSNLLKENWLRPA : 2128
+        :: .: : :::: .. |:.. .. : :.  .:.:. :|.  : .:. ::| :||:.| : . 
+  599 : VQPSQPSQNQSHGPQNPPTPTQQIPTNTQTVQTNRQSPTQQVKNAEFADRISLLRSNPMTQI :  660
+
+ 2129 : STP : 2131
+        :.|
+  661 : PGP :  663
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1887 2131 . CLEC000910-PA 412 663 . 130 M 32 32 G 0 1 M 46 46 G 0 4 M 87 87 G 0 2 M 79 79
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006950-PA
+         Model: affine:local:protein2protein
+     Raw score: 401
+   Query range: 1365 -> 1647
+  Target range: 461 -> 730
+
+ 1366 : VLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMK : 1427
+        : |:::.::  |||| || |. : :.:   :  :    :||: |. .:    :| .| .:. 
+  462 : ITRDHLTEMMVLGQGQFGDVCLARVEN--DDKCGGVVMVKTLLETRDEGVLHEFKRELDLFG :  521
+
+ 1428 : EFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQ : 1489
+          :  :||:|:|:|.   |  :|::  . ||||  | | :.| :|.:     :. .:|::: 
+  522 : RVNHANVVKLVGLCRDQYPHYMVLQYTDWGDLKQMLLATKGERKDKP-----KPPELTAKI- :  578
+
+ 1490 : PPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYR : 1551
+              :: :  ::  ||..::..::||||||||||:|:.:|:|||:  ::::|:| .:|::
+  579 : ------MFSLIKDLCLGMEHISNHRLVHRDLAARNCLVSSNLSVKISLSALSKDVYRKEYFH :  633
+
+ 1552 : KGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGG : 1613
+        . .| |:||||::|| :.|: ||: ||||||||. ||: :  . |..| |:::|:. :::.|
+  634 : HRNK-LMPVRWIAPEIVSDDDYSTKSDVFSFGVTAWEIFARCDMPHAGCSDQEVVSGLLENG :  694
+
+ 1614 : VME--RPENCPDFLHKLMQRCWHHRSSARPSFLDII : 1647
+         ::  :.|. |: | .|:: |:  .:|.|| | .::
+  695 : GLQLLHHEGTPQSLISLVNECRAANPSDRPLFSSLV :  730
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1365 1647 . CLEC006950-PA 461 730 . 401 M 27 27 G 2 0 M 80 80 G 5 0 M 9 9 G 7 0 M 60 60 G 1 0 M 60 60 G 0 2 M 31 31
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008137-PA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 1356 -> 1589
+  Target range: 0 -> 217
+
+ 1357 : MQY-IPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERT : 1417
+        |:| : | |   | : |::  ||:| |: ||.:   .     . :.  : : .|. .: :||
+    1 : MDYKLEDRWR--RYEKIEF--LGEGQFATVYKARDVETDMIVAVKKIKVGSQAEARDGINRT :   58
+
+ 1418 : NFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYL : 1479
+        . |.| .:::|:   ::: ||||     ..:: ::: .  : || : :   : .|..: . :
+   59 : A-LREIKLLQEIRHINIIGLLGV-----TNIINLQISDIFGHKSNV-SLVFDFMDTDLEVII :  113
+
+ 1480 : NRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMT : 1541
+        : .::   | .|:. : | : . :  |:.|| .: ::|||| :.| ::.:| .:||||||::
+  114 : KDTSI---VLTPAHIKAYTLMTLL--GLEYLHNNWILHRDLKPNNLLINGDGVLKIGDFGLA :  170
+
+ 1542 : RDIYETDYYRKGTKGLLPVRWMPPESLRDG-VYSSASDVFSFGVVLWEM : 1589
+        : :|.:   |  |. ::. :..:|| | :: :||:: |:.: | :: |:
+  171 : K-FYGSP-NRIYTHQVVTRWYRSPELLFGARMYSTGVDMWAVGCIFAEL :  217
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1356 1589 . CLEC008137-PA 0 217 . 143 M 3 3 G 0 1 M 6 6 G 2 0 M 7 7 G 2 0 M 42 42 G 1 0 M 21 21 G 5 0 M 18 18 G 1 0 M 20 20 G 3 0 M 16 16 G 2 0 M 37 37 G 1 0 M 5 5 G 1 0 M 22 22 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC013409-PA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 1498 -> 1610
+  Target range: 498 -> 608
+
+ 1499 : MAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPV : 1560
+        :  :: .::|.| .: ::|||| |.| ::::. .:|:||||::|: |.:    |. ..:: .
+  499 : LMQQLLKAVAHLHDNWILHRDLKASNLLLSHKGILKVGDFGLARE-YGSPL--KPYTPIVVT :  557
+
+ 1561 : RW-MPPESLRDG-VYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVI : 1610
+        || .:|| | ::  ||:: |:.| | :: |: |:.:  :.| |::: |. ::
+  558 : RWYRAPELLLGAKEYSTPIDMWSVGCIFSELMTMEPL-FPGKSEQDQLNKIF :  608
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1498 1610 . CLEC013409-PA 498 608 . 130 M 45 45 G 1 0 M 5 5 G 2 0 M 11 11 G 0 1 M 9 9 G 0 1 M 24 24 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003487-PA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 1456 -> 1628
+  Target range: 67 -> 233
+
+ 1457 : GDLKSYLRAHRPEE-RDEAMMTYLNRIGVTGNV--QPPTYGRIYQMAIEIADGMAYLAAKKF : 1515
+        | |. : .::. :: ::  ::|.|   ::.: :  || : :::  :. :|  |: |: :  :
+   68 : GLLDVFQSSRSIDDFQNLYLVTHLMGADLNSIIRTQPLSDDHVQFLVYQILRGLKYIHSAGI :  129
+
+ 1516 : VHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRW-MPPESLRD-GVYSS : 1575
+        :|||| :.|  |..| .:|| |||::| .       :. .| ::.|| .:|| : :   |: 
+  130 : IHRDLKPSNIAVNADCELKILDFGLARPT------ENEMTGYVATRWYRAPEIMLNWMHYNQ :  185
+
+ 1576 : ASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKL : 1628
+        : |:.| | :: |: |  :  :.| .: : |. :::  |:. |:  :||::|:
+  186 : TVDIWSVGCIMAELITRKTL-FPGKDHIHQLNLIME--VLGTPN--SDFMRKI :  233
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1456 1628 . CLEC003487-PA 67 233 . 123 M 14 14 G 0 1 M 18 18 G 0 2 M 56 56 G 6 0 M 12 12 G 0 1 M 8 8 G 0 1 M 25 25 G 1 0 M 15 15 G 2 0 M 6 6 G 2 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009756-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 1687 -> 2105
+  Target range: 737 -> 1149
+
+ 1688 : AAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVDDQGSHLPFSLPSGFIAS : 1749
+        :::.|. ::... .. :|  ||  .  : :  : ::|.:| .  .  .:  .  | ::: ::
+  738 : PPIRLKVHIPKSPAPPEAMRPLESPPIRLKVHVPKSPAPPDQQEKCSPNMAQSILVPAYPPP :  799
+
+ 1750 : STPDGQTVMATAFQNIPAAQGDISATYVVP-DADALDGDRGYEIYDPSPKCAELPTSRSGST : 1810
+         ..|: : | ..:.::.: :. ::. |  . ::: :|  ..   |.  .. .:| ..:.  .
+  800 : LEHDSSANM-INIPSVRPKHNPFAQFYHPHFHSHRVDKVNPSPPYSMQNEPQNLKIKQEVIP :  860
+
+ 1811 : GGGKLSGEQHLLP-RKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSSNASSHTGRPSLKKTV : 1871
+        .: . ::.:.| : :. : |.  ::|::: ::..:  :: :.|::::.:.|:...:::  ..
+  861 : PDQMPPATDPLQSLKEVKVPGYSGTSISQPLLPTTLNNSISQSTDPNRSDSNPPSSPFLGPA :  922
+
+ 1872 : ADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSG : 1933
+         |::::.::|:..:  ..... |.:.....:|.:|:.:.::.:::.. : :::.:: :.::.
+  923 : LDNIKKEPEFVTNR--PPTPVKSPSRPSEPSSPTPNPPRSSPFSAPQPPTSSVPSLIAPSPT :  982
+
+ 1934 : SAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQATILTTSSPNPNYEMMHPP : 1995
+         |.: |: |:   |:  |:  ::   . :|: .  :. ::: :     .  |  :..:: ::
+  983 : HATPPTSMPQ---PGMHPSQQPSPLSRVSPHLSHPHAFVPPMH----HPHHPLMHHSLLAAA : 1037
+
+ 1996 : TSLVSTNPNY---MPMNETPVQMAGVTISHNPNYQPMQAPLNARQSQSSSDEDNEQEEDDED : 2054
+        :: .:: .:|    |  . | . :. :|::. . ..   ||:|.   : | ....  |  |.
+ 1038 : AAHAAAVHQYHTPHPYYSYPFPYGPYAIPQPIPPPRDGKPLEASTMLTHSVTSRSIRE-VET : 1098
+
+ 2055 : EDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPN : 2105
+         |:.:::: .::|. .: .|:.:     ..|::.|::.::|:: .|:::::
+ 1099 : RDEALNHHTTQEITQTHHQLTSSTLLHHQEKSNQPQGMTISHSTTSSSSAS : 1149
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1687 2105 . CLEC009756-PA 737 1149 . 113 M 71 71 G 1 0 M 20 20 G 0 1 M 44 44 G 0 1 M 62 62 G 2 0 M 56 56 G 3 0 M 30 30 G 4 0 M 25 25 G 0 3 M 45 45 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004007-PA
+         Model: affine:local:protein2protein
+     Raw score: 543
+   Query range: 1359 -> 1646
+  Target range: 734 -> 1026
+
+ 1360 : IPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLS : 1421
+        : .|||  |.:::   .||:|:||.| .:   :: ...:.   |:| ::|. || |. :::|
+  735 : LDTDWEFPRTDLLMGKTLGEGAFGKVVKAEALGIIQPEISTIVAVKMLKEGHTDTEMMDLVS :  796
+
+ 1422 : EASVMKEFDTY-HVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRI : 1482
+        | .:|| ::.. :::.:|| |::: |  |::|    |:|:.:||.|||..      .| . |
+  797 : EMEMMKMIGKHRNIINILGCCTQDGPLYVIVEYAPYGNLRDFLRQHRPSS------GYEPAI :  852
+
+ 1483 : GVTGNVQPPTYGR-IYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRD : 1543
+        | : : :..   : :  .| : | ||.|||:|: :|||||||| :|::: .:||:|||::||
+  853 : GEAIKDRNTLTQKDLVSFAYQAARGMDYLASKRCIHRDLAARNVLVSENYVLKIADFGLARD :  914
+
+ 1544 : IYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSN-EQ : 1604
+        |.. |||||.|.| |||:||:||:| : :|::.|||.|:||:|||: ||:: ||.:::| |:
+  915 : IHSHDYYRKTTEGRLPVKWMAPEALFHRIYTTQSDVWSYGVLLWEIMTLGGTPYPSVPNMEK :  976
+
+ 1605 : VLRYVIDGGVMERP--------ENCPDFLHKLMQRCWHHRSSARPSFLDI : 1646
+        ::: : .|  ||:|        ::|. : ..:|: || .:::.||:| |:
+  977 : LFQLLRSGHRMEKPPCCSLEINNQCTFYSYMVMRDCWSYQANERPTFSDL : 1026
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1359 1646 . CLEC004007-PA 734 1026 . 543 M 73 73 G 0 1 M 38 38 G 6 0 M 19 19 G 0 1 M 107 107 G 0 1 M 16 16 G 0 8 M 28 28
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003573-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 1514 -> 1610
+  Target range: 358 -> 468
+
+ 1515 : FVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYY---------RKGTKGLLPVRWMPPES : 1567
+        :.|||:.::| :| :||:  : |:|:: .| .::||          |:.::: .:|.|:|| 
+  359 : ITHRDVNTKNILVKEDLSCCLVDLGLAVKITGSHYYTLGEEQHAETKSINDVGTLRYMAPEV :  420
+
+ 1568 : LRDGVYSSAS-------DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVI : 1610
+        | ::|  ...       ||:::|:||||:|  ..: |:  ..::||.|.:
+  421 : LEGAVNLRDCESSLKQVDVYALGLVLWEIAMRVVDFYN--RPNDVLPYTL :  468
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1514 1610 . CLEC003573-PA 358 468 . 104 M 36 36 G 0 9 M 27 27 G 0 7 M 21 21 G 2 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003330-PA
+         Model: affine:local:protein2protein
+     Raw score: 246
+   Query range: 1531 -> 1664
+  Target range: 24 -> 152
+
+ 1532 : TVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLA : 1593
+        |:||.|||::|::|.|.  |.:: |  :  ||:|| ::.:.:|.:|||.||||||||: | :
+   25 : TLKITDFGLAREVYTTT--RMSAAGTYA--WMAPEVIKSSTFSKSSDVWSFGVVLWELLT-G :   81
+
+ 1594 : AQPYQGLSNEQVLRYVIDGGVME--RPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+        ..||::: :  .: | :.:. :.   |..||   .:||: ||:  |  |||| :|:. |:: 
+   82 : EAPYKDI-EPLTIAYGVASNHLKLPIPSTCPIEWKRLMEACWETDSHKRPSFEHILQRLDS- :  142
+
+ 1654 : CPNSQFKEVSF : 1664
+          :| |...::
+  143 : IVQSGFTKTPY :  152
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1531 1664 . CLEC003330-PA 24 152 . 246 M 17 17 G 2 0 M 9 9 G 2 0 M 30 30 G 1 0 M 8 8 G 1 0 M 15 15 G 0 2 M 36 36 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002931-PA
+         Model: affine:local:protein2protein
+     Raw score: 591
+   Query range: 1361 -> 1652
+  Target range: 367 -> 664
+
+ 1362 : DDWEVLRENIIQLAPLGQGSFGMVYEGI----LKS-FPPNGVDRE-----CAIKTVNENATD : 1413
+        :. |  |::|| :. ||||:||.|::|     |::   :.|: :.      |:| ::|:|::
+  368 : EKLEFPRNDIIYVQDLGQGAFGRVFQGAGSWWLNPEAKAPGLLKGEEFTLVAVKMLKEEASE :  429
+
+ 1414 : RERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAM : 1475
+          :.:| .||.::  ||  ::|:|||||: |:|  ::.| | :|||:.:||: .|   .: :
+  430 : DLQIDFEREACLLACFDHPNIVKLLGVCAVGKPMCLLFEYMGRGDLNEFLRSCSP---SNYI :  488
+
+ 1476 : MTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGD : 1537
+        :   :  ::  ::| .| . : ::| :||.||.||:.:||||||||:|||::.|.:||||:|
+  489 : VHSTDGGDLYKDIQLTT-PDLLKIAQQIASGMVYLSDRKFVHRDLATRNCLIDDSMTVKIAD :  549
+
+ 1538 : FGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQG : 1599
+        ||:::.:|  |||: :..: :|||||| ||:  . |: .|||.:||| |||: ::| ||| |
+  550 : FGLSQKMYLQDYYKGDEHDAIPVRWMPLESILYNKYTIESDVWAFGVCLWEIFSFALQPYYG :  611
+
+ 1600 : LSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEP : 1652
+        :::|:|::|: :|.|:: |:| |. :..||:.||:.::: ||||  : . ||:
+  612 : MTHEEVVKYIKEGNVLQCPDNTPKTIYTLMKSCWNKKPALRPSFRIVHQTLES :  664
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1361 1652 . CLEC002931-PA 367 664 . 591 M 28 28 G 0 4 M 3 3 G 0 1 M 9 9 G 0 5 M 67 67 G 3 0 M 21 21 G 1 0 M 159 159
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001933-PA
+         Model: affine:local:protein2protein
+     Raw score: 436
+   Query range: 1495 -> 1651
+  Target range: 36 -> 192
+
+ 1496 : IYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGL : 1557
+        |  .| :|:.|||||:. |:||||||||| ::|.: . ||:|||:||||||.| | | ::| 
+   37 : ILSFAWQISKGMAYLSEIKLVHRDLAARNILLASGKVCKISDFGLTRDIYEDDAYLKKSRGR :   98
+
+ 1558 : LPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPE : 1619
+        :||:||: |||.| :|:| |||.|||:|:||:.||:: ||.|:: ::| : : :|  |:||:
+   99 : VPVKWMAIESLSDHIYTSKSDVWSFGIVMWELVTLGSSPYPGIAVQNVYHLLKNGYRMHRPH :  160
+
+ 1620 : NCPDFLHKLMQRCWHHRSSARPSFLDIIAYLE : 1651
+        ||:  |..:|: |||  :| ||.| .:.. :|
+  161 : NCSVKLYEVMRECWHFEPSHRPDFQTLTDIFE :  192
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1495 1651 . CLEC001933-PA 36 192 . 436 M 156 156
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010936-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 1496 -> 1605
+  Target range: 50 -> 165
+
+ 1497 : YQMAIEIADGMAYLAAKKF-VHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGL : 1557
+        | :  :: .|||:|  ..:  | :| :..|:|.. :.:||.|||: |.: ||.  ..::.: 
+   51 : YSLMHDLIKGMAFLHHSDIKSHGNLKSSTCLVDSRFVLKITDFGL-RSLRETAGSMEDSDSY :  111
+
+ 1558 : L---PVRWMPPESLR--DGVYSSA--SDVFSFGVVLWEMATLAAQPYQGLSNEQV : 1605
+             : | :|| ||  :.  .::  :||:||:::: |:.| .: |...|::  :
+  112 : AYWKKMLWTAPELLRLENPPLEGTQKGDVYSFAIIVHEIVTRQG-PWANLPEPSI :  165
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1496 1605 . CLEC010936-PA 50 165 . 113 M 19 19 G 0 1 M 25 25 G 1 0 M 17 17 G 0 3 M 11 11 G 0 2 M 7 7 G 0 2 M 18 18 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025123-PB
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 481 -> 644
+  Target range: 339 -> 500
+
+ 482 : KECRLSKCP-GEI--RIEEGHDTTAIEGELNASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDE : 542
+       .||| | |. |.:   : :|.:     |. . :|::: |   |.::  |:.  ..|| :. |: 
+ 340 : DECRSSPCQYGGLCEDLVNGYQCRCKPGTSGLNCEINVNE--CYSNP-CRN--GAKCVDG-INR : 397
+
+ 543 : HTC-CSQDCLG-GC--VIDKNGNESCIS---CRNVSFNNICMDSCPKGYYQFDSRCVTA-NECI : 598
+       .:| | .:. |  |   |:. ::::| :   | ::  .  |  .||:|||  |:||::. ||| 
+ 398 : YSCECLPGYTGLHCETNINECASNPCANNGICIDLVNGFKC--ECPRGYY--DARCLSDINECS : 457
+
+ 599 : TLTKFETNSVYSGIPYNGQCITHCPTGYQKSENKRMCEPCPGGKCD : 644
+       : . ::..:  .|:   .: | ||..||  .  .   : |::. |:
+ 458 : SNPCLNGGTCEDGL---NKFICHCRPGYGGKRCEIDIDECSSNPCQ : 500
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 481 644 . CLEC025123-PB 339 500 . 101 M 9 9 G 0 1 M 3 3 G 0 2 M 25 25 G 2 0 M 5 5 G 1 0 M 3 3 G 2 0 M 7 7 G 1 0 M 6 6 G 0 1 M 7 7 G 0 1 M 2 2 G 0 2 M 12 12 G 0 3 M 10 10 G 2 0 M 7 7 G 2 0 M 7 7 G 0 1 M 18 18 G 3 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025123-PC
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 481 -> 644
+  Target range: 197 -> 358
+
+ 482 : KECRLSKCP-GEI--RIEEGHDTTAIEGELNASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDE : 542
+       .||| | |. |.:   : :|.:     |. . :|::: |   |.::  |:.  ..|| :. |: 
+ 198 : DECRSSPCQYGGLCEDLVNGYQCRCKPGTSGLNCEINVNE--CYSNP-CRN--GAKCVDG-INR : 255
+
+ 543 : HTC-CSQDCLG-GC--VIDKNGNESCIS---CRNVSFNNICMDSCPKGYYQFDSRCVTA-NECI : 598
+       .:| | .:. |  |   |:. ::::| :   | ::  .  |  .||:|||  |:||::. ||| 
+ 256 : YSCECLPGYTGLHCETNINECASNPCANNGICIDLVNGFKC--ECPRGYY--DARCLSDINECS : 315
+
+ 599 : TLTKFETNSVYSGIPYNGQCITHCPTGYQKSENKRMCEPCPGGKCD : 644
+       : . ::..:  .|:   .: | ||..||  .  .   : |::. |:
+ 316 : SNPCLNGGTCEDGL---NKFICHCRPGYGGKRCEIDIDECSSNPCQ : 358
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 481 644 . CLEC025123-PC 197 358 . 101 M 9 9 G 0 1 M 3 3 G 0 2 M 25 25 G 2 0 M 5 5 G 1 0 M 3 3 G 2 0 M 7 7 G 1 0 M 6 6 G 0 1 M 7 7 G 0 1 M 2 2 G 0 2 M 12 12 G 0 3 M 10 10 G 2 0 M 7 7 G 2 0 M 7 7 G 0 1 M 18 18 G 3 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025123-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 481 -> 644
+  Target range: 607 -> 768
+
+ 482 : KECRLSKCP-GEI--RIEEGHDTTAIEGELNASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDE : 542
+       .||| | |. |.:   : :|.:     |. . :|::: |   |.::  |:.  ..|| :. |: 
+ 608 : DECRSSPCQYGGLCEDLVNGYQCRCKPGTSGLNCEINVNE--CYSNP-CRN--GAKCVDG-INR : 665
+
+ 543 : HTC-CSQDCLG-GC--VIDKNGNESCIS---CRNVSFNNICMDSCPKGYYQFDSRCVTA-NECI : 598
+       .:| | .:. |  |   |:. ::::| :   | ::  .  |  .||:|||  |:||::. ||| 
+ 666 : YSCECLPGYTGLHCETNINECASNPCANNGICIDLVNGFKC--ECPRGYY--DARCLSDINECS : 725
+
+ 599 : TLTKFETNSVYSGIPYNGQCITHCPTGYQKSENKRMCEPCPGGKCD : 644
+       : . ::..:  .|:   .: | ||..||  .  .   : |::. |:
+ 726 : SNPCLNGGTCEDGL---NKFICHCRPGYGGKRCEIDIDECSSNPCQ : 768
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 481 644 . CLEC025123-PA 607 768 . 101 M 9 9 G 0 1 M 3 3 G 0 2 M 25 25 G 2 0 M 5 5 G 1 0 M 3 3 G 2 0 M 7 7 G 1 0 M 6 6 G 0 1 M 7 7 G 0 1 M 2 2 G 0 2 M 12 12 G 0 3 M 10 10 G 2 0 M 7 7 G 2 0 M 7 7 G 0 1 M 18 18 G 3 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001991-PA
+         Model: affine:local:protein2protein
+     Raw score: 144
+   Query range: 1445 -> 1621
+  Target range: 49 -> 227
+
+ 1446 : PALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNR--IGVTGNVQPPTYGRIYQMAIEIAD : 1505
+        ..: ::. ::.::| : | . |...| : :..:::   ::  .:::. : ::. : : :|  
+   50 : REIRMLKRLRHDNLVNMLEVFRRKKRFHLVFEFMKETLLDKFEQLHGLSESKTREYTYQIIR :  111
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRW-MPPE : 1566
+        |:.:  .:::||||| : | :|:.: .:|: |||.:|  : |   :.. .. ::.|| .:||
+  112 : GLDFCHNNNIVHRDLKPENVLVSTNDVIKLCDFGFAR--FIT-ISQDPFTEYVATRWYRAPE :  170
+
+ 1567 : SLRDGV-YSSASDVFSFGVVLWEMATLAAQP-YQGLSN-EQVLRYV-IDGGVMERPENC : 1621
+         | ::| |:.| |:.::| :: ||  |:::| :.| |: :|: : . : |.:  |. :|
+  171 : LLVGDVKYGRAVDIWALGCMMLEM--LTSEPLFPGDSDIDQLYKITSVIGNLTPRQMQC :  227
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1445 1621 . CLEC001991-PA 49 227 . 144 M 36 36 G 0 2 M 61 61 G 2 0 M 3 3 G 1 0 M 14 14 G 0 1 M 10 10 G 0 1 M 17 17 G 2 0 M 5 5 G 0 1 M 6 6 G 0 1 M 7 7 G 0 1 M 12 12
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009641-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 1417 -> 1589
+  Target range: 72 -> 239
+
+ 1418 : NFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYL : 1479
+        : ::. .. ||| :  : | |:: ::  .: :|      :  ..||   | .| :: ::.|:
+   73 : KVINTKRAPKEFVAKFLPRELDILGKVLHPNIVHIHAIYSRSSKYLIFMRYAEVGD-LLDYV :  133
+
+ 1480 : NRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMT : 1541
+           |  |:  : .  : ||:|:.|    .|| :.: .|||:   | ::::::.||::|||.:
+  134 : LEKGELGENISKV--WSYQLALAI----QYLHTMQVAHRDIKCENILITNNFNVKLADFGFA :  189
+
+ 1542 : RDIYETDYYRKGTKGL-LPVRWMPPESLRD-GVYSSASDVFSFGVVLWEM : 1589
+        | : : .  . .::.   :: . :|| |:: . |:. .||.|:|:|:. |
+  190 : RFVVDHSGKPVTSNTYCGSLAYASPEVLKGKPYYPKCCDVWSLGIVIYIM :  239
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1417 1589 . CLEC009641-PA 72 239 . 120 M 56 56 G 1 0 M 18 18 G 2 0 M 9 9 G 4 0 M 50 50 G 0 1 M 13 13 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006567-PB
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1446 -> 1586
+  Target range: 52 -> 195
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP---TYGRIYQMAIEIAD : 1505
+        .: : .::|..:: .:  .:. :. |  .|.| .: .: :.::|    : .   :. ::: :
+   53 : EIGIHKILKSPHIIRFYGNRSENGIDYIFMEYAPHGELFDRIEPDVGMSTNDAQKFMMQLLN :  114
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPES : 1567
+        |:.|| :: :.|||: : | ::.:. .:||:|||::  : . :  |  .|   .:..::|| 
+  115 : GVEYLHSRGIAHRDIKPENLLLDEKDNLKISDFGLATLFRSHGKERPLDKKCGTLPYVAPEV :  176
+
+ 1568 : LRDGVYSSASDVFSFGVVL : 1586
+        |: .  : ::||.| |:||
+  177 : LHRPYAAQPADVWSCGIVL :  195
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1586 . CLEC006567-PB 52 195 . 119 M 45 45 G 0 3 M 95 95
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006567-PE
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1446 -> 1586
+  Target range: 52 -> 195
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP---TYGRIYQMAIEIAD : 1505
+        .: : .::|..:: .:  .:. :. |  .|.| .: .: :.::|    : .   :. ::: :
+   53 : EIGIHKILKSPHIIRFYGNRSENGIDYIFMEYAPHGELFDRIEPDVGMSTNDAQKFMMQLLN :  114
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPES : 1567
+        |:.|| :: :.|||: : | ::.:. .:||:|||::  : . :  |  .|   .:..::|| 
+  115 : GVEYLHSRGIAHRDIKPENLLLDEKDNLKISDFGLATLFRSHGKERPLDKKCGTLPYVAPEV :  176
+
+ 1568 : LRDGVYSSASDVFSFGVVL : 1586
+        |: .  : ::||.| |:||
+  177 : LHRPYAAQPADVWSCGIVL :  195
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1586 . CLEC006567-PE 52 195 . 119 M 45 45 G 0 3 M 95 95
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006567-PD
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 1446 -> 1586
+  Target range: 52 -> 195
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP---TYGRIYQMAIEIAD : 1505
+        .: : .::|..:: .:  .:. :. |  .|.| .: .: :.::|    : .   :. ::: :
+   53 : EIGIHKILKSPHIIRFYGNRSENGIDYIFMEYAPHGELFDRIEPDVGMSTNDAQKFMMQLLN :  114
+
+ 1506 : GMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPES : 1567
+        |:.|| :: :.|||: : | ::.:. .:||:|||::  : . :  |  .|   .:..::|| 
+  115 : GVEYLHSRGIAHRDIKPENLLLDEKDNLKISDFGLATLFRSHGKERPLDKKCGTLPYVAPEV :  176
+
+ 1568 : LRDGVYSSASDVFSFGVVL : 1586
+        |: .  : ::||.| |:||
+  177 : LHRPYAAQPADVWSCGIVL :  195
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1586 . CLEC006567-PD 52 195 . 119 M 45 45 G 0 3 M 95 95
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001980-PA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 1670 -> 2118
+  Target range: 163 -> 620
+
+ 1671 : LQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVD : 1732
+        |:: .||  .:.  .. : .|  : |:... .  :.:| : :.  .|:. .:: .|.:|: |
+  164 : LKQTTKEEVAKTVTSNVPLAPALEPLKSNAVPLLSESP-KSDAVVPNAKAADALTSTVALKD :  224
+
+ 1733 : DQGSHLPFSLPSGFIASSTPDGQTVMATAFQNIPAAQGDISATYVVPDADAL-DGDRGYEIY : 1793
+        :.:: |: : ...  |::||..::  |.: .:. |:.:  |:.  ||.| |: .:| : .  
+  225 : EASPTLAVTKTETPAAPGTPKTEAPAAPGTPKTEAPAAPGSPKTEVPAAPAVPKADVSAAPG :  286
+
+ 1794 : DPSPKCAELPT--SRSGSTGGGKLSGEQHLLP--RKGRQPTIMSSSMPDDVIGGSSLQPSTA : 1851
+        .|... :. ||  . .||: .:. ..|..  |  .|:  |:. : :..:. :...: :..::
+  287 : TPKTEAPAAPTMPKAEGSAVPSTPKTEAPAAPAMPKAEVPATPGVPKTETPVEPDTPKTEAP :  348
+
+ 1852 : SAGSSNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSSNTN : 1913
+        :| :|: :. .  |:| || . : ....:  .. ::.  :|. .|:..:. ::||:  ...:
+  349 : AALGSSKTEAPVAPGLPKTEVPASPGTQQTEAPLVLGSPKTEVPAAPSTPKTEAPALQETPK :  410
+
+ 1914 : LTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRL-LDESIAS : 1974
+         .:. :: :. ...  :.:.: :.  ::|.: .:.|. :.||. ::: .:. .|  :.::: 
+  411 : ADAPVLPGSPKTETPVAPGTPKSDVLAAPSLPKSDAPVAPGSPSTVAPAAPSSLKTEGPVTQ :  472
+
+ 1975 : EQATI-LTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNA : 2035
+        . :.: :..::..|: |: ::|.:  :..|   . ..| .. |. | . ::.  | .:  :|
+  473 : GTPKVEVPIAPGTPKTEVPEAPGTPKTEAPVLAGPPKTEAPPAPGTPKTEAPATPSAPKAEA :  534
+
+ 2036 : RQSQSSSDEDNEQEEDDEDEDDDVDDEHVEHIKMER-MPLSRPRQRALPSKTQPPRSRSVSQ : 2096
+        .. .|::..|.  . :: . :... :. :.:  |..  | : :...: .:|:: | :.|.::
+  535 : PAVPSTPKSDTPVGLGGPKMEAATPQGTLTDAPMAPGTPKTEAPASPGTPKAEVPLAPSTPK :  596
+
+ 2097 : TRKS--PTNPNSGIGATGAGNRSN : 2118
+        |  :  |.:|::.:.::.|..:::
+  597 : TEAPAVPGSPKTEVPSAPATTKTE :  620
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1670 2118 . CLEC001980-PA 163 620 . 115 M 38 38 G 1 0 M 75 75 G 0 1 M 20 20 G 0 2 M 19 19 G 0 2 M 144 144 G 0 1 M 12 12 G 0 1 M 92 92 G 0 1 M 29 29 G 0 2 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001980-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 1687 -> 2106
+  Target range: 278 -> 700
+
+ 1688 : AAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVDDQGSHLPFSLPSGFIAS : 1749
+        |.|: ..: .. |....:| |   |.  .::: .::|.:|    .: .:  . : ... :.:
+  279 : ADVSAAPGTPKTEAPAAPTMPKAEGSAVPSTPKTEAPAAPAMPKAEVPATPGVPKTETPVEP :  340
+
+ 1750 : STPDGQTVMA-TAFQNIPAAQGDISATYVVPDADALDGDRGYEIYDPSPKCAELPTSRSGST : 1810
+        .||..::  | .: :. ::...::: | | :.::: :.: .  : .|... :. |::....:
+  341 : DTPKTEAPAALGSSKTEAPVAPGLPKTEVPASPGTQQTEAPLVLGSPKTEVPAAPSTPKTEA :  402
+
+ 1811 : GG--GKLSGEQHLLPRKGRQPTIMSSSMP-DDVIGGSSLQPSTASAGSSNASSHTGRPSLKK : 1869
+        .:  .. .::..:|| ..:  | :::: | .||::::||. |.|:.:::::|: :. :: . 
+  403 : PALQETPKADAPVLPGSPKTETPVAPGTPKSDVLAAPSLPKSDAPVAPGSPSTVAPAAPSSL :  464
+
+ 1870 : TVADSVRNKANFINRHLF-NHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESG : 1930
+        ...::| : :. :: .:  .  :|. ..:. :. ::||  ::..: .:.|.: .. ..  :.
+  465 : KTEGPVTQGTPKVEVPIAPGTPKTEVPEAPGTPKTEAPVLAGPPKTEAPPAPGTPKTEAPAT :  526
+
+ 1931 : GSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQATILTTSSP-NPNYEM : 1991
+        .|:: :. .:.|.  .:.:. | |:..  :..|:  | |.::|:. :.. :.:|| .|: |:
+  527 : PSAPKAEAPAVPSTPKSDTPVGLGGPKMEAATPQGTLTDAPMAPGTPKTEAPASPGTPKAEV :  588
+
+ 1992 : MHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNARQSQSSSDEDNEQEEDDE : 2053
+          :|::  :..|.  . ..| |. |..|.. ::   |: :  :: .::::.|..:  ..:  
+  589 : PLAPSTPKTEAPAVPGSPKTEVPSAPATTKTES---PVTSKSEPTPTEPTKDASKCLSKELP :  647
+
+ 2054 : DEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPTNPNS : 2106
+        ..:.: ..| |..   .   |::| : . ..  :|. : :| :|.| ..:.:|
+  648 : KTESNKSTEVVKPEAPKTEELPKPTDTQKTEAQKPNTNVPVQETPKQTVSNES :  700
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1687 2106 . CLEC001980-PA 278 700 . 109 M 72 72 G 0 1 M 53 53 G 0 2 M 25 25 G 0 1 M 50 50 G 0 1 M 98 98 G 0 1 M 39 39 G 3 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC011466-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 1694 -> 2136
+  Target range: 1885 -> 2337
+
+ 1695 : DLQDREQQEDATTPLRMGDYQQNSSLDQPPESPIAMVD-DQGSHLPFSLPSGFIASSTPDGQ : 1755
+        .|.: |: .|..|: .:..  ::..:..   || ::|. :: |.:| .| .:   ..:  : 
+ 1886 : SLPGIEKLTDVKTASPVPSQTDQKEVTPKVLSPEPLVAVEKVSPVPPKLDDA--KKEAVLST : 1945
+
+ 1756 : TVMATAFQNIPAAQGDISATYVVPDADALDGDRGYEIYDPSPKCAELPTSRSGSTGGGKLSG : 1817
+        :: : ::|.: ::::: ::.    .: :|..:   .  : .||  . |:: ::.|  :| ::
+ 1946 : SLETQPLQPVESTKDEKTSDESKESPVPLKPHDKETAAEDEPKDKTTPAAEPAETKLSKSPS : 2007
+
+ 1818 : EQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSSNASSHTGRPSLKKTVADSVRNKA : 1879
+           | . |.:::|  ::::| .  . || . :. ..:..:::|.|..| :... :..: .. 
+ 2008 : PTVLQNEKEKESTEGTATVPPKSETVSSSPEPEKKDDREKTGSKTPSPHFMEDSSSKLDGEK : 2069
+
+ 1880 : NFI-NRHLFNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESG-GSGSAGSYT : 1939
+        ::  ::   .. :. ..:::..: |.:||..|... .::: .::: :.:.|. :.::.:: |
+ 2070 : ELSKSKTPSPPPQKLDGTTDTKSISPTPSKESPVPSKPESPVLSKPSDFTSEKSESPVSAKT : 2131
+
+ 1940 : GTPRFYTPSATPGGGSGM-AISDNPNYRLLDESIASEQATILTTSSPNPNYEMMHP--PTSL : 1998
+        ..::: : :::|.....: : |:: :   :  : :..:.:  :: ||.|: : :..  |.| 
+ 2132 : EESKLTSKPGSPTETDELKGKSESVSKEEVPPPSSKTEESKEASQSPTPSADELKNAKPESP : 2193
+
+ 1999 : VSTNPN--YMPMNETPVQMAGVTISHNPNYQPMQAPLNA-RQSQSSSDEDNEQEEDDEDEDD : 2057
+        .:::|:   ::.:|:|  | ... | |.: :  |:| :: .: ::  |.: |:. ..:.||.
+ 2194 : APSKPDDIDVSKSESPFSMKEAKDSLNGELKETQSPQSPVSKMEALVDSGMENGPSKDSEDS : 2255
+
+ 2058 : DVDDEHVEHIKMERMPLSRPRQRALPSKTQ---PPRSRSVSQTRKSPTNPNSGIGATGAGNR : 2116
+        . ...  . :. .: |  . ...:||:| :   |:.: : .:|..:|.. :.: .::. ..:
+ 2256 : KPSTTSPTMLTETKEPALSKSPSPLPTKQETETPSPTLTKEETPSPPVTKEESKPSSPLPTK : 2317
+
+ 2117 : SNLLKENWLRPASTPRPPPP : 2136
+        .:   .. |.| ..:::|:|
+ 2318 : EESTPSTVLPPKEDSKAPSP : 2337
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1694 2136 . CLEC011466-PA 1885 2337 . 117 M 38 38 G 0 1 M 13 13 G 2 0 M 135 135 G 0 1 M 48 48 G 0 1 M 27 27 G 0 1 M 37 37 G 0 2 M 10 10 G 0 2 M 31 31 G 0 1 M 52 52 G 0 3 M 49 49
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC007160-PA
+         Model: affine:local:protein2protein
+     Raw score: 578
+   Query range: 1354 -> 1650
+  Target range: 184 -> 468
+
+ 1355 : ASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRER : 1416
+        .|| |::    : |::||  . :|:|.||.||.| | ::..:.|: . |||.::::||. . 
+  185 : NSMTYFS-PLVLPRDSIIFQNVIGEGCFGKVYKGEL-TLQNKNVN-TVAIKVLKDSATKEAE :  243
+
+ 1417 : TNFLSEASVMKEFDTYHVVRLLGVCSR--GQPALVVMELMKKGDLKSYLRAHRPEERDEAMM : 1476
+        .:|:.|..:|..|:  :::.|||| ::  |:::::|.|:|  |||.. ||::... :.:.  
+  244 : DDFMREVEIMTSFHHSNILSLLGVVAKEPGKSPMMVFEFMPYGDLTEVLRSNSTTFWKHD-- :  304
+
+ 1477 : TYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDF : 1538
+        : |.|:. .:         : ::|::|| || |||.:.||||||| |||:|: :|||||:||
+  305 : SNLPRLNKES---------LLNIAMQIACGMCYLAEQHFVHRDLACRNCLVGLNLTVKIADF :  356
+
+ 1539 : GMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGL : 1600
+        ||:||:|. |||: |.. |||||||:|||:  | :: .|||.||||||||: :|: ||| | 
+  357 : GMSRDVYTCDYYKIGGSRLLPVRWMSPESITYGRFTLESDVWSFGVVLWEIYSLGKQPYFGN :  418
+
+ 1601 : SNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYL : 1650
+        |||:|:: :::| :: .|.:||  : .:|: ||.  :..| :| .| : |
+  419 : SNEDVVKLILQGIMLIPPKDCPLGICDIMRLCWKTEPRDRINFEKICSLL :  468
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1354 1650 . CLEC007160-PA 184 468 . 578 M 7 7 G 1 0 M 28 28 G 1 0 M 8 8 G 1 0 M 43 43 G 0 2 M 31 31 G 2 0 M 10 10 G 9 0 M 155 155
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC006967-PA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 1373 -> 1906
+  Target range: 56 -> 551
+
+ 1374 : LAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRER-TNFLSEASVMKEFDTYHV : 1434
+        | .:|:|:|:.|    | .  |.|  :| |||.::... :...  :::.|..:|| :|  ::
+   57 : LKTIGKGNFAKV---KLARHVPTG--KEVAIKIIDKTQLNPGSLQKLFREVRIMKLLDHPNI :  113
+
+ 1435 : VRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRI : 1496
+        |:|: | . .:.  :|||  . |:: .||  | . . .||. .:                  
+  114 : VKLFQVIETEKTLYLVMEYASGGEVFDYLVLHGRMKEKEARAKF------------------ :  158
+
+ 1497 : YQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLL : 1558
+             :|..::.|  .||::|||| | | ::..::.:||:|||.:.: :..:   ..  |  
+  159 : ----RQIVSAVQYCHQKKIIHRDLKAENLLLDSEMNIKIADFGFSNE-FTPGNKLDTFCG-- :  213
+
+ 1559 : PVRWMPPESLRDGVYSSAS-DVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVME--- : 1617
+        : .. :|| :::  |.::. ||.|:||:|..:.: :: |::| :  ::   |: |  .    
+  214 : SPPYAAPELFQGKKYDGPEVDVWSLGVILYTLVS-GSLPFDGSTLRELRERVLRGKYRIPFY :  273
+
+ 1618 : RPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQHREKER : 1678
+        .:.:| ::|:|::     .|:|  . . |   .::    :.::|  :: ::|:  :.:: .|
+  274 : MSTDCENLLRKFLVLNPAKRASLETIMKD--KWMNMGHEDDELK--PYLEPEP--DYKDLKR :  329
+
+ 1679 : KERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQNSSLDQP-PESPIAMVDDQGSHLP : 1739
+         |     ::: : :::.| : . ::  :| | :|    ::. | : :.|:::: ::: :  :
+  330 : IEALVGMGYTRMEIEDSLTQAKYDDVFATYLLLGRKSTDPESDGSRSGSSLSLRGNHQGSAA :  391
+
+ 1740 : FSLPSGFIASSTPDGQTVMATAFQNIPAAQGDISATYVVPDADALDGDRGYEIYDPSPKCAE : 1801
+         : :::   :::.. :  ::::  : :  .:. :|. : . :.: :.....:  .:::  ..
+  392 : SGGANSPSHGNSRSVHRSISSSGTKPSRRASSAAADTLRGVSTGTNTTMNHNHITSGSVTQG :  453
+
+ 1802 : LPTSRSGSTGGGKLSGEQHLLPRKGRQPTIMSSSMPDDVIGGSSLQPSTASAGSSNASSHTG : 1863
+         . .| .:.:.:.:..:   |  ::|.:.  :|::|  |::.|:: ::. : | ::::: :|
+  454 : SNFKRQNTVDTATIKENTARL--NSRPAKNATSTLP--VLDTSGVSSPGKPRGVTKSNTMSG :  511
+
+ 1864 : RPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAP : 1906
+        ..|| .|.|.:    :.  .|  |:.. .:|:....:.|:::|
+  512 : NRSLATTTATAG---GTVSRRSTFSYDTKSSSNEKTNTAGETP :  551
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1373 1906 . CLEC006967-PA 56 551 . 137 M 12 12 G 3 0 M 9 9 G 2 0 M 17 17 G 0 1 M 62 62 G 22 0 M 43 43 G 1 0 M 12 12 G 2 0 M 19 19 G 0 1 M 14 14 G 1 0 M 24 24 G 0 3 M 29 29 G 2 0 M 13 13 G 2 0 M 7 7 G 2 0 M 52 52 G 0 1 M 99 99 G 2 0 M 13 13 G 2 0 M 36 36 G 3 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005794-PA
+         Model: affine:local:protein2protein
+     Raw score: 160
+   Query range: 1495 -> 1643
+  Target range: 503 -> 658
+
+ 1496 : IYQMAIEIADGMAYLAAKKFV-HRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKG : 1556
+        :  :. :| .|| || ...:| | :| :.||:|..  .::|.|||:  : :.::   .:: .
+  504 : VSSLVADIIKGMIYLHDSEIVSHGNLRSSNCLVDSRWVLQITDFGL--HEFKAGQEEDDSLE :  563
+
+ 1557 : LLPVRWMPPESLRDGVY----SSASDVFSFGVVLWEMATLAAQ-PYQGLSNEQVLRYVIDGG : 1613
+          .  |.:|| |::: .    :  :||:||:::| |:.. ::. .   |::::::: | .|:
+  564 : TRRKLWRAPELLKGAHCHPRGTQKGDVYSFAIILHEVVGRSGPWGSTQLTEQEIVKSVASGS :  625
+
+ 1614 : VMERPE----NCPDFLHKLMQRCWHHRSSARPSF : 1643
+         : ||:    : :  : | |:.||:: :..||.|
+  626 : GL-RPDVSGLDTSPSIVKCMESCWDEDPENRPDF :  658
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1495 1643 . CLEC005794-PA 503 658 . 160 M 21 21 G 0 1 M 24 24 G 2 0 M 31 31 G 0 4 M 22 22 G 0 1 M 20 20 G 1 0 M 3 3 G 0 4 M 24 24
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010029-PA
+         Model: affine:local:protein2protein
+     Raw score: 1849
+   Query range: 344 -> 1711
+  Target range: 87 -> 1305
+
+  345 : RNMVSHFNQLENCTVIEGFLLIDLINDASP---LNRSFPKLTEVTDYIIIYRVTGLHSLSKI :  403
+        || :| .| |:.| ::|||: | ||:.|:     | :||.|.|:|||:::||| ||:||:.|
+   88 : RNAIS-WNVLNGCQIVEGFVHIVLIDKATDADYANITFPELKEITDYLLLYRVHGLRSLGSI :  148
+
+  404 : FPNLSVIRGNKLFDGYALVVYSNFDLMDLGLHKLRSITRGGVRIEKNHKLCYDRTIDWLEIL :  465
+        ||||:|||||.||.:|||||:. ::| ::|| .|  | ||:|.:.||. ||:  |||| :::
+  149 : FPNLAVIRGNHLFKDYALVVFEMLHLQEIGLSSLTHILRGSVNLSKNPVLCFVDTIDW-DLI :  209
+
+  466 : AENETQLVVLTENGKEKECRLSKCPGEIRIEEGHDTTAIEGELNASCQLHNNRRLCWNSKLC :  527
+        |:|.. :  ::.|  ::||.:  ||   .|::.  |:|..||           .|||||. |
+  210 : AHNGKGVHHIAGNKLQNECPM--CP---PINHTCPTSATTGE-----------PLCWNSHHC :  255
+
+  528 : QTKCPEKCRNNCIDEHTCCSQDCLGGCVIDKNGNESCISCRNVSFNNICMDSCPKGYYQF-D :  588
+        |  ||..|..:| .. .||:..|:|||  . :|:::|||||:| |:| |:..|| . |:: :
+  256 : QRVCPKHCNGSCNAAGDCCNASCIGGC--TGSGSDNCISCRHVLFENKCVSKCPANTYKYMN :  315
+
+  589 : SRCVTANECITLTK----FETNSVYSG-IPYNGQCITHCPTGY------QKSENKRMCEPCP :  639
+        .||:..: | .:.|     ::|  .:.  |::|:|| :| :||       |::::. |||| 
+  316 : RRCIVESVCYDMPKPVEIVDSNIGHNPWKPFQGECIMECKSGYIEKEVILKGQKRNQCEPC- :  377
+
+  640 : GGKCDKECSSGLIDSLERAREFHGCTIITGTEPLTISIKRESGAHVMDELKYGLAAVHKIQS :  701
+        .| |.|||::: :||:. |:.::||| |.|  :|.| |:  :|::|:.||. .|: ::.|: 
+  378 : EGVCKKECPGANVDSIAAAQKLRGCTYIKG--ALEIQIR--GGSNVVKELDENLSMIEEIEY :  434
+
+  702 : SLMVHLTYGLKSLKFFQSLTEISGDPPMDADKYALYVLDNRDLDELWG--PNQTVF-IRKGG :  760
+         |.:  ::.| ||:|:::| || |.  :::.||:| ||||::| |||:  :.:. | ||:| 
+  435 : YLKIVRSFPLVSLNFLKNLREIHGK-KLESSKYGLVVLDNQNLIELWDWKSREPSFHIRRGK :  495
+
+  761 : VFFHFNPKLCVSTINQLLPMLASKPKFFEKSDVGADSNGNRGSCGTAVLNVTLQSVGANSAM :  822
+        :|||||||||:|.|:: |. :|  |. :.. :|: :|||:: :|..: | ..::: ::::|:
+  496 : LFFHFNPKLCISKIDK-LREVAQLPE-YTDLEVAINSNGDKVACNVTELIAEVKTRSPQGAL :  555
+
+  823 : LNVTTKVEIGEPQKPSNATIVFKDPRAFIGFVFYHMIDPYGNSTKSSDD----PCDDRWKV- :  880
+        :. .   : :.  :.  : :|:.   :: .:.:|:  |..|... . ||    : |:::|: 
+  556 : IRWKQFEHYDT--RTLLGYVVYSIEAPYRNITLYDGRDGCGGDGWRVDDIAPMAEDEKRKLE :  615
+
+  881 : -SSPEKSGVMVLSNLIPYTNYSYYVRTMAISSELTNAESDVKNFRTNPGRPSKVTEVVATAI :  940
+         .:.|    .||:.| :||:|::||:| :|::| :.|:| :  |||.|  ||.  .:.| : 
+  616 : KEGQELWLKFVLTRLKAYTQYAFYVKTYTIATERSGAQSPILYFRTAPYIPSEPRSLTAYSN :  677
+
+  941 : SDSKINVTWSYLDKPYGVLTRYFIKAKLIN-RPTRNNNRDYCTEPLVKAMENDLPATTPTKK : 1001
+        |. .| :.|   .|| | :| |::.::  :   .: ::|::|       :|:.   ..:::|
+  678 : SSFEIVINWLPPSKPNGNVTYYIVTGQWEKGEEEHLEQRNFC-------LEQTTDKPDSSNK :  732
+
+ 1002 : ISDPLAGDCKCVEGSKKTSSQEYDDRKVQAGMEFENALQNFIFVPNIRKSKNGSSDKSDGAE : 1063
+               :| |   ::|.:.:.  ::.::    ||: ||| |:: .                
+  733 : -------NCAC---ANKVPDNKIREKEIH----FEDHLQNTIYIKR---------------- :  765
+
+ 1064 : GAALDSNAIPNGGATNPSRRRRDVALEPELDDVEGSVLLRHVRSITDDTDAFFEKDDENTYK : 1125
+                      |:: |.:|||:     | ..|. :|  : :: ::.             
+  766 : --------------TDSVRNKRDVS-----DRTTGKFIL--MENVMGEG------------- :  793
+
+ 1126 : DEEDLSSNKQFYEVFAKELPPNQTHFVFEKLRHFTRYAIFVVACREEIPSEKLRDTSFKKSL : 1187
+                  | | |:: : .. | :| .:||||::|.| | ||||   .|: .:|    : 
+  794 : ----------FQESFTR-IVRGGTSLVVKNLRHFAHYNIAVNACRELEEDENKNNT----GT :  839
+
+ 1188 : CSDYDTVFQTTKRKKFADIVMDLKVDLEHANNTESPVRVRWTPPVDPNGEIVTYEVAYKLQK : 1249
+        ||. . | ..| .   || : |  :: | :|:: : | :||. |  ||| ||:|::.|:  .
+  840 : CSSSAFVTAKTLPLANADNIDDQFLQWEISNKSLGFVLLRWNEPPRPNGFIVAYQIEYRRTD :  901
+
+ 1250 : PDQVEEK-KCIPAADFNQT-AGYLIK-LNEGLYSFRVRANSIAGYGDFTEVEHIKVEPPPSY : 1308
+         :: . : .||.  :|.:: .:|::| |. | ||:||||.| :| |:|| |..: :|  :  
+  902 : IENFKPNIECITRKQFRDANNSYMLKNLGPGNYSLRVRATSYGGEGNFTPVKYFYIEEESQI :  963
+
+ 1309 : AKVFFWLLGIGLAFLIVSLFGYVCYLHKRKVPSNDLHMNTEVNPFYASMQYIPDDWEVLREN : 1370
+        : |:: |: :: | ||:: : .| |:::: .. .: .: :.||| |.:  | |||||| |..
+  964 : SVVYISLM-FSTA-LIITALVCVIYFRRQYTQVPNRKLIASVNPEYVPTVYEPDDWEVPRTR : 1023
+
+ 1371 : IIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFDTY : 1432
+        :  :  :||||||||.|||||:           :...:|          |:           
+ 1024 : VDLIKEIGQGSFGMVWEGILKN-----------VDGTQE----------LP----------- : 1054
+
+ 1433 : HVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYG : 1494
+                |:   |:||:|||| :||||||||:|||: .|::. ..|:              
+ 1055 : --------CA---PTLVIMELMCRGDLKSYLRSHRPDLPDNPKQPCLK-------------- : 1091
+
+ 1495 : RIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKG : 1556
+        || :|| |||||||||:|||||||||||||||||:||||||||||||||||||:|||||:||
+ 1092 : RILRMAAEIADGMAYLSAKKFVHRDLAARNCMVAEDLTVKIGDFGMTRDIYETEYYRKGSKG : 1152
+
+ 1557 : LLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERP : 1618
+        |||||||:||||:|||::| ||..|:||||.||||||:||||||||:|||||||:||:||||
+ 1153 : LLPVRWMAPESLKDGVFTSHSDAWSYGVVLYEMATLASQPYQGLSNDQVLRYVIEGGIMERP : 1214
+
+ 1619 : ENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQHREKERKE : 1680
+        |.||| | ::|: ||:|::|:|||||:::: |: :  :::|::|||||||.|:: |.  ..|
+ 1215 : ERCPDKLFQVMKLCWRHKPSSRPSFLELVTLLQDD-VDPDFQNVSFYHSEEGVDLRAAVSTE : 1275
+
+ 1681 : RNQLDAFAAVPLDQDLQDREQQEDATTPLRM : 1711
+         ..|.   .:  | .| | |: .:: :: .|
+ 1276 : DTPLSISREIE-DFSLSDEEDYKEPHSSTSM : 1305
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 344 1711 . CLEC010029-PA 87 1305 . 1849 M 5 5 G 1 0 M 24 24 G 0 3 M 87 87 G 1 0 M 24 24 G 2 0 M 2 2 G 3 0 M 14 14 G 11 0 M 36 36 G 2 0 M 31 31 G 0 1 M 15 15 G 0 4 M 9 9 G 0 1 M 15 15 G 0 6 M 12 12 G 1 0 M 30 30 G 2 0 M 7 7 G 2 0 M 46 46 G 1 0 M 22 22 G 0 2 M 6 6 G 0 1 M 21 21 G 1 0 M 9 9 G 1 0 M 46 46 G 2 0 M 36 36 G 0 4 M 8 8 G 0 2 M 91 91 G 0 1 M 11 11 G 7 0 M 13 13 G 7 0 M 4 4 G 3 0 M 15 15 G 4 0 M 13 13 G 30 0 M 11 11 G 5 0 M 9 9 G 2 0 M 8 8 G 23 0 M 7 7 G 1 0 M 38 38 G 4 0 M 71 71 G 0 1 M 11 11 G 0 1 M 6 6 G 0 1 M 43 43 G 1 0 M 4 4 G 1 0 M 70 70 G 11 0 M 6 6 G 10 0 M 2 2 G 19 0 M 2 2 G 3 0 M 35 35 G 14 0 M 159 159 G 1 0 M 37 37 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000500-PA
+         Model: affine:local:protein2protein
+     Raw score: 438
+   Query range: 1364 -> 1653
+  Target range: 226 -> 514
+
+ 1365 : EVLRENIIQLAPLGQGSFGMVYEGILKSFPP-NGV----DRECAIKTVNENATDRERTNFLS : 1421
+        |  |:.:  :. :|:|||||:.    .: |  ||:    .:: .:|:|  . |:..:.:|| 
+  227 : EFSRHRLRVIEKMGEGSFGMIHLCETEGVPEYNGITSYHKKQVVVKSVWRGCTESTKKEFLH :  288
+
+ 1422 : EASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIG : 1483
+        |:: | .: . :|.|::||||:.:|  :: |  . ||| ::|:              |:..:
+  289 : ESAWMGTLRDPNVARVVGVCSQEEPFCILQEYCEFGDLPTFLQ--------------LQSTS :  336
+
+ 1484 : VTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIY : 1545
+         ..: .: :|| :  ||.::|.|| ||.: .:.|||||||||:|:..  :|::| :|  . |
+  337 : PDEENPALSYGCLIYMATQVASGMKYLESLDLAHRDLAARNCLVGKSYHIKVSDHAMYCTKY :  398
+
+ 1546 : ETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQ-PYQGLSNEQVL : 1606
+        ||||| .:||: ||:|||: |||  |  :: |||.||||.|||| .: :| |: .|::|||:
+  399 : ETDYYISDTKAKLPIRWMAWESLLLGKATTKSDVWSFGVTLWEMLVVCGQKPFGELTSEQVV :  460
+
+ 1607 : -----RYVIDGG--VMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+             :|  :|   ::.||:.||  :..||  ||.:..:.||.| :|  :|:.:
+  461 : ENCNHWYQGNGQARLLSRPNTCPREIYDLMTECWKRNEADRPRFSEIHLFLQRK :  514
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1364 1653 . CLEC000500-PA 226 514 . 438 M 31 31 G 0 1 M 3 3 G 0 4 M 66 66 G 14 0 M 117 117 G 0 1 M 11 11 G 0 5 M 7 7 G 0 2 M 40 40
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC010066-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 1212 -> 1309
+  Target range: 3523 -> 3618
+
+ 1213 : DLEHANNTESPVRVRWTPPVDPNGEIVTYEVAYKLQKPDQVEEKKCIPAADFNQTAGYLIKL : 1274
+        ||| :: ....| ::|:|| : .|. :|   .| ::| |: .: .   :.  :||:: : :|
+ 3524 : DLEATDWDKDHVDLKWAPPKQDGGSPIT---EYLIEKKDKYGNWEKALTVPSDQTSATIPNL : 3582
+
+ 1275 : NEG-LYSFRVRANSIAGYGDFTEVEHIKVEPPPSYA : 1309
+        .||  | |:||| : || |: :: ..| :. |.: |
+ 3583 : TEGESYQFQVRAVNSAGPGEASDPTPIIITKPRNLA : 3618
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1212 1309 . CLEC010066-PA 3523 3618 . 105 M 28 28 G 3 0 M 34 34 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009872-PA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 1501 -> 1598
+  Target range: 127 -> 221
+
+ 1502 : EIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGL-LPVRW : 1562
+        :| :|: || . :::||||   | .:.|:|.|||||||:: .|   :|  : .|.|  . ..
+  128 : QILEGVLYLHDLRIIHRDLKLGNLFLNDNLEVKIGDFGLAAKI---EYIGQRKKTLCGTPNY :  186
+
+ 1563 : MPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQ : 1598
+        ::|| | .  .| . ||.|:| ::..:  :: .|::
+  187 : IAPEILTKKGHSFEVDVWSIGCIMYTL-LVGKPPFE :  221
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1501 1598 . CLEC009872-PA 127 221 . 126 M 43 43 G 3 0 M 10 10 G 0 1 M 32 32 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005334-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 1219 -> 1303
+  Target range: 206 -> 289
+
+ 1220 : TESPVRVRWTPPVDPNGEIVTYEVAYKLQKPDQVEEKKCIPAADFNQTAGYLIKLNEGLYSF : 1281
+        :.|.: ::|. | .|||:::.|.| |.: :|:|  :|   ...| || :.    :.:.:|::
+  207 : SSSTMVIQWDEPETPNGQVIGYKVYYTM-NPQQPLNKWESRVVDNNQLTTISELIPHTIYTI :  267
+
+ 1282 : RVRANSIAGYGDFTEVEHIKVE : 1303
+        ||:|:: .| | ::. . :|.:
+  268 : RVQASTSVGPGPLSAPTLVKTQ :  289
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1219 1303 . CLEC005334-PA 206 289 . 113 M 28 28 G 1 0 M 55 55
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009814-PA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 1440 -> 1620
+  Target range: 27 -> 212
+
+ 1441 : CSRGQPALVVMELMKKG---DLKSYLRAHRPEERDEA-MMTYLNRIGVTG--NVQPPTYGRI : 1496
+        | |. ..: ::. .|..   |::. |||:  ::..:. :: .|  .::    :.|. : ::|
+   28 : CQRTLREIKILTRFKHENIIDIRDILRAQTIDQMKDVYIVQCLMETDLYKLLKTQRLSNDHI :   89
+
+ 1497 : YQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKG-TKGL : 1557
+        . .  :|  |: |: : : :|||| :.| ::... .:|| |||::| : :.|. :.|  .. 
+   90 : CYFLYQILRGLKYIHSANVLHRDLKPSNLLLNTTCDLKICDFGLAR-VADPDHDHTGFLTEY :  150
+
+ 1558 : LPVRW-MPPES-LRDGVYSSASDVFSFGVVLWEMATLAAQP-YQGLSNEQVLRYVIDGGVME : 1616
+        ::.|| .:||  |..  |:.: |:.| | :| ||  |:.:| :.|    : |..::  ||:.
+  151 : VATRWYRAPEIMLNSKGYTKSIDIWSVGCILAEM--LSNRPIFPGKHYLDQLNHIL--GVLG :  208
+
+ 1617 : RPEN : 1620
+        .|.:
+  209 : SPTQ :  212
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1440 1620 . CLEC009814-PA 27 212 . 135 M 17 17 G 0 3 M 17 17 G 0 1 M 12 12 G 0 2 M 56 56 G 1 0 M 10 10 G 0 1 M 9 9 G 0 1 M 5 5 G 0 1 M 22 22 G 2 0 M 5 5 G 0 1 M 14 14 G 2 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001461-PA
+         Model: affine:local:protein2protein
+     Raw score: 604
+   Query range: 1359 -> 1651
+  Target range: 307 -> 592
+
+ 1360 : IPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPP-NGVDRECAIKTVNENATDRERTNFL : 1420
+        :|| ||  |:::  :: ||:|.|| |..   :.:.. :.  :  |:||::|||.:|||:::|
+  308 : VPDRWEYPRHHLKVFSILGEGCFGQVWKCEARDINGVDEGPKIVAVKTLKENAGERERSDLL :  369
+
+ 1421 : SEASVMKEFDTY-HVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNR : 1481
+        ||  ||| ::.. :|||||| |:  :| :|:|| : :|.|::|||. |      | .:|   
+  370 : SELMVMKMLEPHPNVVRLLGCCTDKDPIFVIMEYVANGKLQTYLRNSR------ATRSY--- :  423
+
+ 1482 : IGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRD : 1543
+         .: |: :: |  ::  .  :|| ||.||::: ::|||||||| :|:.| | |::|||.:||
+  424 : DNIHGKSNSLTSRHLTSFCYQIARGMEYLTSRGIIHRDLAARNILVSADHTCKVADFGFARD :  484
+
+ 1544 : IYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQV : 1605
+        : .:: | : :.| ||:|||:|||| |.|:|  ||..||||::||:.||:: ||.|||.  |
+  485 : VVASHVYERKSEGRLPIRWMAPESLYDNVFSVKSDAWSFGVLIWEIVTLGSTPYPGLSALGV :  546
+
+ 1606 : LRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLE : 1651
+        :: | :|  :|:||:|.  |.::|  ||:. :.|||.| :::. |:
+  547 : MKRVKEGYRLEKPEHCRRELYNIMYYCWDKDPEARPDFKELVDLLD :  592
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1359 1651 . CLEC001461-PA 307 592 . 604 M 36 36 G 0 1 M 37 37 G 0 1 M 35 35 G 6 0 M 5 5 G 3 0 M 170 170
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC025326-PA
+         Model: affine:local:protein2protein
+     Raw score: 1675
+   Query range: 336 -> 1672
+  Target range: 22 -> 1235
+
+  337 : KPCKSMDIRNMVSHFNQLENCTVIEGFLLIDLINDASPL---NRSFPKLTEVTDYIIIYRVT :  395
+        :.| |||||| |::|| | .|:||:||| | ||:.:|.    | :||.| |||:|:::|:|.
+   23 : RTCPSMDIRNNVTNFNLLRGCSVIDGFLHIVLIDKSSQQDFENVTFPDLREVTEYVLFYQVN :   84
+
+  396 : GLHSLSKIFPNLSVIRGNKLFDGYALVVYSNFDLMDLGLHKLRSITRGGVRIEKNHKLCYDR :  457
+        || ||:.:||||:||||:||| :|:::|:   ||..| :..:  | ||:| |.:|.:||||.
+   85 : GLTSLGEVFPNLAVIRGEKLFLDYSFIVFQMPDLKTLKFKSF-IILRGSVVIANNKNLCYDN :  145
+
+  458 : TIDWLEILAENETQLVVLTENGKEKECRLSKCPGEIRIEEGHDTTAIEGELNASCQLHNNRR :  519
+        |||| .: ...  :   |  |:.||:|   .||                    ||    :  
+  146 : TIDWDKVAVSGVREY--LFPNDTEKNC---SCP--------------------SC----SDG :  178
+
+  520 : LCWNSKLCQTKCPEKCRNNCIDEHTCCSQDCLGGCVIDKNGNESCISCRNVSFNNICMDSCP :  581
+        |||:.| || . :|          :.| |:|:|||  . :|..:|:|||:: |.. |: .||
+  179 : LCWSEKNCQLDLAE----------SSCHQECVGGC--TGSGPSNCVSCRHLYFRGKCVPECP :  228
+
+  582 : KGYYQFDSR-CVTANECI-TLTKFETNSVYSG-----IPYNGQCITHCPTGYQKSENKRMCE :  636
+        .||| |:|| |:: ::|| : :.::. .  .|     : ... |:|:||. ::|: : : |:
+  229 : DGYYSFNSRHCISKEDCINSSSTYHKMRRNDGAHLVWFIWGNSCVTECPPKFEKTPDGKSCQ :  290
+
+  637 : PCPGGKCDKECSSGLIDSLERAREFHGCTIITGTEPLTISIKRESGAHVMDELKYGLAAVHK :  698
+        .| :|.|.| || | :|||: |:::::|| |.|  .|.| |  .... | .||. .|: ::.
+  291 : RC-SGMCKKVCSMGNVDSLQAAQNLRDCTHIDG--NLEIHIGTGKPEVVAKELEENLGMIEE :  349
+
+  699 : IQSSLMVHLTYGLKSLKFFQSLTEISG----DPPMDADKYALYVLDNRDLDELWG----PNQ :  752
+        |:::|.:  ::.|.|| ||::|. | |    ... :  :.:|:||||::|.|:|.    |. 
+  350 : IEGNLRIIHSFPLDSLGFFKNLKVIHGYKDKKGTNNLVNHSLFVLDNQNLKEIWNWDTRPAG :  411
+
+  753 : TVF-IRKGGVFFHFNPKLCVSTINQLLPMLASKPKFFEKSDVGADSNGNRGSCGTAVLNVTL :  813
+          | | :|  |||:||.|| . |::| :: : :   :.. ::. :|||.| :|..  ||||:
+  412 : RNFKILNGYPFFHYNPMLCYKHIEELTSIAGIQD--IKTIEITRESNGGRFACNKLSLNVTV :  471
+
+  814 : QSVGANSAMLNVTTKVEIGEPQKPSNATIVFKDPRAFIGFVFYHMIDPYGNSTKSSDDPC-D :  874
+        : | .|:  |.: .: |:.: .|       ::  |    || |.| .|. | |. :.: | :
+  472 : HLVYENAIALAI-EQPEFTNMAK------YYQMMR----FVAYYMEAPHQNVTELNTNECSE :  522
+
+  875 : DRWKVSSPEKSGVMVLSNLIPYTNYSYYVRTMAISSELTNAESDVKNFRTNPGRPSKVTEVV :  936
+        .:||:  .: ||:    :  | ..  |.: |.   .  |: .  ||.:           .| 
+  523 : SKWKM--HDISGLNEPFDGGPPNGSIYHIITRL--EPYTQYAFYVKTY-----------TVD :  569
+
+  937 : ATAISDSKINVTWSYLDKPYGVLTRYFIKAKLIN-RPTRNNNRDYCTEPLVKAMENDLPATT :  997
+        :|:|   : .: ||  :|| | |..| :.: : : :|.  :.|::|..| |     ::|:||
+  570 : STGI---QSPIHWSPPEKPNGKLVSYVVSGFIQEYHPDFLSTRNFCKKPYV-----HIPPTT :  623
+
+  998 : PTKKISDPLAGDCKCVEGSKKTSSQEYDDRKVQAGMEFENALQNFIFVPNIRKSKNGSSDKS : 1059
+        |. |: ..: .. .||          .: ..:. . |||.:|               ::: .
+  624 : PPPKFMTHVKTKDECV----------CNVSTIPIEDEFEPPL--------------VTTELC :  661
+
+ 1060 : DGAEGAALDSNAIPNGGATNPSRRRRDVALEPELDDVEGSVLLRHVRSITDDTDAFFEKDDE : 1121
+        :.|:. | .:.    :|   ..    .:.  | |.  |.. : |. |:|     :.:|.||:
+  662 : ETADELAKSPPLYEYDGC--HKYVYETLEQPPFLKIYENDNIGRYERGI-----SMIEEDDD :  716
+
+ 1122 : NTYKDEEDLSSNKQFYEVFAKELPPNQTHFVFEKLRHFTRYAIFVVACREEIPSEKLRDTSF : 1183
+         . ::: :: :..     | : :|::..  ::. ||||: |:| | |||| : :|  |.:  
+  717 : LVLNEDVEMLGRDGSLVKFHRIFPAEANVALIGGLRHFSTYTIEVKACRERVEGELQRSA-- :  777
+
+ 1184 : KKSLCSDYDTVFQTTKRKKFADIVMDLKVDLEHANNTESPVRVRWTPPVDPNGEIVTYEVAY : 1245
+         :.  |.: | ::| . .| .:|| :|:|::|:     ... :.|.|| .:|| .|:|::. 
+  778 : -NCSISAFIT-LKTLSDSKADEIVGGLRVQVEN-----RTAILNWVPP-KSNGMTVSYQIEL :  830
+
+ 1246 : KLQKPDQVEEK-KCIPAADFNQTAGYLIKLNEGLYSFRVRANSIAGYGDFTEVEHIKVEPPP : 1306
+        .  ..|::. . .|||..| ::.|  | .|: | |.:|:|::|:|| |.||.  .:.:... 
+  831 : TRTDRDEMKPMPECIPVQDAKNGAFMLEDLEFGEYKIRLRSQSLAGPGKFTAPVYFTISGQF :  892
+
+ 1307 : SYAKVFFWLLGIGLAFLIVSLFGYVCYLHKRKVPSNDLHMNTEVNPFYASMQYIPDDWEVLR : 1368
+        : ..:   :|.: : ::|:   . . . .::::  |:  : :.||| | :: .: ::||: |
+  893 : AKDMMAVAVLTVVILLVILVSVTLAVWYYRKNLMINQPVLIASVNPEYCGLLHFDEEWELPR :  954
+
+ 1369 : ENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEF- : 1430
+        |.:  :  | :|:||:|.||:|    |:|   . . |::||| : :| :.||:|| |||:| 
+  955 : ERVHIVKELKRGNFGVVCEGLL---VPEGRVVA-VKKAINENCSPHEIAAFLNEAMVMKQFV : 1012
+
+ 1431 : DTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP : 1491
+        |. |:|:|:|| ||: |||||||:| :||||:|||. |                   | : |
+ 1013 : DGPHIVKLIGVVSRDVPALVVMEMMANGDLKTYLRECR-------------------NKNVP : 1055
+
+ 1492 : TYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKG : 1553
+        :  |:  || :||||||||.| ||||||||||||||:|: .|||||||||||||||||||||
+ 1056 : SSQRMLLMAAQIADGMAYLEAAKFVHRDLAARNCMVSDNGVVKIGDFGMTRDIYETDYYRKG : 1117
+
+ 1554 : TKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVM : 1615
+        .|||||:|||:||||.|||::| ||..|:|:|||||||||:||||||||||||::||.|. :
+ 1118 : NKGLLPIRWMAPESLNDGVFTSKSDAWSYGIVLWEMATLASQPYQGLSNEQVLQFVISGNKL : 1179
+
+ 1616 : ERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVSFYHSEAGLQ : 1672
+        | |  .|. :..| .:||: ::. ||||::|:  || :. .  |::|||::||||||
+ 1180 : ELPPVYPKPFKSLTAWCWRWKPKFRPSFIEILRELE-EYMTVSFRQVSFFNSEAGLQ : 1235
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 336 1672 . CLEC025326-PA 22 1235 . 1675 M 39 39 G 0 3 M 62 62 G 1 0 M 34 34 G 2 0 M 10 10 G 3 0 M 3 3 G 20 0 M 2 2 G 4 0 M 17 17 G 10 0 M 11 11 G 2 0 M 34 34 G 0 1 M 8 8 G 0 1 M 13 13 G 0 5 M 27 27 G 1 0 M 30 30 G 2 0 M 54 54 G 0 4 M 24 24 G 0 4 M 6 6 G 0 1 M 30 30 G 2 0 M 38 38 G 1 0 M 10 10 G 6 0 M 6 6 G 4 0 M 21 21 G 0 1 M 6 6 G 2 0 M 26 26 G 2 0 M 13 13 G 11 0 M 7 7 G 3 0 M 27 27 G 0 1 M 16 16 G 5 0 M 22 22 G 10 0 M 16 16 G 14 0 M 24 24 G 2 0 M 29 29 G 5 0 M 68 68 G 3 0 M 9 9 G 1 0 M 22 22 G 5 0 M 10 10 G 1 0 M 24 24 G 0 1 M 134 134 G 3 0 M 8 8 G 1 0 M 27 27 G 0 1 M 38 38 G 19 0 M 165 165 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000252-PA
+         Model: affine:local:protein2protein
+     Raw score: 475
+   Query range: 1361 -> 1653
+  Target range: 14 -> 306
+
+ 1362 : DDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDREC---AIKTVNENATDRERTNFL : 1420
+        : ::: |.::   : ||:| || ||   | . |.:   ..|   |:|::..:|.:. |.:| 
+   15 : EIRDIPRKDMKFNSKLGEGYFGEVYLFELIRVPNSIRLNSCKYVAVKALRKDAPNNLRDEFE :   76
+
+ 1421 : SEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRI : 1482
+        .| . : .::. :::.:||.|   :| |:|:|  .:|||  :|:.| :|.         ..:
+   77 : REMEDLLALNNENIINVLGACMEKEPHLLVLEYSEQGDLYQFLQNHISES---------ASL :  129
+
+ 1483 : GVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDI : 1544
+         ..:|| :.. : || |: ::|.|| ||..::|| :|||:|||:|: | ::|:||:|:.|:|
+  130 : QTNANVLSHG-SLIY-MGAQVASGMKYLEQNNFVFKDLATRNCIVGLDYSIKVGDLGIGRNI :  189
+
+ 1545 : YETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLA-AQPYQGLSNEQV : 1605
+        | :||:  ..:|: |||||: ||:  : |:  | |.||:|.|||: |:| .||:::|::::|
+  190 : YPADYFEIPGRGFCPVRWMSWESIILDKYTIKSVVWSFAVTLWEILTFAREQPFEDLTDDKV :  251
+
+ 1606 : LR----YVIDGG---VMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+        :     : ::.|   .:::| ||.. :..||  ||:::.|.|||| :|  :|:.:
+  252 : VENAQCFELGNGKQITLNQPINCNKEIYDLMCECWQRKESVRPSFKEIHMFLQRK :  306
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1361 1653 . CLEC000252-PA 14 306 . 475 M 41 41 G 0 3 M 68 68 G 9 0 M 13 13 G 1 0 M 4 4 G 1 0 M 95 95 G 0 1 M 14 14 G 0 4 M 6 6 G 0 3 M 40 40
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004037-PA
+         Model: affine:local:protein2protein
+     Raw score: 212
+   Query range: 1345 -> 1685
+  Target range: 0 -> 323
+
+ 1346 : MNTEVNPFYASMQYIPDDWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTV : 1407
+        |:|  .|| ::.::   : .. .:: ::|. :|:|::| ||.:  :: |.: |...    .:
+    1 : MKTMPGPFLSGFDFGMLHVTTAPDHYVELNVIGNGAYGTVYKARRRGDPNSVVAMKKIKVPL :   62
+
+ 1408 : NENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPE : 1469
+         :::   .  . ::. . :.:::  :::|||::| :|:.       |.| :|  ||     |
+   63 : LDEGLPLSTLREIATLKHLDQYEHPNIIRLLDIC-HGKR-------MEK-QLVLYLIF---E :  112
+
+ 1470 : ERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDL : 1531
+        : ::.: ||::| . .|    |:. :: ::  :|  |:.:| :.:::|||| ::| ::::: 
+  113 : HVEQDLSTYMQRCPPPG---LPSC-KVKNLMRQILCGIDFLHSHRILHRDLKPQNLLITNND :  170
+
+ 1532 : TVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLA : 1593
+         ||::|||::: .|  |: .: |. ::.::..:|| | :  |::: |:.| | :: || . :
+  171 : QVKLADFGLAK-TY--DFDMRLTSVVVTLWYRSPEVLLGCPYATPVDIWSVGCIMAEMIKGS :  229
+
+ 1594 : --AQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQ : 1653
+          :. ::| |:.: |  ::.     | |. |: :   : .   :.: ...: :  :.  :. 
+  230 : PWSPLFDGTSEGDQLAKIFSIIGTPREEAWPEDVSISLSSFIVQPAVDMQTKMLKFNPQDRI :  291
+
+ 1654 : CPNSQFKEVSFYHSEAGLQHREKERKERNQLD : 1685
+        |:...:::  | ::|::  :.  :  .:.:|:
+  292 : CAADAIRHDYFTENEPSPSEMVAHVASQTNLE :  323
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1345 1685 . CLEC004037-PA 0 323 . 212 M 96 96 G 1 0 M 4 4 G 7 0 M 3 3 G 1 0 M 8 8 G 3 0 M 18 18 G 3 0 M 4 4 G 1 0 M 48 48 G 1 0 M 2 2 G 2 0 M 46 46 G 0 2 M 92 92
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008886-PA
+         Model: affine:local:protein2protein
+     Raw score: 229
+   Query range: 378 -> 641
+  Target range: 321 -> 574
+
+ 379 : FPKLTEVTDYIIIY-RVTGLHSLSKIFPNLSVIRGNKLFDGYALVVYSNFDLMDLGLHKLRSIT : 441
+       |:.|.|||:|| |  . .:: :||  |.||.|| |..| : :| :   : .|..|||:.|:.|.
+ 322 : FSTLKEVTGYINIQGSHPDFTNLS-YFRNLEVIGGRTLTEYFASLYIVKTSLKSLGLRSLKKIN : 384
+
+ 442 : RGGVRIEKNHKLCYDRTIDWLEILAENETQLVVLTENGKEKECRLSKCPGEIRIEEGHDTTAIE : 505
+       .|.: | .|..||:.:.:|| ||   :..: .:| :|  | :|     ...:  :   .:.:  
+ 385 : SGTIAILENKDLCFSQGVDWSEI-KRSAEHGTLLQNNKPEADC----ITEGLVCDPQCSSEGCW : 443
+
+ 506 : GELNASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDEHTCCSQDCLGGCVIDKNGNESCISCRN : 569
+       |  .. |   .| ||   :. |  .|     :.  .    | ::| :.|  : .|...|..|:|
+ 444 : GPGPDQCLSCANYRL---GTTCLQDCDLGMYKATNKVCMKCHEECASTC--HGPGPGKCTRCKN : 502
+
+ 570 : VSFNNICMDSCPKGYYQFDSRCVTAN-ECITLTKFETNSVYSGIPYN-GQCITHCPTGYQKSEN : 631
+       .. ..:|: |||.: |: :: | . : :|:   |  .|:: :|   : :: |.:  .: ::. :
+ 503 : TRDGPFCVPSCPDSKYNANGECKPCHTNCVYGCKGPNNTIGPGGCNSCDKAIINGDISVERCLQ : 566
+
+ 632 : KRMCEPCPGG : 641
+       |.  |:||.|
+ 567 : KN--ESCPEG : 574
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 378 641 . CLEC008886-PA 321 574 . 229 M 14 14 G 0 1 M 9 9 G 1 0 M 62 62 G 1 0 M 19 19 G 4 0 M 32 32 G 3 0 M 31 31 G 2 0 M 39 39 G 0 1 M 20 20 G 0 1 M 18 18 G 2 0 M 6 6
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008886-PA
+         Model: affine:local:protein2protein
+     Raw score: 209
+   Query range: 378 -> 670
+  Target range: 3 -> 287
+
+ 379 : FPKLTEVTDYIIIYRVTGLHSLSKIFPNLSVIRGNKLF------DGYALVVYSNFDLMDLGLHK : 436
+       | .: |||:.::| :| ::..:  ::||| :|||..||      :.:||:|  : .: .|.:. 
+   4 : FCMFREVTGHVLISHV-DVKKI--VLPNLQIIRGRTLFKLNVNPQEFALLVILS-KMHTLEMPL :  63
+
+ 437 : LRSITRGGVRIEKNHKLCYDRTIDWLEILAENETQLV-VLTENGKEKECRLSKCPGEIRIEEGH : 499
+       ||.|  |:| : :|.:||. :||:| ||::...:::. | . .. |:||  : |      :|: 
+  64 : LRDILAGSVGMYNNYNLCHMKTINWTEIITGPGSNFTYVYNFTNPEREC--PPC------HESC : 119
+
+ 500 : DTTAIEGELNASCQLHNNRRLCWNSKLCQTKCPEKCRNNCIDEHTCCSQDCLGGCVIDKNGNES : 563
+       ::.   || ..:|| : ::  |  |  |   ...:| ..  . :.||   | |||   |:::  
+ 120 : EAGCW-GEGPQNCQ-QFSKLNC--SPQC---YQGRCFGP--KPRECCHLFCAGGCRGPKQSD-- : 173
+
+ 564 : CISCRNVSFNNICMDSCPKGYYQFDSRCVTANECITLTKFETNSVYSG------IPYNGQCITH : 621
+       |::|||   :.:| :.|| :  ::::  . : |  .|.|:. .:..        :  ||.|:  
+ 174 : CLACRNFYDDGVCTQECP-AMQRYNP-ITYSWETNPLGKYAYGATCVKNCPEHLLKDNGACVRS : 234
+
+ 622 : CPTGYQKSENKRMCEPCPGGKCDKECSSGL----IDSLERA---REFHGCTIITGT : 670
+       ||.  :|.. :  | || :| | |.|.:::     ::: :|   ..|.:||||.|:
+ 235 : CPP--KKKAVNGECVPC-DGPCPKTCEGSVNSSSPQGMVHAGNINSFKDCTIIEGS : 287
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 378 670 . CLEC008886-PA 3 287 . 209 M 16 16 G 1 0 M 5 5 G 2 0 M 14 14 G 0 6 M 10 10 G 1 0 M 46 46 G 0 1 M 11 11 G 2 0 M 3 3 G 6 0 M 9 9 G 1 0 M 8 8 G 1 0 M 7 7 G 2 0 M 4 4 G 3 0 M 8 8 G 2 0 M 21 21 G 2 0 M 18 18 G 1 0 M 7 7 G 1 0 M 21 21 G 0 6 M 13 13 G 2 0 M 12 12 G 1 0 M 12 12 G 0 4 M 7 7 G 0 3 M 12 12
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008886-PA
+         Model: affine:local:protein2protein
+     Raw score: 172
+   Query range: 1283 -> 1483
+  Target range: 698 -> 903
+
+ 1284 : RANSIAGYGDFTEVEHIKVEPPPSYAKVFFWLLG--IGLAFLIVSLFG--YVCYLHKRKVPS : 1341
+        |. : .| . : .|:.:  : . . :...:.: :  ||  :||| |::  | | |: :. .:
+  699 : RVFPENGEEPYCSVDPVGPHLGEEQTSAMYYMASGIIGSCILIVFLIALVYQCRLRIKEKNA :  760
+
+ 1342 : NDLHMNTE-VNPFY-ASMQYIPDDWEVLRENIIQLA-PLGQGSFGMVYEGILKSFPPNGVDR : 1400
+        ..: |  : ::|:. ::::   ..  :::|. :: :  || |:|| || |:  :  .:.|. 
+  761 : AKMSMMLQGLEPLHPTNVKPNLAKLRIVKEAEMRRGCVLGYGAFGTVYRGVWVP-EGENVKI :  821
+
+ 1401 : ECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSY : 1462
+          |||.:.|.:......:||.|| :| . :  ::::|||||  ::  ::| :||  | | .|
+  822 : PVAIKVLRERTGANTSKEFLDEAYIMASVEHQNLLQLLGVCMTSE-MMLVTQLMPLGCLLDY :  882
+
+ 1463 : LRAHRPEERDEAMMTYLNRIG : 1483
+        ::.::    ..:::.. ::|:
+  883 : VKNNKERIGSKPLLNWCHQIA :  903
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1283 1483 . CLEC008886-PA 698 903 . 172 M 34 34 G 0 2 M 12 12 G 0 2 M 20 20 G 0 1 M 5 5 G 0 1 M 21 21 G 0 1 M 17 17 G 1 0 M 52 52 G 1 0 M 37 37
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000342-PA
+         Model: affine:local:protein2protein
+     Raw score: 471
+   Query range: 1363 -> 1595
+  Target range: 321 -> 535
+
+ 1364 : WEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASV : 1425
+        :|  ..||  :. ||:|:||.||.| : : . :.:    ||||::|||:.:..::| .|..:
+  322 : REFHPANIRFVQELGEGAFGKVYKGEIIGTGEQPL--MVAIKTLKENASAKTMADFKREVDL :  381
+
+ 1426 : MKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGN : 1487
+        | |:   ::| |:||| . :|  ::.|:| ||||..:| ||.|:..|: :            
+  382 : MCELRHENIVCLIGVCLSREPLSMLFEFMPKGDLHEFLIAHSPHSSDNHL------------ :  432
+
+ 1488 : VQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDY : 1549
+            : : :  |||:||.||.|| :..:||||||||||:||::|||||:|||::||:|.:||
+  433 : ----SQADLLTMAIHIAAGMEYLCSHHYVHRDLAARNCLVAENLTVKISDFGLSRDVYSSDY :  489
+
+ 1550 : YRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQ : 1595
+        ||  :|:|||||||||||:  | :::.|||.|:||||||: ::: |
+  490 : YRVQSKSLLPVRWMPPESILYGKFTTESDVWSYGVVLWEIYSFGLQ :  535
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1363 1595 . CLEC000342-PA 321 535 . 471 M 35 35 G 2 0 M 75 75 G 16 0 M 104 104
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC008982-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 1765 -> 1963
+  Target range: 157 -> 350
+
+ 1766 : PAAQGDISATYVVPDADALDGD-RGYEIYDPSPKCAELPTSRSGSTGGGKLSGEQHLLPRKG : 1826
+        ..| |. |::| .|:::  :::  |:.  .||...:. ..:..| .|:|  :.::.| | :|
+  158 : HQAGGAPSGSYGAPQGGHGGSQGGGFGGSAPSGSYGAPQGPSRGVGGSGGRPTNNYLPPTQG :  219
+
+ 1827 : RQPTIMSS-SMPDDVIGG-SSLQPSTASAGSSNASSHTGRPSLKKTVADSVRNKANFINRHL : 1886
+        . .   || : |:.  || :|: .: :|:|::::|:  | |  : .::::.|..::: .   
+  220 : SGGRPSSSYGAPNAGPGGRPSFGNGRGSSGGGSPSPSYGAP--QGGLSGGARPSSSYGA--- :  277
+
+ 1887 : FNHKRTGSNASHKSNASNAPSTSSNTNLTSHPVAMGNLGTIESGGSGSAGSYTGTPRFYTPS : 1948
+         .:: .|:||: ::::| :::. ::.. :. |   |: |.  :|::|:.|:|.|.:.   |:
+  278 : -PQRGPGGNANGRPSSSYGAPNQGQPGPSRGPG--GSQGGYPGGAPGAQGGYPGGSPGGYPG :  335
+
+ 1949 : ATPGGGSGMAISDNP : 1963
+        ::||| :| : :: |
+  336 : GSPGGYPGGSPGGYP :  350
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1765 1963 . CLEC008982-PA 157 350 . 106 M 22 22 G 0 1 M 47 47 G 0 1 M 9 9 G 0 1 M 22 22 G 2 0 M 16 16 G 4 0 M 32 32 G 2 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000869-PA
+         Model: affine:local:protein2protein
+     Raw score: 390
+   Query range: 1365 -> 1652
+  Target range: 412 -> 668
+
+ 1366 : VLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMK : 1427
+        : :||:|  . ||:|.|| |: :: ::  .:| : | |:||:. : ...: .:|:.||.|| 
+  413 : IPKENLILKDVLGEGEFGSVFRALYQT--RHGNEEEVAVKTLRREHISSNEKDFIREAEVML :  472
+
+ 1428 : EFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQ : 1489
+        .:: . :|:|:|: ::|::  :| ||:  |.: |:|: | ||:      .:|          
+  473 : GLNHHCIVKLIGL-AQGDSFYMVQELVPLGSILSFLHKH-PEQ------PFLW--------- :  518
+
+ 1490 : PPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDI-YETDYY : 1550
+                     : .||.||..:.:||||||||| ::|.   .||:|||::| :  |.:||
+  519 : -------------VLTGMQYLEQNMIVHRDLAARNVLLATRHQAKISDFGLSRPLKEEGGYY :  566
+
+ 1551 : RKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG : 1612
+        : .: |  |:|| :||| . |.:||||||.||||.|||| | :.||: .|...:|:: : .|
+  567 : QATSGGRWPIRWYAPESYNFGTFSSASDVWSFGVTLWEMFTYGEQPFGNLKGTEVIKLIEKG :  628
+
+ 1613 : GVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEP : 1652
+        . : :|. |   :.| |::||:. :..||:| :: . :.:
+  629 : ERLPQPAYCKPAIYKEMEKCWQYVARDRPTFSELAELFAS :  668
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1365 1652 . CLEC000869-PA 412 668 . 390 M 27 27 G 2 0 M 46 46 G 1 0 M 25 25 G 1 0 M 3 3 G 6 0 M 4 4 G 22 0 M 42 42 G 0 1 M 108 108
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009086-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 1498 -> 1589
+  Target range: 431 -> 521
+
+ 1499 : MAIEIADGMAYLAAKKFVHRDLAARNCMV---ADDL-TVKIGDFGMTRDIYETDYYRKGTKG : 1556
+        |: ::|.::||| .:.:||||: : | :|   :| | |:|:||||:::.: .. .   || .
+  432 : MTQNLASALAYLHEQSIVHRDIKPENLLVEMEGDRLKTLKVGDFGLAQKVTGPLCTICGTPT :  493
+
+ 1557 : LLPVRWMPPESLRDGVYSSASDVFSFGVVLWEM : 1589
+             .::|| | :. |: . ||.:.||:|. |
+  494 : -----YVAPEILTENGYGLEIDVWAMGVILYIM :  521
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1498 1589 . CLEC009086-PA 431 521 . 104 M 29 29 G 0 3 M 4 4 G 0 1 M 25 25 G 5 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000224-PA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 1419 -> 1646
+  Target range: 38 -> 264
+
+ 1420 : LSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNR : 1481
+        |:. .|  .: . : :: |:| :: :..:  :.|.:..:: .  :. .. .    :|.|:: 
+   39 : LTKHKVAVKILNRQKIKSLDVVGKIRREIQNLKLFRHPHIIKLYQVISTPTDIFMIMEYVSG :  100
+
+ 1482 : IGVTGNVQPPTYGRIYQ---MAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGM : 1540
+         .: : :  ..  : |:   .  :| .|:.|   ..:||||| : | ::.::| |||:|||:
+  101 : GELFDYIVKHGKLKEYEARRFFQQIISGVDYCHRHMIVHRDLKPENLLLDHNLHVKIADFGL :  162
+
+ 1541 : TRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSAS-DVFSFGVVLWEMATLAAQPYQGLS : 1601
+        :. : :.:: |.:     : .. :|| :.: :|:::. |:.| ||:|..:   :: |:::  
+  163 : SNMMMDGEFLRTSCG---SPNYAAPEVISGKLYAGPEVDIWSCGVILYALLC-GTLPFDDEH :  220
+
+ 1602 : NEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDI : 1646
+           ::|  |.:|:.  |:: .. : :|: :  :  :  |::: ||
+  221 : VPTLFR-KIKSGIFPIPDHLNKSVVNLLCHMLQIDPMKRATIEDI :  264
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1419 1646 . CLEC000224-PA 38 264 . 147 M 79 79 G 0 3 M 57 57 G 3 0 M 19 19 G 0 1 M 14 14 G 1 0 M 15 15 G 1 0 M 38 38
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC012938-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 1468 -> 1610
+  Target range: 55 -> 191
+
+ 1469 : EERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADD : 1530
+        |: |:.:..|::.:. . :::  . : :||:      |:|:  :.: :|||| ::| ::..:
+   56 : EHCDQDLKKYFDSLNGEIDLDVVK-SFMYQL----LRGLAFCHSHNVLHRDLKPQNLLINKN :  112
+
+ 1531 : LTVKIGDFGMTRDI-YETDYYRKGTKGLLPVRWMPPESLRDG-VYSSASDVFSFGVVLWEMA : 1590
+         .:|::|||::|.:   ...|   : .::.::..||: | :: :|::: |:.| | :: |:|
+  113 : GELKLADFGLARAFGIPVKCY---SAEVVTLWYRPPDVLFGAKLYTTSIDMWSAGCIFAELA :  171
+
+ 1591 : TLAAQPYQGLSNEQVLRYVI : 1610
+        . : . :.| . :: |. ::
+  172 : NAGRPLFPGSDIDDQLNRIF :  191
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1468 1610 . CLEC012938-PA 55 191 . 117 M 24 24 G 1 0 M 6 6 G 4 0 M 41 41 G 0 1 M 6 6 G 3 0 M 18 18 G 0 1 M 39 39
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC003873-PA
+         Model: affine:local:protein2protein
+     Raw score: 142
+   Query range: 1446 -> 1712
+  Target range: 590 -> 880
+
+ 1447 : ALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTGNVQPP--TYGRIY--QMAIEIA : 1504
+        .: ::  .:.::::|:: |     |   : .| .: :: : |:.   . ::::   :.:::.
+  591 : EMRILREFRHDNVNSFIGAVVEPMRILIVTDYCAKGSLYDIVENEDIKLDKMFVASLVMDLV :  652
+
+ 1505 : DGMAYLAAKKF-VHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVR-WMP : 1564
+        .|| |: :..: || :| :.||:|:.  .::::|||:      .:  . |..   . : |::
+  653 : KGMIYIHSSTLGVHGNLKSSNCVVTSRWVLQVADFGLHELKNCPENDSIGEHQYYRSQLWVA :  714
+
+ 1565 : PESLRDGVYSSA---SDVFSFGVVLWEM-----------ATLAAQPYQGLSNEQVL---RYV : 1609
+        || ||.:  :.:   :||::||::: |:           .: :.: |: :.: . |   .: 
+  715 : PELLRKSPPPRGTQKGDVYAFGIIMHEIIGRRGPFGACGESEPEEIYKKVKQVPQLDEAPFR :  776
+
+ 1610 : IDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCPNSQFKEVS-FYHSEAG : 1670
+         . :::  :| |:| : .::. .| : :..||.| .| . |.:   ..| : :. . :  . 
+  777 : PSLDIIRDSEVCSDQVLSVIAESWSEEPEQRPDFQSIRVRLKSMREGKQRNIMDQMMDMMEK :  838
+
+ 1671 : LQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMG : 1712
+         .:. .|  ::. |:.:.. . .:|| :|  .| .:.:| .|
+  839 : YANNLEEIVNQRTLEVYEEKRKTEDLLHRMLPEPVAKSLTKG :  880
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1446 1712 . CLEC003873-PA 590 880 . 142 M 45 45 G 0 2 M 6 6 G 0 2 M 18 18 G 0 1 M 46 46 G 0 1 M 15 15 G 0 3 M 13 13 G 0 11 M 17 17 G 0 3 M 57 57 G 0 1 M 49 49
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002032-PA
+         Model: affine:local:protein2protein
+     Raw score: 460
+   Query range: 1337 -> 1747
+  Target range: 206 -> 604
+
+ 1338 : KVPSNDLHMNTEVNPFYASMQYIPD-DWEVLRENIIQLAPLGQGSFGMVYEGILKSFPPNG- : 1398
+        :|.|.. :  .: :.: .: | : : .:|:  . |   | :| |.|| |. | || :||:| 
+  207 : QVGSTASRTYIDPHTYEDPNQAVKEFAREIDASYINIEAIIGGGEFGDVCRGKLK-LPPDGR :  267
+
+ 1399 : VDRECAIKTVNENATDRERTNFLSEASVMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDL : 1459
+         : : ||||::..::|:.|.:||:|||:| :|:  :|: | || ::::|.|:: | |.:|.|
+  268 : SEIDVAIKTLKSGSADKARNDFLTEASIMGQFEHPNVIFLQGVVTKSNPVLIITEYMENGSL :  329
+
+ 1460 : KSYLRAHRPEERDEAMMTYLNRIGVTGNVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLA : 1521
+        .::|||      :::..  :: :|               |  .||.||.||:..::||||||
+  330 : DTFLRA------NDGKFQVVQLVG---------------MLRGIASGMQYLSEMNYVHRDLA :  370
+
+ 1522 : ARNCMVADDLTVKIGDFGMTRDI---YETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVF : 1580
+        ||| :|..:|. ||:|||::|:|    |..|  :|.|  :|||| :||::    ::|||||.
+  371 : ARNVLVNSQLVCKIADFGLSREIESTTEGAYTTRGGK--IPVRWTAPEAIAFRKFTSASDVW :  430
+
+ 1581 : SFGVVLWEMATLAAQPYQGLSNEQVLRYVIDGGVMERPENCPDFLHKLMQRCWHHRSSARPS : 1642
+        |||:| ||: : :.:|| . ||::|:: : .|  :  | :||: :.:||   |:. .: ||:
+  431 : SFGIVCWEVMSYGERPYWNWSNQDVIKSIEKGYRLPAPMDCPEAIYQLMLDTWQKERTHRPT :  492
+
+ 1643 : FLDIIAYLEP--QCPNSQFKEVSFYHSEAGLQHREKERKERNQLDA-FAAVPLDQDLQDREQ : 1701
+        | .|:  |:   :||:: ::.|:  ::...|.. . :..:   ::. :|:: :.:  :: ||
+  493 : FGSIVKTLDKLIRCPDT-LRKVAQNRTGNPLAPDAPDMTQFLSVGDWLASIKMSRYADNFEQ :  553
+
+ 1702 : QE----DATTPLRMGDYQQ-NSSLDQPPESPIAMVDDQGSHLPFSLPSGFI : 1747
+         .    :|...| :.:    . :|  .... :. |:.  :::: :|:.||:
+  554 : GGITTLEAVVRLTVTELTSLGVTLVGHQKKIMNSVQAMRAQISANLSEGFL :  604
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1337 1747 . CLEC002032-PA 206 604 . 460 M 25 25 G 0 1 M 29 29 G 1 0 M 5 5 G 0 1 M 68 68 G 6 0 M 12 12 G 15 0 M 46 46 G 0 3 M 11 11 G 2 0 M 95 95 G 0 2 M 5 5 G 1 0 M 28 28 G 0 1 M 17 17 G 0 4 M 13 13 G 0 1 M 31 31
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005333-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 1211 -> 1303
+  Target range: 193 -> 283
+
+ 1212 : VDLEHANNTESPVRVRWTPPVDP--NGEIVTYEVAY--KLQKPDQVEEKKCIPAADFNQTAG : 1269
+        |:|.|: :| . | | |.||  |  ||:|| |:|.:  ||:::..:| :.  . | |:: . 
+  194 : VNLSHTFQTPDVVCVTWDPPERPNRNGQIVRYDVQFSKKLDQSTPIERNTTHTKAVFSDLE- :  255
+
+ 1270 : YLIKLNEGLYSFRVRANSIAGYGDFTEVEHIKVE : 1303
+             ::. | |:||::: :| | .:: . ||.|
+  256 : -----ENTEYIFKVRGHTKSGPGPWSDKATIKTE :  283
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1211 1303 . CLEC005333-PA 193 283 . 110 M 23 23 G 0 2 M 11 11 G 0 2 M 23 23 G 6 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC004419-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 1491 -> 1602
+  Target range: 211 -> 320
+
+ 1492 : TYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKG : 1553
+        .|:.:  : :::  |:||   :: :|||: ::| ::::  .:|::|||::|.   ..  :. 
+  212 : KYSNVKLLLFQLLRGLAYCHRRRVLHRDVKPQNLLISEIGELKLADFGLARAKSVPS--HTY :  271
+
+ 1554 : TKGLLPVRWMPPESLRDGV-YSSASDVFSFGVVLWEMATLAAQPYQGLSN : 1602
+        :..::.::..||: | ::. ||:: |:.: | :: || | :...:.|:.:
+  272 : SHEVVTLWYRPPDVLLGSTQYSTSLDMWGVGCIFLEMIT-GVPTFPGVRE :  320
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1491 1602 . CLEC004419-PA 211 320 . 122 M 57 57 G 2 0 M 22 22 G 0 1 M 19 19 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002851-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 1794 -> 2134
+  Target range: 79 -> 414
+
+ 1795 : PSPKCAELPTSRSGSTGGGKLSGEQHLLPRKGRQ-PTIMSSSMPDDVIGGSSLQPSTASAGS : 1855
+        |::. :  |.:.:.:: .  |..: :: ::: || :.. |:: :::  :::| :  |:: .|
+   80 : PTSTVSRTPVPPPPPALNLPLEPQIDFYSQRLRQLAGTTSPGAANNGNSSPSSRKLTPPFTS :  141
+
+ 1856 : SNASSHTGRPSLKKTVADSVRNKANFINRHLFNHKRTGSNASHKSNASNAPSTSS-NTNLTS : 1916
+        :|.: ::. :  .... .: .|:.| ...: :|  |:.:. ::.|.:::.|..:: |.. .|
+  142 : PNNNLQAPVSLASSVAMTNNNNNNNSTANNNINTARSPTPRPQSSTPPSEPKPPTLNETPPS :  203
+
+ 1917 : HPVAMGNLGTIESGGSGSAGSYTGTPRFYTPSATPGGGSGMAISDNPNYRLLDESIASEQAT : 1978
+        :|..::  . :.|..:..:..:: :::  : .|: .|        . ::|: .. :. .:: 
+  204 : DPTDIAITPRLTSTPPNKPTDFSMAAQAESMDASENGKIHSCEFCGKKFRFQSSLVVHKRTH :  265
+
+ 1979 : ILTTSSPNPNYEMMHPPTSLVSTNPNYMPMNETPVQMAGVTISHNPNYQPMQAPLNARQSQS : 2040
+          |...|  :.::  .  |  |.  ..| ::. :|   |.: .:: : : |:.  :. :.:.
+  266 : --TGEKPY-KCNVCSHVCSQSSKLKRHMKVHKRSVSSIGTAEDDDDEDEEMDDDEEEEEEEE :  324
+
+ 2041 : SSDEDNEQEEDDEDEDDDVDDEHVEHIKMERMPLSRPRQRALPSKTQPPRSRSVSQTRKSPT : 2102
+        ..:|: | ||::.||||||::. |.:: |:: .||  :| : : | . . |: :|:..:.| 
+  325 : DDEEEMELEEEEGDEDDDVGGSLVSEL-MDKYGLSTIQQYSEAYKQALQESHLLSDNNNKPR :  385
+
+ 2103 : NPNSGIGATGAGNRSNLLKENWLRPASTPRPP : 2134
+          |: :. ::|: |   ::|:. :.  :::||
+  386 : LENGLLEKSAAALR---FREEFAKNMISSQPP :  414
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1794 2134 . CLEC002851-PA 79 414 . 112 M 34 34 G 0 1 M 82 82 G 0 1 M 68 68 G 2 0 M 6 6 G 1 0 M 80 80 G 1 0 M 48 48 G 3 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001047-PA
+         Model: affine:local:protein2protein
+     Raw score: 162
+   Query range: 1497 -> 1627
+  Target range: 278 -> 407
+
+ 1498 : QMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLP : 1559
+        :.| :||.||:|| :.:::||||.::||:| :| :| ::|||::| : :.:  ::.|: : .
+  279 : NFAKDIASGMTYLHSMNIIHRDLNSHNCLVREDKSVVVADFGLARIVSQNGTDKNTTR-MAG :  339
+
+ 1560 : VRWMPPESLRDGVYSSASDVFSFGVVLWEMAT-LAAQPYQGLSNEQVLRY-VIDGGVMERPE : 1619
+         |: . ..|.:: . . .     |   |  :. : :: |:  .: :|:.: ::  .::.|  
+  340 : GRRYNKTRLSNSRCQRKKRYTVVGNPYWMAPEMMKGNKYD--EKVDVFSFGIVLCEIIGRVY :  399
+
+ 1620 : NCPDFLHK : 1627
+        . ||:|.:
+  400 : ADPDYLPR :  407
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1497 1627 . CLEC001047-PA 278 407 . 162 M 58 58 G 1 0 M 35 35 G 0 1 M 7 7 G 2 0 M 8 8 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC001047-PA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 1368 -> 1652
+  Target range: 176 -> 457
+
+ 1369 : ENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVMKEFD : 1430
+        .:::: . |||| || |:  . :. .   | :|  :  |:|:|    :.|||.|.:|::.::
+  177 : SDLVKGDLLGQGFFGQVFRVTHRDTGEVMVLKE--LYRVDEEA----QKNFLKEVAVLRSLH :  232
+
+ 1431 : TYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRI--GVTGNVQP : 1490
+          :|:.::||  :.:   :| | :. |.||. ::. .   . ... .: : |  |:|     
+  233 : HNNVLSFIGVLYKEKKLHLVTEYISGGTLKELIHDMSEVLPWKQRANFAKDIASGMTYLHSM :  294
+
+ 1491 : PTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIG-DFGMTRDIYETDYYR : 1551
+        ..  |  :    :. .   :.. .|    :.::|    :.  :  |  :..|| : :: . |
+  295 : NIIHRDLNSHNCLVREDKSVVVADFGLARIVSQNGTDKNTTRMAGGRRYNKTR-LSNSRCQR :  355
+
+ 1552 : KGTKGLLPVR-WMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVLRYVIDG : 1612
+        |   .::. . ||:|| :::. |..  ||||||:|| |: . . .  : |:...   : :: 
+  356 : KKRYTVVGNPYWMAPEMMKGNKYDEKVDVFSFGIVLCEIIGRVYADPDYLPRSP--DFGLNQ :  415
+
+ 1613 : GVMERP--ENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEP : 1652
+        :|.     ::||: : ::   | : .:. ||:|  : :.||:
+  416 : AVFRDKFCNSCPEPFCRIAFLCCDLNPDKRPPFELMETWLES :  457
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1368 1652 . CLEC001047-PA 176 457 . 131 M 33 33 G 2 0 M 8 8 G 4 0 M 67 67 G 0 2 M 54 54 G 0 1 M 6 6 G 1 0 M 18 18 G 0 1 M 43 43 G 2 0 M 12 12 G 0 2 M 34 34
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000655-PA
+         Model: affine:local:protein2protein
+     Raw score: 407
+   Query range: 1365 -> 1655
+  Target range: 87 -> 358
+
+ 1366 : VLRENIIQLA-PLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRER--TNFLSEAS : 1424
+        :::|: | |:  ||:|:||:|.:|  .:  |:| .:. |:|.::.:| .:    .:|:.|. 
+   88 : LIQEKNISLGKKLGDGTFGVVHHGEWTT--PSGRTKAVAVKVLKKDALAQPGLFEDFIREVQ :  147
+
+ 1425 : VMKEFDTYHVVRLLGVCSRGQPALVVMELMKKGDLKSYLRAHRPEERDEAMMTYLNRIGVTG : 1486
+        .|. :|  :::||:|:   ::| ::: ||   |.| .|:| :            :: |:|  
+  148 : AMHLLDHPQLIRLFGI-VLSKPLMMITELAPLGALLDYIRKQ------------VHEISV-- :  195
+
+ 1487 : NVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDI-YET : 1547
+               :|:.: |.::|.|||||.:|:::||||| || ::|.   |||||||:.| |  |:
+  196 : -------SRLWDYATQVAKGMAYLESKRYLHRDLACRNILLASVDQVKIGDFGLVRVIPEEA :  249
+
+ 1548 : DYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVL-RY : 1608
+        |.| ....: :| .| :||||:   :|  |||. .|| :||| |::.:|. ||:..::| : 
+  250 : DCYVMTEHAKVPFPWCAPESLKRRQFSHKSDVWMWGVSVWEMFTFGEEPWIGLNGTEILIKI :  311
+
+ 1609 : VIDGGVMERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCP : 1655
+          :|. :.:||.||. |..::  ||:. : .|||| :|:::: :: |
+  312 : DKEGERLAKPEACPSCLYTMLLECWDKEPVNRPSFSGIFSFMISETP :  358
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1365 1655 . CLEC000655-PA 87 358 . 407 M 10 10 G 0 1 M 17 17 G 2 0 M 22 22 G 0 2 M 24 24 G 1 0 M 25 25 G 12 0 M 6 6 G 9 0 M 51 51 G 0 1 M 62 62 G 0 1 M 49 49
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC009192-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 1482 -> 1589
+  Target range: 147 -> 254
+
+ 1483 : GVTGNVQPP-TYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRD : 1543
+        :: :|:|:| | :::  : |:: .|: || :: :||||| ..| :::|.  |||:|||::| 
+  148 : SLLDNMQAPFTEAQVKCIMIQVLKGLRYLHSNFIVHRDLKVSNLLMTDKGCVKIADFGLAR- :  209
+
+ 1544 : IYETDYYRKGTKGLLPVRWMPPESLRDG-VYSSASDVFSFGVVLWEM : 1589
+         |.    :  |  ::.::..:|| | :: . ::| |:.: | :| |:
+  210 : WYGLP-VQPMTPQVVTLWYRSPELLLQAKTQTTAVDMWAAGCILGEL :  254
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1482 1589 . CLEC009192-PA 147 254 . 102 M 9 9 G 0 1 M 51 51 G 1 0 M 5 5 G 1 0 M 22 22 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002075-PA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 1540 -> 1883
+  Target range: 811 -> 1163
+
+ 1541 : TRDIYETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQ---PYQG : 1599
+        :.:| | .  :::.  ||. :  |.:.|::   :: |:  ::      |: |: .   ||| 
+  812 : SSEIEERTSPKRAPPQLLRPQSPPNNKLHEKDTAPRSGFQPYRPQDSRMPHLSIPIEYPYQH :  873
+
+ 1600 : LSNEQVLR-----YVIDGGV-MERPENCPDFLHKLMQRCWHHRSSARPSFLDIIAYLEPQCP : 1655
+        | .::| |     |:   |: : .| : |. |. ||..    .::: .. :.| .  |.: .
+  874 : LYPQHVYRLEEQLYLERCGLGVYPPYHAPASLYPLMPSPLLLPPASLHERIKIEE--EHRLR :  933
+
+ 1656 : NSQFKEVSFYHSEAGLQHREKERKERNQLDAFAAVPLDQDLQDREQQEDATTPLRMGDYQQN : 1717
+        : : :| |   : |:  |....||. :| :. :. . :|: |:::||:::..|  :  ::: 
+  934 : EQERREKSKRSPRASPSHSTDSRKALQQPQVQPQHQQQQQPQQQQQQQQPPPPRFVRPFEDY :  995
+
+ 1718 : SSLDQ--PPESPIAMVDDQGSHLPFSLPSGFIASSTPDGQTVMATAFQNIPAAQGDISATYV : 1777
+        :: ::  :| :.|:.|:::. ::: |: . ::.  .: . : :.: :::  |  .:.:::  
+  996 : PGPQRRLSPPPQITKVEERTYDVAVSIVDQYLQIWPARTSSPVVSWLDEQKARGEQTTPSPS : 1057
+
+ 1778 : VPDADALDGDRGYEIYDPSPKCAELPTSRSGSTGGGKLSGEQH--LLPRKGRQPTIMSSSMP : 1837
+         ||: :|||::   : | .|   . |.: : .|:.:||:: :   |:. :.:  . ::. :.
+ 1058 : SPDGPTLDGEKQ-PLVDVEPLILSGPPA-PLETAEDKLTSLRSFGLVTAREKSDVELGKLLR : 1117
+
+ 1838 : DDVIGGSSLQPSTASAGSSNASSHTGRPSLKKTVADSVRNKANFIN : 1883
+          |:..  ::||.|..:.:::: : . |. . .  :.:|:|.:|:|
+ 1118 : MRVLPEMIVEPSEAEEARPESPVDLPIPRPMAEDLGDIRHKVDFLN : 1163
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1540 1883 . CLEC002075-PA 811 1163 . 127 M 55 55 G 0 3 M 12 12 G 0 5 M 7 7 G 0 1 M 34 34 G 2 0 M 72 72 G 0 2 M 67 67 G 1 0 M 15 15 G 1 0 M 14 14 G 0 2 M 63 63
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC002697-PA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 1502 -> 1597
+  Target range: 115 -> 205
+
+ 1503 : IADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDIYETDYYRKGTKGLLPVRWMP : 1564
+        : :|::|: .::::|||| : | :::.: .:|||||| :| :. ..   |. .  ::.|| .
+  116 : LLQGLSYMHENNIMHRDLKPANLLISKEGILKIGDFGQARLLWLEKDRGKPYTQQVSTRWYR :  177
+
+ 1565 : PESLRDGVYSSASDVFSFGVVLWEMATLAAQPY : 1597
+        : .|   :|:: .  :| :: ||.:: : |: :
+  178 : APEL---LYGARK--YSEAIDLWAVGCIFAEMF :  205
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1502 1597 . CLEC002697-PA 115 205 . 123 M 66 66 G 3 0 M 6 6 G 2 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC000031-PA
+         Model: affine:local:protein2protein
+     Raw score: 160
+   Query range: 1364 -> 1614
+  Target range: 1118 -> 1368
+
+ 1365 : EVLRENIIQLAPLGQGSFGMVYEGILKSFPPNGVDRECAIKTVNENATDRERTNFLSEASVM : 1426
+        .: .:|:  |: ||:| ||.|   ||. :...|   .    . .:  :  | .::||| .:.
+ 1119 : GISMDNFKLLSVLGRGHFGKV---ILSQYRNTGEYFAIKALKKGDIIARDEVESLLSEKRIF : 1177
+
+ 1427 : KEFDTYHVVRLLGV--CSRGQPALV-VMEL-MKKGDLKSYLRAHRPEERDEAMMTYLNRIGV : 1484
+        .  :| :   |:.:  | :.:: |  |:.| :.::::::     . ..:   :|.| .  ::
+ 1178 : EVANTMRHPFLVNLFACFQTEAYLGNVITLCIENDGMQTVDDIGPYGAHVCFVMEYAAGGDL : 1239
+
+ 1485 : TGNVQPPTYG--RIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDLTVKIGDFGMTRDI : 1544
+          :::: .::  |    |  :. |:.|| ..:::.|||   | ::..:  |||:|||: :: 
+ 1240 : MMHIHADVFSEPRAVFYAACVVLGLQYLHESNIIYRDLKLDNLLLDTEGYVKIADFGLCKE- : 1301
+
+ 1545 : YETDYYRKGTKGLLPVRWMPPESLRDGVYSSASDVFSFGVVLWEMATLAAQPYQGLSNEQVL : 1606
+         . ::  :...   .  .::|| | :. |:.| | .::||::.||  ::. |:.| .:|:|:
+ 1302 : -GMGFGDRTGTFCGTPEFLAPEVLTETSYTRAVDWWGLGVLIFEM-LVGESPFPGDDEEEVF : 1360
+
+ 1607 : RYVIDGGV : 1614
+          ::::.|
+ 1361 : DSIVNDEV : 1368
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1364 1614 . CLEC000031-PA 1118 1368 . 160 M 21 21 G 3 0 M 52 52 G 0 2 M 9 9 G 0 1 M 4 4 G 0 1 M 41 41 G 0 2 M 49 49 G 2 0 M 44 44 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: InR-PA_FBpp0083519_FBgn0283499_Insulin-like receptor (InR)
+        Target: CLEC005652-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 1486 -> 1589
+  Target range: 321 -> 429
+
+ 1487 : NVQPPTYGRIYQMAIEIADGMAYLAAKKFVHRDLAARNCMVADDL-TVKIGDFGMT--RDIY : 1545
+        :  .|.|.   ::  .:..|:.|: :: :||:|:.:.| .:: || .|::||||::   ...
+  322 : DSSTPDYNICNNIFKKVVKGVEYIHSQGIVHHDINPNNIFISYDLKEVQVGDFGLSCCIATH :  383
+
+ 1546 : ETDYYRKGTKGLLPVRWMP--PESLRDGVYSSASDVFSFGVVLWEM : 1589
+        :::   .:|..   |  :|  : .  :|..:: ||::|:|:||.|:
+  384 : QSQSLLSATHPHGEVGTVPYAAPEQANGTCNPKSDIYSLGIVLFEL :  429
+
+vulgar: InR-PA_FBpp0083519_FBgn0283499_Insulin-like 1486 1589 . CLEC005652-PA 321 429 . 103 M 45 45 G 0 1 M 10 10 G 0 2 M 23 23 G 0 2 M 25 25
+-- completed exonerate analysis

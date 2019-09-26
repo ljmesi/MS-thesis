@@ -1,0 +1,29 @@
+name	description
+C_lec1	CLEC025236-PA
+C_lec2	CLEC025113-PA
+C_lec3	CLEC025066-PA
+C_lec4	CLEC025152-PA
+M_ext1	Medex_00089660-RA
+M_ext2	Medex_00021391-RA
+G_bue1	GBUE021017-PA
+G_bue2	GBUE020981-PA
+G_bue3	GBUE000143-PA
+G_bue4	GBUE007864-PA
+G_bue5	GBUE004039-PA
+C_hook1	maker-scaffold5131-size174542-augustus-gene-0.3-mRNA-1
+N_lug1	XP_022206854.1 homeotic protein ultrabithorax-like [Nilaparvata lugens]
+N_lug2	XP_022183795.1 homeotic protein ultrabithorax-like, partial [Nilaparvata lugens]
+F_exs1	XP_029663374.1 homeotic protein ultrabithorax-like [Formica exsecta]
+A_pis1	XP_008182895.1 homeotic protein ultrabithorax isoform X1 [Acyrthosiphon pisum]
+C_lec5	XP_014240207.1 homeotic protein ultrabithorax isoform X1 [Cimex lectularius]
+D_mel1	FBpp0082793 FBgn0003944 Ubx [Drosophila melanogaster]
+D_sim1	FBpp0314200 FBgn0191744 Ubx [Drosophila simulans]
+D me	1
+N lu	2
+F ex	1
+A pi	1
+G bu	5
+C le	5
+M ex	2
+C ho	1
+D si	1

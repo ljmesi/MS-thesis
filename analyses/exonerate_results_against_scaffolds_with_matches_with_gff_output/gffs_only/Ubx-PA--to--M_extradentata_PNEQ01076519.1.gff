@@ -1,0 +1,72 @@
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2019-09-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+PNEQ01076519.1	exonerate:protein2genome:local	gene	630	66848	473	+	.	gene_id 1 ; sequence Ubx-PA_FBpp0082793_FBgn0003944_Ultrabithorax ; gene_orientation + ; identity 40.11 ; similarity 60.16
+PNEQ01076519.1	exonerate:protein2genome:local	cds	630	652	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	630	652	.	+	.	insertions 0 ; deletions 0 ; identity 28.57 ; similarity 71.43
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	653	654	.	+	.	intron_id 1 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	653	10493	.	+	.	intron_id 1
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	10492	10493	.	+	.	intron_id 0 ; splice_site "AT"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	10494	10587	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	10494	10587	.	+	.	insertions 0 ; deletions 0 ; identity 25.00 ; similarity 56.25
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	10588	10589	.	+	.	intron_id 2 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	10588	17417	.	+	.	intron_id 2
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	17416	17417	.	+	.	intron_id 1 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	17418	17496	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	17418	17496	.	+	.	insertions 0 ; deletions 0 ; identity 23.08 ; similarity 46.15
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	17497	17498	.	+	.	intron_id 3 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	17497	29876	.	+	.	intron_id 3
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	29875	29876	.	+	.	intron_id 2 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	29877	29948	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	29877	29948	.	+	.	insertions 0 ; deletions 0 ; identity 13.04 ; similarity 39.13
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	29949	29950	.	+	.	intron_id 4 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	29949	37203	.	+	.	intron_id 4
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	37202	37203	.	+	.	intron_id 3 ; splice_site "AC"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	37204	37241	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	37204	37241	.	+	.	insertions 0 ; deletions 0 ; identity 7.69 ; similarity 53.85
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	37242	37243	.	+	.	intron_id 5 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	37242	37691	.	+	.	intron_id 5
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	37690	37691	.	+	.	intron_id 4 ; splice_site "GG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	37692	37710	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	37692	37710	.	+	.	insertions 0 ; deletions 0 ; identity 33.33 ; similarity 66.67
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	37711	37712	.	+	.	intron_id 6 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	37711	42887	.	+	.	intron_id 6
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	42886	42887	.	+	.	intron_id 5 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	42888	42954	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	42888	42954	.	+	.	insertions 0 ; deletions 0 ; identity 47.62 ; similarity 66.67
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	42955	42956	.	+	.	intron_id 7 ; splice_site "AT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	42955	51853	.	+	.	intron_id 7
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	51852	51853	.	+	.	intron_id 6 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	51854	51984	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	51854	51984	.	+	.	insertions 0 ; deletions 0 ; identity 23.26 ; similarity 39.53
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	51985	51986	.	+	.	intron_id 8 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	51985	52185	.	+	.	intron_id 8
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	52184	52185	.	+	.	intron_id 7 ; splice_site "AC"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	52186	52390	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	52186	52390	.	+	.	insertions 0 ; deletions 0 ; identity 8.96 ; similarity 46.27
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	52391	52392	.	+	.	intron_id 9 ; splice_site "GT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	52391	52669	.	+	.	intron_id 9
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	52668	52669	.	+	.	intron_id 8 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	52670	52725	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	52670	52725	.	+	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 50.00
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	52726	52727	.	+	.	intron_id 10 ; splice_site "TT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	52726	54326	.	+	.	intron_id 10
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	54325	54326	.	+	.	intron_id 9 ; splice_site "AA"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	54327	54410	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	54327	54410	.	+	.	insertions 0 ; deletions 0 ; identity 14.81 ; similarity 33.33
+PNEQ01076519.1	exonerate:protein2genome:local	splice5	54411	54412	.	+	.	intron_id 11 ; splice_site "TT"
+PNEQ01076519.1	exonerate:protein2genome:local	intron	54411	66552	.	+	.	intron_id 11
+PNEQ01076519.1	exonerate:protein2genome:local	splice3	66551	66552	.	+	.	intron_id 10 ; splice_site "AG"
+PNEQ01076519.1	exonerate:protein2genome:local	cds	66553	66848	.	+	.	
+PNEQ01076519.1	exonerate:protein2genome:local	exon	66553	66848	.	+	.	insertions 0 ; deletions 0 ; identity 92.86 ; similarity 95.92
+PNEQ01076519.1	exonerate:protein2genome:local	similarity	630	66848	473	+	.	alignment_id 1 ; Query Ubx-PA_FBpp0082793_FBgn0003944_Ultrabithorax ; Align 630 1 21 ; Align 10495 9 93 ; Align 17418 40 78 ; Align 29879 67 69 ; Align 37206 91 36 ; Align 37692 103 18 ; Align 42890 110 63 ; Align 51855 132 129 ; Align 52188 176 201 ; Align 52671 244 54 ; Align 54329 263 81 ; Align 66555 291 294
+# --- END OF GFF DUMP ---
+#

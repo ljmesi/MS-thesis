@@ -1,0 +1,1407 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/EcR-PA.fas analyses/2019-09-02/polypeptides/C_lectularius_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025263-PA
+         Model: affine:local:protein2protein
+     Raw score: 162
+   Query range: 433 -> 604
+  Target range: 171 -> 341
+
+ 434 : ITEITILTVQLIVEFAKGLPAFTKIPQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRS : 497
+       : |::   : : |..||.||:|:.:|  ||:.||..| :|:.:|.  ::. . ... :|: .  
+ 172 : VYEVAARLLLMGVKWAKNLPSFASLPFRDQVILLEECWAELFLLNAIHWCLPLETCKLFSVPEH : 235
+
+ 498 : YTRDSYKMAGMADNIEDLLHFCRQMF-SMKVDNVEYALLTAIVIF-SDRPGLEKAQLVEAIQSY : 559
+          .:  ..|:..:    |:   |.| :::||. |:| |.|||:| |: .||..:  ||.:|. 
+ 236 : VMAAPSGKEGLVAHEVRALNDALQKFKAIRVDAGEFACLKAIVLFKSETRGLKDPMQVENFQDQ : 299
+
+ 560 : YIDTLRIYILNRHCGDSMSLVFYAKLLSILTELRTLGNQNAEMCF : 604
+           |  .  ..| ::: .   :::|| :|. |:.:..:. |  |
+ 300 : AQVMLCQHSRTNHPDQGQR---FGRLLLMLPLLKVVPTNRIEDIF : 341
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 433 604 . CLEC025263-PA 171 341 . 162 M 90 90 G 0 1 M 18 18 G 0 1 M 37 37 G 3 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025263-PA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 234 -> 400
+  Target range: 44 -> 209
+
+ 235 : CLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDM-YMRRKCQECRLKKCLA : 297
+       |:|||| :|| ||. |:|:||.|||:||| :. :|  . :.: .:.| |... ..: .  :   
+  45 : CVVCGDTSSGKHYGILACNGCSGFFKRSVRRKLIYRPSSSMSLGLSMQYKNMISANASPGQEEI : 108
+
+ 298 : VGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGGGQDFVKKEILDLMTCE : 361
+        :::| .  ::.  :...|:.:.:.:. .:|.. ::. |. :   |:::. :  . ::     |
+ 109 : NAVQPRSQYSQPSPPKSSRDENEDEDTIDVTNEEPPATGTYS--MSASAPPLPPEYVFYPTMPE : 170
+
+ 362 : PPQHATIPLLPDEILAKCQARNIPSLTYNQLAVIYKLIW : 400
+       .  :.: .||  .:    : .:::||.:.: .:: .  |
+ 171 : TVYEVAARLLLMGVKWAKNLPSFASLPFRDQVILLEECW : 209
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 234 400 . CLEC025263-PA 44 209 . 155 M 47 47 G 0 1 M 58 58 G 2 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC010081-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 624 -> 840
+  Target range: 204 -> 420
+
+ 625 : AIPPSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQP : 688
+       | ::| | : | :| .. : :.:..:..  : :  :: : .:. : ::|::|| |. .|:|: |
+ 205 : ASSSSNQQQQQQSQPSPPQQQSTSSLSQQSAQSQQSSAQQSAQQAQPSAPPAQSQQLQQSQAGP : 268
+
+ 689 : SSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAP : 752
+           |:::|:|...| |:  |.:| :|:...  .: .::  . ..|.| | |: .  .::   |
+ 269 : QQQQQQQPQQQPAQQ-QSSQPHRLIAQVPGAALTHQPSNQSHLTAPPPLLPPMLQKSQPPKLMP : 331
+
+ 753 : GSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASS-TTSAVPMGNGVGVGVGVGGNVSMYA : 815
+       . |:::. :|:.:.:::::   ..:  ::|::: |:::  .. | :  |.:||. ...:     
+ 332 : PLLAPLDLPSHCLPSPPTLQVQVTSQLPTISPTNTPPPLHKDLVDVCVGTSVGTITEPDCLGPC : 395
+
+ 816 : NAQTAMALMGVALHSHQEQLIGGVA : 840
+       :: |:::| |:. |. :. |: .|:
+ 396 : EPGTSVTLEGIVWHETEGVLVVNVT : 420
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 624 840 . CLEC010081-PA 204 420 . 128 M 79 79 G 1 0 M 86 86 G 0 1 M 50 50
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC010081-PA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 636 -> 818
+  Target range: 206 -> 390
+
+ 637 : TQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQT : 700
+       : .:::: ::::. .:   :: : : :.. :  |:|..:||:...:.|.:|:  | |::: .| 
+ 207 : SSSNQQQQQQSQPSPPQQQSTSSLSQQSAQSQQSSAQQSAQQAQPSAPPAQSQQLQQSQAGPQQ : 270
+
+ 701 : QPQLQPQLPPQLQGQLQPQ-LQPQLQ-TQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSS : 762
+       |.| ||| .|. |   ||: | :|:. :.| .|  .|::| : :: :|: :  : : . ::.  
+ 271 : QQQQQPQQQPAQQQSSQPHRLIAQVPGAALTHQPSNQSHLTAPPPLLPPMLQKSQPPKLMPPLL : 334
+
+ 763 : EYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQ : 818
+       . :: ::   | .|:    :|:.:.: |.|:: |  :   |:| ||.:|:  ::::
+ 335 : APLDLPSHCLPSPPTLQVQVTSQLPTISPTNTPPPLHKDLVDVCVGTSVGTITEPD : 390
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 636 818 . CLEC010081-PA 206 390 . 115 M 83 83 G 0 1 M 6 6 G 0 1 M 93 93
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC000627-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 664 -> 825
+  Target range: 32 -> 191
+
+ 665 : DSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQL-QGQLQPQLQPQLQTQ : 727
+       .: :.: :|:: .|  :.::|.|.  |.. : |:| |.| |.| .| | |.| ||| ||. | |
+  33 : ANIGPTIPAPPLPHLLNGHSQHQQHLLNAFQQQQQQQQQQQTQPQPLLSQPQQQPQAQPPPQQQ :  96
+
+ 728 : LQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASST : 791
+        |.| ||||.| . |.  | | :: .|  . .:.|  :.|:.:.|  ..: ::: .::.:: :|
+  97 : NQHQ-QPQPPLPQPSQKSPISHSPFNSGMQNCAKSPPINGGNGTGMSNGGCSTASNPSTSPLNT : 159
+
+ 792 : TSAVPMGNGVGVGVGVGGNVSMYANAQTAMALMG : 825
+       .| :: :|. ::.:..::.: .|.::. ::.||:
+ 160 : ISRLAASNN-DLTITTSSAI-KYQHSPLPLDLMD : 191
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 664 825 . CLEC000627-PA 32 191 . 117 M 48 48 G 0 1 M 19 19 G 1 0 M 68 68 G 1 0 M 10 10 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001853-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 661 -> 794
+  Target range: 48 -> 179
+
+ 662 : IDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQ : 725
+       |  .:. .:...::.||.|.| ||||| :  |: : :| .|  |:| ||. |.. |.: |.. .
+  49 : IPPAAQQPANQQPPQQHPPAPSPQPQPQP-QQSPPIQQQPPTQQAQQPPAQQPAPQQNQQTPPP : 111
+
+ 726 : TQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTAS : 789
+       :.:|.  .:|||  .. :||    ..  ::::::  ::|. : :| :. : .. .::..: .::
+ 112 : APVQQTPASQPQPPQTQPPVVHVKNEDQNIPGLGL-ADYKKDLSAESQSSDNGQEGVEESHEGG : 174
+
+ 790 : STTSA : 794
+       :|..:
+ 175 : PTVKS : 179
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 661 794 . CLEC001853-PA 48 179 . 103 M 29 29 G 1 0 M 69 69 G 1 0 M 33 33
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011581-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 669 -> 777
+  Target range: 164 -> 270
+
+ 670 : SAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQ : 733
+       :|: | :|.||:|||:|||   . ::.|: .|||  .:::|   .|  . :.|| ..: .|| :
+ 165 : PAPKARPQPQPRPQPRPQPQFQDYEEEQRYEQPQPVQNFAP--VPQRSQVFAPQPAPRPAPQPR : 226
+
+ 734 : PQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPA : 777
+       | . : : ::|:|:.::.||: :. :.:: |  ..:| :.:.|:
+ 227 : PVQSFQSSGSPIPPRLSVPGAAPVFAPAPVYEQPRPAPARLPPP : 270
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 669 777 . CLEC011581-PA 164 270 . 117 M 41 41 G 2 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC012578-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 577 -> 798
+  Target range: 194 -> 413
+
+ 578 : SLVFYAKLLSILTELRTLGNQNA-EMCFSLKLKNRKLPKFLEEIWDVHAIPPSVQSHLQITQEE : 640
+       :|  :|. |:.|.. .:|...:| .: ::  : : .:: :     .:.|.||| .::   ::. 
+ 195 : PLSSFASYLPTLPAPPSLPPPSAPALVYGRPVFKVEFAPY---PLSLPATPPSPPTQPLPARAY : 255
+
+ 641 : NERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQP--QPSSLTQNDSQHQTQP : 702
+       . .: :.  : |: ..::.|.    :::.:::::::...||| |.|   |:.|... |.....|
+ 256 : GPPVVKVVEL-APYPPTLPAPPPPPAPPPPPPPPSPPPPPQPLPAPVYGPPELPAPPSPPPPPP : 318
+
+ 703 : QLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMG : 766
+       . .|. ||. ... .|. ||  :.   |.::   :| | ::::||: .:|.: :: :.::   .
+ 319 : PPPPPPPPPPPPPPPPPPQPLPEPVYGPPVEKVVDLAPYPPALPAPPPPPPPPPPPPPPPP-PP : 381
+
+ 767 : GSAAIGPITPATTSSITAAVTASSTTSAVPMG : 798
+       .::: .| .|:.. ::.|:| ::: ...| ::
+ 382 : PPPPPPPPPPPPPQPLPAPVYGPPLDKVVDLA : 413
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 577 798 . CLEC012578-PA 194 413 . 111 M 23 23 G 0 1 M 16 16 G 3 0 M 31 31 G 1 0 M 35 35 G 0 2 M 77 77 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC012578-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 15 -> 194
+  Target range: 295 -> 473
+
+  16 : TLPSHILLQQQLAASAGPSSSVSLSPSSSAALTLHVASANGGARETTSAAAVKDKLRPTPTAIK :  79
+       .||:.:  ..:|:|:::|::: : :|::::: . . :::.. :  ..  ::  :|:   :.   
+ 296 : PLPAPVYGPPELPAPPSPPPPPPPPPPPPPPPPPPPPPPPPQPLPEPVYGPPVEKVVDLAPYPP : 359
+
+  80 : IEPMPDVISVGTVAGGSSVATVVAPAATTTSNKPNSTAAPSTSAAAANGHLVLVPNKRPRLDVT : 143
+         | |   : .. :..:: :.  :|::...:. |.: : |:.  ::: :.:| ::. .| | ..
+ 360 : ALPAPPP-PPPPPPPPPPPPPPPPPPPPPPPPPPPPQPLPAPVYGPPLDKVVDLAPYPPALPAP : 422
+
+ 144 : EDWMSTPSPGSVPSSAPPLSPSPGSQNHSYNMSNGYASPM-SAGSYDPYSPT : 194
+           :.|:|.: |:::|: :|:|.:|.:: . :. |::|: .. . .||:|:
+ 423 : PPPPPPPPPPPPPPPPPSPPPPPPPQPQPLP-APVYGPPVDKVVDLAPYPPA : 473
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 15 194 . CLEC012578-PA 295 473 . 109 M 71 71 G 1 0 M 87 87 G 1 0 M 8 8 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC012578-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 22 -> 190
+  Target range: 235 -> 404
+
+  23 : LQQQLAASAGPSSSVSLSPSSSAAL-TLHVASANGGARETTSAAAVKDKLRPTPTAIKIEPMPD :  85
+       |  . ::::.|: ::: .: :::.: .:::|: ... ....:::|     .|.:.:   :|:|.
+ 236 : LSLPATPPSPPTQPLPARAYGPPVVKVVELAPYPPTLPAPPPPPAPPPPPPPPSPPPPPQPLPA : 299
+
+  86 : VISVGTVAGGSSVATVVAPAATTTSNKPNSTAAPSTSAAAANGHLVLVPNKRPRLDVTEDWMST : 149
+        :  ..  .::: :.  :|::...:. |.:.::|:.:.: ::.      :|   |.     :::
+ 300 : PVYGPPELPAPPSPPPPPPPPPPPPPPPPPPPPPPPPQPLPEPVYGPPVEKVVDLAPYPPALPA : 363
+
+ 150 : PSPGSVPSSAPPLSPSPGSQNHSYNMSNGYASPMSAGSYDP : 190
+       |:|.: |:::|| :|:|.:...: . :.. : |::|. |:|
+ 364 : PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPQPLPAPVYGP : 404
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 22 190 . CLEC012578-PA 235 404 . 107 M 25 25 G 0 1 M 143 143
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC012578-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 665 -> 805
+  Target range: 317 -> 456
+
+ 666 : SASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQ-PQLQPQLPPQLQGQLQPQLQPQLQTQL : 728
+       :::.:::::::...|.|.||| |.::  .  :. .: :. .|.||:. ... .|. .|. ... 
+ 318 : PPPPPPPPPPPPPPPPPPPQPLPEPVYGPPVEKVVDLAPYPPALPAP-PPPPPPPPPPPPPPPP : 380
+
+ 729 : QPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTT : 792
+       .|. .|.|.  | :.|:||:| :| :|. | . : | .: :| .| .|:..:: .:: .:|:..
+ 381 : PPPPPPPPPPPPPPQPLPAPVYGP-PLDKVVDLAPYPPALPAPPPPPPPPPPPPPPPPPPSPPP : 443
+
+ 793 : SAVPMGNGVGVGV : 805
+       :: | .:.:...|
+ 444 : PPPPQPQPLPAPV : 456
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 665 805 . CLEC012578-PA 317 456 . 107 M 36 36 G 0 1 M 10 10 G 1 0 M 40 40 G 1 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC004802-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 670 -> 764
+  Target range: 113 -> 214
+
+ 671 : AAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQ--TQLQPQI : 732
+       .:::..|.:.|||. |.|    :.::|.|.||| ||: .|| | | :|| ||| |  .| ||| 
+ 114 : NPPPQQQYRTQPQQYPAPVQEYRAQPQYQPQPQYQPRPQPQPQYQPRPQPQPQYQPRPQPQPQY : 177
+
+ 733 : QPQPQLLP-----VSAPVPASVTAPGSLSAVSTSSEY : 764
+       |||||  |     .::|.| .  :||.||  .::..:
+ 178 : QPQPQYQPQVPRYTTTPAPHRFFPPGKLSLNRSPDGF : 214
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 670 764 . CLEC004802-PA 113 214 . 118 M 55 55 G 0 2 M 15 15 G 0 5 M 24 24
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007525-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 255 -> 300
+  Target range: 92 -> 138
+
+ 256 : KGFFRRSVTK-SAVYCCKFGRACEMDMYMRRKCQECRLKKCLAVGM : 300
+       ::|| || .: |::  || . .| ::.  | .|:.|||:||| |||
+  93 : QSFFGRSYNNLSSISECKNNGECVINKKNRTSCKACRLRKCLLVGM : 138
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 255 300 . CLEC007525-PA 92 138 . 111 M 10 10 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007525-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 231 -> 285
+  Target range: 1 -> 60
+
+ 232 : EELCLVCGDRASGYHYNALTCEGC-----KGFFRRSVTKSAVYCCKFGRACEMDMYMRR : 285
+       :: | |||:.|:|:|:.|:||||.      .||| : .:.:| | ||. :  ::: :.|
+   2 : NQQCKVCGEPAAGFHFGAFTCEGSILATRIEFFRLAYKRKGVVCLKFTFPQFLGLLIPR :  60
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 231 285 . CLEC007525-PA 1 60 . 109 M 24 24 G 0 5 M 30 30
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC002129-PA
+         Model: affine:local:protein2protein
+     Raw score: 1437
+   Query range: 196 -> 625
+  Target range: 50 -> 469
+
+ 197 : TGRDDLSPSSSLNGYSANESCDAKKSKKGPAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFR : 260
+       :||:||||::||||||| :|||:.|.|||.| | ||||||||||||||||||||||||||||||
+  51 : SGREDLSPPNSLNGYSA-DSCDGSKKKKGTAVRQQEELCLVCGDRASGYHYNALTCEGCKGFFR : 113
+
+ 261 : RSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKKCLAVGMRPECVVPENQCAMKRREKKAQKEK : 324
+       ||:||:.|| ||:|..||:|||||||||||||||||:||||||||||| |||:||:||||||:|
+ 114 : RSITKNNVYQCKYGNNCEIDMYMRRKCQECRLKKCLSVGMRPECVVPEYQCAVKRKEKKAQKDK : 177
+
+ 325 : DKMTTSPSSQHGGNGSLASGGGQDFVKKEILDLMTCEPPQHATIPLLPDEILAKCQARNIPSLT : 388
+       || .::.:: ..:  .:.:.. :   ...::: |. |:. ::|     :. ||| ....|  ::
+ 178 : DKPVSTTNGSPEAI-KVEPEPHRVSYTSSLFQSMIKESQTQST-----EGELAKVAVNGIKQVS : 235
+
+ 389 : YNQLAVIYKLIWYQDGYEQPSEEDLRRIMSQPDENESQTDVSFRHITEITILTVQLIVEFAKGL : 452
+        :| .:|.:|:.:|:.||:||:||:||| : |:::|.|:|:.|||||:|||||||||||||| |
+ 236 : AEQEELIHRLVYFQNEYEHPSDEDVRRI-NTPNDEEEQSDLKFRHITQITILTVQLIVEFAKRL : 298
+
+ 453 : PAFTKIPQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDLL : 516
+       |:|.|: :||||:|||||||||||||||||||  ||||:||||::||||||:||||:| :|:||
+ 299 : PGFDKLLREDQIALLKACSSEVMMLRMARRYDAQSDSILFANNQPYTRDSYNMAGMGDVVEGLL : 362
+
+ 517 : HFCRQMFSMKVDNVEYALLTAIVIFSDRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMSLV : 580
+       :|||||::|||||.||||||||||||:||:|..:  || ||. |:::|: |: ||  : :.| .
+ 363 : RFCRQMYNMKVDNAEYALLTAIVIFSERPSLTEGWKVEKIQEIYLEALKSYVDNR--ARPRSPT : 424
+
+ 581 : FYAKLLSILTELRTLGNQNAEMCFSLKLKNRKLPKFLEEIWDVHA : 625
+       ::|||||:|||||||||||:||||||||:||||| ||.|||||::
+ 425 : IFAKLLSVLTELRTLGNQNSEMCFSLKLQNRKLPPFLAEIWDVNP : 469
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 196 625 . CLEC002129-PA 50 469 . 1437 M 17 17 G 1 0 M 124 124 G 1 0 M 28 28 G 5 0 M 44 44 G 1 0 M 154 154 G 2 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025112-PA
+         Model: affine:local:protein2protein
+     Raw score: 258
+   Query range: 225 -> 624
+  Target range: 8 -> 428
+
+ 226 : PAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCK----FGRACEMDMYMRR : 285
+       .: |: :  | |||||:|| ||.  :|:||.|||:||: :: || ||    :   | :|.  |.
+   9 : QGDRLLDIPCKVCGDRSSGKHYGIYSCDGCSGFFKRSIHRNRVYTCKAQGDLKGRCPIDKTHRN :  72
+
+ 286 : KCQECRLKKCLAVGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGGGQDF : 349
+       :|:.|||.||:. :|. : : .. . . .|  :|:::.||  ..|| .| :||.::  .::|: 
+  73 : QCRACRLTKCFQSAMNKDGMGGTIAVQHERGPRKPKQSKD--GESPVRQVSGNNGVCLESSQHS : 134
+
+ 350 : VKKEILDLMTCEPPQHATIP-LLPDEILAKCQARNIPSLTYNQ---LAVIY--KLIWYQDGYEQ : 407
+         | .      .| |:|. |   |: ::.. |:..:  |  :.    .::.  ||   ::| . 
+ 135 : PLKLTSPAYQQAPMQQADSPERRPQPLFVSHQPPGLLQLLMSAEKCQEIVWNGKLDVINGGNSG : 198
+
+ 408 : PSEEDLRRI-MSQPDENESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKIPQED-------- : 463
+       |:. .   | :| : . |   :   .: |.  :|   : | ..: |::| .::: |        
+ 199 : PGSPSATAIPLSLSPSWEVLQGSICSQETTARLLF--MAVRWVRCLAPFQTLSKRDQFLLAVNL : 260
+
+ 464 : -------QITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDLLHFC : 519
+              |: ||:.. .|:.:|::|::  . . |  ::..:: .| : . : ::::::.: :: 
+ 261 : TSMCIYLQLLLLQESWKELFLLHLAQWSIPWDLSPVLGGPKARERLPLDDTLVPNELNAIQEIL : 324
+
+ 520 : RQMFSMKVDNVEYALLTAIVIF-SDRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMSLVFY : 582
+        :.  :. |. |.: :.|:::| :: ||| ..| || :|.    .|. |: .|.  :: .   :
+ 325 : ARFRQLSPDGSECGCMKAVILFTPETPGLVDVQPVEMLQDQAQCILNDYVRGRYARQPTR---F : 385
+
+ 583 : AKLLSILTELRTLGNQNAE-MCFSLKLKNRKLPKFLEEIWDVH : 624
+       ::|| ::..|:.: : . | : |. .: :  :.::|.::. ::
+ 386 : GRLLLMIPGLKVIRQSTIERLFFRETIGDIPIHRLLGDMYVME : 428
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 225 624 . CLEC025112-PA 8 428 . 258 M 47 47 G 0 4 M 53 53 G 2 0 M 42 42 G 0 1 M 22 22 G 0 3 M 5 5 G 0 2 M 20 20 G 0 1 M 25 25 G 2 0 M 19 19 G 0 15 M 79 79 G 0 1 M 37 37 G 3 0 M 20 20 G 0 1 M 23 23
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011347-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 651 -> 822
+  Target range: 101 -> 275
+
+ 652 : ASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQP---QLQPQLPPQL : 712
+       .: | ::::|:  ::. .|  .:.::: : | ||| | ::.:. : . .:|   .::.. | |:
+ 102 : VGSGLGLATGVVGGNEVVSRHVTVTHRVAVPVPQPVPVPVERTVAVPVPHPVSVPVDRPYPVQV : 165
+
+ 713 : QGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLS-AVSTSSEYMGGSAAIGPIT : 775
+       . .:. .::.. ...::.:: | |   .|:.||| :|:.| : : ||:. .:   . :   :: 
+ 166 : PRPVPVPVERPYPVPVERRV-PVPVHHTVNVPVPHPVAVPVPRPVAVPVVRNVPVPVPHPVAVH : 228
+
+ 776 : PATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       .:..  ::.:| :: .::|  :| : |:| | | :   ||:: |:::
+ 229 : QPVPVHVSVPVHTGVVAAAPVVGVSSGLGFGSGYSGLGYASGVTGLG : 275
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 651 822 . CLEC011347-PA 101 275 . 107 M 51 51 G 0 3 M 30 30 G 1 0 M 23 23 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001708-PA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 621 -> 799
+  Target range: 490 -> 668
+
+ 622 : DVHAIPPSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQ : 685
+       .|.. ::. ::  : :.| :.. |.|.   :|.... ::. : .:.:.:::.:||:.:| ::|:
+ 491 : AVPEPSAKPEPSPEPSAEPESSPEPAAAQEPSAEPEPATEPEPSAEPEPSPEPAAEPEPSAEPE : 554
+
+ 686 : PQPSSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASV : 749
+       | |.: ::.::  :.:|  :|   |:  .:|  : :|  :.. :|:  |:|   | ::| ||: 
+ 555 : PSPEPAAEPEPSAEPEPSPEPSAEPEPSPELSLEHKPSPEPAAEPDPSPEPTAEPEPSPEPAAE : 618
+
+ 750 : TAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGN : 799
+       ..|:: :|.. .:. ..: .: .: .|.:.:. ::. ||.:..|: | ::
+ 619 : PEPSPEPAAEHETSPKPSVEPEPSPEPVAEPEPSPEPTAEPEPSPEPAAK : 668
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 621 799 . CLEC001708-PA 490 668 . 127 M 178 178
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001708-PA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 627 -> 796
+  Target range: 428 -> 599
+
+ 628 : PSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSL : 691
+       |: ::  : ... : . |.. .  ::.... ::. . ::.|::.:|:.::. |:|.::|:|:::
+ 429 : PTPEPAAEPEPSPEPPAEPEPSPEPAAEPEPSPEPAAEPESSPEPASEPEPSPEPAAEPEPTAV : 492
+
+ 692 : TQNDSQHQ--TQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPG : 753
+       .:..::.:  .:|  :|: :|: .:. :|  :|: .|: :|  :|:|   |.:.| |:: ..|:
+ 493 : PEPSAKPEPSPEPSAEPESSPEPAAAQEPSAEPEPATEPEPSAEPEPSPEPAAEPEPSAEPEPS : 556
+
+ 754 : SLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVP : 796
+       : :|....:.  ..::: .: .|..::.:: . .:|:..:| |
+ 557 : PEPAAEPEPSAEPEPSPEPSAEPEPSPELSLEHKPSPEPAAEP : 599
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 627 796 . CLEC001708-PA 428 599 . 126 M 72 72 G 0 2 M 97 97
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007867-PA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 649 -> 813
+  Target range: 126 -> 285
+
+ 650 : MRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQ : 713
+       : :::||::.:|: . |.:. :..:..   : | ||| | ::|:. : . .|| :.  :|..:.
+ 127 : LGGGLGGGLGGGLVSVSQTPVTVNTVNTAVAVPVPQPVPVTVTRPVPVPVPQP-VPVSVPRAVP : 189
+
+ 714 : GQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPA : 777
+        ::...:.  :. .:.  : |:|  :||: |||.||..|    ||:.:  |  . :   |:: :
+ 190 : VHVPQPVPVTVPRPVPVSV-PRPVPVPVPHPVPVSVPQP---YAVPVPQPYPVTVTRPVPVSVP : 249
+
+ 778 : TTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSM : 813
+        .  ::.:|:.|:.: :|: | | | | | |:.|::
+ 250 : QPVVVAQPVAVSTGSVGVSSGLGSGFGGGFGSGVGL : 285
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 649 813 . CLEC007867-PA 126 285 . 143 M 53 53 G 1 0 M 29 29 G 1 0 M 19 19 G 3 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007867-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 649 -> 809
+  Target range: 130 -> 291
+
+ 650 : MRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQ : 713
+       : :::||::.:  :   : .:..:|.| . ||| | . ..::. . :| ...  :...:| ::.
+ 131 : LGGGLGGGLVSVSQTPVTVNTVNTAVAVPVPQPVPVTVTRPVPVPVPQ-PVPVSVPRAVPVHVP : 193
+
+ 714 : GQLQPQLQPQLQTQLQPQIQ-PQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITP : 776
+        .:.  :...:.. :...:. | |: :|||.| | :|..| : :.. |.:  :: :.::    |
+ 194 : QPVPVTVPRPVPVSVPRPVPVPVPHPVPVSVPQPYAVPVPQPYPVTVTRPVPVSVPQPVVVAQP : 257
+
+ 777 : ATTSSITAAVTAS-STTSAVPMGNGVGVGVGVGG : 809
+       .:.|: :.:|::: ::. : ..|:|||:| ::|:
+ 258 : VAVSTGSVGVSSGLGSGFGGGFGSGVGLGSSLGS : 291
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 649 809 . CLEC007867-PA 130 291 . 113 M 48 48 G 1 0 M 35 35 G 0 1 M 56 56 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005212-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 664 -> 807
+  Target range: 910 -> 1060
+
+  665 : DSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQP-QLPPQLQ-GQLQPQLQPQL :  724
+        :::|  . ::  |. .|:|| .||:   ..:: :||| | |: ||||| | :| ||:|::| 
+  911 : QNSSLQQHPPIMQPSTQSQPMQQPTLSLPTQPLQQTQLQPQSLQLPPQAQLSQTQPELHSQN :  972
+
+  725 : QTQLQPQIQPQPQL-----LPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSS :  781
+         :|:||| : .| |     || :.::|.: :.| : ::  :: : :: :.| :. .:.. ..
+  973 : MSQIQPQPHMPPLLQQHQQLPQPQALPQGNSQPQTPPPSQSPLQTLSQPQAQSQSEAQPQEE : 1034
+
+  782 : ITAAVTASSTTSAVPMGNGVGVGVGV :  807
+        :::. . :...:.:|:... :|.|::
+ 1035 : LSPDQPCTEEPPQLPIEGTPSVPVSI : 1060
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 664 807 . CLEC005212-PA 910 1060 . 122 M 42 42 G 0 1 M 7 7 G 0 1 M 25 25 G 0 5 M 69 69
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005212-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 640 -> 763
+  Target range: 880 -> 1006
+
+  641 : NERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQP :  702
+        .|.:. ::. ..:: .:. . |: .: :. ..:: .||.|  || .|: :: |..   .|||
+  881 : PEMMGISQPPPQTLCPPTLQQIQPSALGVQQNSSLQQHPPIMQPSTQSQPMQQPTLSLPTQP :  942
+
+  703 : QLQPQLPPQ-LQGQLQPQL---QPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVST :  760
+          |.||.|| || . |:||   ||:|::|  :||||||:: |: .. .. :..| :|:. ::
+  943 : LQQTQLQPQSLQLPPQAQLSQTQPELHSQNMSQIQPQPHMPPLLQQ-HQQLPQPQALPQGNS : 1003
+
+  761 : SSE :  763
+         ::
+ 1004 : QPQ : 1006
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 640 763 . CLEC005212-PA 880 1006 . 120 M 71 71 G 0 1 M 9 9 G 0 3 M 24 24 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005212-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 630 -> 849
+  Target range: 895 -> 1108
+
+  631 : QSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLT :  692
+        .: || .| ..  :::...::.  .. : ::.:.::   :: : ::|. .|.| |||:  |.
+  896 : PPTLQQIQPSALGVQQNSSLQQH-PPIMQPSTQSQPMQQPTLSLPTQPLQQTQLQPQSLQLP :  956
+
+  693 : QNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVP-ASVTAPG :  753
+        .:.   ||||:|::|  :|:|.  ||::.| ||   |.|  |||| || :.: | :: .:.:
+  957 : PQAQLSQTQPELHSQNMSQIQP--QPHMPPLLQ---QHQQLPQPQALPQGNSQPQTPPPSQS : 1013
+
+  754 : SLSAVSTS-SEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMY :  814
+        :| ::| : ::  :.:.: . ::|. ..: .::  : ..|::||::   : . : .. ::  
+ 1014 : PLQTLSQPQAQSQSEAQPQEELSPDQPCTEEPPQLPIEGTPSVPVSIQQD-PPDQPPMLTAE : 1074
+
+  815 : ANAQTAMALMGVALHSHQEQLIGGVAVKSEHSTTA :  849
+        ::. :. .| . :|:||:|. :..|.:::. ..|:
+ 1075 : TSVSSDPDLPPPPLESHDEP-VETVNMNTTAEETS : 1108
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 630 849 . CLEC005212-PA 895 1108 . 118 M 23 23 G 1 0 M 60 60 G 2 0 M 9 9 G 3 0 M 18 18 G 0 1 M 15 15 G 0 1 M 41 41 G 1 0 M 31 31 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005212-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 637 -> 797
+  Target range: 948 -> 1109
+
+  638 : QEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQ :  699
+        | :: :| ...::..: ..  :..:.   : .  ::  .|||. ||||: | : :|.::...
+  949 : QPQSLQLPPQAQLSQTQPELHSQNMSQIQPQPHMPPLLQQHQQLPQPQALPQGNSQPQTPPP : 1010
+
+  700 : TQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQL-LPVSAPVPASV-TAPGSLSAVS :  759
+        :|:.||.  .|| |:| ::| | :| .: || .: .||| :  :::||.|:  .|.. ::: 
+ 1011 : SQSPLQTLSQPQAQSQSEAQPQEELSPD-QPCTEEPPQLPIEGTPSVPVSIQQDPPDQPPML : 1071
+
+  760 : TSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPM :  797
+        |:.. :::.:.:.| . .: .. ..:|. ::|:...::
+ 1072 : TAETSVSSDPDLPPPPLESHDEPVETVNMNTTAEETSV : 1109
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 637 797 . CLEC005212-PA 948 1109 . 112 M 90 90 G 1 0 M 10 10 G 0 1 M 11 11 G 0 1 M 48 48
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007515-PA
+         Model: affine:local:protein2protein
+     Raw score: 224
+   Query range: 231 -> 300
+  Target range: 1 -> 71
+
+ 232 : EELCLVCGDRASGYHYNALTCEGCKGFFRRSVTK-SAVYCCKFGRACEMDMYMRRKCQECRLKK : 294
+       ::|| |||:.|:|:|:.|:||||||:|| |: .: |::  || . .| ::.  | .|:.|||:|
+   2 : NQLCRVCGEPAAGFHFGAFTCEGCKSFFGRTYNNLSSISECKNNGECVINKKNRTSCKACRLRK :  65
+
+ 295 : CLAVGM : 300
+       || |||
+  66 : CLLVGM :  71
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 231 300 . CLEC007515-PA 1 71 . 224 M 34 34 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005682-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 455 -> 737
+  Target range: 50 -> 329
+
+ 456 : TKIPQEDQITLLKACSSEVMMLRMARRYD-HSSDSIFFANNRSYTRDSYKMAGMADNIEDLLHF : 518
+       .|:|. .: .: .. .: ::  |::..|  | ...: |: : : .| :|.:      | :: . 
+  51 : PKMPAFSKAEVHENVKTYIVTKRVPMPYPVHVEKKVPFPVKVP-VRRPYTVFVPKPYIVEVTKP : 113
+
+ 519 : CRQMFSMKVDNVEYALLTAIVI-FSDRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMSLVF : 581
+        .  |.::| :  |:: . | : :. . :   :  |..  :  ::.   |.:::| .  :.:  
+ 114 : IPYPFKVQVPQ-PYTIEKHIPVPYKVPVDKPYPVHVSNPIPILVEKKVPYTVEKHIPYQVKIP- : 176
+
+ 582 : YAKLLSILTELRTLGNQNAEMCFSLKLKNRKLPKFLEEIWDVHAIPPSVQSHLQITQEENERLE : 645
+       |.:  :: . : .    ..|.  :: :| .  : .|::: . :. | .  .  :::|::::  :
+ 177 : YERPYAVHIPFDKPLFYPVERPVPIPMKISVKSPMLQQVQSYNEKPVKQTDVDDFSQQQHQ--Q : 237
+
+ 646 : RAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLP : 709
+       :.|: :.    .  .  : : .   ..... :::.|.|.|.|.    |:: |:| | | |.| .
+ 238 : QVEKQQQQQQHQQQQQKQQQQQQQQQQQQQLHQKQQQQQQQQQQQQQQQQQQQQQQVQHQQQQQ : 301
+
+ 710 : PQLQGQLQPQLQPQLQTQLQPQIQPQPQ : 737
+       .| | | |.| |.| | | |.|:|.|.|
+ 302 : QQQQQQQQQQQQQQQQQQQQQQVQHQQQ : 329
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 455 737 . CLEC005682-PA 50 329 . 108 M 29 29 G 0 1 M 13 13 G 1 0 M 31 31 G 1 0 M 10 10 G 0 1 M 40 40 G 1 0 M 61 61 G 2 0 M 93 93
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001266-PA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 430 -> 623
+  Target range: 59 -> 243
+
+ 431 : FRHITEITILTVQLIVEFAKGLPAFTKIPQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFAN : 494
+       .::::. .. :|| :||||| :|:| .::|:||:.|:|.   |: : : ||    :..:: |::
+  60 : WQQFATHITPSVQRVVEFAKRVPGFCELSQDDQLILIKVGFFELWLSHAARL--TTDTTVTFSD : 121
+
+ 495 : NRSYTRDS----YKM-AGMADNIEDLLHFCRQMFSMKVDNVEYALLTAIVIFS-DRPGLEKAQL : 552
+       .   ||:     |.: :. :: :..:::| . . |: :::.| :|:::||::| ||||:...: 
+ 122 : GTFVTRQQMELMYDVSPTQSEFVTSMFEFTSSFNSLLLGDTELGLFSSIVLLSPDRPGVTDVKA : 185
+
+ 553 : VEAIQSYYIDTLRIYILNRHCGDSMSLVFYAKLLSILTELRTLGNQNAEMC--FSLKLKNRKLP : 614
+       ||  |            :|:..:: .    :.:|: |.|||:||.::| |   |.|: .: :||
+ 186 : VEHHQ------------DRRSTNGTD---SSSVLAKLPELRALGAKHALMLEWFRLNWDKLRLP : 234
+
+ 615 : KFLEEIWDV : 623
+        ::.||.|:
+ 235 : PLFAEIFDI : 243
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 430 623 . CLEC001266-PA 59 243 . 138 M 52 52 G 2 0 M 18 18 G 0 4 M 3 3 G 0 1 M 37 37 G 0 1 M 15 15 G 12 0 M 9 9 G 3 0 M 22 22 G 0 2 M 20 20
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC003430-PA
+         Model: affine:local:protein2protein
+     Raw score: 284
+   Query range: 223 -> 404
+  Target range: 20 -> 200
+
+ 224 : KGPAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKC : 287
+       :.|.|. .:. | :|||||:| ||.| :|:|||||||||| |: :| |:|:|:| :|. .|.:|
+  21 : NTPVPNFPQS-CAICGDRATGKHYGASSCDGCKGFFRRSVRKNHLYNCRFSRTCVVDKDKRNQC :  83
+
+ 288 : QECRLKKCLAVGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGGGQDFVK : 351
+       : |||:||: .||: | | .|.:    ||:. .::. ::  : .|  ::.  | .:|:: :. .
+  84 : RYCRLRKCFKAGMKKEAVQNERDRISCRRNSYDDQTIGNSLSVNSLLNAEILSRQTGAALEMSH : 147
+
+ 352 : KEILDLMTCEPPQHATIPLLPDEILAKCQARNIPSLTYNQLAVIYKLIWYQDG : 404
+       .  |. .  .. ::.  :: .: ::    |: ||::   ||.    |:: :.|
+ 148 : DYDLSNKQVATINDVCESMKQQLLFLVEWAKFIPAFLELQLDDQVALLRAHAG : 200
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 223 404 . CLEC003430-PA 20 200 . 284 M 10 10 G 1 0 M 170 170
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC003430-PA
+         Model: affine:local:protein2protein
+     Raw score: 178
+   Query range: 416 -> 620
+  Target range: 144 -> 353
+
+ 417 : MSQPDENESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKIPQEDQITLLKACSSEVMMLRMA : 480
+       ||:  : .::  .::.:: |     : ::||.|| :||| .:. :||::||:| ::| ::| :|
+ 145 : MSHDYDLSNKQVATINDVCESMKQQLLFLVEWAKFIPAFLELQLDDQVALLRAHAGEHLLLGLA : 208
+
+ 481 : RRYDHSSDSIFFANNRSYTRDSYKMAGMAD-NIED-----LLHFCRQMFSMKVDNVEYALLTAI : 538
+       ||  | .: ::::||   .|:: . :| || :|.      : :: |.: .:::|:.|:| |.||
+ 209 : RRSLHLKNVLLLGNNCIIPRHTADAGGTADLDISRVGTRVMDELVRPLTEVQIDDTEFACLKAI : 272
+
+ 539 : VIF-SDRPGLEKAQLVEAIQSYYID-TLRIYILNRHCGDSMSLVFYAKLLSILTELRTLGNQNA : 600
+       |:| ::  ||..:  |. :: | |: .|  || :|:.:.. .   ::.|| .|..|:::.:|  
+ 273 : VFFDPNAKGLTESGKVKFLR-YQIQINLEDYISDRQYDSRGR---FGELLLTLPALQSITSQMI : 332
+
+ 601 : E-MCFSLKLKNRKLPKFLEEI : 620
+       | : |:  :   |: .:|:|:
+ 333 : EQIQFAKLFGVAKIDSLLQEM : 353
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 416 620 . CLEC003430-PA 144 353 . 178 M 94 94 G 0 1 M 4 4 G 0 5 M 27 27 G 0 1 M 16 16 G 1 0 M 4 4 G 0 1 M 16 16 G 3 0 M 20 20 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC010871-PA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 623 -> 829
+  Target range: 31 -> 239
+
+ 624 : HAIPPSVQSHLQITQEENERLERAE-RMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQP : 686
+       :.:||| | . | .|  :: ::..| .||.: :.  : | :  :.:.| ...:. ... .|.| 
+  32 : NQMPPSSQVPQQQNQPPQNGVQSQESPMREPRAEMASFGQQNVNVPPSFNQNSNLPPNMNQGQM :  95
+
+ 687 : QPSSLTQNDSQHQTQPQLQPQLP-PQL-QGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPAS : 748
+       .:  : ::.:|.: |:|  .|:| ||: |.:|.|  :|  |:  . | :  |.  .::. :|::
+  96 : PSMMMQNKAPQPNLQSQNINQMPLPQMSQNKLPPTQNPTTQSMAPLQNKIMPPTTTLANMMPPT : 159
+
+ 749 : VTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVS : 812
+        .  . ::::|. :: |..::. ..: |:|::  . . .:|: ::  | :. ..:  ..:.:.:
+ 160 : SNHDNMMPPMSNQPNMMPPTSNQPNMMPPTSNQPNMVPPTSNLANMPPTSTHANMMPPTSNHAN : 223
+
+ 813 : MYANAQTAMALMGVALH : 829
+       | :.: |: .:|. :|:
+ 224 : M-PPTSTPANMMPPTLN : 239
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 623 829 . CLEC010871-PA 31 239 . 115 M 25 25 G 0 1 M 61 61 G 0 1 M 3 3 G 0 1 M 101 101 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC004296-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 626 -> 800
+  Target range: 372 -> 545
+
+ 627 : PPSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSS : 690
+       ||:. ::: ::.. ...| ..:: ..:|.::| :. : :::|.:.::  ..  |   |.|.|: 
+ 373 : PPPAGAEISLSATITSPL-PQQKHPVPVTSPIQSPPEKGTSSPTQSSKKDAVSPCMGPPPPPPL : 435
+
+ 691 : LTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGS : 754
+        : :.: |...| : |. ||. .. : |. .|. ..  .|. .|.| : | ::| |:::.:|.:
+ 436 : PAIDTPLHPPPPGIGPP-PPPSPPVMGPPPPPPPPGMGPPPPPPPPGMGPPPPPPPPGMGPPPP : 498
+
+ 755 : LSAVSTSSEYMGGSAAIGPITPATTSSITAAVTAS-STTSAVPMGNG : 800
+        :: : ::   ..::::|| .|:..:::.:: .::  :.:::| :.|
+ 499 : PPPPGMGPPPPPPPPGMGPPPPPPPPGMGPPPPPPLISDGPIPAAPG : 545
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 626 800 . CLEC004296-PA 372 545 . 122 M 18 18 G 1 0 M 62 62 G 1 0 M 81 81 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011353-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 651 -> 822
+  Target range: 119 -> 293
+
+ 652 : ASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDS---QHQTQPQLQPQLPPQL : 712
+       .: | : ::|:  :|. .|  .:.::: : | ||| | ::.:. :   .|..: .::.. | ::
+ 120 : VGSGVGPATGVVGGSQVVSRHVTVTHRVAVPVPQPVPVPVERTVPVPVPHPVRVPVDRPYPVHV : 183
+
+ 713 : QGQLQPQLQPQLQTQLQPQIQ-PQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPIT : 775
+       . .:. .::.. ...::.::. | .: : |:.| |.:|..| :::.  ..:  :. : :: .: 
+ 184 : PRPVPVPVDRPYPVPVERRVPVPVHHTVKVPVPHPVAVPVPKPVAVPVVKTVPVPVPHPV-TVH : 246
+
+ 776 : PATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       .:..  ::.:| :: .::|  :| : |:| | | :   |::: ::::
+ 247 : QPVPVHVSVPVHTGVVAAAPVVGVSSGLGFGSGFSGLGYTSGVSSLG : 293
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 651 822 . CLEC011353-PA 119 293 . 103 M 45 45 G 0 3 M 37 37 G 0 1 M 38 38 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC003134-PA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 606 -> 848
+  Target range: 403 -> 638
+
+ 607 : KLKNRKLPKFLEEIWDVHAIPPSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSASTS : 670
+       .|   | :| : :  : |.:: | |:: : .|:.: :  ...:::     .  ..  ... |: 
+ 404 : ELPVEKGSKSVPQPSHKHEVSKSKQAQHHPPQHSHVQQLPQTQVQLQQQQNQQQESRSKRYSAQ : 467
+
+ 671 : AAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQP : 734
+        . : :| :|:||.|||. :  |.::|:| ||| ||  .| :| |: || ||| |.. .| : |
+ 468 : RQRSLPQSNPHPQQQPQQQPQQQPQPQQQQQPQQQPSQQPVVQQQFMPQ-QPQQQIP-PPTFYP : 529
+
+ 735 : QPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMG : 798
+       |.|  . .. .||: . | : ::: . : ::..::  .|  |: .::   . ..  .:::::: 
+ 530 : QQQ-HGGCVDAPAPGGMPQNYPGMQVVA-FLPPPPHPPPAQPGFPPPPLYVSPQYLPSPTMAVQ : 591
+
+ 799 : NGVGVGVGVGGNVSMYANAQTAMALMGVALHSHQEQLIGGVAVKSEHSTT : 848
+       .| ...|  ||.::.| |:||.|| ....| .: .  |. :: :..::.:
+ 592 : PG-PTEVYQGGGITFY-NTQTQMA-RPTQLSRRVKLAIPIISPNESQAES : 638
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 606 848 . CLEC003134-PA 403 638 . 133 M 113 113 G 1 0 M 7 7 G 1 0 M 9 9 G 1 0 M 24 24 G 1 0 M 37 37 G 1 0 M 13 13 G 1 0 M 7 7 G 1 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005164-PA
+         Model: affine:local:protein2protein
+     Raw score: 273
+   Query range: 188 -> 321
+  Target range: 10 -> 145
+
+ 189 : DPYSPTGKTGRDDLSPSSSLNGYSANESCDAKKSKKGPAPR---VQEELCLVCGDRASGYHYNA : 249
+       :.:|||| |: :. ||::   |.|:  : :.|.:   |:.:     .:|| :||||||| ||..
+  11 : GGFSPTGGTS-GSTSPTTFNIGHSSVLGNGNKSTVVYPPNHPLSGSKHLCSICGDRASGKHYGV :  73
+
+ 250 : LTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKKCLAVGMRPECVVPENQCAM : 313
+        :||||||||:|:| |.  | |: ::.| :|.  |.:|| || :|||::||:.| |  |.| :.
+  74 : YSCEGCKGFFKRTVRKDLSYACREDKQCLVDKKQRNRCQYCRYQKCLSMGMKREAVQEERQRTK : 137
+
+ 314 : KRREKKAQ : 321
+       .| ::..:
+ 138 : DRDQNEVE : 145
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 188 321 . CLEC005164-PA 10 145 . 273 M 10 10 G 1 0 M 30 30 G 0 3 M 92 92
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011345-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 652 -> 822
+  Target range: 95 -> 268
+
+ 653 : SVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQP---QLQPQLPPQLQ : 713
+       : | ::::|:  ::. .|  .:.::: : | ||| | ::.:. : . .:|   .::.. | ::.
+  96 : GSGVGLATGVVGGNQVVSRHVTVTHRVAVPVPQPVPVPVERTVPVPVPHPVSVPVDRPYPVHVP : 159
+
+ 714 : GQLQPQLQPQLQTQLQPQIQ-PQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITP : 776
+        .:. .::.. ...::.::. | .: : |:.| |.:|..| :::.  ..:  :. : :: .: .
+ 160 : RPVPVPVERPYPVPVERRVPVPVHHTVKVPVPHPVAVPVPKPVAVPVVRNVPVPVPHPV-TVHQ : 222
+
+ 777 : ATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       :..  ::.:| :: .::|  :| : |:| | | .   |::: ::::
+ 223 : PVPVHVSVPVHTGVVAAAPVVGVSSGLGFGSGFTGLGYGSGVSGLG : 268
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 652 822 . CLEC011345-PA 95 268 . 104 M 50 50 G 0 3 M 31 31 G 0 1 M 38 38 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025222-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 652 -> 822
+  Target range: 157 -> 330
+
+ 653 : SVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQP---QLQPQLPPQLQ : 713
+       : | ::::|:  ::. .|  .:.::: : | ||| | ::.:. : . .:|   .::.. | |:.
+ 158 : GSGVGLASGVVGGNQLVSRHVTVTHRVAVPVPQPVPVPVERTVPVPVPHPVSVPVDRPYPVQVP : 221
+
+ 714 : GQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLS-AVSTSSEYMGGSAAIGPITP : 776
+        .:. .::.. ...::.:: | |   .|:.||| :|:.| : : ||:. .:   . :   ::..
+ 222 : QPVPVPVERPYPVPVERRV-PVPVHHTVNVPVPHPVAVPVPRPVAVPVVRNVPVPVPHPVAVPQ : 284
+
+ 777 : ATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       :..  ::.:|.:: .::| ::| :.::| | | :   ||:: ::::
+ 285 : PVPVHVSVPVPTGVVAAAPAVGVSTALGFGSGFSGLGYASGVSGLG : 330
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 652 822 . CLEC025222-PA 157 330 . 109 M 50 50 G 0 3 M 30 30 G 1 0 M 23 23 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005171-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 606 -> 715
+  Target range: 337 -> 450
+
+ 607 : KLKNRKLPKF-LEEIW-DVHAIPPSVQSHLQITQEENERLERAERMRASVGGAITAGIDCDSAS : 668
+       ||:||.:|::  |::  .. : ||.|. :   .::::.|   :.  .::.: :.:|..:.::  
+ 338 : KLRNREMPRYRPEDVLPTAVTSPPKVAVNSIPNKQQHARSREGSVTSSPASKPTSATTGYETMQ : 401
+
+ 669 : TSAAAAAAQH--QPQPQPQPQPSSLTQNDSQHQTQPQLQPQLPPQLQGQ : 715
+       |:| . ..::  ..:..|||||    |::  ||.| |||.| ..| |.|
+ 402 : TNAIVHQQDNYYPNHQPPQPQPQYTQQQQQYHQEQLQLQQQYQQQYQNQ : 450
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 606 715 . CLEC005171-PA 337 450 . 101 M 10 10 G 0 1 M 5 5 G 0 1 M 57 57 G 0 2 M 37 37
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005658-PA
+         Model: affine:local:protein2protein
+     Raw score: 276
+   Query range: 191 -> 370
+  Target range: 19 -> 196
+
+ 192 : SPTGKTGRDDLSPSSSLNGYSANESCDAKKSKKGPAPRVQEELCLVCGDRASGYHYNALTCEGC : 255
+       :.::.::. .|..:::  . :: .|..:..:.. |.:  ..:|| |||| |:  ||.. |||||
+  20 : GGSSSSDSPKLRQGTTPCPSASVSSSASSSPTERPNAISPSQLCAVCGDTAACQHYGVRTCEGC :  83
+
+ 256 : KGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKKCLAVGMRPECVVPENQCAMKRREKK : 319
+       ||||:|:| |:: | |  .::| :|. .|.:|| ||::|||:|||  |  |  .:. . ||.: 
+  84 : KGFFKRTVQKGSKYVCLAEKSCPVDKRRRNRCQFCRFQKCLSVGMVKE--VVRTDSLKGRRGRL : 145
+
+ 320 : AQKEKDKMTTSPSSQHGGNGSLASGGGQDFVKKEILDLMTCEPPQHATIPL : 370
+       : | |.  .::||:. :  .:|..:  :.  . . ||   .  |::..:.:
+ 146 : PSKPKSPQESPPSPPVSLITALVRAHLDTSPDISNLDYSQYREPNEEDVQM : 196
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 191 370 . CLEC005658-PA 19 196 . 276 M 112 112 G 2 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC005658-PA
+         Model: affine:local:protein2protein
+     Raw score: 149
+   Query range: 389 -> 548
+  Target range: 158 -> 318
+
+ 390 : NQLAVIYKLIWYQ-DGYEQPSEEDLRRIMSQPDENESQTDV-SFRHITEITILTVQLIVEFAKG : 451
+       ..:::|  |:: : |.  : |: | .: ....:|:   ::. . ::: :: . :|::| :||. 
+ 159 : PPVSLITALVRAHLDTSPDISNLDYSQYREPNEEDVQMSETEKTQQFYNLLTSSVDVIRHFAEK : 222
+
+ 452 : LPAFTKIPQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDL : 515
+       :|:|:.: :|||  |::: | |:.:||:| |    . .: | |.   :|: .:. :::| :: :
+ 223 : IPGFSELCREDQDLLFQSASLELFVLRLAYRSRVVDMKMTFCNGVVLSRNQCQR-SLGDWLHPI : 285
+
+ 516 : LHFCRQMFSMKVDNVEYALLTAIVIFSDRPGLE : 548
+       |:||: : :|.:|  .:| | |:.::: . :|:
+ 286 : LEFCQSLHAMEIDISSFACLCALTLITVSMSLN : 318
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 389 548 . CLEC005658-PA 158 318 . 149 M 13 13 G 0 1 M 27 27 G 0 1 M 76 76 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC008419-PA
+         Model: affine:local:protein2protein
+     Raw score: 246
+   Query range: 230 -> 308
+  Target range: 8 -> 86
+
+ 231 : QEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKK : 294
+       :|. | ||||:||| ||.. :|:||:|||:||: ::  | || .  | :|: .|.:||.||:.|
+   9 : KEAYCKVCGDKASGKHYGVASCDGCRGFFKRSIRRNLDYVCKEEGRCVVDVTRRNQCQACRFSK :  72
+
+ 295 : CLAVGMRPECVVPE : 308
+       || |.|: : | .|
+  73 : CLRVNMKKDAVQHE :  86
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 230 308 . CLEC008419-PA 8 86 . 246 M 78 78
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC003396-PA
+         Model: affine:local:protein2protein
+     Raw score: 322
+   Query range: 152 -> 616
+  Target range: 252 -> 666
+
+ 153 : GSVPSSAPPLSPSPGSQNHSYNMSNGYASP-MSAGSYDPYSPTGKTGRDDLSPSSSLNGYSANE : 215
+       :||: |:..:||:.:: : ..  ..|::|| ::: : : ||  :..|  | .  ||:.:   ::
+ 253 : SSVSVSPTQFSPTHSPIQGRHMHRPGFPSPVLNPRGVHEYSMQDEGGTLD-DKYSSMTADLLQH : 315
+
+ 216 : SCDAKKSKKGPAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEM : 279
+       | :  .:  :... ::.  | :|||: ||:||. ::||:|||||:|:| :.  | |  |.:| :
+ 316 : STGLASPGISRQQLINSP-CPICGDKISGFHYGIFSCESCKGFFKRTVQNRKNYVCLRGSSCPV : 378
+
+ 280 : DMYMRRKCQECRLKKCLAVGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLAS : 343
+       .:  |:||..||:.|||.:||: | :          ||.::              :||.:: ..
+ 379 : SIATRKKCPACRFDKCLNMGMKLEAI----------REDRT--------------RGGRSTYQC : 418
+
+ 344 : GGGQDFVKKEILDLMTCEPPQHATIPLLPDEILAKCQARNIPSLTYNQLAVIYKLIWYQDGYEQ : 407
+       :    :.  . |   .|. |...:.|          |:. :|:|  : :.|  . :|    |::
+ 419 : S----YTVPAGLVEQKCAEPPPQATP----------QTNLVPPLLQEIMEV--EHLW---QYNE : 463
+
+ 408 : PSEEDLRRIMSQPDENESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKIPQEDQITLLKACS : 471
+       :. . : || .....| ::  .:: :|::  : .   ||.. |:|| |.:|: :||.:|| .  
+ 464 : ADPKLVGRIPRPQSGNPTDLMANLCNIADHRLYK---IVKWCKSLPLFKNISIDDQTSLLINAW : 524
+
+ 472 : SEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDLLHFCRQMFSMKVDNVEYALL : 535
+       .|::::.   |   |::.|  : .:. : .. |  |:: .|| :|:|  :: .::||. ||. :
+ 525 : CELLLFSCCFRSMSSPGEIRVSLGKCISLTEAKNLGLGPPIERMLNFTEHLRRLRVDRYEYVAM : 588
+
+ 536 : TAIVIF-SDRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMSLVFYAKLLSILTELRTLGNQ : 598
+       ..||:: || ::| .:: | | |.  :::|: |.|. |..|  |   ::.||  :.:|:   : 
+ 589 : KVIVLLSSDTSDLREPEKVRASQEKALQALQHYTLA-HYPDIPSK--FGELLLRIPDLQRTCQV : 649
+
+ 599 : NAEMCFSLKLKNRKLPKF : 616
+       . || :|:| |: . |.|
+ 650 : GKEM-LSIKSKEGEGPSF : 666
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 152 616 . CLEC003396-PA 252 666 . 322 M 30 30 G 0 1 M 19 19 G 1 0 M 31 31 G 1 0 M 71 71 G 10 0 M 5 5 G 14 0 M 10 10 G 4 0 M 21 21 G 10 0 M 15 15 G 2 0 M 4 4 G 3 0 M 38 38 G 3 0 M 97 97 G 0 1 M 29 29 G 1 0 M 8 8 G 2 0 M 21 21 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC012132-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 640 -> 826
+  Target range: 120 -> 299
+
+ 641 : NERLERAERMRASVGGAITAGIDCD-SASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQPQ : 703
+       : :|. ::|: .:|. : ...:  : :.:.: :.:.: ::| | | |:| ::.    ::. . :
+ 121 : SRHLTVTHRVAVPVPQPYPVPVVRNVAVPVPHPVSVPVERPFPVPVPHPVPVP---VDRPYPVR : 181
+
+ 704 : LQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGG : 767
+       ::..:: .::  :. .:...:...:...: | | : .|:.||| :|:.:::: ||::: .  :.
+ 182 : VERPVAVPVHHTVPVPVPRPVAVPVPRPV-PVPFVRTVPVPVPHPVAVAAPV-AVAAPVAVAAP : 243
+
+ 768 : SAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMALMGV : 826
+        |. ||:: |..::::::|   :.. |||:: | | | :||:  : ::.: :: : ::|
+ 244 : VAVAGPVAVAGPGAVAGPV---PVNFAVPVAFGGGYGSAVGAFGGYFGGGLAGHSGVAV : 299
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 640 826 . CLEC012132-PA 120 299 . 101 M 25 25 G 0 1 M 27 27 G 3 0 M 37 37 G 1 0 M 22 22 G 1 0 M 30 30 G 3 0 M 37 37
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001053-PA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 658 -> 822
+  Target range: 233 -> 401
+
+ 659 : TAGIDCDSASTSAAAAAAQHQPQPQPQPQP-SSLTQNDSQHQTQP---QLQPQLPPQLQGQLQP : 718
+       |: :  .::|.:..:...|:|||:|:|.|: :: ||.:||:|.||   |  |  ||| |.|| |
+ 234 : TTKVVRTTSSVPQQTVQQQNQPQSQSQTQSQAPQTQPQSQQQPQPQQTQQSPTSPPQQQTQLSP : 297
+
+ 719 : QLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLSAVSTSSEYMGGSAAIGPITPATTSSI : 782
+         |||:|   ..|:|.|.|  | ::. .:|  .  |  : ::::.  .: :. :. .|:.: | 
+ 298 : TQQPQMQQSQPQQLQTQQQTQPSTTTQQTSSRQEQSQQSCNSGNKSSNSQSNYSHHGPPNSHSN : 361
+
+ 783 : TAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       : . ..:  .|: |  .:.  | : ..: :.::||:.:::
+ 362 : ARDRVNGVMESPKPQRTSTRHGRSFNNSDNRFSNANGSLS : 401
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 658 822 . CLEC001053-PA 233 401 . 130 M 30 30 G 0 1 M 14 14 G 0 3 M 120 120
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001980-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 0 -> 233
+  Target range: 414 -> 652
+
+   1 : MLTTSGQQQSKQKLSTLPSHILLQQQLA---ASAGPSSSVSLSPSSSAALTLHVASANGGARET :  61
+       :|..|.: ::    :|  |::| .. |:   |:.:|:|: :::|:::::|. : : ::|.:: .
+ 415 : VLPGSPKTETPVAPGTPKSDVLAAPSLPKSDAPVAPGSPSTVAPAAPSSLKTEGPVTQGTPKVE : 478
+
+  62 : TSAAAVKDKLRPTPTAIKIEPMPDVISVGTVAGGSSVATVVAPAATTTSNKPNSTAAPSTSAAA : 125
+       .: |: . |   . :: . .. : |:: .. :.:::.:..  ..|.:|:: |::.|:: .|:: 
+ 479 : VPIAPGTPKTEVPEAPGTPKTEAPVLAGPPKTEAPPAPGTPKTEAPATPSAPKAEAPAVPSTPK : 542
+
+ 126 : ANGHLVLVPNKRPRLDVTEDWMSTPSPGSVPSSAPPLSPSPGSQNHSY--NMSNGYASPMSAGS : 187
+       ::..: | ..|.   .  ..  .:| :.:.|.:.:| ||:....: :   : ::. |:::::::
+ 543 : SDTPVGLGGPKMEAATPQGTLTDAPMAPGTPKTEAPASPGTPKAEVPLAPSTPKTEAPAVPGSP : 606
+
+ 188 : YDPYSPTGKTGRDDLSPSSSLNGYSANESCDAKKSKKGPAPRVQEE : 233
+        .  :::. |.:.: : :|. :. ::: : ||.|. .   |:.:.:
+ 607 : KTEVPSAPATTKTESPVTSKSEPTPTEPTKDASKCLSKELPKTESN : 652
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 0 233 . CLEC001980-PA 414 652 . 103 M 28 28 G 0 3 M 145 145 G 0 2 M 60 60
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025065-PA
+         Model: affine:local:protein2protein
+     Raw score: 217
+   Query range: 220 -> 300
+  Target range: 39 -> 119
+
+ 221 : KSKKGPAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTK-SAVYCCKFGRACEMDMYM : 283
+       .: |  .||:::: | ||.:.|:|:|:.|:||||||:|| |: .: |::  || . .| ::.  
+  40 : TTAKLDEPRMNQQ-CKVCNEPAAGFHFGAFTCEGCKSFFGRTYNNLSSISECKNNGECVINKKN : 102
+
+ 284 : RRKCQECRLKKCLAVGM : 300
+       | .|:.|||:||| |||
+ 103 : RTSCKACRLRKCLLVGM : 119
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 220 300 . CLEC025065-PA 39 119 . 217 M 13 13 G 1 0 M 31 31 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011346-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 651 -> 822
+  Target range: 85 -> 259
+
+ 652 : ASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQP---QLQPQLPPQL : 712
+       .: | ::::|:  ::. .|  .:.::: : | ||| | ::.:. : . .:|   .::.. | |:
+  86 : VGSGLGLATGVVGGNEVVSRHVTVTHRVAVPVPQPVPVPVERTVAVPVPHPVSVPVDRPYPVQV : 149
+
+ 713 : QGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTAPGSLS-AVSTSSEYMGGSAAIGPIT : 775
+       . .:. .::.. ...::.:: | |   .||.||| :|:.| : : ||:. .:   . :   :: 
+ 150 : PRPVPVPVERPYPVPVERRV-PVPVHRTVSVPVPHPVAVPVPRPVAVPVVRNVPVPVPHPVAVH : 212
+
+ 776 : PATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMYANAQTAMA : 822
+       .:..  ::.:| :: .::|  :| : |:| | | :   ||:: ::::
+ 213 : QPVPVHVSVPVHTGVVAAAPVVGVSSGLGFGSGYSGLGYASGVSGLG : 259
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 651 822 . CLEC011346-PA 85 259 . 105 M 51 51 G 0 3 M 30 30 G 1 0 M 23 23 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC000589-PA
+         Model: affine:local:protein2protein
+     Raw score: 353
+   Query range: 226 -> 625
+  Target range: 4 -> 438
+
+ 227 : APRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQEC : 290
+       ..| :|.:| ||||:| ||::||:|||:||:||||:.||:    | | : |::.   || ||.|
+   5 : ERRSHEKFCSVCGDQALGYNFNAVTCESCKAFFRRNATKTRELQCPFKQCCDITAVTRRFCQKC :  68
+
+ 291 : RLKKCLAVGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGGGQDFVKKEI : 354
+       || ||: |||:.| ::.|.:  ..|:.:|   :|.:|.|: :.:  ||:. .  :  .    . 
+  69 : RLAKCFRVGMKRELIMTEAD--KERKKRKILANKARMVTAKAKDSIGNSKSVQVSMVSVEIGTQ : 130
+
+ 355 : LDLMTCEPPQH--ATIP--LL------PDEILAKCQ-ARNIP-----SLTYNQLAVIYKLIWYQ : 402
+        : :||: .|:  |.:|  ||      ||..  ..|  ::||     :::.:: .:: .||  :
+ 131 : TEPLTCNCRQRYKADVPNSLLMAALPPPDKTQITYQLIKSIPTATLFPMSCQDNELLEDLIVAN : 194
+
+ 403 : DGYEQPSEEDLRRIMSQPDEN-----ESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKIPQE : 461
+       .: |.| :::|..: ::  .       | .. |: ::.::| |::: ::.. | :.:|  : ||
+ 195 : KALEAPLDQELNNLPGDEFKVCAFILYSCGSKSLLDVINLTALAIRRLIKMCKRIGGFRALCQE : 258
+
+ 462 : DQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDLLH----FCRQ : 521
+       ||:||||. .:::|:|| .  :|...:|  :::: .  ..  ::. : :. .:| :    | | 
+ 259 : DQLTLLKQGCTQMMLLRSVVTFDPDRNSWRIPHSVD-QMSQINVEVLKEARGNLYDAHEAFLRT : 321
+
+ 522 : MFSMKVDNVEYA-LLTAIVIF-SDRPGLEKAQLVE----------AIQSY----YIDTLRIYIL : 569
+       . :.  ::::   :|||||:| ::|..| : ||:.          .| .|    |:. |: |: 
+ 322 : FDTRASHDLNIMCILTAIVLFDPNRTNLVNKQLIAQQQPDILLLRQISCYFQSRYFSLLQCYLQ : 385
+
+ 570 : NRHCGDSMSLVFYAKLLSILTELRTLGNQNAEMCFSLKLKNRKLPKFLEEIWDVHA : 625
+       : ..::. : : |..|:. :|||: : :::. :.  |:::..::  :| ||.|:.:
+ 386 : SIYSSEESNEI-YQHLICKMTELHQIIEEHVRVY--LNVNPSQVEPILIEIFDLKT : 438
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 226 625 . CLEC000589-PA 4 438 . 353 M 84 84 G 2 0 M 53 53 G 0 2 M 4 4 G 0 2 M 2 2 G 0 6 M 9 9 G 0 1 M 5 5 G 0 5 M 38 38 G 0 5 M 74 74 G 1 0 M 19 19 G 0 4 M 16 16 G 0 1 M 8 8 G 0 1 M 13 13 G 0 10 M 5 5 G 0 4 M 21 21 G 1 0 M 22 22 G 2 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC007612-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 22 -> 199
+  Target range: 494 -> 669
+
+  23 : LQQQLAASAGPSSSVSLSPSSSAALTLHVASANGGARETTSAAAVKDKLRPTPTAIKIEPMPDV :  86
+       |: ::..|:: :.:..::.::|: : || ::|:  ..|... : :|.:::.:|.. :   .|:.
+ 495 : LNFDVVESPSLPKPTRITGTTSSKV-LHFTAAQRQVSEEDEITKIKKQMKNAPGEPREPERPGA : 557
+
+  87 : ISVGTVAGGSSVATVVAPAATTTSNKPNSTAAPSTSAAAANGHLVLVPNKRPRLDVTEDWMSTP : 150
+        .| ::  ... :.  .:: ::.::.|::.|:|: :||:|::      : ::.|. :..  ...
+ 558 : ERVQALRREEERTPSPQSTRSSPGSDPSTKATPTQGAAGASSSEESDDSPQASLAQSSA-QRKT : 620
+
+ 151 : SPGSVPSSAPPLSPSPGSQNHSYNMSNGYASPMSAGSYDPYSPTGKTGR : 199
+       | ..:|| :.: |..::: ::  . :.|:...:.:|| |: ::::.:.|
+ 621 : SVTRLPSVTQSGSRRSSASSDVSTPAAGFVKTIRSGSMDSTGSADSSTR : 669
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 22 199 . CLEC007612-PA 494 669 . 100 M 25 25 G 1 0 M 97 97 G 1 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025067-PA
+         Model: affine:local:protein2protein
+     Raw score: 265
+   Query range: 220 -> 324
+  Target range: 89 -> 192
+
+ 221 : KSKKGPAPRVQEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMR : 284
+       |.::.:.::::   | ||||::|| ||..:|||||||||||| :. . | |  ::|| :|.  |
+  90 : KCRRNAQAQIEIIPCKVCGDKSSGVHYGVITCEGCKGFFRRSQSSVVNYQCPRSKACLVDRVNR : 153
+
+ 285 : RKCQECRLKKCLAVGMRPECVVPENQCAMKRREKKAQKEK : 324
+       .:|| |||:||| :||..: .|  .: :.|:||| .:. :
+ 154 : NRCQYCRLQKCLRLGMSRD-AVKFGRMSKKQREKVEDEVR : 192
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 220 324 . CLEC025067-PA 89 192 . 265 M 83 83 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025067-PA
+         Model: affine:local:protein2protein
+     Raw score: 212
+   Query range: 394 -> 601
+  Target range: 370 -> 575
+
+ 395 : IYKLIWYQDGYEQPSEEDLRRIMSQPDENESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKI : 458
+       :|.:   :: : :|  :||.:::    .| ::.:: :    .:|.: :| |:|||| :|:| |:
+ 371 : LYSIEHIHNMFRKP--QDLSKLIF--YKNMAHEELWLECAQKLTTV-IQQIIEFAKMVPGFMKL : 429
+
+ 459 : PQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMADNIEDL-LHFCRQ : 521
+       :|:|||.|||| | |: :|||:| :| ||: :::::..    . |. .. . :: .| :: .. 
+ 430 : SQDDQIVLLKAGSFELAILRMSRYFDLSSGWVLYGDTMLPQDAFYTTDTAEMKLVTLAFEVSSG : 493
+
+ 522 : MFSMKVDNVEYALLTAIVIFS-DRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMS-LVFYA : 583
+       : .:|:.:.| || :| |::| |||||.  . :. :    : :||| : ..| .  .: :. ..
+ 494 : VAELKLTETELALYSACVLLSADRPGLKGLAEIGRLGQAVLRALRIELERNHTTPIKGDVTVCD : 557
+
+ 584 : KLLSILTELRTLGNQNAE : 601
+        ||: :..||.|:  : |
+ 558 : ALLAKIPTLRELSMLHME : 575
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 394 601 . CLEC025067-PA 370 575 . 212 M 14 14 G 2 0 M 8 8 G 2 0 M 20 20 G 1 0 M 74 74 G 0 1 M 27 27 G 0 1 M 36 36 G 0 1 M 23 23
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC009113-PA
+         Model: affine:local:protein2protein
+     Raw score: 253
+   Query range: 230 -> 477
+  Target range: 113 -> 367
+
+ 231 : QEELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKK : 294
+       |  :|::|.|:|:| ||. :|||||||||:|:| :. || |  : .||:..  |.:|| ||:||
+ 114 : QPMICMICEDKATGLHYGIITCEGCKGFFKRTVQNRRVYTCVADGVCEITKAQRNRCQYCRFKK : 177
+
+ 295 : CLAVGMRPECV----VPENQ-----CAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGGG--Q : 347
+       |:. ||  : |    :|..:     ..: : . | :|.. : .   | :: |:.::::. :  .
+ 178 : CIEQGMVLQAVREDRMPGGRNSGAVYNLYKVKYKKHKKSVRNGQIKSVNEKGKPAISPEHSIPP : 241
+
+ 348 : DFVKKEILDLMTCEPPQH--ATIPLLPDEILAKCQARNIPSLTYNQ-LAVIYKLIWYQDGYEQP : 408
+       ::|: .||.    :|::   : :  |.: : .   :..  :|. :. |::| .|| .:: ::: 
+ 242 : HLVNGTILKTALTNPSEFMCTMVVHLRQRLDNAVSSSRDWALPIDATLSMIQTLIDCDE-FQDI : 304
+
+ 409 : SEEDLRRIMSQPDENESQTDVSFRHITEITILTVQLIVEFAKGLPAFTKIPQEDQITLLKACSS : 472
+       :  .||. :.:  |:.|: . .:.:|.: .: .   :|:.:| || : .:| | :. ||.    
+ 305 : A--TLRN-LDDLLEHKSDLSDKLMQIGDSIVYK---LVQWTKRLPFYLELPVEVHTRLLTHKWH : 362
+
+ 473 : EVMML : 477
+       |:::|
+ 363 : ELLVL : 367
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 230 477 . CLEC009113-PA 113 367 . 253 M 75 75 G 0 4 M 5 5 G 0 5 M 36 36 G 0 2 M 19 19 G 0 2 M 26 26 G 0 1 M 12 12 G 1 0 M 5 5 G 2 0 M 4 4 G 1 0 M 25 25 G 3 0 M 33 33
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC011348-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 628 -> 822
+  Target range: 74 -> 273
+
+ 629 : SVQSHLQITQEENERLERAERMRASVGG--AITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSS : 690
+       :| | | :. . .. |..:  : ::||:  ::::|:  .:. .|  .:.::: : | ||| | :
+  75 : GVGSGLGLGYGVGSGLGSGVVLGSGVGSGLGLATGVVGANEVVSRHVTVTHRVAVPVPQPVPVP : 138
+
+ 691 : LTQNDSQHQTQP---QLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLPVSAPVPASVTA : 751
+       :.:. : . .:|   .::.. | |:. .:. .::.. ...::.:: | |   .|:.||| :|:.
+ 139 : VERTVAVPVPHPVSVPVDRPYPVQVPQPVPVPVERPYPVPVERRV-PVPVHHTVNVPVPHPVAV : 201
+
+ 752 : PGSLS-AVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGNVSMY : 814
+       | : : ||:. .:   . :   :: .:..  ::.:| :: .::|  :| : |:| | | :   |
+ 202 : PVPRPVAVPVVRNVPVPVPHPVAVHQPVPVHVSVPVHTGVVAAAPVVGVSSGLGFGSGYSGLGY : 265
+
+ 815 : ANAQTAMA : 822
+       |:: |:::
+ 266 : ASGVTGLG : 273
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 628 822 . CLEC011348-PA 74 273 . 109 M 28 28 G 0 2 M 46 46 G 0 3 M 30 30 G 1 0 M 23 23 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC025114-PA
+         Model: affine:local:protein2protein
+     Raw score: 365
+   Query range: 233 -> 726
+  Target range: 44 -> 576
+
+ 234 : LCLVCGDRASGYHYNALTCEGCK-------GFFRRSVTKSAVY-CCKFGRACEMDMYMRRKCQE : 289
+       || ||||:|||:||.. :|||||       ||||||: :.  |  |. .:.|.: .  |.:|| 
+  45 : LCRVCGDKASGFHYGVHSCEGCKMGCLCDQGFFRRSIQQKIQYRPCTKNQQCAILRINRNRCQY : 108
+
+ 290 : CRLKKCLAVGM-RPECVVPE-NQC----AMKRREKKAQKEKDKMTTSPSSQH-----GGNGSLA : 342
+       ||||||:|||| | |   |. .:|    ::.   |:.:::....  :| ::.     ..: :: 
+ 109 : CRLKKCIAVGMSRDEQFEPTRTHCFTNVSLDLFPKRVDNNTKDFQQPPFNKKRPVMMTEELPIL : 172
+
+ 343 : SGGGQDFVKKEILDLMTCEPPQHATIPLLP---DEILAKCQARNIPSLTYNQLAVIYKLIWYQD : 403
+       .|  :: |: :   :.    |::.. .:|:   :.. :||:.:.:::   ::  :: .:|: : 
+ 173 : KGILNGVVNYHNAPVRFGRVPKREKARILAAMQQSTNSKCHEKALAAELEDDQRLLRTVIRAHL : 236
+
+ 404 : ---GYEQPSEEDLR-RIMSQPDENESQTDVS----------------FRHITEITILTVQLIVE : 447
+          ::.: . | :  | ..||. ..|...::                :::::.    ::: :||
+ 237 : DTCDFTRDKVEPMILRAREQPSFTASPPTLACPLNPNPQPLTGQQELLQDFSKRFSPAIRGVVE : 300
+
+ 448 : FAKGLPAFTKIPQEDQITLLKACSSEVMMLRMARRYDHSSDSIFFANNRSYTRDSYKMAGMAD- : 511
+       ||| :|:|. ::|:||:|||||   ||:::|:| .:|  ::|::  |.:  .|:| . :: |  
+ 301 : FAKRIPGFGILSQDDQVTLLKAGVFEVLLVRLACMFDTQNNSMICLNGQVLKRESIHSGSNARF : 364
+
+ 512 : NIEDLLHFCRQMFSMKVDNVEYALLTAIVIF-SDRPGLEKAQLVEAIQSYYIDTLRIYILNRHC : 573
+        ::.:::|  :: |:::.:.| :|:::||:: :||||| :::|:| :|:   ..|:: ::::: 
+ 365 : LMDSMFDFAERLNSLRLTDAEIGLFSSIVVIAPDRPGLRNTELIERMQNKLKAGLQL-MMSQNH : 427
+
+ 574 : GDSMSLVFYAKLLSILTELRTLGNQNAEMCFSLKLKNRKLPKFLEEIWDVHAIPPSVQSHLQIT : 637
+       .:  .|.  ..|:. :.:||||.. ::|. :::|:.:::     :::|:. .   . :|.   |
+ 428 : PNQPCLA--QELMKKIPDLRTLNTLHSEKLLAFKMTEQQHLAEQQQMWGTVVSEDESKSPSGST : 489
+
+ 638 : QEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDSQHQTQ : 701
+        ..:. :...| :::::|:. ::.  |.:. .  :: ||  .  :.. : ..:: :. : ::.:
+ 490 : WSSSSDVAMEE-VKSPLGSVSSTESMCSGEVEYHSSHAASAPLLAATLAGGCPMRHRVGVEDNK : 552
+
+ 702 : PQLQPQLPPQLQGQLQPQLQPQLQT : 726
+        :::| : .:   :|::. :: :::
+ 553 : -DIKPIIIHRTFRKLDSPSDSGIES : 576
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 233 726 . CLEC025114-PA 44 576 . 365 M 23 23 G 0 7 M 13 13 G 0 1 M 31 31 G 0 1 M 8 8 G 0 1 M 3 3 G 0 4 M 24 24 G 0 5 M 37 37 G 0 3 M 31 31 G 0 3 M 11 11 G 0 1 M 16 16 G 0 16 M 80 80 G 0 1 M 31 31 G 0 1 M 25 25 G 1 0 M 13 13 G 2 0 M 66 66 G 1 0 M 52 52 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC001111-PA
+         Model: affine:local:protein2protein
+     Raw score: 356
+   Query range: 232 -> 604
+  Target range: 25 -> 416
+
+ 233 : ELCLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKFGRACEMDMYMRRKCQECRLKKCL : 296
+       |:|:|||||||| ||.|::||||||||:||: |.  | |: .:.||:... |.:|| |||:|||
+  26 : EICVVCGDRASGRHYGAISCEGCKGFFKRSIRKRLGYQCRGNQQCEVTKHHRNRCQYCRLQKCL :  89
+
+ 297 : AVGMRPECVVPENQCAMKRREKKAQKEKDKMTTSPSSQHGGNGSLASGG----GQDFVKKEILD : 356
+       ::|||.    ... ...|   :.:    ..:| :::  ::. |  .| .    :::::|:|  :
+  90 : TMGMRTVQHERKPISVKKEFPNHSSPFYKSLTQPSNIGQSNYGVYNSLPYNLYSDGYIKQESSN : 153
+
+ 357 : LMTCEPPQHATIPLLPDEILAKCQARNIPSLTYNQLAVIYKLIWYQDGYEQPSEEDLR------ : 415
+       ::.     : . :  :| | :  .:::  |:. :.:.:  ||   ::.:.::.:|::       
+ 154 : IIGNYDYSNYDESSDSDLIESIGPGQDSKSMINSAMEIATKLG-MNGNFGNSDDEEMENLQFDG : 216
+
+ 416 : RIMSQPD---ENESQTDV-SFRHITEITILTVQLI---VEFAKGLPAFTKIPQEDQITLLKACS : 471
+       |::.:..   : :|.: : :: ::  |   : :|:   |:..:.:|||  :. :.|::|:|:| 
+ 217 : RLLDDNAFIFQIQSPSPMPAYTDVHYIYESASRLLFLSVHWVRNVPAFQILNMDTQVSLIKGCW : 280
+
+ 472 : SEVMMLRMAR-----RYDHSSDSIFFANNRSYTRD---SYKMAGMADNIEDLLHFCRQMFSMKV : 527
+       ||:. | :::            ||:   :.| :::   | |: :::::| .| :|   | :::|
+ 281 : SELFTLGLSQCAQVLALPTIILSIINHLQSSVAQQKISSSKVKAVTEHIFSLQDFVGSMVALNV : 344
+
+ 528 : DNVEYALLTAIVIFS-DRPGLEKAQLVEAIQSYYIDTLRIYILNRHCGDSMSLVFYAKLLSILT : 590
+       |: ||| |. |.:|| |.|:|:  : :..:|.  ::.||      : ||  |  | |:||  |.
+ 345 : DDHEYAYLKLIALFSPDNPSLHIRRQLSELQEKAFQELR-----EQIGDVNSNRF-ARLLLRLP : 402
+
+ 591 : ELRTLGNQNAEMCF : 604
+        ||:|..:  |  |
+ 403 : PLRALNRHIMEQIF : 416
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 232 604 . CLEC001111-PA 25 416 . 356 M 113 113 G 0 4 M 54 54 G 1 0 M 14 14 G 0 6 M 7 7 G 0 3 M 8 8 G 0 1 M 16 16 G 0 3 M 36 36 G 0 5 M 20 20 G 0 3 M 41 41 G 0 1 M 23 23 G 5 0 M 11 11 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone receptor (EcR)
+        Target: CLEC004804-PA
+         Model: affine:local:protein2protein
+     Raw score: 225
+   Query range: 220 -> 308
+  Target range: 9 -> 100
+
+ 221 : KSKKGPAPRVQEEL-CLVCGDRASGYHYNALTCEGCKGFFRRSVTKSAVYCCKF--GRACEMDM : 281
+       :.:.:.|.|:  :: | || |::|| ||. ::|:|| |||:||: ::  | ||   . :| :|.
+  10 : NDRDDNAGRILYDIPCKVCQDHSSGKHYGIFACDGCAGFFKRSIRRNRQYVCKVKGEGGCLVDK :  73
+
+ 282 : YMRRKCQECRLKKCLAVGMRPECVVPE : 308
+         |.:|:.|||.|||..||..: | .|
+  74 : THRNQCRACRLTKCLEAGMNRDAVQHE : 100
+
+vulgar: EcR-PA_FBpp0085349_FBgn0000546_Ecdysone 220 308 . CLEC004804-PA 9 100 . 225 M 14 14 G 0 1 M 39 39 G 0 2 M 35 35
+-- completed exonerate analysis

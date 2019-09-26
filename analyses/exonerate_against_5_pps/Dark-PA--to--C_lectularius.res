@@ -1,0 +1,69 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/Dark-PA.fas analyses/2019-09-02/polypeptides/C_lectularius_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: Dark-PA_FBpp0086121_FBgn0263864_Death-associated APAF1-related killer (Dark)
+        Target: CLEC008645-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 240 -> 484
+  Target range: 223 -> 458
+
+ 241 : LLVLLNVQNAKAWNAFNLSCKILLTTRFKQVTDFLSAATTTHISLDHHSMTLTPDEVKSL-LLK : 303
+       :|  :|::.| :|  | |:.  |  .||.::.|| :  :..|::|.:: :| ..:.::::  ||
+ 224 : MLSTFNIKPA-PW--F-LTYVNLSFNRFTEIPDFTPYWSVKHLNLSNNQITEINEGLRNMKYLK : 283
+
+ 304 : YLDCRPQDLPREVLTTNPRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEYRK : 367
+       ||:  :::|  .| .  . .|  :. | .: ::. :: .|.: : |.  .  :|: |: .. | 
+ 284 : YLN-LSNNLITTVQNLFGIPLVELDLSHNQIIGETQDVTHTE-NYLPFKTVITLEELNMDSNR- : 345
+
+ 368 : MFDRLSVFPPSAHIPTILLSLIWFDVIKSDVMVVVNKLHKYSLVEKQPKESTISIPSIYLELK- : 431
+        ::.|| | ::|:: .:: |  .:.:|  :|:  ::|: . . :  :.:| .:::|.|| :|  
+ 346 : -LESLS-FISTARLKKLIASNNYLSMI--QVLNDIEKMTELKELVIHGNE-IMNVPDIYRHLIY : 403
+
+ 432 : --VKLENEYALHRSIVDHYNIPKTFDSDDLIPPYLDQYFYSHIGHHLKNIEHPERM : 484
+          |:|:    . :| :: | .  : :::|:.  :.:. || : :|:..   .| :
+ 404 : LCPKIEKINKEKIGIPERVNARCMY-GNNLFNEAIKNHTYSLLYNHIEPPPLGEDL : 458
+
+vulgar: Dark-PA_FBpp0086121_FBgn0263864_Death-associated 240 484 . CLEC008645-PA 223 458 . 108 M 10 10 G 1 0 M 2 2 G 2 0 M 1 1 G 1 0 M 43 43 G 0 1 M 6 6 G 1 0 M 38 38 G 1 0 M 20 20 G 2 0 M 5 5 G 1 0 M 20 20 G 2 0 M 21 21 G 1 0 M 12 12 G 0 3 M 23 23 G 1 0 M 30 30
+
+C4 Alignment:
+------------
+         Query: Dark-PA_FBpp0086121_FBgn0263864_Death-associated APAF1-related killer (Dark)
+        Target: CLEC003233-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 72 -> 489
+  Target range: 620 -> 1036
+
+   73 : VQKFVEEVLRINYKFLMSPIKTEQRQ-PSMMTRMYIEQRDRLYNDNQVFAKYNVSRLQPYLK :  133
+        .::::: : |  :::: . .|.:  | |.: |||   ::|:: : .|: .:::|||| . :.
+  621 : ARNLLQVIPREMFQIMSEITKIQTTQIPDLPTRM---EKDKIKEFAQLEERFHVSRLTNEVS :  679
+
+  134 : -LRQALLELRPAKNVLIDGVLGSGKTWVALDVCLSYKVQCKMDFK---IFWLNLKNCNSPET :  191
+         :. :||::.   |.|:: |  ..|  :. ::  .  :: :..|.   .|  :||:.:   .
+  680 : VFSTGLLNMP---NTLVGIVCVEPKQLLEEGIRKELFLHINKAFETGLTFSSKLKSSDLVLK :  738
+
+  192 : VLEMLQKLLYQIDPNWTSRSDHSSNIKLRIHSIQAELRRLLKSKPYENCLLVLLNVQ--NAK :  251
+         || | .::   ..:..   |. :   :::   |.|::|:::||  ::| |:  : .  : :
+  739 : -LEELGMVMQGHKNSFEYIQDYMGINGVKMW--QEEFKRVINSKLEDDCRLLRTKSANLDLQ :  797
+
+  252 : AWNAFNLSCKILLTTRFKQVTDFLSAATTTHISLDHHSMTLTPDEVKSLLLKYLDCRPQDLP :  313
+        : : :.  || ::..   :|| |:|...|  :. . .:..:. .  |:|:         .:.
+  798 : TISFIGRLCKHIIEITDPKVT-FFSEQDTLWLDRKTKAKIIDLKFFKTLMKAIGVPGLVAVN :  858
+
+  314 : REVLTTNPRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEYRKMFDRLSVF :  375
+        : :  . .::|  :.: :... :. ..|.::  :  .::  .|| ::. .:.:| |. | :|
+  859 : KIICFIITKQLQNLVNFLSKEASNNKAWSDIFGNLSKSLSPCSLIIVSIVQCKKYFSGL-LF :  919
+
+  376 : PPSAHIP-TILLSLIWFDVIK-SDVMVVVNKLHKYSLVEKQPKESTISIPSIYLELKVKLEN :  435
+          ..|:. . |:.    :::| : ::  |.  : |  :   .|. .     ::| :. .: :
+  920 : EVKQHLRDPKLFCPPSEELMKLAPLLDSVGLSDPYMQIYITTKGLPYMGLLLFL-FTSSFMS :  980
+
+  436 : EYALHRSIVDHYNIPKTFDSDDLIPPYLDQY--FYSHIGHHLKNIEHPERMTLFRM :  489
+        .::|:::. .:.|:    . :: :.    ::   .::::: :|.|  ..:..|:::
+  981 : KFSLDKTTGKNHNLLFLNKMQHDMQKNRRRFDPVHNRFADVIKTIPSTGHRPLYHL : 1036
+
+vulgar: Dark-PA_FBpp0086121_FBgn0263864_Death-associated 72 489 . CLEC003233-PA 620 1036 . 100 M 26 26 G 0 1 M 7 7 G 3 0 M 25 25 G 0 1 M 9 9 G 3 0 M 32 32 G 0 3 M 14 14 G 1 0 M 30 30 G 2 0 M 24 24 G 0 2 M 24 24 G 1 0 M 99 99 G 1 0 M 9 9 G 0 1 M 13 13 G 0 1 M 32 32 G 1 0 M 38 38 G 0 2 M 23 23
+-- completed exonerate analysis

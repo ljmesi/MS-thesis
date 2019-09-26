@@ -1,0 +1,124 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/Dark-PA.fas analyses/2019-09-02/polypeptides/D_simulans_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: Dark-PA_FBpp0086121_FBgn0263864_Death-associated APAF1-related killer (Dark)
+        Target: FBpp0325605 pep chromosome:ASM75419v3:2R:13578288:13584709:1 gene:FBgn0182991 transcript:FBtr0361922 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:Dsim\GD11239
+         Model: affine:local:protein2protein
+     Raw score: 2571
+   Query range: 0 -> 530
+  Target range: 0 -> 529
+
+   1 : MDFETGEHQYQYKDILSVFEDAFVDNFDCKDVQDMPKSILSKEEIDHIIMSKDAVSGTLRLFWT :  64
+       ||||||||:||||||||||||||||||||||||:| :::|||||||||||||||||||||||||
+   1 : MDFETGEHHYQYKDILSVFEDAFVDNFDCKDVQGMLQPVLSKEEIDHIIMSKDAVSGTLRLFWT :  64
+
+  65 : LLSKQEEMVQKFVEEVLRINYKFLMSPIKTEQRQPSMMTRMYIEQRDRLYNDNQVFAKYNVSRL : 128
+       ||||.||||| |||:|||:||.|||:||| ||||||.||.||||| |||||||||||||||:||
+  65 : LLSKPEEMVQVFVEDVLRVNYEFLMAPIKYEQRQPSRMTSMYIEQGDRLYNDNQVFAKYNVNRL : 128
+
+ 129 : QPYLKLRQALLELRPAKNVLIDGVLGSGKTWVALDVCLSYKVQCKMDFKIFWLNLKNCNSPETV : 192
+       ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ 129 : QPYLKLRQALLELRPAKNVLIDGVLGSGKTWVALDVCLSYKVQCKMDFKIFWLNLKNCNSPETV : 192
+
+ 193 : LEMLQKLLYQIDPNWTSRSDHSSNIKLRIHSIQAELRRLLKSKPYENCLLVLLNVQNAKAWNAF : 256
+       ||||||||||||:|||||.||:||||||||||||||||||||||||||||||||||||||||||
+ 193 : LEMLQKLLYQIDSNWTSRCDHTSNIKLRIHSIQAELRRLLKSKPYENCLLVLLNVQNAKAWNAF : 256
+
+ 257 : NLSCKILLTTRFKQVTDFLSAATTTHISLDHHSMTLTPDEVKSLLLKYLDCRPQDLPREVLTTN : 320
+       ||:|||||||||||||||||.|||||||||||||||||||||||:||||:||||||||||||||
+ 257 : NLGCKILLTTRFKQVTDFLSEATTTHISLDHHSMTLTPDEVKSLFLKYLHCRPQDLPREVLTTN : 320
+
+ 321 : PRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEYRKMFDRLSVFPPSAHIPTI : 384
+       ||||||||||||||||||||||||||||||||||||||||||||||:|||||||||||||||.|
+ 321 : PRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEYRQMFDRLSVFPPSAHIPII : 384
+
+ 385 : LLSLIWFDVIKSDVMVVVNKLHKYSLVEKQPKESTISIPSIYLELKVKLENEYALHRSIVDHYN : 448
+       |||||||| :|||||||||||||||||||||||||||||||||||||.:||| :||||||||||
+ 385 : LLSLIWFD-VKSDVMVVVNKLHKYSLVEKQPKESTISIPSIYLELKVEVENEPTLHRSIVDHYN : 447
+
+ 449 : IPKTFDSDDLIPPYLDQYFYSHIGHHLKNIEHPERMTLFRMVFLDFRFLEQKIRHDSTAWNASG : 512
+       ||::||:|||| |:||||||||||||||||||.||:||||||||||||||||||||||||||||
+ 448 : IPNAFDNDDLILPFLDQYFYSHIGHHLKNIEHTERVTLFRMVFLDFRFLEQKIRHDSTAWNASG : 511
+
+ 513 : SILNTLQQLKFYKPYICG : 530
+       |||||||||||||||||:
+ 512 : SILNTLQQLKFYKPYICD : 529
+
+vulgar: Dark-PA_FBpp0086121_FBgn0263864_Death-associated 0 530 . FBpp0325605 0 529 . 2571 M 392 392 G 1 0 M 137 137
+
+C4 Alignment:
+------------
+         Query: Dark-PA_FBpp0086121_FBgn0263864_Death-associated APAF1-related killer (Dark)
+        Target: FBpp0320923 pep chromosome:ASM75419v3:2R:13579703:13584709:1 gene:FBgn0182991 transcript:FBtr0356762 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:Dsim\GD11239
+         Model: affine:local:protein2protein
+     Raw score: 1744
+   Query range: 173 -> 530
+  Target range: 0 -> 356
+
+ 174 : MDFKIFWLNLKNCNSPETVLEMLQKLLYQIDPNWTSRSDHSSNIKLRIHSIQAELRRLLKSKPY : 237
+       |||||||||||||||||||||||||||||||:|||||.||:|||||||||||||||||||||||
+   1 : MDFKIFWLNLKNCNSPETVLEMLQKLLYQIDSNWTSRCDHTSNIKLRIHSIQAELRRLLKSKPY :  64
+
+ 238 : ENCLLVLLNVQNAKAWNAFNLSCKILLTTRFKQVTDFLSAATTTHISLDHHSMTLTPDEVKSLL : 301
+       |||||||||||||||||||||:|||||||||||||||||.|||||||||||||||||||||||:
+  65 : ENCLLVLLNVQNAKAWNAFNLGCKILLTTRFKQVTDFLSEATTTHISLDHHSMTLTPDEVKSLF : 128
+
+ 302 : LKYLDCRPQDLPREVLTTNPRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEY : 365
+       ||||:|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ 129 : LKYLHCRPQDLPREVLTTNPRRLSIIAESIRDGLATWDNWKHVNCDKLTTIIESSLNVLEPAEY : 192
+
+ 366 : RKMFDRLSVFPPSAHIPTILLSLIWFDVIKSDVMVVVNKLHKYSLVEKQPKESTISIPSIYLEL : 429
+       |:|||||||||||||||.||||||||| :|||||||||||||||||||||||||||||||||||
+ 193 : RQMFDRLSVFPPSAHIPIILLSLIWFD-VKSDVMVVVNKLHKYSLVEKQPKESTISIPSIYLEL : 255
+
+ 430 : KVKLENEYALHRSIVDHYNIPKTFDSDDLIPPYLDQYFYSHIGHHLKNIEHPERMTLFRMVFLD : 493
+       ||.:||| :||||||||||||::||:|||| |:||||||||||||||||||.||:|||||||||
+ 256 : KVEVENEPTLHRSIVDHYNIPNAFDNDDLILPFLDQYFYSHIGHHLKNIEHTERVTLFRMVFLD : 319
+
+ 494 : FRFLEQKIRHDSTAWNASGSILNTLQQLKFYKPYICG : 530
+       ||||||||||||||||||||||||||||||||||||:
+ 320 : FRFLEQKIRHDSTAWNASGSILNTLQQLKFYKPYICD : 356
+
+vulgar: Dark-PA_FBpp0086121_FBgn0263864_Death-associated 173 530 . FBpp0320923 0 356 . 1744 M 219 219 G 1 0 M 137 137
+
+C4 Alignment:
+------------
+         Query: Dark-PA_FBpp0086121_FBgn0263864_Death-associated APAF1-related killer (Dark)
+        Target: FBpp0325723 pep chromosome:ASM75419v3:2L:6160487:6162885:1 gene:FBgn0194790 transcript:FBtr0362053 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:Dsim\GD23405
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 87 -> 487
+  Target range: 83 -> 463
+
+  88 : LMSPIKTEQRQPSMMTRMYIEQRDRLYNDNQVFAKYNVSRLQPYLKLRQALLELRPAKNVLIDG : 151
+       ::|  :.:::  .:. |:  :.|.. | : .::||  ::: |:.: | ::  :||.  ::|  :
+  84 : MISESQINRQYEELFLRLLRNPRAPEY-GYPMYAK-VLAHYQSCIALEKP--DLRRYIELLDRD : 143
+
+ 152 : VLGS--GKTWVALDVCLS-YKVQCK-MDFKIFWLNLKNCNSPETVLEMLQKLLYQIDPNWTSRS : 211
+       :|:|  :. |: | . |: |  : . :: .: | |  . :    :|   :.|   :..:  .  
+ 144 : LLASLNSTHWMHLLAVLGRYGYHGHYVQVEVRWYN--ATHHMIFLLPHNRHLNLSLTQDIYDAL : 205
+
+ 212 : DHSSNIKLRIHSIQAELRRLLKSKPYENCLLVLLNVQNA-KAWNAFNLSCKILLTTRFKQVTDF : 274
+       .:.::   .:| :|.::|.|      |: |: | : ::| .:...::|. :|  ...  | .: 
+ 206 : SQDGSSWPPLHQLQEQFRSL------EHNLVRLAKPHSADDTFRNYSLD-QIRTEVPGLQWDEA : 262
+
+ 275 : LSAATTTHISLDHHSMTLTPDEVKSLLLKYLD-CRPQDLPREVLTTNPRRLSIIAESIRDGLAT : 337
+       |.:. .  :: ::| . :.  :. . |:.||:   :  |.|  |   :| || : |  ::.|||
+ 263 : LRTQLGRSVP-GNHVFQVDDLDAIEGLVEYLNTVDSLLLNRYSL---ARFLSHLLELPHNPLAT : 322
+
+ 338 : WDNWKHVNCDKLTTIIESSLNVLEPAEYRKMFDRLSVFPPSAHIPTILLSLIWFDVIKSDVMVV : 401
+       |::  : : :| . | : . :|  | :|  :::| | ::.. |  .:::  : |: ::|:: : 
+ 323 : WES-GQRSRGK-NCIRHMRRSVYLPMNY--VYER-SFYSRRRHADELVIHSV-FQQLQSQLELR : 380
+
+ 402 : VNKLHKYSLVEKQPKESTISIPSIYLEL-KVKLENEYALHRSIVDHYNIPKTFDSDDLIPPYLD : 464
+       |:. : ::| :.  |.   .:. : ::: ::  : . .:...   :.::. .| .::| .: | 
+ 381 : VQH-NAFNLSQDLVKSLQAKVHQMRINVGNLPPNVTEQFYSDSDRRWSVGGDFYENHL-NSLL- : 442
+
+ 465 : QYFYSHIGHHLKNIEHPERMTLF : 487
+        |:|: :::  .: :: || . :
+ 443 : -YYYTLVADLESSSDQEERDIWY : 463
+
+vulgar: Dark-PA_FBpp0086121_FBgn0263864_Death-associated 87 487 . FBpp0325723 83 463 . 100 M 27 27 G 1 0 M 7 7 G 1 0 M 14 14 G 2 0 M 16 16 G 0 2 M 12 12 G 0 1 M 6 6 G 0 1 M 9 9 G 2 0 M 47 47 G 6 0 M 13 13 G 0 1 M 9 9 G 1 0 M 24 24 G 1 0 M 21 21 G 0 1 M 11 11 G 3 0 M 20 20 G 1 0 M 7 7 G 1 0 M 16 16 G 2 0 M 4 4 G 1 0 M 17 17 G 1 0 M 14 14 G 1 0 M 24 24 G 0 1 M 29 29 G 1 0 M 4 4 G 2 0 M 22 22
+-- completed exonerate analysis

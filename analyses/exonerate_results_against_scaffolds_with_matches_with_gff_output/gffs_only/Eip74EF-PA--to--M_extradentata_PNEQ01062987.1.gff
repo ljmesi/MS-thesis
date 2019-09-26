@@ -1,0 +1,77 @@
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2019-09-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+PNEQ01062987.1	exonerate:protein2genome:local	gene	15715	76493	267	-	.	gene_id 1 ; sequence Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced ; gene_orientation + ; identity 22.79 ; similarity 53.67
+PNEQ01062987.1	exonerate:protein2genome:local	cds	76364	76493	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	76364	76493	.	-	.	insertions 0 ; deletions 0 ; identity 23.26 ; similarity 48.84
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	76362	76363	.	-	.	intron_id 1 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	75459	76363	.	-	.	intron_id 1
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	75459	75460	.	-	.	intron_id 0 ; splice_site "AT"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	75332	75458	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	75332	75458	.	-	.	insertions 0 ; deletions 0 ; identity 21.95 ; similarity 51.22
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	75330	75331	.	-	.	intron_id 2 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	75209	75331	.	-	.	intron_id 2
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	75209	75210	.	-	.	intron_id 1 ; splice_site "AT"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	75083	75208	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	75083	75208	.	-	.	insertions 0 ; deletions 0 ; identity 19.51 ; similarity 51.22
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	75081	75082	.	-	.	intron_id 3 ; splice_site "TT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	60843	75082	.	-	.	intron_id 3
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	60843	60844	.	-	.	intron_id 2 ; splice_site "AC"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	60728	60842	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	60728	60842	.	-	.	insertions 0 ; deletions 0 ; identity 20.51 ; similarity 48.72
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	60726	60727	.	-	.	intron_id 4 ; splice_site "AT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	60605	60727	.	-	.	intron_id 4
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	60605	60606	.	-	.	intron_id 3 ; splice_site "GG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	60487	60604	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	60487	60604	.	-	.	insertions 0 ; deletions 0 ; identity 15.38 ; similarity 56.41
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	60485	60486	.	-	.	intron_id 5 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	59044	60486	.	-	.	intron_id 5
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	59044	59045	.	-	.	intron_id 4 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	59019	59043	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	59019	59043	.	-	.	insertions 0 ; deletions 0 ; identity 28.57 ; similarity 57.14
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	59017	59018	.	-	.	intron_id 6 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	58012	59018	.	-	.	intron_id 6
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	58012	58013	.	-	.	intron_id 5 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	57685	58011	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	57685	58011	.	-	.	insertions 0 ; deletions 1 ; identity 14.81 ; similarity 42.59
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	57683	57684	.	-	.	intron_id 7 ; splice_site "GG"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	49157	57684	.	-	.	intron_id 7
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	49157	49158	.	-	.	intron_id 6 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	49073	49156	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	49073	49156	.	-	.	insertions 0 ; deletions 0 ; identity 18.52 ; similarity 59.26
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	49071	49072	.	-	.	intron_id 8 ; splice_site "GC"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	48739	49072	.	-	.	intron_id 8
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	48739	48740	.	-	.	intron_id 7 ; splice_site "GG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	48587	48738	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	48587	48738	.	-	.	insertions 0 ; deletions 0 ; identity 16.00 ; similarity 56.00
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	48585	48586	.	-	.	intron_id 9 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	47622	48586	.	-	.	intron_id 9
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	47622	47623	.	-	.	intron_id 8 ; splice_site "AC"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	47586	47621	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	47586	47621	.	-	.	insertions 0 ; deletions 0 ; identity 45.45 ; similarity 81.82
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	47584	47585	.	-	.	intron_id 10 ; splice_site "CT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	44057	47585	.	-	.	intron_id 10
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	44057	44058	.	-	.	intron_id 9 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	43970	44056	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	43970	44056	.	-	.	insertions 0 ; deletions 0 ; identity 17.86 ; similarity 53.57
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	43968	43969	.	-	.	intron_id 11 ; splice_site "TT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	21694	43969	.	-	.	intron_id 11
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	21694	21695	.	-	.	intron_id 10 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	21456	21693	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	21456	21693	.	-	.	insertions 0 ; deletions 2 ; identity 37.18 ; similarity 60.26
+PNEQ01062987.1	exonerate:protein2genome:local	splice5	21454	21455	.	-	.	intron_id 12 ; splice_site "GT"
+PNEQ01062987.1	exonerate:protein2genome:local	intron	15776	21455	.	-	.	intron_id 12
+PNEQ01062987.1	exonerate:protein2genome:local	splice3	15776	15777	.	-	.	intron_id 11 ; splice_site "AG"
+PNEQ01062987.1	exonerate:protein2genome:local	cds	15715	15775	.	-	.	
+PNEQ01062987.1	exonerate:protein2genome:local	exon	15715	15775	.	-	.	insertions 0 ; deletions 0 ; identity 50.00 ; similarity 85.00
+PNEQ01062987.1	exonerate:protein2genome:local	similarity	15715	76493	267	-	.	alignment_id 1 ; Query Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced ; Align 76494 270 129 ; Align 75457 314 123 ; Align 75208 356 123 ; Align 60842 398 114 ; Align 60605 436 117 ; Align 59042 476 21 ; Align 58011 484 135 ; Align 57876 530 189 ; Align 49156 594 81 ; Align 48738 622 150 ; Align 47620 673 33 ; Align 44055 685 84 ; Align 21692 714 105 ; Align 21587 750 24 ; Align 21563 759 105 ; Align 15775 795 60
+# --- END OF GFF DUMP ---
+#

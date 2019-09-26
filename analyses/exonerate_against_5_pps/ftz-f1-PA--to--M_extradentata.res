@@ -1,0 +1,11055 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/ftz-f1-PA.fas analyses/2019-09-02/polypeptides/M_extradentata_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103731-RA
+         Model: affine:local:protein2protein
+     Raw score: 471
+   Query range: 173 -> 353
+  Target range: 16 -> 204
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG--NPNAGHMSS : 235
+       :.:: ::::|| .:::::.  :|.  .::|:|: :.. |   | : . : : |  | :|:.: |
+  17 : SPFNMSSPGHSSAASAASPHHSGASAAAASAGAMPPPLYGSPPLGYCVPQHYGYCNLDASYLFS :  80
+
+ 236 : GSVGNGSGGAGNGGAGGN-----SGPGNPMGGTSATPGHGG-EVIDFKHLFEELCPVCGDKVSG : 293
+       .: |.|:|| :  :|:|:      |.|  :| :||..: || :: | |: :|||||||||||||
+  81 : PAGGGGGGGMDVVAAAGSYQASPQGGGVVVGVSSAGGAVGGSDLPDTKEGIEELCPVCGDKVSG : 144
+
+ 294 : YHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEA : 353
+       |||||||||||||||||||||||||||||:||||||||||||||:||||||||||||||:
+ 145 : YHYGLLTCESCKGFFKRTVQNKKVYTCVADRSCHIDKTQRKRCPFCRFQKCLEVGMKLEG : 204
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 353 . Medex_00103731-RA 16 204 . 471 M 53 53 G 0 2 M 27 27 G 0 5 M 18 18 G 0 1 M 82 82
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073866-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 16 -> 212
+  Target range: 362 -> 556
+
+  17 : SLNISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHV :  80
+       ::. :.|: . :: : .:::  ..||.  .:::: ...::::| .   ::....:.|.::.: |
+ 363 : GMPYPRFP-PYDRMDIRNAAYYQQGGGVMADGGGYRPGSPGGGMGHMVAGGGPAQPNGHQTPVV : 425
+
+  81 : LTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQ : 144
+        :. . | .| :   :.||| |||:.. ::.::. :||:: :|:::::.|:|  ::| . ..|.
+ 426 : YASCKLEAAAMS-GGGNGGGIGSGSPPLEAGQPPLSNHNHSHQNHHHHPQHHMVNHQPPPAPQP : 488
+
+ 145 : QQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSA : 208
+       ..: ...::: ::     :|| .|    :: .|:..::| |.:..  .. | .  :.::::| :
+ 489 : PPQAQPPPQHHHNHQNHMMYNQASCEQAAAHHQGVVPAHQQAPPPQQPPQGQAAPQTNPAASLP : 552
+
+ 209 : GGGY : 212
+       :. |
+ 553 : SPLY : 556
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 16 212 . Medex_00073866-RA 362 556 . 103 M 8 8 G 1 0 M 67 67 G 1 0 M 119 119
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 179
+   Query range: 15 -> 271
+  Target range: 338 -> 596
+
+  16 : SSLNISPFSMQLEQQQQPSSPAL-AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDA :  78
+       .|:. :.|| : |   :.:|::  ::||::::.:.:|| .:::| .:.:|.:::.:.. .::::
+ 339 : ESFGQGGFSGHHESSGHGGSSGHGGSGGQGGSGGQGGSYGQAGSVGHGGSDGHDGSGGIGGSGG : 402
+
+  79 : HVLTKFEHEY--NAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQ--QQQQQQQQHQQQQQE : 138
+       :  :  : .:  :: :| |:|:|| .::.:   :.::. ||::   :      |     |   .
+ 403 : QGGAGSQLGFGIHGESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFG : 466
+
+ 139 : HYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGS : 202
+        |     |: :.. . | ::  .|  : :|    .::|::.:|::   || ||: | |.|  |:
+ 467 : GYGGSGGQEGSGGLGGF-GGYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGL--GG : 527
+
+ 203 : SGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSAT : 266
+        |||:: ||:   . ::: :|:.|:..:|  ::::  .||||.|.:|: |.||. .. |  :::
+ 528 : YGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGS : 591
+
+ 267 : PGHGG : 271
+       .:|||
+ 592 : GSHGG : 596
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 15 271 . Medex_00021391-RA 338 596 . 179 M 23 23 G 0 1 M 50 50 G 0 2 M 35 35 G 0 2 M 32 32 G 1 0 M 42 42 G 2 0 M 71 71
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 173
+   Query range: 38 -> 271
+  Target range: 703 -> 935
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG : 102
+       ::||::::.:.:||..:::||.:.:|:::..:. :.::::|  :   :.|.::. | :: | ||
+ 704 : GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGS---DGYGGFGGQGGSVGQSG : 764
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQ----QQQQNIANNANQFNSSSYSY : 162
+        |.|  :||:.: |.::  : :.   :|     | | : :     |: :|::.::  :::::| 
+ 765 : FGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQ : 828
+
+ 163 : IYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNL-LNGSSGGSSAGGGYMLLPQAASSSGNN : 225
+       : : :     .:| |:.:|::.  :| ||:|  |.| ::|: || :::||    . .::|:|:.
+ 829 : FGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQG : 892
+
+ 226 : GNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |  ::|: :||: |.::| :| ||.|| :|.|.: || :::.|:||
+ 893 : G--SGGQGGSGGQGGSGGQGGYGGQGGYGGQGGS-GGQGGSGGQGG : 935
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 271 . Medex_00021391-RA 703 935 . 173 M 44 44 G 3 0 M 57 57 G 0 4 M 56 56 G 0 1 M 28 28 G 2 0 M 31 31 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 38 -> 271
+  Target range: 691 -> 923
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG : 102
+       ::||:  :.:.:||..:::||.:.:|:::..:..:.:::::  :  : . .:..   : || :|
+ 692 : GSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGG : 755
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNF : 166
+        |.   :|. :.:|.: :|::  .|:  : :.   ::     | :. .:: :| : . : | : 
+ 756 : QGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHG-EFVGQD-GSIGHG : 817
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGG-GGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPN : 229
+       :|    .|  | .:::|: |.|:|| ||::|:  :|: |||:. ||  : .  :: :|:.|:..
+ 818 : GSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGG : 881
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|  ::::  .||||.|.:|: |.||. .. || :: .|:||
+ 882 : SGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGG : 923
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 271 . Medex_00021391-RA 691 923 . 146 M 114 114 G 1 0 M 6 6 G 1 0 M 31 31 G 0 1 M 80 80
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 145
+   Query range: 32 -> 271
+  Target range: 691 -> 929
+
+  33 : PSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLA :  96
+       .|:..: :||::::.:.:||..:::||.:.:|:::..:..:.:::.:  :  : . ::|.   :
+ 692 : GSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGG : 755
+
+  97 : GGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSY : 160
+        ||: | :.   ::.:||:.:  .|:  : :.   :|    .: :   : ::..:.. :. :: 
+ 756 : QGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGS : 819
+
+ 161 : SYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGN : 224
+       :   .  ||:  :.|. : .:| :| :::| .|:||:  :|  || :. ||    . ::: :|:
+ 820 : GSQGGTFSQFG-SGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGS : 882
+
+ 225 : NGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       .|:..:|  ::::  .||||.|.:|: |. |. .. || :::.|:||
+ 883 : GGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGG : 929
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 32 271 . Medex_00021391-RA 691 929 . 145 M 139 139 G 1 0 M 99 99
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 30 -> 282
+  Target range: 545 -> 791
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::||::::.:.:||..:::||.:.:|:::..:. :.::::|  :    .|.::. |
+ 546 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGS---GGYGGFGGQ : 606
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        ::|| :| |.|   :.:.. :.      |:    :     : .  :|    : :. :.| .|:
+ 607 : GGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSG : 670
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       : :   . :: :  ..|: | .:| :|  :|| ||:||:  :|: |||:: ||    . .::|:
+ 671 : GQGGP-GSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGG---SGGQGGSG : 730
+
+ 223 : GNNGNPNAGHMSSGSVGNGSGG-AGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEE : 282
+       |:.|:. .|  :: : ::| || :|:||: |:|| |.. |.::..   : || : |.:| :
+ 731 : GQGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVD : 791
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 282 . Medex_00021391-RA 545 791 . 141 M 52 52 G 3 0 M 78 78 G 1 0 M 47 47 G 3 0 M 30 30 G 0 1 M 38 38
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 30 -> 271
+  Target range: 503 -> 746
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       ::.||.. :::|:::: : :| .. ::||.:.: |: ..:..:.:::::  :  : . .: .  
+ 504 : HHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGS : 567
+
+  95 : LAGGGGSGSGNQQHHSNHSNHG--NHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFN : 156
+        : ||::| |.   ::. : :|  . |           |     :. |  |   . .:.|: :.
+ 568 : GGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLG : 631
+
+ 157 : SSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+       :||  . :. :   : ..|  | .:| .| : || ||:||:  .|| || :: ||:   . :::
+ 632 : GSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGG : 695
+
+ 221 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+          :.|:..:|  ::::  .||||.|.:|: |.||. .. |  :::.||||
+ 696 : QVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGG : 746
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 503 746 . 137 M 86 86 G 0 2 M 155 155
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 172 -> 538
+  Target range: 559 -> 926
+
+ 173 : PTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       .:| |:.:::::  :| ||:|| ||: ::|:||: :::|||  :. .::|:|:.|   :|:::|
+ 560 : GSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGG--YGGQLGS : 621
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMG-GTSATPGHGGEVIDFKHLFEELCPVCGDKVSGY--HY : 296
+       |: ..:|| :|:::. | :|. .::| |.|:..| :|:  ::    ..  .  .:. :|:  | 
+ 622 : GGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHG : 685
+
+ 297 : GLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADR-M : 359
+       |: ...:. |   .. |. .  .  :..: : :.. :  ..  :  .  : |  ::: .:::  
+ 686 : GFGDYGGSGGQVISGGQGGS--GGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGVQGGSGGHGG : 746
+
+ 360 : RGGRNKF----GPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMN-IK : 418
+       .:| . |    |:: :.: : :    .| ::: |.:.||. | :   . |.:  :::.: : : 
+ 747 : SDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSK-PVFVDQGGSGSQGETFGHGEFVG : 809
+
+ 419 : QEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNS : 482
+       |:  |.: :| :|:.. |. . :   ||  .::||  ::: :.|:|| ||:|::|. :| .| :
+ 810 : QDGSIGHGGSGSQGGTFSQFGSGGHGGQ--EGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLG : 871
+
+ 483 : SNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       ::|:| |.:.:|.|:|.||| ||:.: ||:|| .:::|    ||:|. : :.:: |
+ 872 : GQGGS-GGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGG : 926
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 538 . Medex_00021391-RA 559 926 . 133 M 16 16 G 0 1 M 38 38 G 2 0 M 33 33 G 0 1 M 33 33 G 0 2 M 22 22 G 2 0 M 19 19 G 1 0 M 20 20 G 0 1 M 8 8 G 0 4 M 29 29 G 1 0 M 20 20 G 0 1 M 30 30 G 2 0 M 39 39 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 40 -> 271
+  Target range: 870 -> 1097
+
+   41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG :  102
+        ||::::.:.:||..:::||.:.:|:::..:..:.:::::  . :. : .:|. | ::|| :|
+  871 : GGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQ--GGYGGQ-GGYGGQGGSGGQGG :  929
+
+  103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIY :  164
+        ||.|   ::::. |.:        .  |   : : .   |    . :.:: : .:::.:   
+  930 : SGGQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSDGGSGCQGGLGGHGGSGIHGRPAGHG-GS :  990
+
+  165 : NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS-GNN :  225
+        .:::    ..|  ....:  | ::|| ||:|:: :.|  |||::.:|:   . |:||:   |
+  991 : GIHGGSGVQDGSVAIGETVVQGGSGGQGGSGDQRVPGVQGGSGGPDGFGAQGGATSSPFFVN : 1052
+
+  226 : GNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG :  271
+         ..:.|. :||::|. :| :| ||.||::|.|.: || :::.||||
+ 1053 : QGGSVGPGGSGGLGGFGGQGGYGGQGGSGGHGGS-GGHGGSGGHGG : 1097
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 271 . Medex_00021391-RA 870 1097 . 133 M 39 39 G 2 0 M 6 6 G 1 0 M 73 73 G 1 0 M 60 60 G 0 1 M 37 37 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 442 -> 563
+  Target range: 685 -> 802
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       ::|: .:|.| ||:.. ::|:|| ||:| :|.|: |:|.|:. :::|.:.:|. :|.||| ||:
+ 686 : GFGDYGGSGGQVISGG-QGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGSGVQGGSGGHGGS : 747
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADAL : 563
+       :: || || .:: |    ||:|.:| ::..||: |:.::||  | . . ::| ::::
+ 748 : DGYGGFGGQGGSVGQSGFGGQGGNS-NQEEIGA-QEVSNSKPVFVDQGGSGSQGETF : 802
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 563 . Medex_00021391-RA 685 802 . 132 M 16 16 G 1 0 M 17 17 G 1 0 M 54 54 G 1 0 M 7 7 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 38 -> 272
+  Target range: 667 -> 903
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG : 102
+       ::||:::..:.:| .:::: |: .:|:::  :..:.:::::  :  : . .: .   : ||::|
+ 668 : GSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGG : 731
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNF : 166
+        |.   ::. :.||. :       |     |    .:  : :|::|:.:.   :.: :    . 
+ 732 : QGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGS : 795
+
+ 167 : DSQ-YIFPTG-YQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNP : 228
+       :||  .|. | : : .:| :: ::|: ||. ::: :|: || .::||    : ..:|:|:.|:.
+ 796 : GSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSG : 859
+
+ 229 : NAGHMS-SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        .| ::  |::|. :|::|:||:||::|:|.. ||::: .| ||:
+ 860 : VQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQ-GGSGGQGGSGGQ : 903
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 272 . Medex_00021391-RA 667 903 . 132 M 131 131 G 0 1 M 6 6 G 0 1 M 59 59 G 0 1 M 25 25 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 30 -> 271
+  Target range: 360 -> 599
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       : .|:.. ::||:::: :.:|| .:::|:.:.:|:: ..:..:.:.::::   |. : :: :| 
+ 361 : HGGSGGQGGSGGQGGSYGQAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQL--GFGIHGESLSL- : 422
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+         ||:|: :|: :  |.  . :.:::   :      |     |. :      . .:.:. :.: 
+ 423 : --GGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGLGGF : 483
+
+ 159 : SYSYI-YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGN-LLNGSSGGSSAGG--GYMLLPQA : 218
+       : :|| |: ::    ..|     :| :|::::| ||: |:  |.| :|:::.||  ||   . .
+ 484 : G-GYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQ : 546
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ::|:|:.|:...|  :: : :.| ||:|. |::|. |.:.  ||::: .| ||
+ 547 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGG : 599
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 360 599 . 131 M 50 50 G 2 0 M 11 11 G 3 0 M 63 63 G 1 0 M 3 3 G 0 1 M 34 34 G 0 1 M 13 13 G 0 2 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 415 -> 545
+  Target range: 495 -> 624
+
+ 416 : NIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGN : 479
+       ::::.   .: ||  :::.: .:::: :     :::||  : :  :|:|| ||:| :|.|: |:
+ 496 : SVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSG-GQ : 558
+
+ 480 : GNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNT : 543
+       |.|:. :::|.:.:|.|:|.||| ||:.. ||:|: .:::|    ||:|.|: |.:  | | :.
+ 559 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSG : 622
+
+ 544 : AD : 545
+       ::
+ 623 : GQ : 624
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 415 545 . Medex_00021391-RA 495 624 . 131 M 61 61 G 1 0 M 68 68
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 174 -> 536
+  Target range: 291 -> 655
+
+ 175 : GYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSV : 238
+       | |:..::::  :| ||.|| |.: . ::| |:.. ..   . ::...: . .. :|| .|:: 
+ 292 : GGQGGIGGQGGMGGQGGTGGQGGMGGQGGGISGQTVTWSYGGSGSEEESFGQGGFSGHHESSGH : 355
+
+ 239 : GNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCE : 302
+       |.:|| :|:||.||::|.|.: | :::. ||||.  | .:  ..: .  |:  :| : |: . .
+ 356 : GGSSGHGGSGGQGGSGGQGGSYGQAGSV-GHGGS--DGHDGSGGIGGSGGQGGAGSQLGFGIHG : 416
+
+ 303 : SCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQ--KCLEVGM-KLEAVRADRMRGGR : 363
+       .. ::  .. || . ..  :.::   ::.    .. .  |  .. : |.   .:  ::  .|| 
+ 417 : ESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGL : 480
+
+ 364 : NKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVS : 427
+       . ||. |    ::    :::     :: ..  |:. ...:::.|   :|.. . : .:     |
+ 481 : GGFGG-YIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGS : 543
+
+ 428 : SLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNN : 491
+       :   :::: .:: : : :  ::::||  ::. ::|:|| ||:|::|.|:  .|::: |: .|:.
+ 544 : GGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQG : 607
+
+ 492 : NSSTGNGTSG--GGGGNNAGGGGGGTNSNDGLH-RNGGNGNSSCHEAG : 536
+       .|:. .| :|  |:||:::::| ||::|::|:  : |: |:::. :.|
+ 608 : GSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQG : 655
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 174 536 . Medex_00021391-RA 291 655 . 127 M 92 92 G 1 0 M 5 5 G 2 0 M 68 68 G 0 2 M 7 7 G 0 1 M 19 19 G 1 0 M 132 132 G 0 2 M 21 21 G 0 1 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 423 -> 536
+  Target range: 847 -> 960
+
+ 424 : PQVSSLTQSPDSSPSPIAIALG-QVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGS : 486
+       .| :| .|:..: .:.:::. |   ::::||  ::. ::|:|| ||:| :|.|: |:|.|:. :
+ 848 : GQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGGQG : 910
+
+ 487 : SNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       : |.:.: .|:|.||| ||:.: ||:|: .:::|    || |.: |:.::
+ 911 : GYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFGGPVCQGGS : 960
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 423 536 . Medex_00021391-RA 847 960 . 127 M 22 22 G 0 1 M 31 31 G 1 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 172 -> 275
+  Target range: 878 -> 981
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|  : .:| :| ::|| ||:||:  :|: || :: |||   . ::: :|:.|:..:|: :::
+ 879 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGS : 942
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+       :  .|.|| |..   |.|:::.. |  :: .||||. |:
+ 943 : GGQGGCGGFGGPVCQGGSDSDGGSGCQGGLGGHGGSGIH : 981
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 275 . Medex_00021391-RA 878 981 . 126 M 103 103
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 30 -> 271
+  Target range: 890 -> 1133
+
+   31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYT :   92
+        | .|:.. ::||::::.:.:| ..::: |.:.:|:::..:..:.:::.:  :  : ...::.
+  891 : QGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFG :  952
+
+   93 : LQLAGGGGSGSGNQQHHSNHSNHGNH--HQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNA :  152
+         .:  ||:.:.|.   ::. :.||.   | :.. :     :     |:   .  :  :...:
+  953 : GPVCQGGSDSDGGSGCQGGLGGHGGSGIHGRPAGHGGSGIHGGSGVQDGSVAIGETVVQGGS : 1014
+
+  153 : NQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYML :  214
+        .  .:|:   : . ::    |.|: . .:: | .   . ||: |.  :|: || :: |||  
+ 1015 : GGQGGSGDQRVPGVQGGSGGPDGFGAQGGATSSPFFVNQGGSVGPGGSGGLGGFGGQGGYGG : 1076
+
+  215 : LPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG :  271
+         . ::: :|:.|:..:|  ::::  .|:||.|. |: |.  : : ||| :: .::||
+ 1077 : QGGSGGHGGSGGHGGSGGHGGSGGQGGTGGQGGFGGQGGFVSQECMGGQGGCGSQGG : 1133
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 890 1133 . 126 M 88 88 G 0 2 M 153 153
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 174 -> 275
+  Target range: 637 -> 738
+
+ 175 : GYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG-NPNAGHMSSGS : 237
+       |: : .:| :: ::|: ||:|::   |: |||:: ||    .  :| :| .: ..::|:: ||:
+ 638 : GFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGG : 701
+
+ 238 : VGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+        |.::| :|:||.||::|.|.: || :::.|:||. ::
+ 702 : QGGSGGQGGSGGQGGSGGQGGS-GGQGGSGGQGGSGVQ : 738
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 174 275 . Medex_00021391-RA 637 738 . 125 M 52 52 G 0 1 M 33 33 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 30 -> 271
+  Target range: 557 -> 794
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::||::::.:.:||..:::|| :.:|:|:..:.. .: :::  :    ...:|. |
+ 558 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGS---GGHGGYGGQ : 618
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ--FN : 156
+       |::|| .|::.    |:: . ..|     :    :|    :| .   |    . :..::|  |.
+ 619 : LGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFG : 682
+
+ 157 : SSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+       | :    |. .:  :::.| |:.:::::  :| ||:|| |.  :|: |||:: ||  : . :::
+ 683 : SHGGFGDYGGSGGQVISGG-QGGSGGQGGSGGQGGSGGQGG--SGGQGGSGGQGGSGVQGGSGG : 743
+
+ 221 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+        :|::| .. |  :::   :| ||.|..:. .: |: :  .:.:.  ::||
+ 744 : HGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGG : 794
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 557 794 . 125 M 52 52 G 3 0 M 69 69 G 0 2 M 21 21 G 1 0 M 21 21 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 447 -> 591
+  Target range: 656 -> 803
+
+ 448 : NASTGGVIATPMNAGTGGSGG-GGLNGPSSVGN-GNSSNGSSNGNNNSSTGNGTSGGGGGNNAG : 509
+       ::. ||: : . ::| ||:|: ||:.:.:: |: |.|:.   :|.:.:|.|:|.||| ||:.: 
+ 657 : SGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQ : 720
+
+ 510 : GGGGGTNSNDGLHRNGGNGNSSCHEA--GIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVSP : 571
+       ||:|| .:::|   :| :|.|: |.:  | |:: . ::|    : |.:.:::.:. |.:  ||.
+ 721 : GGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSN : 784
+
+ 572 : MIREFVQSIDDREWQTQLFA : 591
+         . ||:  ::.. |.: |:
+ 785 : SKPVFVDQ-GGSGSQGETFG : 803
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 591 . Medex_00021391-RA 656 803 . 125 M 21 21 G 0 1 M 11 11 G 0 1 M 56 56 G 0 2 M 44 44 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 173 -> 546
+  Target range: 600 -> 962
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGS : 237
+       .|: : .:| :: : ||  |:||:  .:: ||||:  |:     :.: :|:.::..:|:   |:
+ 601 : GGFGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGD--QGG : 662
+
+ 238 : VGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKH-LFEELCPVCGDKVSGYHYGLLT : 300
+       :|. :|::|:||:|:::| |:. || :. .| ||:||.  :   ..  .  |:  || : |  .
+ 663 : LGGQGGSGGQGGPGSQGGFGSH-GGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGG : 725
+
+ 301 : CESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRN : 364
+        .:. |   ..||. .     ::    :: .|  . . . |    . . : |.: |: :..::.
+ 726 : QGGSGGQGGSGVQGGSGGHGGSDGYGGFG-GQGGSVGQSGFGG-QGGNSNQEEIGAQEVSNSKP : 787
+
+ 365 : KFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSS : 428
+        |  : : :.:.: :.. : ::. |.  .|:|.:  :.: :..: |  :. :  ||   .| :|
+ 788 : VF--VDQGGSGSQGETFGHGEFVGQD--GSIGHG-GSGSQGGTFSQFGSGGHGGQEGSGGQGGS : 846
+
+ 429 : LTQSPDSSPSPIAIALG-QVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNN : 491
+        .|...::.:. ::. |  |::: ||  ::. ::|:|| ||:| :|.|: |:|.|:. :::|.:
+ 847 : SGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQ : 909
+
+ 492 : NSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+       .: .|:|. || ||:.: ||:|| .:::  ::.|:.|:::| . | .  |..:||
+ 910 : GGYGGQGGYGGQGGSGGQGGSGGQGGSG--DQGGSGGQGGCGGFGGPVCQGGSDS : 962
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 546 . Medex_00021391-RA 600 962 . 125 M 59 59 G 2 0 M 25 25 G 1 0 M 18 18 G 0 1 M 51 51 G 1 0 M 13 13 G 1 0 M 22 22 G 2 0 M 22 22 G 2 0 M 6 6 G 1 0 M 46 46 G 0 1 M 31 31 G 1 0 M 42 42 G 2 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 131 -> 271
+  Target range: 155 -> 302
+
+ 132 : HQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQY---IFPTGYQDTTSSHSQQSGGGG- : 192
+       |  ::  .|::: : | : .. :|..:. :|. . :.:     :.:. |.. |||:  :| || 
+ 156 : HVTKKIRKYDREIRVNRTWGNLHFPRGCKGYTNTTEENTQNQKYNATDQKGMSSHGSVAGHGGI : 219
+
+ 193 : GGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS-GSVGNGSGGAGNGGAGGNS : 254
+       || ||   :|: || :: ||   :. .:: :|:.| ...| :.: |:||. || :|:||.||::
+ 220 : GGQGGVGGQGGVGGQGGVGGQGGVGGQGGVGGQGGVGGQGGVDGQGGVGGHSGVGGQGGVGGQG : 283
+
+ 255 : GPGNP--MGGTSATPGHGG : 271
+       | |..  ||| ::..|:||
+ 284 : GMGGQWEMGGQGGIGGQGG : 302
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 131 271 . Medex_00021391-RA 155 302 . 124 M 39 39 G 0 3 M 21 21 G 0 1 M 44 44 G 0 1 M 24 24 G 0 2 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 34 -> 271
+  Target range: 415 -> 650
+
+  35 : SPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGG :  98
+       : :|: ||::::|::: :.:.:.:|:.. .: .: ..:..:.::   . |. .|.: . | ::|
+ 416 : GESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFG-GYGGSGGQEGSG : 478
+
+  99 : GGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSY : 162
+       | :| |.  :...::. : ::    ::    |:    : .   :    . :.::.| . |:|: 
+ 479 : GLGGFGGYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYG- : 542
+
+ 163 : IYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG : 226
+         . ::    ..|  : .:| :| ::|| ||:||:  :|: |||:. ||    . ::: :| .|
+ 543 : GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGG : 605
+
+ 227 : NPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :..:|  :: :   ||||...::: |.|:: :...|  :: ||||
+ 606 : QGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGG : 650
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 34 271 . Medex_00021391-RA 415 650 . 124 M 51 51 G 1 0 M 75 75 G 1 0 M 109 109
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 30 -> 270
+  Target range: 731 -> 967
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|: . ::||:::::: :| ..:::| .::: :::..|:|::: :|: ::: .. : . .  
+ 732 : QGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGS : 795
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        : |.. | |:   :..  .||.   |     |     :  |:.   |    . ..::.| .:|
+ 796 : GSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQ-GGS : 858
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       :     . ::    ..|  : .:| :| ::|| ||:||:  :|: |||:: |||   .  :: :
+ 859 : GVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQG : 922
+
+ 223 : GNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       |:.|:..:|  : |: |: :|::|:|| || :||    ||:.:..| |
+ 923 : GSGGQGGSG--GQGGSGDQGGSGGQGGCGGFGGPV-CQGGSDSDGGSG : 967
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 270 . Medex_00021391-RA 731 967 . 124 M 124 124 G 1 0 M 76 76 G 2 0 M 24 24 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 172 -> 293
+  Target range: 533 -> 652
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|: : .:| :| ::|| ||:||:  :|: |||:: ||    .|::|:: ..:. ::|  | |
+ 534 : QGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG--GQGGSGGQGGSGVQGGSGSHG : 595
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSG : 293
+       : |. :| :|:||:||::| |..:|:.:...: | .  . :| |..  .  |:  ||
+ 596 : GSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSG : 652
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 293 . Medex_00021391-RA 533 652 . 123 M 41 41 G 2 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 5 -> 271
+  Target range: 490 -> 752
+
+   6 : DQQQATVQFISSLNISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNN :  69
+       :|  ::||  || : :: : : .  : .| .  : || :::.:.:| :. ::||.:.:|:::..
+ 491 : GQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGG : 554
+
+  70 : NNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQ : 133
+       :..:.:::::  :  : . .:   | ::|| :||| |   ::|:. |..     |     :   
+ 555 : SGGQGGSGGQGGSGGQGGSGG---QGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGY : 615
+
+ 134 : QQQQEHYQQQQQQNIANNANQFN-SSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGG : 196
+         | .   |: . .::.:::| . ::  : : : :|    .:| |:. ::::  :| ||.|: |
+ 616 : GGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQG : 679
+
+ 197 : NLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPM : 260
+       .: : :: |. :|:|  ::: :.::||.:| .::|: :||: |.::| :|:||.||:: .|.: 
+ 680 : GFGSHGGFGDYGGSGGQVISGGQGGSGGQG-GSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGS- : 742
+
+ 261 : GGTSATPGHGG : 271
+       || ::: |.||
+ 743 : GGHGGSDGYGG : 752
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 5 271 . Medex_00021391-RA 490 752 . 123 M 85 85 G 3 0 M 63 63 G 0 1 M 70 70 G 1 0 M 32 32 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 445 -> 531
+  Target range: 510 -> 598
+
+ 446 : QVNASTGGVIATPMNAGTGGSGG-GGLNG-PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       : ::: || :: .  :| ||||| ||::| .:| |:|.|:. :::|.:.:|.|:|.||| ||:.
+ 511 : HGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG : 574
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSS : 531
+       : ||:|| .:::    :|::|.|:
+ 575 : GQGGSGGQGGSGVQGGSGSHGGSG : 598
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 445 531 . Medex_00021391-RA 510 598 . 122 M 23 23 G 0 1 M 5 5 G 0 1 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 38 -> 272
+  Target range: 541 -> 771
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG : 102
+       ::||::::.:.:||..:::||.:.:|:::..:..:.:::::  :  : . .:..   ::|| :|
+ 542 : GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHG---GSGGYGG : 602
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNF : 166
+        |.|   :.|:..|.:     |: .        |:.   :    . :.:::| .|:. : : . 
+ 603 : FGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGL-GG : 665
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA : 230
+       ::    ..|  . .:  |: : |: ||:||::::|: |||:: ||    . ::: :|:.|:..:
+ 666 : QGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS : 729
+
+ 231 : GHMSSGSVGNGSGG-AGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       |  ::::| .|||| :|::| || :|.|.:: | |: .|:||:
+ 730 : GGQGGSGVQGGSGGHGGSDGYGGFGGQGGSV-GQSGFGGQGGN : 771
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 272 . Medex_00021391-RA 541 771 . 122 M 54 54 G 3 0 M 68 68 G 1 0 M 80 80 G 0 1 M 16 16 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 44 -> 273
+  Target range: 421 -> 643
+
+  45 : SNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQH : 108
+       :.::: .::.:::||.:.:|::::. .: .:::::  :. : .:.:|.   : .|::| |.   
+ 422 : GGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGLGGFGG : 485
+
+ 109 : HSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIF : 172
+       . :...:|.   |:    ::    |:   .|     : .::. :.  . :::|  |. .:    
+ 486 : YIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFS-GYGGSGG--- : 546
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|  : .:| :| ::|| ||:||:  :|: |||:: ||  : . ::| :|:.| .. |  : |
+ 547 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFG--GQG : 607
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEV : 273
+       : |. :| :|: |:||:.| ::.:||:|: .| .|:|
+ 608 : GSGGHGGYGGQLGSGGQEG-ASGLGGSSSQHGFTGHV : 643
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 44 273 . Medex_00021391-RA 421 643 . 121 M 117 117 G 1 0 M 7 7 G 3 0 M 59 59 G 2 0 M 22 22 G 1 0 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 445 -> 538
+  Target range: 837 -> 932
+
+ 446 : QVNASTGGVIATPMNAGTGGSG-GGGLNGPSSV-GNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       : ::: ||  :   ::| ||||  |||. .::: |:|.|:. :::|.:.:|.|:|.||| ||:.
+ 838 : EGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG : 901
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       : ||:|| .: :|    ||:|.|: :.:: |
+ 902 : GQGGSGGQGGYGGQGGYGGQGGSGGQGGSGG : 932
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 445 538 . Medex_00021391-RA 837 932 . 121 M 22 22 G 0 1 M 10 10 G 0 1 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 40 -> 538
+  Target range: 489 -> 986
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       .|:::::..:||: : :|:.: :||::..: .:.: ::.  :  : .:::|.   : ||::| |
+ 490 : EGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQG : 553
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       .   ::. :.:|.   |     |     |     :     : . :. :.  . :: :   .:::
+ 554 : GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGG : 617
+
+ 169 : QYIFPTGYQDTTSSHSQQSGGGG-GGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAG : 231
+       |  :.:| |:.:|: :  |:  | .|  |:: :|:||: :::|:   |. .::|:|:.|..:.|
+ 618 : Q--LGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQG : 679
+
+ 232 : HMSS-GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGY : 294
+        .:| |: |: :|::|:  :||::|:|.. ||::: .| ||:  .  :  ..  .  |. | | 
+ 680 : GFGSHGGFGDYGGSGGQVISGGQGGSGGQ-GGSGGQGGSGGQGGSGGQ--GGSGGQGGSGVQGG : 740
+
+ 295 : HYGLLTCESCKGFFKRTVQ-NKKVYTCVAERSCHIDKTQRKRC-PYCRFQKCLEVGMKLEAVRA : 356
+         |  ..::. ||  :.   .:. :.  :..| : : ..:. . :   | .  . | : |:   
+ 741 : SGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGH : 804
+
+ 357 : DRMRGGRNKFGPMYKRDRARKL-QVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQ : 419
+       : . |  ..:|.  . .:: .: |  .  : : ::  .  |:. : .: :.|   . ..:.:: 
+ 805 : GEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQG : 868
+
+ 420 : EIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSS : 483
+       .:  .  |:   :::: .:: : : :  ::::||  ::. ::| || || | :|.|: |:|.|:
+ 869 : GLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSG-GQGGSG : 931
+
+ 484 : NGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       . :::|::.:|.|:|..|| ||.   ||:::..:::     ||:|.|: |. . |
+ 932 : GQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSDGGSGCQGGLGGHGGSGIHGRPAG : 986
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 538 . Medex_00021391-RA 489 986 . 121 M 129 129 G 2 0 M 20 20 G 0 1 M 44 44 G 0 1 M 24 24 G 1 0 M 18 18 G 2 0 M 33 33 G 0 1 M 23 23 G 0 1 M 42 42 G 0 1 M 98 98 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 30 -> 529
+  Target range: 635 -> 1130
+
+   31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYT :   92
+        |:. :. ::: |::::...:||.:::: |.:.:|:::....::.: ::|  . |. :|.: .
+  636 : QHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSH--GGFG-DYGGSG :  694
+
+   93 : LQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ :  154
+         |: :|| :|||.|   :.::. |.:     |     |     | .   :   :. :. :.|
+  695 : GQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQ :  756
+
+  155 : FNS-SSYSYIYNFDSQYIFPTGYQDTTSSHSQ-QSGGGGGGGGGNLLNGSSGGSSAGGGY-M :  213
+         .| :  ::  : ::     .| |:.::|.:   . ||:|: |..: :|.  | .:: |.  
+  757 : GGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGG :  818
+
+  214 : LLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID :  275
+          :|::: |  .:..::|: :||: |.:|| .|:||.||:: .| .:|  :: .|:||.  :
+  819 : SGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQG-GLGVQGGLGGQGGSGGQ :  879
+
+  276 : FKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCP :  337
+             :. ..  |:. :    |  . .: :| :          .. :: :.  : .  .: .
+  880 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGG :  941
+
+  338 : YCRFQKCLEVGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDI :  399
+              | . |  : .  :|.  ||..  |.:  :: :. ::  |.   :  :::.: | : 
+  942 : SGGQGGCGGFGGPVCQGGSDS-DGGSGCQGGLGGHG-GSGIHG-RPAGHGGSGIHGGSGVQD : 1000
+
+  400 : KPTPIS-PGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMN :  460
+         :.:|: .  | : .. . . : ::| | : : :||: .:. : : :.  .: || ::.. :
+ 1001 : GSVAIGETVVQGGSGGQGGSGDQRVPGVQGGSGGPDGFGAQGGATSSPFFVNQGGSVGPGGS : 1062
+
+  461 : AGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLH :  522
+        :| || || |  |. : :.|::::| ::|.:.: .|:|. ||.||:.: || ||  |:: : 
+ 1063 : GGLGGFGGQGGYGGQGGSGGHGGSG-GHGGSGGHGGSGGQGGTGGQGGFGGQGGFVSQECMG : 1123
+
+  523 : RNGGNGN :  529
+         :|| |:
+ 1124 : GQGGCGS : 1130
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 529 . Medex_00021391-RA 635 1130 . 121 M 49 49 G 2 0 M 4 4 G 1 0 M 71 71 G 0 1 M 28 28 G 0 1 M 27 27 G 0 1 M 45 45 G 1 0 M 100 100 G 1 0 M 14 14 G 1 0 M 6 6 G 1 0 M 24 24 G 0 1 M 80 80 G 1 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 447 -> 548
+  Target range: 530 -> 630
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::: ||  : . ::| ||||| | :|. : :.|::::| ::|.:.: .|:|. ||:| :.::|:
+ 531 : SGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGSGVQGGSGS : 593
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKL : 548
+        ||:.: :|:  :||:|. : ..: :||  :.:.| |
+ 594 : HGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGL : 630
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 548 . Medex_00021391-RA 530 630 . 120 M 38 38 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 166 -> 271
+  Target range: 635 -> 740
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNP-N : 229
+       :  :. ..|  : .:| .| ::|: || ||:  :|: ||::: ||:   .  :. :|:.|:  :
+ 636 : QHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVIS : 699
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|: :||: |.::| :|:||.||::|.|.: || :::. :||
+ 700 : GGQGGSGGQGGSGGQGGSGGQGGSGGQGGS-GGQGGSGVQGG : 740
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 271 . Medex_00021391-RA 635 740 . 120 M 62 62 G 0 1 M 31 31 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 2 -> 271
+  Target range: 618 -> 881
+
+   3 : LEMDQQQATVQFISSLNISPFSMQLEQQQQPSSPALAAGGNSSN-NAASGSNNNSASGNNTSSS :  65
+       |. : |:::  : :| :  .|: ::.   :.:|.. :::|: :. .:.:||..::::|::.: :
+ 619 : LGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFG : 682
+
+  66 : SNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQ : 129
+       |:.. .: .:::::|::  : . .: .   : ||::| |.   ::. :.:|.   |     :  
+ 683 : SHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGG : 746
+
+ 130 : QQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGG : 193
+        :      .:     | .::.::.: | .. :     :|: :| .  |:.::|:::  | |.  
+ 747 : SDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVD--QGGSGSQGETFGHGEFV : 808
+
+ 194 : GGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPG : 257
+       | :. : | :|::|.||.:  :    :|:|:.|: .:|  :::|  :||||.|.:|. |. |  
+ 809 : GQDGSI-GHGGSGSQGGTFSQF----GSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQ : 867
+
+ 258 : NPMGGTSATPGHGG : 271
+       ..:|| :::.|:||
+ 868 : GGLGGQGGSGGQGG : 881
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 2 271 . Medex_00021391-RA 618 881 . 120 M 44 44 G 0 1 M 128 128 G 2 0 M 23 23 G 1 0 M 15 15 G 4 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 30 -> 275
+  Target range: 348 -> 588
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       :: ||.  :::|::::.:.:||..:::| .:::| ::..::.:::::: : .. .:. .:  | 
+ 349 : HHESSGHGGSSGHGGSGGQGGSGGQGGSYGQAGSVGHGGSDGHDGSGG-IGGSGGQGGAGSQLG : 411
+
+  95 : LAGGGGS---GSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQF : 155
+       ::  |.|   |::. |: |.|:. |.:    :|:   :      | .   |    . :.::.| 
+ 412 : FGIHGESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQE : 475
+
+ 156 : NSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAA : 219
+       .|:: :   .|:: ||   .|:: .:|  |::::   |::|:  ::: ||| : ||    . ::
+ 476 : GSGGLG---GFGG-YI---EYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSG : 532
+
+ 220 : SSSGNNG-NPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+       : :| :| ..::|: :||: |.::| :|:||.||::|.|.: || :::.|:||. ::
+ 533 : GQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS-GGQGGSGGQGGSGVQ : 588
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 275 . Medex_00021391-RA 348 588 . 119 M 48 48 G 1 0 M 22 22 G 0 3 M 60 60 G 3 0 M 4 4 G 1 0 M 2 2 G 3 0 M 52 52 G 0 1 M 33 33 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 447 -> 538
+  Target range: 509 -> 599
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       : :::|  ::  ::| || ||:| :|. | | |.|:. :::|.:.:|.|:|.||| ||:.: ||
+ 510 : QHGSSGHGGSVGHGGLGGYGGSGGQGGFS-GYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGG : 572
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       :|| .:::|   :| :|.|:.|.:: |
+ 573 : SGGQGGSGGQGGSGVQGGSGSHGGSGG : 599
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 538 . Medex_00021391-RA 509 599 . 119 M 29 29 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 447 -> 546
+  Target range: 551 -> 649
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::::||  ::. ::|:|| ||:| :|.|: |:|.|:  :::|::.:|.| |. || ||:.: ||
+ 552 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGG : 614
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+        ||  :::| : .:| |.||.::: .| : :.:::
+ 615 : YGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHG : 649
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 546 . Medex_00021391-RA 551 649 . 119 M 29 29 G 1 0 M 69 69
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 422 -> 528
+  Target range: 807 -> 910
+
+ 423 : IPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGS : 486
+       :.| :|:.::..:|.:..  .:|  ::: ||  ::. ::|::| .|:| :|.|:| .| : :| 
+ 808 : VGQDGSIGHGGSGSQGGTFSQFG--SGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQG- : 869
+
+ 487 : SNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+       : |.:.:|.|:|.||| ||:.: ||:|| .:::|   :||:|
+ 870 : GLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQG : 910
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 422 528 . Medex_00021391-RA 807 910 . 119 M 23 23 G 2 0 M 38 38 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 430 -> 538
+  Target range: 837 -> 944
+
+ 431 : QSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS : 494
+       ::::: .:: : . :  ::::|   : .:::| || ||:| :|.|: |:|.|:. :::|.:.:|
+ 838 : EGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGS : 900
+
+ 495 : TGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       .|:|.||| || .: || || .:::|   :||:|.|: :.:: |
+ 901 : GGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGG : 944
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 430 538 . Medex_00021391-RA 837 944 . 119 M 46 46 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 30 -> 271
+  Target range: 671 -> 911
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .:::. : |:::: .. :||..:  ||.:.:|:::..:..:.:::::  :  : . .: .  
+ 672 : QGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS : 735
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQ-QQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNS : 157
+        . ||::| |. : .:. :.:|.   |     |  : ::::  .::  : :.  :.:.::  ::
+ 736 : GVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQG : 799
+
+ 158 : SSYSY-IYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+       .:::.  :  :.  | ..|  . .:: || ::|| || .|:  :|:|:| .::||    : ..:
+ 800 : ETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGG-QGGSGVQG : 862
+
+ 221 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : | :| . :|: :||: |.::| :|:||.||::|.|.: || :::.|:||
+ 863 : GLGVQG-GLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS-GGQGGSGGQGG : 911
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 671 911 . 118 M 93 93 G 0 1 M 39 39 G 0 1 M 49 49 G 1 0 M 14 14 G 1 0 M 32 32 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 448 -> 532
+  Target range: 1038 -> 1121
+
+  449 : ASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG :  510
+        :: ||..::|. .. ||| |.| :|. :  .|::: | ::|.:.: .|:|. ||:||:.::|
+ 1039 : GAQGGATSSPFFVNQGGSVGPGGSGGLGGFGGQGGYG-GQGGSGGHGGSGGHGGSGGHGGSG : 1099
+
+  511 : GGGGTNSNDGLHRNGGNGNSSC :  532
+        | |||.:::|:  :||  : .|
+ 1100 : GQGGTGGQGGFGGQGGFVSQEC : 1121
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 448 532 . Medex_00021391-RA 1038 1121 . 118 M 37 37 G 1 0 M 46 46
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 434 -> 540
+  Target range: 377 -> 483
+
+ 435 : SSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPS-SVGNGNSSNGSSNGNNNSSTGN : 497
+       : ::::: : :: :.::||: ::. ::|:|:  | |::| | |:|.:.: |||::|.:.: .|:
+ 378 : GQAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGGSGGQNGSGHGGSGGQGGS : 441
+
+ 498 : GTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSL : 540
+       |. .| |: .::|| ||:::::|:   ||:|. .  .:|:|::
+ 442 : GNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQE-GSGGLGGF : 483
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 434 540 . Medex_00021391-RA 377 483 . 117 M 41 41 G 0 1 M 56 56 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 410 -> 538
+  Target range: 484 -> 611
+
+ 411 : AYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGP : 474
+       :| : : : .  :.: ||  :::.: .:: : : :  ::: ||  ::. ::| :| ||:| :|.
+ 485 : GYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGG : 548
+
+ 475 : SSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       |: |:|.|:. :::|.:.:|.|:|.||| ||:.: ||:|  .::::   :|| |. : :.:: |
+ 549 : SG-GQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGG : 611
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 410 538 . Medex_00021391-RA 484 611 . 117 M 66 66 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 447 -> 538
+  Target range: 557 -> 647
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::::||  ::. ::|:|| ||:| :|.|:| .|::|:|:| |. .: .|:|.||| || .:  |
+ 558 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGS-GGYGGFGGQGGSGGHGGYGGQLG : 620
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       :|| ::..||  :::: . : | :::|
+ 621 : SGGQEGASGLGGSSSQHGFTGHVGSVG : 647
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 538 . Medex_00021391-RA 557 647 . 117 M 40 40 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 447 -> 549
+  Target range: 848 -> 948
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       :.::||  ::.:::| |  || | :|.|: |:|.|:. :::|.:.:|.|:|.||| ||:.: ||
+ 849 : QEGSGGQGGSGVQGGLGVQGGLGGQGGSG-GQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGG : 911
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLC : 549
+        || .: :|   :||:|.|:  ::| |.  .:::   |
+ 912 : YGGQGGYGGQGGSGGQGGSG-GQGGSGDQGGSGGQGGC : 948
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 549 . Medex_00021391-RA 848 948 . 117 M 29 29 G 1 0 M 54 54 G 1 0 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 172 -> 271
+  Target range: 461 -> 560
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN-PNAGHMSS : 235
+       ..|: : .:| :|:::|| || || :  .: ||||. .|    . :::  |::|: .:.|| : 
+ 462 : QGGFGGYGGSGGQEGSGGLGGFGGYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGL : 525
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |: |.::| :| :| ||::|.|.: || :::.|:||
+ 526 : GGYGGSGGQGGFSGYGGSGGQGGS-GGQGGSGGQGG : 560
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00021391-RA 461 560 . 116 M 55 55 G 0 1 M 32 32 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 167 -> 271
+  Target range: 1005 -> 1109
+
+  168 : SQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG-NP :  228
+        :: : ..|  : .:| .|: .|  ||:||.   |: ||::::. ::  . :.:::|:.| ..
+ 1006 : GETVVQGGSGGQGGSGDQRVPGVQGGSGGPDGFGAQGGATSSPFFVNQGGSVGPGGSGGLGG : 1067
+
+  229 : NAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG :  271
+         :|: : |: |.::| :|:|| ||::|.|.: || ::|.|:||
+ 1068 : FGGQGGYGGQGGSGGHGGSGGHGGSGGHGGS-GGQGGTGGQGG : 1109
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 167 271 . Medex_00021391-RA 1005 1109 . 116 M 59 59 G 0 1 M 33 33 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 442 -> 536
+  Target range: 1036 -> 1132
+
+  443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNG-PSSVGNGNSSNGSSNGNNNSSTGNGTSGGG :  503
+        ::|. .::|:: : .. .::.|.:|:|||.| .:  | |. :.::::|.:.: .|:|. ||:
+ 1037 : GFGAQGGATSSPFFVNQGGSVGPGGSGGLGGFGGQGGYGGQGGSGGHGGSGGHGGSGGHGGS : 1098
+
+  504 : GGNNAGGGGGGTNSNDGLHRNG-GNGNSSCHEAG :  536
+        ||:.:.|| || .:::|: .:.  .|:::| ..|
+ 1099 : GGQGGTGGQGGFGGQGGFVSQECMGGQGGCGSQG : 1132
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 536 . Medex_00021391-RA 1036 1132 . 116 M 31 31 G 0 1 M 52 52 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 427 -> 562
+  Target range: 1023 -> 1160
+
+  428 : SLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGG-GGLNGPSS-VGNGNSSNGSS :  487
+        .:.  .::|.:| :::    .:|:.  :. . :.|.||||| ||:.|.::  |:|.|:. ::
+ 1024 : RVPGVQGGSGGPDGFGAQGGATSSPFFVNQGGSVGPGGSGGLGGFGGQGGYGGQGGSGGHGG : 1085
+
+  488 : NGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLC :  549
+        :|.:.:|.|:|.||| ||..: || || .:  : :  ||:|..:.:.:  :    .::.   
+ 1086 : SGGHGGSGGHGGSGGQGGTGGQGGFGGQGGFVSQECMGGQGGCGSQGGLYSQAGFNGQDISN : 1147
+
+  550 : FDSGTHPSSTADA :  562
+        |: |.:..|.:::
+ 1148 : FQMGGQGESDGQG : 1160
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 427 562 . Medex_00021391-RA 1023 1160 . 116 M 41 41 G 0 1 M 8 8 G 0 1 M 86 86
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 452 -> 536
+  Target range: 505 -> 591
+
+ 453 : GVIATPMNAGTGGSGG-GGLNG-PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGG : 514
+       |  : . ::| ||| | |||.| .:| |:|. |. :::|.:.:|.|:|.||| ||:.: ||:||
+ 506 : GSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGG : 569
+
+ 515 : TNSNDGLHRNGGNGNSSCHEAG : 536
+        .:::|   :||:|.|: :.::
+ 570 : QGGSGGQGGSGGQGGSGVQGGS : 591
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 452 536 . Medex_00021391-RA 505 591 . 115 M 16 16 G 0 1 M 5 5 G 0 1 M 63 63
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 440 -> 538
+  Target range: 644 -> 743
+
+ 441 : AIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVG-NGNSSNGSSNGNNNSSTGNGTSGGG : 503
+       ::: |  .. .|:  ...:.: .|::| || .:.:: | :|. :: :::|.:  |.|:|.||| 
+ 645 : SVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQ : 708
+
+ 504 : GGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       ||:.: ||:|| .:::|   :||:|.|: :.:: |
+ 709 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGG : 743
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 440 538 . Medex_00021391-RA 644 743 . 115 M 38 38 G 0 1 M 60 60
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 176 -> 560
+  Target range: 360 -> 749
+
+ 177 : QDTTSSHSQQSGGGGG-GGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVG : 239
+       ::.:::::  :| ||: | :|:: :|:|:| .::||    . .:::::: | .  |:  | : :
+ 361 : HGGSGGQGGSGGQGGSYGQAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGGS : 424
+
+ 240 : NGSGGAGNGGAGGNSGPGN--PMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTC : 301
+       .| .|:|:||:||::|:||  .:|: :::.|:||.  :    |..  .  |:. ||   |: ..
+ 425 : GGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQ--GGFGGYGGSGGQEGSGGLGGFGGY : 486
+
+ 302 : ESCKGFFKRTVQNKKVY--TCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGR : 363
+        ...|   .:||| . |  .. ::::.  : .   : .   :  . . |   .   ::   |: 
+ 487 : IEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSG : 550
+
+ 364 : NKFGPMYKRDRARKLQVMRQRQLALQALRNSM-GPDIKPTPISPGYQQAYPNMNIKQEIQIPQV : 426
+       .: |:  : :.: :     |   : |: ..:  |::::..: |.|   :|.... : .   .  
+ 551 : GQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGG : 614
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNG--PSSVGNGNSSNGSSN : 488
+        :   ::::  :: ::: :  : : .| :::  ::|:|: ||:| :|  .:  |:|. :..:|:
+ 615 : YGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQ : 678
+
+ 489 : GNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDS : 552
+       |. .| .| |. ||:||:  :|| ||:.:::|   :||:|. :  .:| |:  . ::| :  :|
+ 679 : GGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQG-GSGGQGGSGGQGGSGVQGGS : 741
+
+ 553 : GTHPSSTA : 560
+       |.|.:|.:
+ 742 : GGHGGSDG : 749
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 176 560 . Medex_00021391-RA 360 749 . 115 M 16 16 G 0 1 M 66 66 G 0 2 M 17 17 G 2 0 M 41 41 G 0 2 M 77 77 G 0 1 M 78 78 G 0 2 M 58 58 G 1 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 444 -> 530
+  Target range: 670 -> 759
+
+ 445 : GQVNASTGGVIATPMNAGT-GGSGGGGLNG--PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGG : 505
+       || .::: | :::. . |. |||||  ::|  .:| |:|.|:. :::|.:.:|.|:|.||| ||
+ 671 : GQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGG : 734
+
+ 506 : NNAGGGGGGTNSNDGLHRNGGNGNS : 530
+       :.. ||:|| .::||    ||:|.|
+ 735 : SGVQGGSGGHGGSDGYGGFGGQGGS : 759
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 530 . Medex_00021391-RA 670 759 . 115 M 19 19 G 0 1 M 10 10 G 0 2 M 57 57
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 30 -> 271
+  Target range: 707 -> 941
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::||::::.:.:||..:::|| :.:|:::..::. .: :::  .. .:  :::. |
+ 708 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQG-GSVGQ--SGFGGQ : 768
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        :.:. .. |.|:  ::.:   ::     | :   : :   |:.   :    : :.. :||.|:
+ 769 : GGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSG : 832
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       :.:   . ::|   .:: |:.:::::  :  || |  |.| . :::|: :|:|    : :.::|
+ 833 : GHGGQEGSGGQ--GGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGS : 894
+
+ 223 : GNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |.:| .::|: :||: |. :| :| ||.||::|.|.: || :::.::||
+ 895 : GGQG-GSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGS-GGQGGSGDQGG : 941
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 707 941 . 115 M 50 50 G 1 0 M 5 5 G 2 0 M 81 81 G 2 0 M 55 55 G 1 0 M 32 32 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 429 -> 528
+  Target range: 845 -> 943
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS : 493
+       : :.::|.:. : ::    :  ||: : . ::| ||||| | :|. : :.|::::| ::|.:.:
+ 846 : SSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGG : 908
+
+ 494 : STGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+        .| |. || ||:.::|| ||:.:::|   :||:|
+ 909 : QGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSG : 943
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 528 . Medex_00021391-RA 845 943 . 115 M 56 56 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 163 -> 271
+  Target range: 502 -> 614
+
+ 164 : YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLN-GSSGGSSAGGGYMLLPQAASSSGNNG : 226
+       |: :|    .:: ::.: :|:  :| ||:|| |.: . |:||| :::||    . .::|:|:.|
+ 503 : YHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGG : 566
+
+ 227 : NPNAGHMSSGSVGNGSGGAG-NGGAGGNSGPG--NPMGGTSATPGHGG : 271
+       :...|  :: : :.| ||:| :||:|:::|:|  ...|| :::.||||
+ 567 : SGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGG : 614
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 163 271 . Medex_00021391-RA 502 614 . 114 M 37 37 G 0 1 M 46 46 G 0 1 M 11 11 G 0 2 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 38 -> 264
+  Target range: 404 -> 629
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGG-GG- : 101
+       :||:: : .  :.| : ::||.:.:|: ..:..:....:.: |..:. . .. .   .|| || 
+ 405 : GAGSQLGFGIHGESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGY : 468
+
+ 102 : SGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIY : 164
+       :|||.|:  :. :. |.. : : |     |:    ::.   |:   . :.:..: . ::|:   
+ 469 : GGSGGQEGSGGLGGFGGYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYG--- : 530
+
+ 165 : NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN- : 228
+       . ::|  | :|| ::.:  :  : ||:|| ||:  :|:||| :::||    . .::|: :.|: 
+ 531 : GSGGQGGF-SGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSG : 592
+
+ 229 : PNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTS : 264
+       :::|  : |: |. :|::|:|| ||: |:|.. |:::
+ 593 : SHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASG : 629
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 264 . Medex_00021391-RA 404 629 . 114 M 60 60 G 0 1 M 2 2 G 0 1 M 61 61 G 3 0 M 8 8 G 1 0 M 54 54 G 0 1 M 37 37
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 30 -> 274
+  Target range: 551 -> 789
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::||::::.:.:||..:::||.:.:|: :..:.::.::::.  . |. : .: . :
+ 552 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGY--GGFGGQ-GGSGGH : 612
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        : ||  |||.|:  |. :. :::|    :     :    :| .  :|    . :.::.| .::
+ 613 : GGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPG : 676
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       | :   .|:|:  | .:| ::.:     : ||:|| ||:  :|:||| :::||    . .::|:
+ 677 : SQG---GFGSHGGF-GDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSG : 736
+
+ 223 : GNNGN-PNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVI : 274
+        :.|: .::|  : |: |. :|:.|::| ||::|.:|. . .:.. :::  |:
+ 737 : VQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVF : 789
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 274 . Medex_00021391-RA 551 789 . 114 M 49 49 G 2 0 M 6 6 G 1 0 M 73 73 G 3 0 M 8 8 G 1 0 M 54 54 G 0 1 M 47 47
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 20 -> 275
+  Target range: 612 -> 861
+
+  21 : SPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKF :  84
+       :.:: ||.   | ::::|  ||:||::: :|  .: : |.:.. :::.::.. .::::      
+ 613 : GGYGGQLGSGGQEGASGL--GGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGG : 674
+
+  85 : EHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNI : 148
+         . .::. : : |: :|||.|   :.::. |.:     |     |     | .   |      
+ 675 : PGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQ : 738
+
+ 149 : ANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGY : 212
+       :.::.: .|.:|:  :. ::  : .:|: : .:: :|:. |: . :.:: :  . |||:: |. 
+ 739 : GGSGGHGGSDGYG-GFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGET : 801
+
+ 213 : MLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+       .  .: .: .|: |:..:|  | |:. :  |::|:||..|::|.|.: :| .::.|:||. ::
+ 802 : FGHGEFVGQDGSIGHGGSG--SQGGTFSQFGSGGHGGQEGSGGQGGS-SGQEGSGGQGGSGVQ : 861
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 20 275 . Medex_00021391-RA 612 861 . 114 M 18 18 G 2 0 M 121 121 G 1 0 M 69 69 G 2 0 M 26 26 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 444 -> 535
+  Target range: 857 -> 947
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       : |::: |   : . ::|:|| ||:| :|.|: |:|.|:. :::|.:.:|.|:|. || || .:
+ 858 : SGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGSGGQGGYGGQGGYGG : 920
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEA : 535
+        ||:|| .:::|   :|::|.|: :.:
+ 921 : QGGSGGQGGSGGQGGSGDQGGSGGQGG : 947
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 535 . Medex_00021391-RA 857 947 . 114 M 32 32 G 1 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 184 -> 271
+  Target range: 866 -> 950
+
+ 185 : QQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNG : 248
+       | : || ||:||:  :|: |||:: ||    .|::|:: ..:..::|. : |: |. :|::|:|
+ 867 : QGGLGGQGGSGGQGGSGGQGGSGGQGGSG--GQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQG : 928
+
+ 249 : GAGGNSGPGNPMGGTSATPGHGG : 271
+       |:||::|:|:. ||::: .| ||
+ 929 : GSGGQGGSGDQ-GGSGGQGGCGG : 950
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 184 271 . Medex_00021391-RA 866 950 . 114 M 29 29 G 2 0 M 44 44 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 172 -> 297
+  Target range: 378 -> 506
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       .:|  : .:|::::::|| ||:||:  .||  | :  |. : |. ::: :|:. ..::|: :||
+ 379 : QAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGGSGGQNGSGHGGSGGQGGSG : 442
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMG-GTSATPGHGGEVIDFKHL--FEELCPVCGDKVSGYHYG : 297
+       : .. :: :|:||.||:||.|.  | |.|:... :|.: :|     :|.  . . :: |:||.|
+ 443 : NQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGLGGFGGYIEYEGQGGSSVQNGSSYHHG : 506
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 297 . Medex_00021391-RA 378 506 . 113 M 89 89 G 0 1 M 18 18 G 0 2 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 447 -> 536
+  Target range: 647 -> 735
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::::|:  ::. ::| || ||:| :|.::  .| :|:| : |: .:|.|: .||| ||:.: ||
+ 648 : HGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHG-GFGDYGGSGGQVISGGQGGSGGQGG : 710
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       :|| .:::|   :||:|.|: :.::
+ 711 : SGGQGGSGGQGGSGGQGGSGGQGGS : 735
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 536 . Medex_00021391-RA 647 735 . 113 M 38 38 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 422 -> 530
+  Target range: 639 -> 747
+
+ 423 : IPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGS : 486
+       ..:|:|:.::..:..:. : . |  ..:.:|  :.| :.|. || ||  : .:| |:  |:. :
+ 640 : TGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQG : 703
+
+ 487 : SNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNS : 530
+       ::|.:.:|.|:|.||| ||:.: ||:|| .:::    :||:|.|
+ 704 : GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGS : 747
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 422 530 . Medex_00021391-RA 639 747 . 113 M 108 108
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 40 -> 272
+  Target range: 690 -> 921
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       ||::::  ::| ..::: |.:.: :::..:..:.::::      .   .: . : :::| :| |
+ 691 : GGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFG : 754
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       .|    .:|. |.:  : :|::  .|:  : :.   :|    : ::. .: :  : .   . ::
+ 755 : GQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGG : 818
+
+ 169 : QYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH : 232
+           ...: : .|:     .|:|| ||::  :||:| :::|    |  |:: :: ..:..::| 
+ 819 : SGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGS : 882
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        : |: |. :|::|:||:||::|:|.. || :: .|.||:
+ 883 : GGQGGSGGQGGSGGQGGSGGQGGSGGQ-GGYGGQGGYGGQ : 921
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 272 . Medex_00021391-RA 690 921 . 113 M 219 219 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 30 -> 275
+  Target range: 719 -> 963
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::||::::...:||..:::|:. .: :::..: .::: :::  .. ::| .| .: 
+ 720 : QGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVS : 783
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        : .   : |.   :::  .||:   |:    :     |    .::    : . ..::.| .||
+ 784 : NSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSS : 847
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       : .   . ::    ..|    .:  :| ::|| ||:||:  :|: |||:: ||    . ::: :
+ 848 : GQE-GSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQG : 910
+
+ 223 : GNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+       | .|:.. |  ::::  .||||.|.:|. |.||. .. || ::.  :||.  |
+ 911 : GYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSD : 963
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 275 . Medex_00021391-RA 719 963 . 113 M 131 131 G 1 0 M 113 113
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 176 -> 271
+  Target range: 498 -> 590
+
+ 177 : QDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGN : 240
+       ::::  |:  :  |::| ||:: :|: || :::||   ::  ::|:|:.|  ::|: :||: |.
+ 499 : NGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGG--SGGQGGSGGQGG : 560
+
+ 241 : GSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ::| :|:||.||::|.|.: || :::. :||
+ 561 : SGGQGGSGGQGGSGGQGGS-GGQGGSGVQGG : 590
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 176 271 . Medex_00021391-RA 498 590 . 112 M 50 50 G 2 0 M 31 31 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 447 -> 531
+  Target range: 545 -> 628
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::::||  ::. ::|:|| ||:| :|.|: |:|.|:. :::| :.:|.::|.||| || .: ||
+ 546 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGG : 608
+
+ 512 : GGGTNSNDGLHRNGGNGNSS : 531
+       :|| .: :|   :||:..:|
+ 609 : SGGHGGYGGQLGSGGQEGAS : 628
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 531 . Medex_00021391-RA 545 628 . 112 M 29 29 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 93 -> 272
+  Target range: 731 -> 909
+
+  94 : QLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNS : 157
+       | ::|  :|||.:   ...:. |.:     |     |  : :|:|  .|:  :: :  .:| .|
+ 732 : QGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGS : 795
+
+ 158 : SSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+       :| : .:. ::::: ..|  : .:| || :. :  |:||:  :.:||| ::::|    . .::|
+ 796 : GSQGETFG-HGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGS : 858
+
+ 222 : SGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       : :.| . .| ::: : :.| ||:|. |::|. |.:.. ||::: .| ||:
+ 859 : GVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQ : 909
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 93 272 . Medex_00021391-RA 731 909 . 112 M 72 72 G 1 0 M 106 106
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 30 -> 271
+  Target range: 725 -> 966
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       | .|:.. ::| ::::.: :||:. :: |.:.:| :::. ..:.:|..:  .  ::  |: .: 
+ 726 : QGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVF : 789
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+       :. ||::: |:   |::  .::.   :     |     |    .|  |:   . :.::.| .|:
+ 790 : VDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSG : 853
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       : :   . ::    ..|  : .:| :| ::|| ||:||:  :|: |||:: ||    .  :: :
+ 854 : GQG-GSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQG : 916
+
+ 223 : GNNGN-PNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       | .|: .::|: :||: |.::: :|:||.|| :| |.|:  .::.:: |:
+ 917 : GYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSDGGS : 966
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 725 966 . 112 M 131 131 G 1 0 M 65 65 G 0 1 M 44 44
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 447 -> 528
+  Target range: 884 -> 967
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS--TGNGTSGGGGGNNAG : 509
+       ::::||  ::. ::|:|| ||:| :|. :  .| :::|:|.|:..|:  .|:|. ||:||:.: 
+ 885 : QGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGC : 948
+
+ 510 : GGGGGTNSNDGLHRNGGNG : 528
+       || ||. .::| :.:||:|
+ 949 : GGFGGPVCQGGSDSDGGSG : 967
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 528 . Medex_00021391-RA 884 967 . 112 M 47 47 G 0 2 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 177 -> 271
+  Target range: 377 -> 470
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       : ::| :: :::| :|:||   :|: ||:::  |: : .:: | :|:.|:..:|| :||: |.:
+ 378 : GQAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGGSGGQNGSGHGGSGGQGGS : 441
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :. .| |: ||::|.|.: :| :: .|.||
+ 442 : GNQEGLGDYGGSGGQGGS-SGQGGFGGYGG : 470
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 271 . Medex_00021391-RA 377 470 . 111 M 82 82 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 166 -> 272
+  Target range: 499 -> 606
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGG-GGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPN : 229
+       :| |  .:: |:.:|:|:   | || || ||:  :|: :| :::||    . .::|:|:.|:..
+ 500 : GSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGG : 563
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       .|  :: : :.| ||:|. |::|  |.:.: ||::: .| ||:
+ 564 : QGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQ : 606
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 272 . Medex_00021391-RA 499 606 . 111 M 28 28 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 444 -> 581
+  Target range: 508 -> 644
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       || .:|. |  ... . |. |::||  . ::  |:|. :.::::|.:.: .|:|. ||:||:.:
+ 509 : GQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGG : 572
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVSPM : 572
+       :|| ||:.:::|   :||:|: :  .:| |:: . ::|    : |.: :|.::.  ..|  |: 
+ 573 : SGGQGGSGGQGGSGVQGGSGSHG-GSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSS : 635
+
+ 573 : IREFVQSID : 581
+        :.|.  ::
+ 636 : QHGFTGHVG : 644
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 581 . Medex_00021391-RA 508 644 . 111 M 87 87 G 1 0 M 49 49
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 30 -> 271
+  Target range: 509 -> 749
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       |:.||.  :: |::: .: :||..::: :. .:|:::..:..:.:::::  :  : . .: .  
+ 510 : QHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS : 573
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        : ||::| |.   ::. ::||.         |     :    .:     |:. :. :.  :||
+ 574 : GGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGG--SSS : 635
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+        .::. : :|    .:| |:.::.::  :| ||:|| ||.  :|: |: :: |:|   . .. |
+ 636 : QHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVIS : 699
+
+ 222 : SGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|:.|:...|  :: : :.| ||:|. |::|. |.:.  ||::: .| :|
+ 700 : GGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDG : 749
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00021391-RA 509 749 . 111 M 123 123 G 2 0 M 33 33 G 0 1 M 83 83
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 447 -> 538
+  Target range: 818 -> 908
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::| ||.::   ::| || .|:| :|.||  :|::::|:| | :.: . :|. || ||:.: ||
+ 819 : SGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGS-GVQGGLGVQGGLGGQGGSGGQGG : 881
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       :|| .:::|   :||:|.|: :.:: |
+ 882 : SGGQGGSGGQGGSGGQGGSGGQGGSGG : 908
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 538 . Medex_00021391-RA 818 908 . 111 M 40 40 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 447 -> 546
+  Target range: 842 -> 943
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS--TGNGTSGGGGGNNAG : 509
+       :::::|  ::. ::|:|  || |::|. :  .|::::|:|.|:..|:  .|:|. ||:||:.::
+ 843 : QGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGS : 906
+
+ 510 : GGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+       || || .:::|   :||:|. :  .:  || ::.:.:
+ 907 : GGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSG : 943
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 546 . Medex_00021391-RA 842 943 . 111 M 47 47 G 0 2 M 52 52
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 45 -> 308
+  Target range: 790 -> 1050
+
+   46 : NNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQ :  107
+        ::::|||:.:: : .:  : ..: .:..::::: .:::|.   .:.. | ::|| :||:.|:
+  791 : DQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGS--GGHGGQEGSGGQGGSSGQE :  850
+
+  108 : HHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQ :  169
+          :.::. | :     |     |     | .   |    . :.::.| .|:: :   . :: 
+  851 : GSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQG-GSGGQGG :  911
+
+  170 : YIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAG :  231
+        |  ..|| : .:| :| ::|| ||:|::  :|: ||.:: || :  . :.|.:|:. :.. |
+  912 : YGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSDGGSGCQGGLG :  973
+
+  232 : HMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSG :  293
+          ::::: . ::| |.:|  |.||  :.  :.:.|  :||.  :     : : .| |:. :.
+  974 : GHGGSGIHGRPAGHGGSGIHGGSGVQDGSVAIGETVVQGGSGGQGGSGDQRVPGVQGGSGGP : 1035
+
+  294 : YHYGLLTCESCKGFF :  308
+          :|  . .:...||
+ 1036 : DGFGAQGGATSSPFF : 1050
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 45 308 . Medex_00021391-RA 790 1050 . 111 M 41 41 G 2 0 M 73 73 G 1 0 M 146 146
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 447 -> 528
+  Target range: 533 -> 613
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::: :|  ::. ::|:|| ||:| :|.|: |:|.|:. :::|.:.:|.|:|.||  ||:.: ||
+ 534 : QGGFSGYGGSGGQGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGG : 596
+
+ 512 : GGGTNSNDGLHRNGGNG : 528
+       :|| .: :|   :||:|
+ 597 : SGGYGGFGGQGGSGGHG : 613
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 528 . Medex_00021391-RA 533 613 . 110 M 29 29 G 1 0 M 51 51
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 448 -> 528
+  Target range: 540 -> 622
+
+ 449 : ASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS--TGNGTSGGGGGNNAGG : 510
+       :::||  ::. ::|:|| ||:| :|.|:  .|::::|:|.|:..|:  .|:|: ||:|| .: |
+ 541 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFG : 604
+
+ 511 : GGGGTNSNDGLHRNGGNG : 528
+       | ||:.:::|   : |:|
+ 605 : GQGGSGGHGGYGGQLGSG : 622
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 448 528 . Medex_00021391-RA 540 622 . 110 M 46 46 G 0 2 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 172 -> 272
+  Target range: 575 -> 678
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGY--MLLPQAASSSGNNGNPNAGHMS : 234
+       ..|  : .:|  | ::|: ||:||    |: |||:: |||   | : :..:::. |.::: |  
+ 576 : QGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGF : 639
+
+ 235 : SGSVGN-GSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       :| ||: | ||:|: |::|: |. .. ||::: .|.|::
+ 640 : TGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQ : 678
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 272 . Medex_00021391-RA 575 678 . 110 M 40 40 G 0 2 M 28 28 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 172 -> 272
+  Target range: 583 -> 684
+
+ 173 : PTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG-NPNAGHMS : 234
+       .:| |:.::||:  :| || || ||:  :|: ||  ::||    :  ::||:::| ..:.| ::
+ 584 : GSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVG : 647
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        |: |: :|::::|| ||::|:|.. ||.:: .| |::
+ 648 : HGGSGDQGGSGDQGGLGGQGGSGGQ-GGPGSQGGFGSH : 684
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 272 . Medex_00021391-RA 583 684 . 110 M 16 16 G 0 1 M 38 38 G 0 1 M 33 33 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 40 -> 271
+  Target range: 687 -> 917
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       |: :::.:.  |..:::||.:.:|:::..:..:.:::::  :  : . .. .   : ||:.| |
+ 688 : GDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYG : 751
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       .   ::.  .::.   |  : :|::   |:  :..    :| . ::::: |. :  .:: : :|
+ 752 : GFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHG--EFVGQDGS : 813
+
+ 169 : QYIFPTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAG : 231
+           .:| |:.| |:   :| || .|:||:  ::: .||:: ||  : .  :  :| .|:..:|
+ 814 : IGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSG : 877
+
+ 232 : HMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+         ::::  .||||.|.:|: |.||. .. || :: .|:||
+ 878 : GQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGG : 917
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 271 . Medex_00021391-RA 687 917 . 110 M 118 118 G 2 0 M 28 28 G 0 1 M 83 83
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 26 -> 272
+  Target range: 697 -> 933
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       :.  | .|:.. ::||::::.:.:||..:::||.:.:|: :..:..:.::|:.  . |. : .:
+ 698 : ISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGY--GGFGGQ-GG : 758
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+        . | : || :|::||:: :.:.  .:..   :|     | :   : |   |:   . :.:::|
+ 759 : SVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQ : 822
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQA : 218
+        .: |    :. :::   ..|  : .:| :|:::|| ||:| :   |  || :: ||    . :
+ 823 : GGTFS---QFGSGGH-GGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGS : 882
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       :: :|:.|:..:|  : |: |. :|::|:|| ||::| |.. ||::: .| ||:
+ 883 : GGQGGSGGQGGSG--GQGGSGGQGGSGGQGGYGGQGGYGGQ-GGSGGQGGSGGQ : 933
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 272 . Medex_00021391-RA 697 933 . 110 M 53 53 G 2 0 M 6 6 G 1 0 M 71 71 G 3 0 M 7 7 G 1 0 M 61 61 G 2 0 M 26 26 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 447 -> 536
+  Target range: 878 -> 966
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       ::::||  ::. ::|:|| ||:| :|.|: |:|. :. :: |.:.:|.|:|.||| ||:.. ||
+ 879 : QGGSGGQGGSGGQGGSGGQGGSGGQGGSG-GQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGG : 941
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       :|| .: :|:  .  :|.|..:.::
+ 942 : SGGQGGCGGFGGPVCQGGSDSDGGS : 966
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 536 . Medex_00021391-RA 878 966 . 110 M 29 29 G 1 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 172 -> 301
+  Target range: 1136 -> 1266
+
+  173 : PTGYQDTTSSHSQQSGGGGGGGGGNL-LNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHM :  233
+        .:|::: . |: | :| |.::| |.:  :|| || :| ||.  :. .:: :|:.| ...| :
+ 1137 : QAGFNGQDISNFQMGGQGESDGQGGFGSHGSVGGQGAVGGHGGVGGQGGVGGQGGVGGQGGV : 1198
+
+  234 : -SSGSVGNGSGGAGNGGAGGNSGPGNPMG-GTSATPGHGGEVIDFKHLFEELCPVCGDKVSG :  293
+         :.|:| . :|  ::||.||::| ... | |. .  || ..  :  :: ..  ..|::| :|
+ 1199 : CGKGGVCGQGGVCSQGGVGGQGGENGHAGCGEQVCIGHQEGFSGQGQM-GGQDGTCSQKGTG : 1259
+
+  294 : YHYGLLTC :  301
+        |  |: .|
+ 1260 : Y-LGIRPC : 1266
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 301 . Medex_00021391-RA 1136 1266 . 110 M 26 26 G 0 1 M 35 35 G 0 1 M 28 28 G 0 1 M 18 18 G 1 0 M 14 14 G 1 0 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 447 -> 528
+  Target range: 518 -> 598
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       :.: ||: : . ::| || :| | :|. : :.|::::| ::|.:.: .|:|. ||:||:.::||
+ 519 : SVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSG-GQGGSGGQGGSGGQGGSGGQGGSGG : 581
+
+ 512 : GGGTNSNDGLHRNGGNG : 528
+        ||:. ::|  .:||:|
+ 582 : QGGSGVQGGSGSHGGSG : 598
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 528 . Medex_00021391-RA 518 598 . 109 M 38 38 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 173 -> 272
+  Target range: 525 -> 624
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN-PNAGHMSSG : 236
+       .|| ::.:  :  : ||:|| ||:  :|:||| :::||    . .::|:|:.|: .::|    |
+ 526 : GGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQG : 589
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       : |: :|::| || ||::|:|.. || ::  | ||:
+ 590 : GSGSHGGSGGYGGFGGQGGSGGH-GGYGGQLGSGGQ : 624
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 272 . Medex_00021391-RA 525 624 . 109 M 54 54 G 0 1 M 32 32 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 444 -> 529
+  Target range: 604 -> 689
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSS-VGNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       || .::. |  :..:.:| | .|::||.|:||  | ..  .: ::|.:.. .|:|. || ||:.
+ 605 : GQGGSGGHGGYGGQLGSG-GQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQG : 667
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGN : 529
+       ::|| ||..|::|: .:|| |:
+ 668 : GSGGQGGPGSQGGFGSHGGFGD : 689
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 529 . Medex_00021391-RA 604 689 . 109 M 18 18 G 1 0 M 13 13 G 0 1 M 53 53
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 174 -> 271
+  Target range: 802 -> 899
+
+ 175 : GYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSV : 238
+       |. : .: ::  : ||:|: ||.: : :||| :: .|    . ::: .|:.|:..:|  :: :|
+ 803 : GHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGV : 866
+
+ 239 : GNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+        .| ||.|.:|: |.||. .. || :::.|:||
+ 867 : QGGLGGQGGSGGQGGSGGQGGSGGQGGSGGQGG : 899
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 174 271 . Medex_00021391-RA 802 899 . 109 M 97 97
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00016156-RA
+         Model: affine:local:protein2protein
+     Raw score: 337
+   Query range: 273 -> 352
+  Target range: 223 -> 302
+
+ 274 : IDFKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCP : 337
+       |. ::|::. ||:||||:||:|||:::||||||||||||||:| |.|: ..||.:. : ||:||
+ 224 : ISRQQLINSPCPICGDKISGFHYGIFSCESCKGFFKRTVQNRKNYVCLRGSSCPVTIATRKKCP : 287
+
+ 338 : YCRFQKCLEVGMKLE : 352
+        |||:|||.:|||||
+ 288 : ACRFEKCLKMGMKLE : 302
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 273 352 . Medex_00016156-RA 223 302 . 337 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 174
+   Query range: 173 -> 519
+  Target range: 30 -> 373
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGS : 237
+       |.: ...:| :    | ..:| :   ..||: :::|||::  .:::: :| .|.:. |   :|:
+  31 : TTFTKVVASLAVLVHGRPEAGYSYPSPPSSSYGTPGGGFIGGGHGGGIGGIGGGSGLGGGFGGG :  94
+
+ 238 : VGNGSGGAGNG-GAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLT : 300
+        |.| || |.| | ||. |.|.  || ::.:| ||.  : : : ..: . .|   :|:  |  .
+  95 : HGGGIGGIGGGSGLGGGFGGGALSGGFGGGSGIGGGFGGGNGIGGGFGGGSG-IGGGFGGGAGG : 157
+
+ 301 : CESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRN : 364
+        .   ||    : .|.:|. || ..    ..:| | .: . |:      |:  ::|   ... .
+ 158 : GGFGGGFGGGQLVTKHIYVHVAPPE---PEDNRPRPTFAPAQN--RKHYKIVFIKAPTPPTPTA : 216
+
+ 365 : KFGPMYKRDRARKLQ-VMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVS : 427
+          |  .:|:.:.|  |: ::. . ..|  : .: .:|:  .  : :  .:.::. .:  . .:
+ 217 : AAIPPLSQDQEKTLIYVLVKKPEEAPELTIPTPAPTQPSKPEVYFIRYKTQKQVSGGVGGGIAG : 280
+
+ 428 : SLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNN : 491
+       ::. : :.:. . :|: | :: :..|: :|.:.:|:| :||:|:.|. : | |. :.| :.|:.
+ 281 : GIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHG : 344
+
+ 492 : NS-STGNGTSGGGGGNNAGGGGGGTNSND : 519
+       .: :.|:|.|||:|| ::: | .|:.:::
+ 345 : GGIGGGHGGSGGSGGVSTAYGVPGAGGSG : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 519 . Medex_00070654-RA 30 373 . 174 M 75 75 G 0 1 M 40 40 G 1 0 M 36 36 G 3 0 M 15 15 G 2 0 M 34 34 G 0 1 M 114 114 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 155 -> 480
+  Target range: 47 -> 373
+
+ 156 : NSSSYSYIYNFDSQYIFP-TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQA : 218
+       ..::|||  . .| |  | .|: :.. : :  : |||:| ||.: .| :|| :: ||   |. :
+  48 : PEAGYSYPSPPSSSYGTPGGGFIGGGHGGGIGGIGGGSGLGGGFGGGHGGGIGGIGGGSGLGGG : 111
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSG-GAGNGGAGGNSGP-GNPMGGTSATPGHGGEVIDFKHLF : 280
+        :::: :|. .:|   :|: |.|:| |:| ||::| :|. |.. ||.: ..| ||. :  ||::
+ 112 : FGGGALSGGFGGGSGIGGGFGGGNGIGGGFGGGSGIGGGFGGGAGGGGFGGGFGGGQLVTKHIY : 175
+
+ 281 : EELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKC : 344
+        :: |  .:. .. : .: . :: | :    ::. .  | .|.   .:.:.| |   |   :| 
+ 176 : VHVAPPEPEDNRP-RPTFAPAQNRKHYKIVFIKAPTPPTPTAAAIPPLSQDQEKTLIYVLVKKP : 238
+
+ 345 : LEVGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLAL-QAL-RNSMGPDIKPTPISP : 406
+        |..    :..|   .: .: :  .|| ::. .  |    . ::  :|  .::|.:| ...:. 
+ 239 : EEAPELTIPTPAPTQPSKPEVYFIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDI : 302
+
+ 407 : GYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGG : 470
+       |   : .. .|  .  |.  |::. :.::: :.|: ::|  ::  ||: :.. .:|.:|: :.:
+ 303 : G-GTGIGGTGIGGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHG--GGIGGGHGGSGGSGGVSTA : 363
+
+ 471 : LNGPSSVGNG : 480
+        . |:: |:|
+ 364 : YGVPGAGGSG : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 155 480 . Medex_00070654-RA 47 373 . 135 M 18 18 G 0 1 M 70 70 G 0 1 M 13 13 G 0 1 M 37 37 G 1 0 M 94 94 G 0 1 M 3 3 G 0 1 M 16 16 G 1 0 M 41 41 G 2 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 377 -> 528
+  Target range: 221 -> 373
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIA : 441
+       |   ::: |    :::: .:   ..|.::. |.: |:: : :     |||:    .:: ::.|:
+ 222 : LSQDQEKTLIYVLVKKPEEAPELTIPTPAPTQPSKPEVYFIRYKTQKQVSG--GVGGGIAGGIG : 283
+
+ 442 : IALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGN---SSNGSSNGNNNSSTGNGTSGG : 502
+        :||: .: .||: :..:: |..| ||.|:.|.|::|.|:   :::|:: |. .::.|.| :||
+ 284 : GGLGD-GGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHGGG : 346
+
+ 503 : -GGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+        |||:.::||:||.::. |:. .||:|
+ 347 : IGGGHGGSGGSGGVSTAYGVPGAGGSG : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 528 . Medex_00070654-RA 221 373 . 135 M 51 51 G 2 0 M 16 16 G 1 0 M 34 34 G 0 3 M 21 21 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 170 -> 276
+  Target range: 258 -> 364
+
+ 171 : IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       :: . |:. .   :  :|| :|| ||.| :|: ||: :|||  : . : :::| .|.:. |  |
+ 259 : VYFIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGS : 322
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       : : |:|:| :| ||: |.: .|.  || :::.| ||  ..:
+ 323 : GIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGGSGGVSTAY : 364
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 170 276 . Medex_00070654-RA 258 364 . 134 M 106 106
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 366 -> 540
+  Target range: 181 -> 360
+
+ 367 : GPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMN---IKQEIQIPQVS : 427
+       .|  :| |:   .. .:::  :  ::.: .|. .:::|:|  |:.  .:    :|:  : |:::
+ 182 : EPEDNRPRPTFAPAQNRKHYKIVFIKAPTPPTPTAAAIPPLSQDQEKTLIYVLVKKPEEAPELT : 245
+
+ 428 : SLTQSPDSSPSP-IAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+         |.:|. ::.| : :   :.:  .:| ::..:.:|.||: |:|  |.:  |.| . .|:: |.
+ 246 : IPTPAPTQPSKPEVYFIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGG : 309
+
+ 491 : NNSSTGNGTSGGGG-GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSL : 540
+       .. :.|:|.:||:| |.. ||| ||..:. |  :.|| |.:   .:| |::
+ 310 : TGIGGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGGSGGV : 360
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 366 540 . Medex_00070654-RA 181 360 . 132 M 50 50 G 0 3 M 23 23 G 0 1 M 65 65 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 445 -> 531
+  Target range: 268 -> 355
+
+ 446 : QVNASTGGVIATPMNAGTGGSG-GGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       ||:::.|| ||..:.:| |::| |||:.|.:   .|.: .|:: |..:: .|.:. ||| |.. 
+ 269 : QVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGGGI : 332
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSS : 531
+       || |||..:.:|   .||:|.|:
+ 333 : GGIGGGIGGGHGGGIGGGHGGSG : 355
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 445 531 . Medex_00070654-RA 268 355 . 127 M 22 22 G 0 1 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 412 -> 520
+  Target range: 250 -> 356
+
+ 413 : PNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSS : 476
+       |. . |.|: : : .: .| ::: .:.|| ::|  .: .:| |:..:.:|. : ||.|:.|.: 
+ 251 : PTQPSKPEVYFIRYKTQKQVSGGVGGGIAGGIG--GGLGDGGIGGGIGGGGLDIGGTGIGGTGI : 312
+
+ 477 : VGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDG : 520
+        |.:. :.||: |..:::. .|.:|| ||.::|| ||| .:::|
+ 313 : GGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGG : 356
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 412 520 . Medex_00070654-RA 250 356 . 119 M 33 33 G 2 0 M 73 73
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 166 -> 268
+  Target range: 48 -> 149
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA : 230
+       :: | :|:.   .:||.: .:||  ||| |. :.| :|||: |||:   . :: :: ..|:. :
+  49 : EAGYSYPSP---PSSSYGTPGGGFIGGGHGGGIGGIGGGSGLGGGFGGGHGGGIGGIGGGSGLG : 109
+
+ 231 : GHMSSGSVGNG-SGGAGNGGA-GGNSGPGNPMGGTSATPG : 268
+       | .::|:::.| :||:| ||: ||.:| |...||.|:..|
+ 110 : GGFGGGALSGGFGGGSGIGGGFGGGNGIGGGFGGGSGIGG : 149
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 268 . Medex_00070654-RA 48 149 . 118 M 9 9 G 3 0 M 63 63 G 0 1 M 9 9 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 163 -> 271
+  Target range: 51 -> 162
+
+ 164 : YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN : 227
+       |:: |.   : | .:..   : ::|| || |||: |.|: ||: :||   : . :: ::| .|.
+  52 : YSYPSPPSSSYGTPGGGFIGGGHGGGIGGIGGGSGLGGGFGGGHGGGIGGIGGGSGLGGGFGGG : 115
+
+ 228 : PNAGHMSSGS-VGNG-SGGAGNGGA-GGNSGPGNPMGGTSATPGHGG : 271
+       : :| .::|| :|.| :||.| ||: ||.|| |...||.::..| ||
+ 116 : ALSGGFGGGSGIGGGFGGGNGIGGGFGGGSGIGGGFGGGAGGGGFGG : 162
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 163 271 . Medex_00070654-RA 51 162 . 118 M 74 74 G 0 1 M 4 4 G 0 1 M 9 9 G 0 1 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 400 -> 546
+  Target range: 208 -> 356
+
+ 401 : PTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGV--IATPMNAG : 462
+       ||| :|. ..| |.:: .||  :  :  |.:.|:.:|. .  : :..::|...|  |    :  
+ 209 : PTPPTPT-AAAIPPLSQDQEKTL--IYVLVKKPEEAPELTIPTPAPTQPSKPEVYFIRYKTQKQ : 269
+
+ 463 : TGGSGGGGLNGPSSVGNGNSSNGSSNGN---NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHR : 523
+       .:|: |||:.|. : | |::: |:: |.   : ::|| |.:| |||:. |||:| ..:::|   
+ 270 : VSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGGGIG : 333
+
+ 524 : NGGNGNSSCHEAGIGSLQNTADS : 546
+       . |.| :: |.:|||: :..:::
+ 334 : GIGGGIGGGHGGGIGGGHGGSGG : 356
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 400 546 . Medex_00070654-RA 208 356 . 118 M 7 7 G 1 0 M 15 15 G 2 0 M 29 29 G 0 2 M 36 36 G 0 3 M 56 56
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 399 -> 515
+  Target range: 247 -> 362
+
+ 400 : KPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGT : 463
+       .|:|. |: .:.|  :. | : |::   : . :.: :.:  . ::|   ::.|  |:..  :||
+ 248 : TPAPTQPSKPEVY-FIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGT : 310
+
+ 464 : GGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGT : 515
+       | :||:|:.|.|::|.|:::. :: |.. ::. .|. ||| |.::|:|| :|
+ 311 : GIGGGSGIGGGSGIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGGSGGVST : 362
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 399 515 . Medex_00070654-RA 247 362 . 117 M 13 13 G 1 0 M 102 102
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 444 -> 539
+  Target range: 271 -> 368
+
+ 445 : GQVNASTGGVIATPMNAG--TGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       | |.::.:| |:..:..|  .|| |||||: .::  .|.: .|:|. ...|:.|.| :|| || 
+ 272 : GGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGGGIGGI : 335
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .:| ||| ..: :| | .:|.:.: . . |:.:
+ 336 : GGGIGGGHGGGIGGGHGGSGGSGGVSTAYGVPG : 368
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00070654-RA 271 368 . 117 M 18 18 G 0 2 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 403 -> 601
+  Target range: 1 -> 203
+
+ 404 : ISPGYQ-QAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGS : 466
+       |. .:: : : ::::. : :|  ||:   :. :.  :   .| : .:.:|   ::| ::: |.:
+   2 : IRKEFEVRHFEDLKLDINKKIVFVSNRRLTTFTKVVASLAVLVHGRPEAGYSYPSPPSSSYGTP :  65
+
+ 467 : GGGGLNGPSSVGNGNSSNGSS-NGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGN : 529
+       ||| :.|. : | |. :.||: .|. .:: |.|.:| |||:. ||| ||.. ::|:  .:| |.
+  66 : GGGFIGGGHGGGIGGIGGGSGLGGGFGGGHGGGIGGIGGGSGLGGGFGGGALSGGFGGGSGIGG : 129
+
+ 530 : SSCHEAGI-GSLQNTADSKLCFDSGTHPSSTADAL-IEPLRVSPMIREFVQSIDDREWQTQLFA : 591
+       :   ..|| |:: ..::    |::|: .:: ::::  ..| ...:  : ..:  : ::. . ||
+ 130 : GFGGGNGIGGGFGGGSGIGGGFGGGAGGGGFGGGFGGGQLVTKHIYVHVAPPEPEDNRPRPTFA : 193
+
+ 592 : LLQKQTYNQV : 601
+         |::.. ::
+ 194 : PAQNRKHYKI : 203
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 403 601 . Medex_00070654-RA 1 203 . 116 M 6 6 G 0 1 M 78 78 G 0 1 M 50 50 G 0 1 M 26 26 G 0 1 M 38 38
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 172 -> 271
+  Target range: 256 -> 356
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGG-GYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |. |    .::.| ||| ||| :|.: .| ::|: :|| |   |  :::: |..| ..:: :::
+ 257 : PEVYFIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGG : 320
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ||  .|: |:| || ||. |.|:. | .:: .| ||
+ 321 : GSGIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGG : 356
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00070654-RA 256 356 . 116 M 38 38 G 0 1 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 373 -> 567
+  Target range: 25 -> 222
+
+ 374 : RARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSP : 437
+       ..|:| .. :   :|..| ::.. .  : | :|:   : |. .:  . : . ::::. ::: :.
+  26 : SNRRLTTFTKVVASLAVLVHGRPEAGYSYPSPPSSSYGTPGGGFIGGGHGGGIGGIGGGSGLGG :  89
+
+ 438 : SPIAIALGQVNASTGG-VIATPMNAGTGGSG-GGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGT : 499
+       :  :   | :.: .||  ::....:|: ::| ||| . .:: |.||: .|: .|.:. :.| |.
+  90 : GFGGGHGGGIGGIGGGSGLGGGFGGGALSGGFGGGSGIGGGFGGGNGIGGGFGGGSGIGGGFGG : 153
+
+ 500 : SGGGGGNNAG-GGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       ::|||| .:| |||  ...:  :| ...:.:.: . :.::: ||  : |: | .:. |::.:.|
+ 154 : GAGGGGFGGGFGGGQLVTKHIYVHVAPPEPEDNRPRPTFAPAQNRKHYKIVFIKAPTPPTPTAA : 217
+
+ 563 : LIEPL : 567
+        | ||
+ 218 : AIPPL : 222
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 373 567 . Medex_00070654-RA 25 222 . 113 M 80 80 G 0 1 M 14 14 G 0 1 M 42 42 G 0 1 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00098561-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 36 -> 282
+  Target range: 27 -> 268
+
+  37 : ALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGG : 100
+       .:..:: :: :::|..:...|::.: .  :..::::::::: :| :. ..: :| .: |:::: 
+  28 : NIVNAAVGGYHSSSPRSTAEAGSGEMKYMPPTQHHHHHHHHHQVPSSPSPNGHAVPVSLSAAAH :  91
+
+ 101 : SGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIY : 164
+       :.  : |. |. .. :.  .| : : ::.::|::.:|.. : :...:::.  :. .:::.    
+  92 : NPWVSLQPGSGADPWAASMAQMHSHSHHAHHHHHPHQGP-DIKPPADVSAMHHPRAAPPHQ--- : 152
+
+ 165 : NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLL-NGSSGGSSAGGGYMLLPQAASSSGNNGN : 227
+         ::    | :.:... | ::  .::|.|||:.|  ::|::::  ::   :|:: :::  :.: 
+ 153 : --QPGMASPHSWHAPVVSSAHYIPASGNGGGSPLQPHASPAAAYHAAMNGMLAHHGGGQLHPSL : 213
+
+ 228 : PNAGHMSSGSVGNGSGGAGNGGAGGNSGP--GNPMGGTSATPGHGGEVIDFKHLFEE : 282
+       .:  : |:::: :|: |:::|.: |:::|  |:| |....||. :::: .| . |.:
+ 214 : RDLHNHSPSPL-HGPHGPSHGPPHGHPDPSRGDPSGPEEDTPT-SDDLEAFAKQFKQ : 268
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 36 282 . Medex_00098561-RA 27 268 . 103 M 103 103 G 1 0 M 21 21 G 5 0 M 33 33 G 0 1 M 39 39 G 1 0 M 17 17 G 0 2 M 12 12 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 33 -> 271
+  Target range: 249 -> 489
+
+  34 : SSPALAAGGNSSNNAASGSNNNSAS--GNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQL :  95
+       : |: |.||:. .|:::| :.:::|  |... ::::.: ..|.: .: ||:  . . .| :   
+ 250 : GVPTGANGGSDLRNGGAGFSGSPSSLYGAPGFGATDAEVAGNGGYSSAVLSG-ATGNGALAGGY : 312
+
+  96 : AGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN-QFNSS : 158
+       :.|::.:::: . : : | : :: :  .:  : : :: : .|. |: : .:.  : .: : : :
+ 313 : SNGAADDGSSGPAQYEFSYDVSDAETGAEFGHSESRDGDVAQGSYNVRLPDGRKQIVDYEADQG : 376
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGG-GGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+       ::.   .::|:  :|.:  :.. | :..:|.|.|| .:|.  ..::|| |:||.    . : : 
+ 377 : GFKPEIRYESEGGYPGANGNGGYSSGAPGGNGNGGYPSGGPAGNGNGGYSSGGPADNGNGGYTL : 440
+
+ 222 : SGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|..:|.|:|. |:|..|||:|| ::||: ||::.| | ||  | .|:||
+ 441 : GGRAANGNGGYPSGGRAGNGNGGYSSGGPVGNGSGGYPSGG-QARNGNGG : 489
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 33 271 . Medex_00063014-RA 249 489 . 135 M 25 25 G 0 2 M 25 25 G 1 0 M 69 69 G 0 1 M 40 40 G 0 1 M 69 69 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 40 -> 277
+  Target range: 281 -> 512
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       |:..:: |::|: :::. :..|:::: ... :|...|.   .  :.|: :|.:  .:..|:. |
+ 282 : GATDAEVAGNGGYSSAVLSGATGNGALAGGYSNGAADDGSSGPAQYEF-SYDVS-DAETGAEFG : 343
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSY-IYNFD : 167
+       : : :..: .:|:.: : .: ::|  :.:.:| .  .: : :: :. :.. .:::||    . :
+ 344 : HSESRDGDVAQGSYNVRLPDGRKQIVDYEADQGGFKPEIRYESEGGYPGANGNGGYSSGAPGGN : 407
+
+ 168 : SQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAG : 231
+       ::  :|:| ....:: :  |||.::.|.|.   |:. ::::.|||   : : :::||.| :::|
+ 408 : GNGGYPSGGPAGNGNGGYSSGGPADNGNGGYTLGGR-AANGNGGYP--SGGRAGNGNGGYSSGG : 468
+
+ 232 : HMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFK : 277
+       .:::|| | .|||.:..|.||   |:..:||.:: |::|.. |:::
+ 469 : PVGNGSGGYPSGGQARNGNGGY--PSGGLGGIGGYPSDGNGGIGIQ : 512
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 277 . Medex_00063014-RA 281 512 . 133 M 48 48 G 1 0 M 5 5 G 1 0 M 67 67 G 0 1 M 41 41 G 1 0 M 9 9 G 2 0 M 38 38 G 2 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 171 -> 276
+  Target range: 398 -> 501
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :::| .:..:: : .|||.:|.|.|.  :|:::: ::.||| | .:||  :||.| |::|: ::
+ 399 : YSSGAPGGNGNGGYPSGGPAGNGNGGYSSGGPAD-NGNGGYTLGGRAA--NGNGGYPSGGRAGN : 459
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG-GEVIDF : 276
+       |: | :|||: ..|:|| ::.|::..|.:: |: | |.: ::
+ 460 : GNGGYSSGGPVGNGSGGYPSGGQARNGNGGYPSGGLGGIGGY : 501
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 276 . Medex_00063014-RA 398 501 . 130 M 34 34 G 1 0 M 13 13 G 2 0 M 49 49 G 0 1 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 164 -> 562
+  Target range: 150 -> 547
+
+ 165 : NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNP : 228
+       .:::.   ..|:.:. :: |.... |:. |||: :..:..|:|:.:.|   |::::|: .|:..
+ 151 : TYGAPIGGGNGFANGRNGVSPPRTYGAPIGGGSGFGNGRNGGSPPSTYG-APNGGGSGFGNSRN : 213
+
+ 229 : NAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVS : 292
+       .::. |: ::.|| ||:.||:: | : :: : ::| :.|. :..  |:::  ..:..  :.  :
+ 214 : GGSPSSTYGIPNGFGGGNNGAGRGFTVASVAPSSTYGVPTGANGGSDLRNGGAGFSGSPSSLYG : 277
+
+ 293 : GYHYGLLTCE-SCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVR : 355
+       :  :|  . | : :| :..:| :  . . . . :.  : ::  ...  ::: . :|:   :|  
+ 278 : APGFGATDAEVAGNGGYSSAVLSGATGNGALAGGYSNGAADDGSSGPAQYEFSYDVS---DAET : 338
+
+ 356 : ADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQ : 419
+       :. .  : :: | : : . . :|.  |:: :. :| :.:. |:|: .: ..||. | .| . . 
+ 339 : GAEFGHSESRDGDVAQGSYNVRLPDGRKQIVDYEADQGGFKPEIRYES-EGGYPGANGNGGYSS : 401
+
+ 420 : EIQIPQVSS--LTQSPDSSPSPIAIALGQVNASTGG-VIATPMNAGTGGSGGGGLNGPSSVGNG : 480
+       . . .: ::   : :|.::.:.   : |..:.:.|| .::.. ..|.|| .:|| .|.:: | :
+ 402 : GAPGGNGNGGYPSGGPAGNGNGGYSSGGPADNGNGGYTLGGRAANGNGGYPSGGRAGNGNGGYS : 465
+
+ 481 : NSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTA : 544
+       :::. ::.:.. :|.|:: :|.|| .::| || |. ::||    | ::::|  ..| |.  ::|
+ 466 : SGGPVGNGSGGYPSGGQARNGNGGYPSGGLGGIGGYPSDGNGGIGIQSQGSGLSNGNGRSSSSA : 529
+
+ 545 : DSKLCFDSGTHPSSTADA : 562
+       ::   :.||: .:: :::
+ 530 : GAGNGYSSGSIGNGQGHS : 547
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 164 562 . Medex_00063014-RA 150 547 . 128 M 49 49 G 1 0 M 88 88 G 0 1 M 46 46 G 3 0 M 52 52 G 1 0 M 24 24 G 0 2 M 25 25 G 0 1 M 109 109
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 163 -> 270
+  Target range: 377 -> 481
+
+ 164 : YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN : 227
+       :: : :|   .||.::.:: :  ||:.||.|.|.  :|:::| ::.|||   : :::.:||.| 
+ 378 : FKPEIRYESEGGYPGANGNGGYSSGAPGGNGNGGYPSGGPAG-NGNGGYS--SGGPADNGNGGY : 438
+
+ 228 : PNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       . :|: ::|: | .||| :..|.|| |:.|.  .|::: |: |
+ 439 : TLGGRAANGNGGYPSGGRAGNGNGGYSSGGPVGNGSGGYPSGG : 481
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 163 270 . Medex_00063014-RA 377 481 . 124 M 42 42 G 1 0 M 7 7 G 2 0 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 156 -> 536
+  Target range: 146 -> 531
+
+ 157 : SSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+       |:| :|  .:::   |:.| ::.:::::  :. |||:| ||  ||:|..|: |:.    . : :
+ 147 : SPSSTYGAPIGGGNGFANGRNGVSPPRTYGAPIGGGSGFGNGRNGGSPPSTYGAPNG-GGSGFG : 209
+
+ 221 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELC : 284
+       :| |.|:|::..  :.: |.|:.|||.| : :: :|::. | .:::.| |::: :    |.. .
+ 210 : NSRNGGSPSSTYGIPNGFGGGNNGAGRGFTVASVAPSSTYGVPTGANG-GSDLRNGGAGFSG-S : 271
+
+ 285 : PVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAE--RSCHIDKTQRKRCPY-CRFQKC- : 345
+       | .   .:|:  .  . .:  |: . .: . .  . :|.  .:   |.. . . .|  .:: . 
+ 272 : PSSLYGAPGFGATDAEVAGNGGYSSAVLSGATGNGALAGGYSNGAADDGSSGPAQYEFSYDVSD : 335
+
+ 346 : LEVGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGY : 408
+        |.| .:.   :     ::..:. .   :| : ::   ::    ..:| . ..:  .:. :.||
+ 336 : AETGAEFGHSESRDGDVAQGSYNVRLPDGRKQIVDYEADQGGFKPEIRYESEGGYPGANGNGGY : 399
+
+ 409 : QQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALG--QVNASTGGVIATPMNAGTGGSGGGG : 470
+         : |. | : . . .  :: .::. ||.:| . : |   :.:.::.  :.  ::| :|:|.||
+ 400 : SSGAPGGNGNGGYPSGGPAGNGNGGYSSGGPADNGNGGYTLGGRAANGNGGYPSGGRAGNGNGG : 463
+
+ 471 : LNGPSSVGNGNSSNGSSNGNNNSSTG--NGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSC : 532
+        ::.::||||::: .|:. ..|::.|  :|. || || .::|.|| .  ::|   :.|||.||.
+ 464 : YSSGGPVGNGSGGYPSGGQARNGNGGYPSGGLGGIGGYPSDGNGGIGIQSQGSGLSNGNGRSSS : 527
+
+ 533 : HEAG : 536
+        .::
+ 528 : SAGA : 531
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 156 536 . Medex_00063014-RA 146 531 . 116 M 57 57 G 1 0 M 54 54 G 1 0 M 13 13 G 1 0 M 40 40 G 0 2 M 15 15 G 0 1 M 6 6 G 0 1 M 101 101 G 0 2 M 51 51 G 0 2 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00063014-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 172 -> 272
+  Target range: 403 -> 504
+
+ 173 : PTGYQDTTSSHSQQSGGGGGG-GGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |.|  :.. : : .:|.|.|| ::|.  :.::|| : ||     . : :|:|..||.|:|. |:
+ 404 : PGGNGNGGYPSGGPAGNGNGGYSSGGPADNGNGGYTLGGRAANGNGGYPSGGRAGNGNGGYSSG : 467
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       |:||||||| .:||.: |:..| | || ::..|..::
+ 468 : GPVGNGSGGYPSGGQARNGNGGYPSGGLGGIGGYPSD : 504
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 272 . Medex_00063014-RA 403 504 . 115 M 21 21 G 0 1 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00074792-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 459 -> 562
+  Target range: 5 -> 109
+
+ 460 : NAGTGGSGGGGLNGPSSVGNGNSSN-GSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLH : 522
+       :.::|:||||||  .:::.:|.:..   ::|.::. :::::|.:|||.   ||| . .:::|| 
+   6 : SQASGSSGGGGLIHGGGLEHGGGRGLVHGSGTSSDLSSQASSNSGGGGLIHGGGLEHGGSGGLV :  69
+
+ 523 : RNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       :.||:::.|. :|: :| :..::..|| ::|. :||::.:
+  70 : HGGGSSSDSSSQASSSSGHGGGGCSLCGGGGGGASSSSSS : 109
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 459 562 . Medex_00074792-RA 5 109 . 126 M 25 25 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00074792-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 442 -> 564
+  Target range: 29 -> 154
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGS--GGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGG : 504
+       :| : ::::::: : : :.:.||:   ||||: .:| |  :::.:||::::::|:::| :||| 
+  30 : GLVHGSGTSSDLSSQASSNSGGGGLIHGGGLEHGGSGGLVHGGGSSSDSSSQASSSSGHGGGGC :  93
+
+ 505 : GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLC-FDSGTHPSSTADALI : 564
+       :  :|||||:::|:.:  .:::::.:.. ..: :|  ::::|. .  .| :::|:::||::
+  94 : SLCGGGGGGASSSSSSSSSSSSSSGGRSWSNSSSSSSSSSGSSGSKSSSQANSSAASDAVV : 154
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 564 . Medex_00074792-RA 29 154 . 104 M 24 24 G 0 2 M 83 83 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00074792-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 176 -> 265
+  Target range: 32 -> 121
+
+ 177 : QDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGN : 240
+       :::.:| .  | :::.:|||.|::|:: . :::|| :  . ::|.|::::::::|| ::|.   
+  33 : HGSGTSSDLSSQASSNSGGGGLIHGGGLEHGGSGGLVHGGGSSSDSSSQASSSSGHGGGGCSLC :  96
+
+ 241 : GSGGAGNGGAGGNSGPGNPMGGTSA : 265
+       |:||:|.::::::|::::: :|..:
+  97 : GGGGGGASSSSSSSSSSSSSSGGRS : 121
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 176 265 . Medex_00074792-RA 32 121 . 103 M 89 89
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00001193-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 83 -> 289
+  Target range: 83 -> 286
+
+  84 : FEHEYNAYTLQLAGG-GGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQ : 146
+       ::.::: |.  : || |::| | .    . |:.|.       :      .    :.||      
+  84 : YDPDFDYYENLMRGGYGSGGHGLAGGGYGGSDYGGSSYGGGGEYSGYGGYGGSGHGHYGGGGYS : 147
+
+ 147 : NIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGG-GGGGGGNLLNGSSGGSSAG : 209
+       . :. .:  :: : | : .::: |  :.|| :..::.::.|||: ||||: .   ||:|: ::|
+ 148 : GGPTVVSGGHPVGGSSFVGYGG-YGDSGGYGGGGGGYGRPSGGSYGGGGSVGGGYGSGGSYGGG : 210
+
+ 210 : GGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEV : 273
+       |:|     :::| |..|| .:|  :::: |.|:|: |.||: |.:|:|:  ||. :.. ..|  
+ 211 : GSY----GGSGSYGGGGNYGGGSYGGSGYGGGGGSYGGGGGYGGAGAGSYGGGGYGDGFYPGPP : 270
+
+ 274 : IDFKHLFEELCPVCGD : 289
+        .::: :..:|   |:
+ 271 : GTINRPITTICDDAGG : 286
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 83 289 . Medex_00001193-RA 83 286 . 116 M 15 15 G 0 1 M 70 70 G 1 0 M 21 21 G 0 1 M 22 22 G 4 0 M 73 73
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00001193-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 150 -> 270
+  Target range: 106 -> 223
+
+ 151 : NANQFNSSSY-SYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYM : 213
+       .:. :.:|.| :  |. :::|   .||  ..|:|:: :||| :||.. : .| : |:|:  || 
+ 107 : AGGGYGGSDYGGSSYGGGGEYSGYGGY--GGSGHGHYGGGGYSGGPTVVSGGHPVGGSSFVGYG : 168
+
+ 214 : LLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+         .:::: :|  |... |: |:|| |.|:: :|. |:||: |.|.: ||::: .| |
+ 169 : GYGDSGGYGG--GGGGYGRPSGGSYGGGGSVGGGYGSGGSYGGGGSYGGSGSYGGGG : 223
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 150 270 . Medex_00001193-RA 106 223 . 114 M 10 10 G 0 1 M 16 16 G 2 0 M 45 45 G 2 0 M 45 45
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00001193-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 188 -> 276
+  Target range: 176 -> 265
+
+ 189 : GGGGGGGGNLLNGS-SGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS-GGAGNGGA : 250
+       |||||| |.  .|| :||:|.||||   : :: ::|.: ..:::. ::|: |.|| ||:| ||:
+ 177 : GGGGGGYGRPSGGSYGGGGSVGGGYG--SGGSYGGGGSYGGSGSYGGGGNYGGGSYGGSGYGGG : 238
+
+ 251 : GGNSGPGNPMGGTSATP-GHGGEVIDF : 276
+       ||: |.|.. ||::|.: | ||   :|
+ 239 : GGSYGGGGGYGGAGAGSYGGGGYGDGF : 265
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 276 . Medex_00001193-RA 176 265 . 107 M 14 14 G 0 1 M 11 11 G 2 0 M 27 27 G 0 1 M 25 25 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00001193-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 137 -> 268
+  Target range: 88 -> 227
+
+ 138 : EHYQQQQQQNIANNANQFNSSSY-SYIY---NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGN : 197
+       :.|::  : . ::.:: :.:::| :  |   ::::   : :|| : .:|   : |||| :||..
+  89 : DYYENLMRGGYGSGGHGLAGGGYGGSDYGGSSYGGGGEY-SGYGGYGGSGHGHYGGGGYSGGPT : 151
+
+ 198 : LLNGS---SGGSSAG-GGYMLLPQAASSSGNNGNPNAG-HMSSGSVGNGSGGAGNGGAGGNSGP : 256
+       :::|:   :|:| .| |||   .  ::::|. |.|::| . ::||||.| |::|: |:||: |.
+ 152 : VVSGGHPVGGSSFVGYGGYGDSGGYGGGGGGYGRPSGGSYGGGGSVGGGYGSGGSYGGGGSYGG : 215
+
+ 257 : GNPMGGTSATPG : 268
+       :.: ||.:. .|
+ 216 : SGSYGGGGNYGG : 227
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 137 268 . Medex_00001193-RA 88 227 . 106 M 23 23 G 0 1 M 4 4 G 0 3 M 8 8 G 1 0 M 29 29 G 0 3 M 7 7 G 0 1 M 22 22 G 0 1 M 37 37
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00001193-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 137 -> 271
+  Target range: 71 -> 209
+
+ 138 : EHYQQQQQQNIANNAN-QFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGG---GGGGGGN : 197
+       .:|: :: :.:  ::: :: .:  .  |. ::: : ..|| ::. : |  :|||   | || |.
+  72 : SRYNTRDGRRVIYDPDFDYYENLMRGGYGSGGHGLAGGGYGGSDYGGSSYGGGGEYSGYGGYGG : 135
+
+ 198 : LLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMG : 261
+         :|  ||:: :||  ::: : : :|::  . :|. .||: |.|:|| |..::|: :|.|:  |
+ 136 : SGHGHYGGGGYSGGPTVVSGGHPVGGSSFVGYGGYGDSGGYGGGGGGYGRPSGGSYGGGGSVGG : 199
+
+ 262 : GTSATPGHGG : 271
+       | ::..:.||
+ 200 : GYGSGGSYGG : 209
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 137 271 . Medex_00001193-RA 71 209 . 104 M 16 16 G 0 1 M 37 37 G 0 3 M 81 81
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 179 -> 539
+  Target range: 481 -> 836
+
+ 180 : TSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGN-GS : 242
+       :||::| ::::.|||||.  :|| ::||||      :|: :: |::::::||  :::: |: |:
+ 482 : SSSNAQSGSSANGGGGGGSSSGSQASSSAG------SQTYGGVGSSAQSQAGSNANAGGGQYGG : 539
+
+ 243 : GGAGNGGAGGNSGPGNPMGGTSATPGH-GGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCESCK : 305
+       |. | |:.:|:|:.::: :.::|..|: ||. ::|    ..  .  :|. :| : | :...| .
+ 540 : GPLGFGSNSGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQSGHFGSGSHS : 603
+
+ 306 : GFFKRTVQNKKVYTC-VAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRNKFGP : 368
+       |   :: ..  . .   : :: : :   ..:.    | :  . ..    ||:|    .:.  : 
+ 604 : GSSAQSQAGGGAGGGKFGPHGGQSGAHSNSQSESGAFSNG-GGPRPAPLVRPDGPVIPHGPDAI : 666
+
+ 369 : MY-KRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQ : 431
+       :: ..:.::.     :   :: . |.: .|   | . :|:: :: |. :: : :  |:  :|..
+ 667 : LFEEPHPPHHSSPPIHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQL-EPVGPPNYIGLPP : 729
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :: :: .. . :: : : :.:. ::.... |:.: :.:: ::.|  | |. :.|.:||.: :|.
+ 730 : PSPPTLEHGNPGFVKPHHPPSPSFGGQRPFGSNSQSESSASSGSQSG-GGWGGGRGNGGQFGSN : 792
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :::.|::::|:::.|| ||.: :::  .:::::::. |.: :||
+ 793 : SQSESSASSGSQSEGGWGGNSQSGSQSSSSSSSKGRGHGGQFGS : 836
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 179 539 . Medex_00046275-RA 481 836 . 112 M 30 30 G 6 0 M 25 25 G 0 1 M 29 29 G 0 1 M 51 51 G 0 1 M 24 24 G 1 0 M 25 25 G 0 1 M 47 47 G 1 0 M 60 60 G 1 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00071519-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 160 -> 288
+  Target range: 480 -> 605
+
+ 161 : SYIY-NFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSG : 223
+       : || .: : |::|.| .::::: | .:::||:|:::.  ::::::|::|.:|   |  .::.|
+ 481 : GLIYPGYLNSYLYPGGSAGSAAAASSAAAAGGSGAAAT--DAAAAASGTGPAY--HPGIVGGCG : 540
+
+ 224 : NNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCP-V : 286
+       .   . :| : ::| :.:|::::.:::|.::|::.: :::::::| :|  :.:  ::.  .| :
+ 541 : GIVYNYPG-VQGSSGAASSAASSAAASGNSGGSAASSAAAASAAGASGFPLTYGGFYGRPYPFL : 603
+
+ 287 : CG : 288
+       ||
+ 604 : CG : 605
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 160 288 . Medex_00071519-RA 480 605 . 113 M 4 4 G 0 1 M 33 33 G 2 0 M 13 13 G 2 0 M 17 17 G 1 0 M 53 53 G 0 1 M 3 3
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00060310-RA
+         Model: affine:local:protein2protein
+     Raw score: 188
+   Query range: 299 -> 359
+  Target range: 20 -> 81
+
+ 300 : TCESCKGFFKRTVQNKKVY-TCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRM : 359
+       .|.. :|||:|::|:|  | .|. :: | | :.:|:||.|||::||:.|||. :||| :|:
+  21 : PCACVQGFFRRSIQQKIQYRPCTKNQQCSILRINRNRCQYCRLKKCIAVGMSRDAVRFGRV :  81
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 299 359 . Medex_00060310-RA 20 81 . 188 M 19 19 G 0 1 M 41 41
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00051064-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 93 -> 269
+  Target range: 42 -> 217
+
+  94 : QLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNS : 157
+       | :|  .:|  .| :::.::: .| :|:. :|:. :||. :|:..|  | |:.. ::.:|  ::
+  43 : QDPGHQEPGHQGQGQNPGQGHGPNVRQNPGHQDPGHQQPGHQEPGHQGQGQNPGHGHGPNGRQN : 106
+
+ 158 : SSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS- : 221
+       ::.    : :: .  | |.|: . :.:|  |:.|  ..|:  .|   .. ...|.   .|.:: 
+ 107 : PGHQDPGHQQPGHQDP-GHQGQGQNPGQGHGSNGRQNPGHQDPGHQQPDHQEPGHQGQGQNPGQ : 169
+
+ 222 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGH : 269
+       : |.||..|:||  :|  ..|  .:|: |.| |:|.|:. .| ...|||
+ 170 : GHGPNGRQNPGHQQPGHQEPGHQEPGHQGQGQNPGQGHGPNG-RQNPGH : 217
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 93 269 . Medex_00051064-RA 42 217 . 120 M 80 80 G 1 0 M 46 46 G 0 1 M 42 42 G 1 0 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00051064-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 95 -> 272
+  Target range: 32 -> 210
+
+  96 : AGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSS : 159
+       .|.|  .:|:|:.  :::.| .: |:. | : .: :::. :|:. :||. :: :.:..| ::::
+  33 : QGPGQQNPGHQDPGHQEPGHQGQGQNPGQGHGPNVRQNPGHQDPGHQQPGHQEPGHQGQGQNPG :  96
+
+ 160 : YSY-IYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLL-PQAASS : 221
+       .:.   . ::.    .|.|:..  :: : | | ..| |:  ||. ..: .:.|.    .|.:: 
+  97 : HGHGPNGRQNPGHQDPGHQQPGHQDPGHQGQGQNPGQGHGSNGRQNPGHQDPGHQQPDHQEPGH : 160
+
+ 222 : SGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        |:. ||..|| ::|. ..|   :|: .: |: .||:.  | ::..|||.:
+ 161 : QGQGQNPGQGHGPNGRQNPGHQQPGHQEP-GHQEPGHQGQGQNPGQGHGPN : 210
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 95 272 . Medex_00051064-RA 32 210 . 118 M 67 67 G 0 1 M 53 53 G 0 1 M 35 35 G 1 0 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00031255-RA
+         Model: affine:local:protein2protein
+     Raw score: 421
+   Query range: 121 -> 368
+  Target range: 11 -> 252
+
+ 122 : QQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQ : 185
+       .:::::|.::|::::|.|.:::::|: ..:: | .||:|.|  . : |  ::. |.:. ::. .
+  12 : ANHHHHQPHHHHHHHQSHHHHHHHQHHQPQPLQQPSSPYDYPAAAHHQ-PYSPYYPQPQPAPLP :  74
+
+ 186 : QSGGGGG--GGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       |.: : .  .:::. |:|::::.   ::  | . .::||:::.: .:| ::|:| :.:|:.:|.
+  75 : QDSYSLPHFPSASPELQGPGSARQRRASLPLQRSESTSSSESPKLRPGALPSASSSASSSPGGG : 138
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRT : 311
+       :::... .::.|. :: ..:: ...        .:||:||||..:  |||: |||:||||||||
+ 139 : ASTETTITASTPRQASQQGSAAPPSP-------SQLCAVCGDTAACQHYGVRTCEGCKGFFKRT : 195
+
+ 312 : VQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRNKFGP : 368
+       ||: . |.|:||::|.:|| :|:||.:|||||||.|||  |.||:|.::| |.::.:
+ 196 : VQKGSKYVCLAEKACPVDKRRRNRCQFCRFQKCLAVGMVKEVVRTDSLKGRRGRLPS : 252
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 121 368 . Medex_00031255-RA 11 252 . 421 M 48 48 G 1 0 M 22 22 G 0 2 M 81 81 G 7 0 M 88 88
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073672-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 469 -> 533
+  Target range: 86 -> 150
+
+ 470 : GLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCH : 533
+       | :|.::.|.|:|:  .:::....: |.|.:|||||:: :|||||..:.:|  :.|:.|.|:.:
+  87 : GNKGQGGAGRGKSAILRAQAARGRGRGGGGGGGGGGHSRSGGGGGGGGGGGGWQGGSGGGSGSR : 150
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 469 533 . Medex_00073672-RA 86 150 . 101 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00048236-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 363 -> 528
+  Target range: 15 -> 174
+
+ 364 : NKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVS : 427
+       .:|: :. :.|.|: :.:  . |:|. |   :.|::. . |:|| . : .. .:. :::: | .
+  16 : RQFSDLCLKARERR-DALTVPSLSLPHL-IVLEPGVHLKLIAPGVPLPDNAAPVDGDFKLMQSC :  77
+
+ 428 : SLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNN : 491
+       . .  :. : :.:::| ||   :.||  ::|:.: |:::...  :.|   |:|:|: ::  : .
+  78 : EEISVSAVGYPGVSLAPGQ---GGGGGAGSPLGTRTSSPPEPQQQPPQQPGSGQSPMAALMSVA : 138
+
+ 492 : NSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+       : : ..|:: ::||:.:|:||. :.|.:: |...:::
+ 139 : D-TLPPGSPRSAGGSPPGSGGPRSASRGSQHSPNSSA : 174
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 363 528 . Medex_00048236-RA 15 174 . 105 M 14 14 G 1 0 M 13 13 G 1 0 M 54 54 G 3 0 M 43 43 G 1 0 M 35 35
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00012535-RA
+         Model: affine:local:protein2protein
+     Raw score: 379
+   Query range: 282 -> 446
+  Target range: 45 -> 203
+
+ 283 : LCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLE : 346
+       :| :|.||.:| |||::|||:|||||||||||::||||||: :|:|.|:||:||.||||:||:|
+  46 : ICMICEDKATGLHYGIITCEGCKGFFKRTVQNRRVYTCVADGTCEITKAQRNRCQYCRFKKCIE : 109
+
+ 347 : VGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQ : 410
+        || |:|||.|||.||||. |::|:     |:: .:::: : ::  :: | : .| . ||: ||
+ 110 : QGMVLQAVREDRMPGGRNS-GAVYN---LYKVKYKKHKKNPKNGQVKG-GLEKHPQHQSPS-QQ : 167
+
+ 411 : AYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQ : 446
+         :.| :.::|. . |:::. ... :.:: .: | |
+ 168 : KGAAMMMEHNIPPHIVNGIILKTALTNPSEVVHLRQ : 203
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 282 446 . Medex_00012535-RA 45 203 . 379 M 83 83 G 1 0 M 5 5 G 3 0 M 20 20 G 1 0 M 12 12 G 1 0 M 38 38
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 59 -> 154
+  Target range: 162 -> 257
+
+  60 : NNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQ : 123
+       ::.  :.:.::::::: |.    | .|:.::.  :  |  |    .::||.:.:::|:| ::::
+ 163 : DEGHHGKKGHHHHEHGYDEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGHHGHDHH : 226
+
+ 124 : QQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       ::::::: |:: ::.|.::::::. ::::::
+ 227 : HHHHEDHGHKDGHEGHHHHHHKKGHSHHGHH : 257
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 59 154 . Medex_00100351-RA 162 257 . 122 M 95 95
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 99 -> 242
+  Target range: 70 -> 219
+
+ 100 : GSGSGNQQHHSNHSNHGNHHQQQQ-QQQQQQQQHQQQQQEHYQQQQQQNIANNANQF-NSSSYS : 161
+       |  : ::::|::|::|:::|:: :  ::  :::|::::::||::|:: : ::::::| : : |.
+  71 : GHKGHHHHEHGEHGHHDKEHHHGHYGEDGGHKKHHHHDDHHYHEQHHGEKGEKGHEFGEHGHYD : 134
+
+ 162 : YIYNFDSQYIFP--TGYQDTTS--SHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+         .: .::. :.  ..::. ..  .: ::.|  |  |  :  :| ..|:   ||.   .: .  
+ 135 : KGHHTKGKHEIHKLDEFKKHKDFWDEHHDEGHHGKKGHHHHEHGYDEGGHHKGGHHHHGHHDHH : 198
+
+ 222 : SGNNGNPNAGHMSSGSVGNGS : 242
+       .|::|:.: ||   :  |:::
+ 199 : KGHKGHHHHGHHHHDHKGHDG : 219
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 99 242 . Medex_00100351-RA 70 219 . 121 M 24 24 G 0 1 M 32 32 G 0 1 M 18 18 G 0 2 M 8 8 G 0 2 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 25 -> 154
+  Target range: 112 -> 240
+
+  26 : QLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYN :  89
+       : ::: : :. : . |.::  : :  ::.: .  : .. ..:::  :::::::|  .| .|:.:
+ 113 : HEQHHGEKGEKGHEFGEHGHYDKGHHTKGKHEIHKLDEFKKHKDFWDEHHDEGHHGKK-GHHHH : 175
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       ... : :|   :|  :: ||.:|..| .||:: ::::::: :: :: ::|.:::::::  ::::
+ 176 : EHGYDEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGHHGHDHHHHHHEDHGHKDGH : 239
+
+ 154 : Q : 154
+       :
+ 240 : E : 240
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 25 154 . Medex_00100351-RA 112 240 . 119 M 58 58 G 1 0 M 70 70
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 67 -> 154
+  Target range: 158 -> 243
+
+  68 : NNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQ : 131
+       ::::::.::: .   . ||.|:. . :   ||    |:::||..|..| :| ::::::: :: :
+ 159 : DEHHDEGHHGKKGHHHHEHGYDEGGHH--KGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGH : 220
+
+ 132 : HQQQQQEHYQQQQQQNIANNANQ : 154
+       | :::::|.:::: :: ::::::
+ 221 : HGHDHHHHHHEDHGHKDGHEGHH : 243
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 67 154 . Medex_00100351-RA 158 243 . 119 M 27 27 G 2 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 52 -> 151
+  Target range: 158 -> 257
+
+  53 : NNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHG : 116
+       ::: ..|::...: :::::. ::.: |  .. :|..:..     |    |  :::|.:::::||
+ 159 : DEHHDEGHHGKKGHHHHEHGYDEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGHHG : 222
+
+ 117 : NHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANN : 151
+       ::|:::::::: ::: :: :::|.::: : : :::
+ 223 : HDHHHHHHEDHGHKDGHEGHHHHHHKKGHSHHGHH : 257
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 52 151 . Medex_00100351-RA 158 257 . 117 M 99 99
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 40 -> 154
+  Target range: 107 -> 221
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       :::  ::.  |.:.:.: . .. :  ::.::.:..:: | |..|..: : .. : ..|  : .|
+ 108 : DDHHYHEQHHGEKGEKGHEFGEHGHYDKGHHTKGKHEIHKLDEFKKHKDFWDEHHDEGHHGKKG : 171
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       :::|: ...: |:|.  :::: :::::. :: ::|. :::::: ::::::
+ 172 : HHHHEHGYDEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGHH : 221
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 154 . Medex_00100351-RA 107 221 . 116 M 114 114
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 39 -> 248
+  Target range: 31 -> 241
+
+  40 : AGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGS : 103
+       .:|:::: .|::|.:: : |:.    :::::::.::::    .. :||..... :  .   :  
+  32 : EAGEAADLVAAASGHHWGHGEGHHHHGDHHEHHGHHDHKGHKGHHHHEHGEHGHHDKEHHHGHY :  95
+
+ 104 : GNQQHHSNHSNHGNHH-QQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNF : 166
+       |::  |.:| :|::|| ::|:: :: :: |:  ::.||:: :: :  :: ::::  .:.   :|
+  96 : GEDGGHKKHHHHDDHHYHEQHHGEKGEKGHEFGEHGHYDKGHHTKGKHEIHKLD--EFKKHKDF : 157
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSG--GGGGGGGGNLLNGSSGGSSAGGGYMLL-PQAASSSGNNGN : 227
+        .:.   .|.::..: | :: |  .||   ||:  :|  :  .:  |.    .:  . .|::|:
+ 158 : WDEH-HDEGHHGKKGHHHHEHGYDEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGH : 220
+
+ 228 : PNAGHMSSGSVGNGSGGAGNG : 248
+       .. :|      ::|  :: :|
+ 221 : HGHDHHHHHHEDHGHKDGHEG : 241
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 39 248 . Medex_00100351-RA 31 241 . 107 M 80 80 G 0 1 M 37 37 G 2 0 M 12 12 G 1 0 M 17 17 G 0 2 M 27 27 G 0 1 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 42 -> 139
+  Target range: 161 -> 257
+
+  43 : NSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQ : 106
+       :...: :. :::: . | :.::  :..::::.::| |   | .|:.::.  :   | ::  |::
+ 162 : HDEGHHGKKGHHHHEHGYDEGGHHKGGHHHHGHHDHHKGHK-GHHHHGHHHHDHKGHDGHHGHD : 224
+
+ 107 : QHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEH : 139
+       :|| :|.:||:.: :: :::::::: : :: :|
+ 225 : HHHHHHEDHGHKDGHEGHHHHHHKKGHSHHGHH : 257
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 42 139 . Medex_00100351-RA 161 257 . 106 M 41 41 G 1 0 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00100351-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 96 -> 154
+  Target range: 179 -> 237
+
+  97 : GGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       :.||  .|.::||::|.:| .|. :::: ::::::. :: :: .::::::: .:. ::
+ 180 : DEGGHHKGGHHHHGHHDHHKGHKGHHHHGHHHHDHKGHDGHHGHDHHHHHHEDHGHKD : 237
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 96 154 . Medex_00100351-RA 179 237 . 105 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077650-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 377 -> 526
+  Target range: 190 -> 339
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSL-TQSPDSSPSPI : 440
+       ::|  :|. :::. :.   |  ||.| : . . :|| :::  .:::||  :: ...| : | | 
+ 191 : VHVPVDRPYPVHVPKPIPVPVEKPVPYPVEKPVPYP-VKVPVKVHVPQPYPVHIPKPIAVPIPK : 253
+
+ 441 : AIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGG : 504
+       ::|:.  :: . . ... :  | |: |||  .| :: |.| :: |:: |: .:: |: .:| ||
+ 254 : PVAVPVPHPVVVEKTVPIVVKGHGSFGGGFGGGLGGYGGGLGGYGGGLGSYGGGLGSYGGGYGG : 317
+
+ 505 : GNNAGGGGGGTNSNDGLHRNGG : 526
+       : .:| ||| ..: :|| :.|:
+ 318 : SYGGGYGGGYGGGFGGLGHGGS : 339
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 526 . Medex_00077650-RA 190 339 . 126 M 36 36 G 1 0 M 15 15 G 0 1 M 97 97
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077650-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 369 -> 522
+  Target range: 198 -> 346
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSP : 433
+       |  : :: :.|  ::.::  :: :::.  :| .|:.   .|:|| ::| : |.:| ::. .. |
+ 199 : YPVHVPKPIPVPVEKPVPY-PVEKPVPYPVK-VPVKVHVPQPYP-VHIPKPIAVP-IPKPVAVP : 258
+
+ 434 : DSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGN : 497
+        : |  :. ::. |  : |: ::....:| || |||  . .:::|: .:: || .|. .:| |.
+ 259 : VPHPVVVEKTVPIVVKGHGS-FGGGFGGGLGGYGGGLGGYGGGLGSYGGGLGSYGGGYGGSYGG : 321
+
+ 498 : GTSGGGGGNNAGGGGGGTNSNDGLH : 522
+       | :|| ||. :| | ||: | :| |
+ 322 : GYGGGYGGGFGGLGHGGSFSFGGHH : 346
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 522 . Medex_00077650-RA 198 346 . 103 M 19 19 G 1 0 M 11 11 G 1 0 M 12 12 G 1 0 M 10 10 G 1 0 M 28 28 G 1 0 M 68 68
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00050870-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 683 -> 782
+  Target range: 13 -> 107
+
+ 684 : GVPQLGDYFNELQNKLQDLKFDMGDYVCMKFLILLNPSVRGIVNRKTVSEGHDNVQAALLDYTL : 747
+       :|. : : :.::  .:: :|::|.:|||:| :.:||.:  : |: .|:   :|.  : | ::. 
+  14 : DVGLMVEKITHVTLMFRRMKLNMEEYVCLKVITMLNQARGASVELETI---QDRYMTCLRGFVE :  74
+
+ 748 : TCYPSVNDKFRGLVNILPEIHAMAVRGEDHLYTKH : 782
+         :|  ..:|::|:  |||  .:. :|.  ||..:
+  75 : HNFPQQPTRFHDLLVRLPE--NLNQHGKCSLYKSR : 107
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 683 782 . Medex_00050870-RA 13 107 . 118 M 48 48 G 3 0 M 32 32 G 2 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 377 -> 520
+  Target range: 195 -> 344
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIP---QVSSLTQSPDSSP : 437
+       ::|  :|. :::. :.   |  ||.| : . : :|| ::.:|  :. |   :::. .. | :.|
+ 196 : VHVPVDRPYPVHVPKPVPVPVEKPVPYPVEKHIPYPVKVPVKVPVPQPYPVHIPKPVAVPVAKP : 259
+
+ 438 : SPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGP-SSVGNGNSSNGSS-NGNNNSSTGNGT : 499
+        ::::: . | . | .||..: :||. |:| |||.|. :::|.| |: ||: .|:.:|::| |.
+ 260 : VAVPVPQPYVVEQTVPVIVESQSAGGLGGGYGGLGGGFGGLGGGYSGLGSGYGGHGSSGSGLGG : 323
+
+ 500 : SGGGGGNNAGGGGGGTNSNDG : 520
+       : || |:::|:| ||. :.:|
+ 324 : GFGGHGSSSGSGLGGGFGGHG : 344
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 520 . Medex_00049082-RA 195 344 . 141 M 36 36 G 0 1 M 11 11 G 0 3 M 50 50 G 0 1 M 13 13 G 0 1 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 188 -> 509
+  Target range: 78 -> 406
+
+ 189 : GGGGGGGGNLLNGSSG--GSSAGGGYMLLPQAASSSGNN-GNPNAGHMSSGSVGNGSGGAGNGG : 249
+       ||| |||:.  .||||  |:::||||   .: :: :|.. |. ::|.  :|: |.| | :|.||
+  79 : GGGYGGGSGYGGGSSGGYGGGSGGGYGGGHELSGFGGAGYGGLSGGYGLGGASGGGLGLGGAGG : 142
+
+ 250 : AGGNSGPGNPMGGTSATPGHGGEVIDFKHL---FEELCPVCGDKVSGYHYGLLTCESCKGFFKR : 310
+       :||. | |.: || : .:|: ..|.  :::     :  |   ::. .|. .: .  : .  :  
+ 143 : GGGGLGLGGSSGGFALGSGRVTAVTIQREVPIAVPQPIPYPVEQTVPYPVNVPVHVPVDRPY-- : 205
+
+ 311 : TVQNKKVYTCVAERSCHIDKTQRKRCPY-CRFQKCLEVGMKLEAVRADRMRGGRNKFGPM---Y : 370
+       .|:  |  .  .|:: .   .:: ..|   . :  :  .  ::  ::  :. ::.   |:   |
+ 206 : PVHVPKPVPVPVEKPVPYPVEKHIPYPVKVPVKVPVPQPYPVHIPKPVAVPVAKPVAVPVPQPY : 268
+
+ 371 : KRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPD : 434
+         :::  : | .|.. :| :  .::|.::  ..::.||    :. . . .   .  :::.  ..
+ 269 : VVEQTVPVIVESQSAGGLGGGYGGLGGGF--GGLGGGYSGLGSGYGGHGSSGSGLGGGFGGHGS : 330
+
+ 435 : SSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNS-SNGSSNGNNNSSTGN : 497
+       ||.|.:: ::|  .:| |:: : .  :| |:| ||: .|.:  |:|:| |:  |:|.:.| .|:
+ 331 : SSGSGLGGGFGGHGSSYGSLGGHGSFGGFGSSFGGSSGGHGLGGSGSSYSSVISHGGHGSVGGS : 394
+
+ 498 : GTSGGGGGNNAG : 509
+       | :|| ||:: |
+ 395 : GLGGGFGGHHHG : 406
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 509 . Medex_00049082-RA 78 406 . 114 M 16 16 G 0 2 M 21 21 G 0 1 M 54 54 G 0 3 M 29 29 G 2 0 M 28 28 G 0 1 M 31 31 G 0 3 M 30 30 G 2 0 M 81 81 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 187 -> 525
+  Target range: 76 -> 406
+
+ 188 : GGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAG : 251
+       | ||| |||:  .|:|:|: :||:    . : . || .|.. :|  :: ::|.:|||: . |::
+  77 : GYGGGYGGGSGYGGGSSGGYGGGSGGGYGGGHELSGFGGAGYGGLSGGYGLGGASGGGLGLGGA : 140
+
+ 252 : GNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNK : 315
+       |.:|.| .:||:|:. : |:. :.   :  |:  . .: ::   |.:    :.       |. .
+ 141 : GGGGGGLGLGGSSGGFALGSGRVTAVTIQREVPIAVPQPIP---YPVEQTVPYPVNVPVHVPVD : 201
+
+ 316 : KVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQ : 379
+       : |.  . :: .:  .  |. || . :| :  .:|: :|:.    . .: :.    :  |  :.
+ 202 : RPYPVHVPKPVPV--PVEKPVPY-PVEKHIPYPVKV-PVKV----PVPQPYPVHIPKPVAVPVA : 257
+
+ 380 : VMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIA : 443
+          . .:: . : :   | |  :. :.|   :|..:.   .   .  |:|. |. ::.:: : :
+ 258 : KPVAVPVPQPYVVEQTVPVIVESQSAGGLGGGYGGLGGGFGGLGGGYSGLG-SGYGGHGSSGSG : 320
+
+ 444 : LGQVNASTGGVIATPMNAGTGGSGG--GGLNGPSSVGN-GNSSNGSSNGNNNSSTGNG-TSGGG : 503
+       ||   :: |:  ::.:.:| || |:  |:|.|.:| |. |:| .|||.|:. :::|:: :|  :
+ 321 : LGGGFGGHGSSSGSGLGGGFGGHGSSYGSLGGHGSFGGFGSSFGGSSGGHGLGGSGSSYSSVIS : 384
+
+ 504 : GGNNAGGGGGGTNSNDGLHRNG : 525
+        |.::: ||:| .:. | |::|
+ 385 : HGGHGSVGGSGLGGGFGGHHHG : 406
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 187 525 . Medex_00049082-RA 76 406 . 114 M 105 105 G 3 0 M 33 33 G 2 0 M 8 8 G 1 0 M 12 12 G 1 0 M 4 4 G 4 0 M 70 70 G 1 0 M 37 37 G 0 2 M 11 11 G 0 1 M 19 19 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 399 -> 540
+  Target range: 209 -> 356
+
+ 400 : KPTPISPGYQQAYP-NMNIKQEIQIPQVSSLTQS-PDSSPSPIAIALGQ---VNASTGGVIATP : 458
+       ||.|:: . . :|| :.:|   :::|   ::.|: |   |.|:|:::::   |..: . |:. .
+ 210 : KPVPVPVEKPVPYPVEKHIPYPVKVPVKVPVPQPYPVHIPKPVAVPVAKPVAVPVPQPYVVEQT : 273
+
+ 459 : MNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG-GGGGTNSNDGL : 521
+       :.. ..: ::|||.|. : | |.: .| :.| :. ::| |. |::|:. :|| || |::|..||
+ 274 : VPVIVESQSAGGLGGGYG-GLGGGFGGLGGGYSGLGSGYGGHGSSGSGLGGGFGGHGSSSGSGL : 336
+
+ 522 : HRN-GGNGNSSCHEAGIGSL : 540
+         . ||:|:|    :| ||:
+ 337 : GGGFGGHGSSYGSLGGHGSF : 356
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 399 540 . Medex_00049082-RA 209 356 . 112 M 14 14 G 0 1 M 19 19 G 0 1 M 14 14 G 0 3 M 30 30 G 1 0 M 33 33 G 0 1 M 14 14 G 0 1 M 16 16
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 171 -> 270
+  Target range: 299 -> 395
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :..|| : .|:.: ::::|:| |||   :|||:||: |||:   .:::| :: .|:.: | .:|
+ 300 : LGGGYSGLGSGYGGHGSSGSGLGGGFGGHGSSSGSGLGGGFG--GHGSSYGSLGGHGSFGGFGS : 361
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+        | |.:||| | ||:|:: ::  : || ::..| |
+ 362 : -SFGGSSGGHGLGGSGSSYSSVISHGGHGSVGGSG : 395
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 270 . Medex_00049082-RA 299 395 . 111 M 42 42 G 2 0 M 20 20 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049082-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 369 -> 563
+  Target range: 203 -> 396
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSP : 433
+       |  : :: :.|  ::.:: .. ::   | :| .|:. . .|:|| ::| : :.:| |:. .. |
+ 204 : YPVHVPKPVPVPVEKPVPYPVEKHIPYP-VK-VPVKVPVPQPYP-VHIPKPVAVP-VAKPVAVP : 263
+
+ 434 : DSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSS-NGNNNSSTG : 496
+        : |  :. ::. : .| ::   ..  :| ||: ||  .| |::|:| :::||| :| ..: .|
+ 264 : VPQPYVVEQTVPVIVESQSAGGLGGGYGGLGGGFGGLGGGYSGLGSGYGGHGSSGSGLGGGFGG : 327
+
+ 497 : NGTSGGGG-GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS-KLCFDSGTHPSS : 558
+       :|:|:|:| |.. || |:: .| :|  . || |:|   .:|  :| .::.| .  :. |.|.| 
+ 328 : HGSSSGSGLGGGFGGHGSSYGSLGGHGSFGGFGSSFGGSSGGHGLGGSGSSYSSVISHGGHGSV : 391
+
+ 559 : TADAL : 563
+       .:.:|
+ 392 : GGSGL : 396
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 563 . Medex_00049082-RA 203 396 . 109 M 28 28 G 1 0 M 2 2 G 1 0 M 12 12 G 1 0 M 10 10 G 1 0 M 62 62 G 0 1 M 17 17 G 0 1 M 42 42 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00049083-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 377 -> 530
+  Target range: 185 -> 336
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIA : 441
+       :::  :|. :::  :.   |  ||.| : : . :|| :|:  .|.:||  :: : |.: : |:|
+ 186 : VHIPVDRPYPVHIPKPVPVPVEKPVPYPVDKPVPYP-VNVPVKIPVPQPYPV-HIPKPVAVPVA : 247
+
+ 442 : IALGQVNASTGGVIATPMNAGTGGSGGGGLNGP-SSVGNGNSSNGSSNGNNNSSTGNGTSGGGG : 504
+        ::: |..: . |:...:.. .:: ::|||.|. :::|.| :| |:::|. .|| |. .: :||
+ 248 : KPVA-VPVPQPYVVEKTVPVVVDSHSAGGLGGGYGGLGGGYGSLGGGHGGLGSSFGGHGGFSGG : 310
+
+ 505 : GNNAGGGGGGTNSNDGLHRNGGNGNS : 530
+        :: |:  || ::: ||  :||:|:|
+ 311 : ISSIGSFHGGLSGSYGLGGHGGSGSS : 336
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 530 . Medex_00049083-RA 185 336 . 137 M 36 36 G 1 0 M 15 15 G 1 0 M 15 15 G 1 0 M 28 28 G 0 1 M 56 56
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 417 -> 536
+  Target range: 180 -> 300
+
+ 418 : KQEIQIPQVSSL--TQSPDSSPSPIAIAL-GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVG : 478
+       .:: :|.::|||  .|.  : | |:   |  |:|::.|   ::: . | |:.|||| .|||  |
+ 181 : EKDREIRRISSLKIVQREPGLPFPLRQLLWRQINGGGGKPRTAAAGHGHGSRGGGGSGGPS--G : 242
+
+ 479 : NGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       .|.|::|||: : .::.| :::||||:. :||||||: :.:|  |.:.| .::.. :|
+ 243 : GGGSGHGSSSMSYGGGGGVSSGGGGGSGVGGGGGGGSMNPGGGGRGSNNYGPNSPPTG : 300
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 417 536 . Medex_00010406-RA 180 300 . 131 M 12 12 G 0 2 M 15 15 G 0 1 M 31 31 G 2 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 91 -> 298
+  Target range: 122 -> 322
+
+  92 : TLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQF : 155
+       | | |:.::..:::::: .::..:.:.   |:.:|:.. :.: .::    :::. : .::..::
+ 123 : TPQAAAPADKPTSSDDEADDNEAEEEPMVIQEPEQEAPIDYHVPKKRSSSEERAGSEDEKDREI : 186
+
+ 156 : NSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAA : 219
+       .. |   | : ::   ||   ::   .: : :|| . .:::.  :||.||:::||.    . ::
+ 187 : RRISSLKIVQREPGLPFP--LRQLLWRQINGGGGKPRTAAAGHGHGSRGGGGSGGP---SGGGG : 245
+
+ 220 : SSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEEL : 283
+       |: |::: : :|  : :| |.|::|.|.||:||: .||..  |::. ..::. . .: .::|.|
+ 246 : SGHGSSSMSYGGGGGVSSGGGGGSGVGGGGGGGSMNPGGGGRGSNNYGPNSPPTGSLPPFYETL : 309
+
+ 284 : CPVCGDKVSGYHYGL : 298
+        .  |: ::::: ||
+ 310 : KN--GGVLGSFNNGL : 322
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 91 298 . Medex_00010406-RA 122 322 . 119 M 82 82 G 2 0 M 36 36 G 3 0 M 71 71 G 2 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 176 -> 300
+  Target range: 220 -> 339
+
+ 177 : QDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGN : 240
+       :.::::|:: | ||||:||.:  .|:|| :|:: :|   . :.||:|..|:. :|  ::||:..
+ 221 : RTAAAGHGHGSRGGGGSGGPS-GGGGSGHGSSSMSYG-GGGGVSSGGGGGSGVGGGGGGGSMNP : 282
+
+ 241 : GSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLT : 300
+       |:|| |:.. |.||.|..::..  .|  :|| : .|:: :::  .  |:: |. :||:|:
+ 283 : GGGGRGSNNYGPNSPPTGSLPPFYETLKNGGVLGSFNNGLQQYAH--GNNGSN-NYGMLS : 339
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 176 300 . Medex_00010406-RA 220 339 . 118 M 21 21 G 1 0 M 15 15 G 1 0 M 71 71 G 2 0 M 6 6 G 1 0 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 465 -> 582
+  Target range: 213 -> 324
+
+ 466 : SGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGN : 529
+       :|||| . .::.|:|::|.|:: |:..:|.|.|:: |::: : ||||| :::.:|    ||.|.
+ 214 : NGGGGKPRTAAAGHGHGSRGGG-GSGGPSGGGGSGHGSSSMSYGGGGGVSSGGGGGSGVGGGGG : 276
+
+ 530 : SSCHEAGIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVSPMIREFVQSIDD : 582
+       ::. ::| |:  :..     :::.:.|:::  :: |.|: :.:: .| :::::
+ 277 : GGSMNPGGGGRGSNN-----YGPNSPPTGSLPPFYETLKNGGVLGSFNNGLQQ : 324
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 465 582 . Medex_00010406-RA 213 324 . 115 M 22 22 G 1 0 M 56 56 G 5 0 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 447 -> 563
+  Target range: 221 -> 338
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       .|::|   ::. .:|:||::||| :|.:| : : ::.|: ::...:::| |.:||||: |:|||
+ 222 : TAAAGHGHGSRGGGGSGGPSGGGGSGHGSSSMSYGGGGGVSSGGGGGSGVGGGGGGGSMNPGGG : 285
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKL-CFDSGTHPSSTADAL : 563
+       | |:|: :.  ...|: .: .:.   |:: .: :: |  :. |.:.|:. : |
+ 286 : GRGSNNYGPNSPPTGSLPPFYETLKNGGVLGSFNNGLQQYAHGNNGSNNYGML : 338
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 563 . Medex_00010406-RA 221 338 . 111 M 101 101 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 447 -> 540
+  Target range: 211 -> 305
+
+ 448 : NASTGGVIATPMNAGTG-GSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG : 510
+       : :.||  : . .|| | || ||| :|.:| |.|:: .:|| : ..::. ::.:|||:| .:||
+ 212 : QINGGGGKPRTAAAGHGHGSRGGGGSGGPSGGGGSGHGSSSMSYGGGGGVSSGGGGGSGVGGGG : 275
+
+ 511 : GGGGTNSNDGLHRNGGNGNSSCHEAGIGSL : 540
+       |||: |:.:| : :.. |.:| ..:::.::
+ 276 : GGGSMNPGGGGRGSNNYGPNSPPTGSLPPF : 305
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 540 . Medex_00010406-RA 211 305 . 106 M 17 17 G 0 1 M 76 76
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010406-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 440 -> 519
+  Target range: 211 -> 291
+
+ 441 : AIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNG-NNNSSTGNGTSGGG : 503
+       .|. |  ::.|::.  .. : |.|||||.: .|.|: |::: | |::.| ::.::.|:|.:|||
+ 212 : QINGGGGKPRTAAAGHGHGSRGGGGSGGPSGGGGSGHGSSSMSYGGGGGVSSGGGGGSGVGGGG : 275
+
+ 504 : GGNNAGGGGGGTNSND : 519
+       ||.: ..|||| .||:
+ 276 : GGGSMNPGGGGRGSNN : 291
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 440 519 . Medex_00010406-RA 211 291 . 105 M 49 49 G 0 1 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00027030-RA
+         Model: affine:local:protein2protein
+     Raw score: 320
+   Query range: 608 -> 799
+  Target range: 377 -> 567
+
+ 609 : MCKVLDQNLFSQVDWARNTVFFKDLKVDDQMKLLQHSWSDMLVLDHLHHRIHNGLPDETQLNNG : 672
+       :|:. :::||  |:||::.  |..| ::||: ||: :|:::|: .  |:.|  :: |.. |..|
+ 378 : ICNATNKQLFQLVEWAKSIPHFTSLPMEDQVLLLRAGWNELLIAAFSHRSI--DVKDSIVLATG : 439
+
+ 673 : QVFNLMSLGLLGVPQL-GDYFNELQNKLQDLKFDMGDYVCMKFLILLNPSVRGIVNRKTVSEGH : 735
+        . :  :    ||. | :  ::||  |::::|.|..:  |:: :||:||.|||: :.:.|.  :
+ 440 : VTVHRNAAHQAGVGTLFDRVLSELVCKMREMKMDKTELGCLRSIILFNPDVRGLKSNQEVEVLR : 503
+
+ 736 : DNVQAALLDYTLTCYPSVNDKFRGLVNILPEIHAMAVRGEDHLYTKHCAGSAPTQTLLMEMLHA : 799
+       ::| |:| :|| . .|. .::|  |:  ||.:::::::: :||:  .  |..| :.:|||||::
+ 504 : EKVYASLEEYTRVNHPDEPGRFAKLLLRLPSLRSIGLKSLEHLFFFKLIGDVPLDNFLMEMLES : 567
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 608 799 . Medex_00027030-RA 377 567 . 320 M 51 51 G 2 0 M 27 27 G 0 1 M 111 111
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00027030-RA
+         Model: affine:local:protein2protein
+     Raw score: 246
+   Query range: 291 -> 355
+  Target range: 245 -> 309
+
+ 292 : SGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVR : 355
+       |:|    : ||:|||||||||::.  |:| .|::| ||| ||:||.|||:||||.:||| |||:
+ 246 : SSYSMKSIYCEGCKGFFKRTVRKDLSYACREEKNCIIDKRQRNRCQYCRYQKCLTMGMKREAVQ : 309
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 291 355 . Medex_00027030-RA 245 309 . 246 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 31 -> 204
+  Target range: 26 -> 199
+
+  32 : QPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQL :  95
+       :|:|::    ::|::| . |::|:::  ..:    .::.::.: . :.:|..   :.:  :|  
+  27 : KPPSASKHHQSESASNKNIGGENQGPILPPSLQMMPSHPQQPQPPPPPLLVTPPGHHSLASLSS :  90
+
+  96 : AGGGGSGSGNQQHHSNHSNHGN-HHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+       :|.|..:. :|.: ::.| ||: |.: :|:|::::::|:::||:: ||||||: .::.:| :  
+  91 : SGPGPDSKKSQPNTTHYSLHGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQ : 154
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSG : 204
+       | : : .|: |.: |: |: :: ::. :: : ..   ..||..: |
+ 155 : STAVLRAFQ-QHMSPSVYEMAALTQDLDTQSITTKIKEALLANNIG : 199
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 31 204 . Medex_00003450-RA 26 199 . 148 M 86 86 G 0 1 M 50 50 G 1 0 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 103 -> 168
+  Target range: 110 -> 175
+
+ 104 : GNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFD : 167
+       |:.:.||:: :| :||:::::|||||||:|||||:: ||||||: :.  ..|:    : :|:..
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRAFQQHMSPSVYEMA : 174
+
+ 168 : S : 168
+       :
+ 175 : A : 175
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 103 168 . Medex_00003450-RA 110 175 . 146 M 65 65
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 136
+   Query range: 99 -> 160
+  Target range: 110 -> 171
+
+ 100 : GSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSY : 160
+       | : .: ::| :| :| :||:|||||||||||:|||||:: |||  . : . .::.::| |
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRAFQQHMSPSVY : 171
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 99 160 . Medex_00003450-RA 110 171 . 136 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 101 -> 162
+  Target range: 110 -> 171
+
+ 102 : GSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSY : 162
+       | ::.: | :: :| :||:::|||||||||:|||||:: ||||| . . .| | : |:  |
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRAFQQHMSPSVY : 171
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 101 162 . Medex_00003450-RA 110 171 . 129 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 104 -> 149
+  Target range: 112 -> 157
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIA : 149
+       .:.|  :| :| :||::::||||||||:|||||:: ||||||:.|
+ 113 : AHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTA : 157
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 149 . Medex_00003450-RA 112 157 . 128 M 45 45
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 31 -> 139
+  Target range: 47 -> 153
+
+  32 : QPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQL :  95
+       :. :| |::: :  .: :  ::..:::   |::: :: .: ::.. :.  .| :.: . |:|: 
+  48 : ENQGPILPPSLQMMPSHPQQPQPPPPPLLVTPPGHHSLASLSSSGPGPDSKKSQPNTTHYSLH- : 111
+
+  96 : AGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEH : 139
+        | : : | ::||| :| :| :::||||||||||||:|||||::
+ 112 : -GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQ : 153
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 31 139 . Medex_00003450-RA 47 153 . 126 M 63 63 G 2 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 104 -> 159
+  Target range: 114 -> 169
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSS : 159
+       .: |: :| :| :||::||||||||||:|||||:: ||||  .: .. :|  |:|
+ 115 : PHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRAFQQHMSPS : 169
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 159 . Medex_00003450-RA 114 169 . 125 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 98 -> 142
+  Target range: 110 -> 154
+
+  99 : GGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQ : 142
+       | : : ::||: :| :| :||||||||||||||:|||||:: ||
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQ : 154
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 98 142 . Medex_00003450-RA 110 154 . 124 M 44 44
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 104 -> 147
+  Target range: 110 -> 153
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       .:.|. :| :: :||::::::||||||:|||||:: ||||||:
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQ : 153
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 147 . Medex_00003450-RA 110 153 . 122 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 104 -> 152
+  Target range: 109 -> 157
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNA : 152
+       : : |::  :| :||:::::::|||||:|||||:: ||||||: .:.|
+ 110 : HGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTA : 157
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 152 . Medex_00003450-RA 109 157 . 121 M 48 48
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 105 -> 157
+  Target range: 109 -> 161
+
+ 106 : QQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNS : 157
+       : |  .||:: :||::::::::||||:|||||:: ||||||: .:::. :.:
+ 110 : HGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRA : 161
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 105 157 . Medex_00003450-RA 109 161 . 121 M 52 52
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 97 -> 139
+  Target range: 110 -> 152
+
+  98 : GGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEH : 139
+       | : . ::|::| :| :| :|:||||||||||||:|||||::
+ 111 : GHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQ : 152
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 97 139 . Medex_00003450-RA 110 152 . 120 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 30 -> 154
+  Target range: 26 -> 151
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLT-KFEHEYNAYTL :  93
+       :.||::   .:.::||:. :|.|:.:  ..:    :::.::.:. . : ::|   :|. .: : 
+  27 : KPPSASKHHQSESASNKNIGGENQGPILPPSLQMMPSHPQQPQPPPPPLLVTPPGHHSLASLSS :  90
+
+  94 : QLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+         :|.::. | .:  | :  .|::.| :|:|:::::::|::|||:: ||||||: .::.:|
+  91 : SGPGPDSKKSQPNTTHYSLHGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQ : 151
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 154 . Medex_00003450-RA 26 151 . 117 M 52 52 G 0 1 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00015863-RA
+         Model: affine:local:protein2protein
+     Raw score: 284
+   Query range: 280 -> 352
+  Target range: 36 -> 108
+
+ 281 : EELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKC : 344
+       |||| ||||:.|||||. ||||:|||||:|:: :: || |  ..:|:||.  |::|. ||::||
+  37 : EELCLVCGDRASGYHYNALTCEGCKGFFRRSITKNAVYQCKYGNNCEIDMYMRRKCQECRLKKC : 100
+
+ 345 : LEVGMKLE : 352
+       |.|||: |
+ 101 : LSVGMRPE : 108
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 280 352 . Medex_00015863-RA 36 108 . 284 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00015860-RA
+         Model: affine:local:protein2protein
+     Raw score: 276
+   Query range: 259 -> 670
+  Target range: 0 -> 413
+
+ 260 : MGGTSATPGHGGEVIDFKHLFE-ELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVA : 322
+       |:..:: :. :.:::: :   : .:| ||||:. ||::: :||||||:||:|.. ::| : |  
+   1 : MDEDGGRSPGATNILQSRLTVDSKICCVCGDRALGYNFSAITCESCKAFFRRNALKNKEFRCPF :  64
+
+ 323 : ERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRG-GRNKF-GPMYKRDRARKLQVMRQR : 384
+       . :|:|. . |: |. ||::||:||||: : :.::  :   |:|: ... :::. :  ::.: :
+  65 : SGNCQITVITRRFCQKCRLNKCFEVGMRKDFIMSEEDKVIKRKKIETNRSRKEPLQGKNMFKIK : 128
+
+ 385 : QLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVN : 448
+           :. .: :::: . :::|: .: . .  :  :: ::::.|.  :.| .:::|:. .:.: .
+ 129 : SELTDDSSEYLDSGRSISSVSSQCESESTCESPPKQAKFSDTSEDLDRP-CPSTPVEDVMNHNG : 191
+
+ 449 : ASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGG : 512
+       |.: .  ::: :..:.:|. |.  :.|..::  |:.|.:.: :  :|.    : :::::  :. 
+ 192 : AESFPSPTSATSVPSPSSPQGTTVSGSKTAEMFSAGGRAAAVSVITTPVQCLSRSSSKSHQDNV : 255
+
+ 513 : GGTNSNDGLHRNGGNGNSSCHEAGIG-SLQNTADSKLCFDSGTHPSSTADALIEPLRVSPMIRE : 575
+         .||:..| .:  :...:  ::.:. .::::: |    |  |  : |: :: ..|. :.  ||
+ 256 : VVENSKTPLLSSLISTPRAKVNSPVNYDFHSSPPSVSHRDFQTSEGWTSPPMESRLSEPGPSRE : 319
+
+ 576 : FVQS-IDDREWQTQLFALLQKQTYNQVEVDLFELMCKVLDQNLFSQVDWARNTVFFKDLKVDDQ : 638
+       | ::  ..|| ..:::. :|: : .. .:: :      |: : :| :. ::::   ::|: .::
+ 320 : FENGYSSTREAAKEVLQDVQRIAVAPYSIESILSEAIKLEFEAYSSLAKSHQSS--RELNDAER : 381
+
+ 639 : MKLLQHSWSDMLVLDHLHHRIHNGLPDETQLN : 670
+        || :   ::. : :.|:: : . :.|: :::
+ 382 : AKLNELIVANKALHEPLDEDLSTLVGDDYRFE : 413
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 259 670 . Medex_00015860-RA 0 413 . 276 M 22 22 G 0 1 M 80 80 G 0 1 M 5 5 G 0 1 M 67 67 G 1 0 M 104 104 G 0 1 M 41 41 G 0 1 M 49 49 G 2 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073366-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 166 -> 274
+  Target range: 49 -> 157
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA : 230
+       :: |: :.| ::..:: |  :||| ::|||.  :|::| ||:||||   . . | :|.. ..:.
+  50 : EGGYVTSGGGHNGGGALS-SGGGGYSSGGGGYRSGGGGYSSGGGGYSSGGGVFSIGGGGYTGEV : 112
+
+ 231 : GHMSSGSVGNGSGGAG-NGGAGGNSGPGNPMGGTSATPGHGGEVI : 274
+       | :: |: : :|||:| :||:|| ||.|.. ::.::. : ||..:
+ 113 : GALTIGGGALSSGGGGYSGGGGGYSGGGGGYSSGGGGYSSGGSAL : 157
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 274 . Medex_00073366-RA 49 157 . 120 M 18 18 G 1 0 M 61 61 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073366-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 172 -> 273
+  Target range: 69 -> 171
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|| ...::. : :||| ::|||.  :|::  | :||||     | : :|.. ::.:|  |:|
+  70 : GGGYSSGGGGY-RSGGGGYSSGGGGYSSGGGVFSIGGGGYTGEVGALTIGGGALSSGGGGYSGG : 132
+
+ 237 : SVGNGSGGAG-NGGAGGNSGPGNPM-GGTSATPGHGGEV : 273
+       : | ::||:| ::|:|| |:.|::: ||.::  | ||.:
+ 133 : GGGYSGGGGGYSSGGGGYSSGGSALIGGGGGYVGGGGAL : 171
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 273 . Medex_00073366-RA 69 171 . 111 M 11 11 G 1 0 M 62 62 G 0 1 M 14 14 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073366-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 186 -> 271
+  Target range: 54 -> 141
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVG--NGSGGAGNG : 248
+       ::||| .|||.| :|::| ||:||||.  . : ||:|.. ::.:| .| |: |  .. |: . |
+  55 : TSGGGHNGGGALSSGGGGYSSGGGGYRSGGGGYSSGGGGYSSGGGVFSIGGGGYTGEVGALTIG : 118
+
+ 249 : GAGGNSGPGNPMGGTSATPGHGG : 271
+       |:: :||.|.  ||.:: :| ||
+ 119 : GGALSSGGGGYSGGGGGYSGGGG : 141
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00073366-RA 54 141 . 105 M 53 53 G 0 2 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073366-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 129 -> 271
+  Target range: 21 -> 163
+
+ 130 : QQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGG : 193
+       .::::::::. :::   ::. .::|:.|.: :|: : :::   ..|  .:.::    :|||  :
+  22 : AEEKKERKDKQEKRGVVEVNYGGEQLGSEG-GYVTSGGGHN--GGGALSSGGGGYSSGGGGYRS :  82
+
+ 194 : GGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG---NS : 254
+       |||.  :|::| ||:|| : : . : ::. .. . .:| :|||: | ::||:| :|:||   ::
+  83 : GGGGYSSGGGGYSSGGGVFSIGGGGYTGEVGALTIGGGALSSGGGGYSGGGGGYSGGGGGYSSG : 146
+
+ 255 : GPGNPMGGTSATPGHGG : 271
+       |.| : ||:: ..| ||
+ 147 : GGGYSSGGSALIGGGGG : 163
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 129 271 . Medex_00073366-RA 21 163 . 103 M 30 30 G 1 0 M 10 10 G 2 0 M 80 80 G 0 3 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 145
+   Query range: 33 -> 271
+  Target range: 245 -> 481
+
+  34 : SSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAG :  97
+       ::|:::::: ::.::::|:...: ::.:.:||| ...:...:.::   :  .   ::|. . :|
+ 246 : PAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGSYSAPSVPSSSYGAPSGG : 309
+
+  98 : GGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYS : 161
+       |||:|:| ...  . |:.|..            . .  . . | ..   . :..:. :.::| :
+ 310 : GGGGGGGYPAPSVPSSSYGAPSSGGGGGGGGGYPAPSVPSSSYGAPSGGG-GGGGGGYPAPSVP : 372
+
+ 162 : YIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNN : 225
+          ::::.   ..||...: : |  ::.:||||||.  .| ::.| ::::|   | :::::|..
+ 373 : -SSSYGAPGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGGGYPAPSVPSSSYG-APSGGGGGGGG : 434
+
+ 226 : GNPNAGHMSSGSVGNGSGGAGNGGAGGN-SGPGNPMGGTSATPGHGG : 271
+       | |.::  ||:  :.::||:|.||:||. ::|: | :: :|.:| ||
+ 435 : GYPAPSVPSSSYGAPSGGGGGRGGGGGGYPAPSVPSSSYGAPSGGGG : 481
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 33 271 . Medex_00101772-RA 245 481 . 145 M 114 114 G 1 0 M 13 13 G 1 0 M 51 51 G 1 0 M 39 39 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 33 -> 259
+  Target range: 269 -> 494
+
+  34 : SSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAG :  97
+       ::|:::::: ::.::::|:...| |:.:.:||| ...:...:.::   .  .   ::|. . :|
+ 270 : PAPSVPSSSYGAPSGGGGGGGGSYSAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPSSG : 333
+
+  98 : GGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYS : 161
+       |||:|:|. . .| .|:  . .           . .  . . | ..   . : .|.  .||||:
+ 334 : GGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPGGGGGGYPAPSVPSSSYG : 397
+
+ 162 : YIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNN : 225
+          . ::    ..||...: : |  ::.:||||||.  .| ::.| ::::|   : ::::.|..
+ 398 : APSGGGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGG--GGYPAPSVPSSSYGAPSGGGGGRGGG : 459
+
+ 226 : GNP-NAGHMSSGSVGNGSGGAGNGGAGGNSGPGNP : 259
+       |.. .|. ::|:| |..|||:|.||:|| ::|: |
+ 460 : GGGYPAPSVPSSSYGAPSGGGGGGGGGGYPAPSVP : 494
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 33 259 . Medex_00101772-RA 269 494 . 130 M 164 164 G 2 0 M 29 29 G 0 1 M 31 31
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 395 -> 562
+  Target range: 98 -> 267
+
+ 396 : GPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPM : 459
+       :|   |:| |.:| .: ..:: . . . |  :: . |: ::||: : :   ..|:.::  ::| 
+  99 : APPAPPSPPSTSYGAPSGGVSSTYSAPRP-FAPAPSSSYGAPSSGGGGSYSAPAAPSSSYGAPS : 161
+
+ 460 : NAGTGGSGGGGLNGPS--SVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGL : 521
+        :|.||:|||| .:||  | : |.:|:|::.|... |:.: .|:: |:.::||||||. :. ::
+ 162 : VGGGGGGGGGGYPAPSVPSSSYGAPSSGGGGGGGGYSAPSVPSSSYGAPSGGGGGGGGYPAPSV : 225
+
+ 522 : HRNG-GNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       ..:: |..:|:  .:| |: ...: :. .:::.: .::.:::
+ 226 : PSSSYGAPSSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGGG : 267
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 395 562 . Medex_00101772-RA 98 267 . 116 M 29 29 G 1 0 M 50 50 G 0 2 M 50 50 G 0 1 M 37 37
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 172 -> 271
+  Target range: 169 -> 266
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..||...: : |  ::.::|||||.  .| |:.| ::::|   : :::::|. ..|:..  | |
+ 170 : GGGYPAPSVPSSSYGAPSSGGGGGG--GGYSAPSVPSSSYGAPSGGGGGGGGYPAPSVPSSSYG : 231
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : ::|:||:|.|| .:.| |::: |:.|:..| ||
+ 232 : APSSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGG : 266
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 169 266 . 115 M 25 25 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 31 -> 271
+  Target range: 123 -> 360
+
+  32 : QPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQL :  95
+       .|.: | |:::: :..:::|:.: ||::..:|| :..: ....:.::   .  .   ::|. . 
+ 124 : APRPFAPAPSSSYGAPSSGGGGSYSAPAAPSSSYGAPSVGGGGGGGGGGYPAPSVPSSSYGAPS : 187
+
+  96 : AGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSS : 159
+       :||||:|:|  ..  . |:.|..          ..  .  . . | ..   . :..:. :.::|
+ 188 : SGGGGGGGGYSAPSVPSSSYGAPSGGGGGGGGYPA--PSVPSSSYGAPSSGGGGGGGGGYPAPS : 249
+
+ 160 : Y---SYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+           ||  . ::    ..||...: : |  ::.:||||||.  .: |:.| ::::|   | :::
+ 250 : VPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGG--GSYSAPSVPSSSYG-APSGGG : 310
+
+ 221 : SSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ::|..| |.:: ::|:| |..|:|:|.||:|| ::|: | :: :|.:| ||
+ 311 : GGGGGGYPAPS-VPSSSYGAPSSGGGGGGGGGYPAPSVPSSSYGAPSGGGG : 360
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 31 271 . Medex_00101772-RA 123 360 . 113 M 99 99 G 2 0 M 28 28 G 0 3 M 37 37 G 2 0 M 14 14 G 1 0 M 17 17 G 1 0 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 164 -> 267
+  Target range: 315 -> 421
+
+ 165 : NFDSQYIFPTGYQDTTSSHSQQSGGG---GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNN : 225
+       .: :. : :::| ..:|: :  :|||   .: .:::  ..|:||:::||||   : ::|| |..
+ 316 : GYPAPSVPSSSYGAPSSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAP : 379
+
+ 226 : GNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATP : 267
+       |...:|. :::  ::: |:::.||:||.:|.| | .:.::::
+ 380 : GGGGGGYPAPSVPSSSYGAPSGGGGGGGGGGGYPAPSVPSSS : 421
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 164 267 . Medex_00101772-RA 315 421 . 109 M 26 26 G 0 3 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 172 -> 271
+  Target range: 193 -> 287
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|| ..: : |  ::.:||||||   .| ::.| ::::|   : :::::|..| |.:: ::|:
+ 194 : GGGYSAPSVPSSSYGAPSGGGGGG---GGYPAPSVPSSSYGAPSSGGGGGGGGGYPAPS-VPSS : 253
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       | |..|||:| ||:|| ::|: | :: :|.:| ||
+ 254 : SYGAPSGGGG-GGGGGYPAPSVPSSSYGAPSGGGG : 287
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 193 287 . 107 M 24 24 G 3 0 M 32 32 G 1 0 M 14 14 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 172 -> 271
+  Target range: 241 -> 338
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..||...: : |  ::.:||||||.  .| ::.| ::::|   : :::::|.: ::.: . || 
+ 242 : GGGYPAPSVPSSSYGAPSGGGGGGG--GGYPAPSVPSSSYGAPSGGGGGGGGSYSAPSVPSSSY : 303
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :..:|:||:|.|| .:.| |::: |:.|:..| ||
+ 304 : GAPSGGGGGGGGGYPAPSVPSSSYGAPSSGGGGGG : 338
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 241 338 . 107 M 25 25 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 400 -> 539
+  Target range: 66 -> 204
+
+ 401 : PTPISPGYQQAYPNMNIKQEIQIPQVSSLT--QSPDSSPSPIAIALGQVNASTGGVIATPMNAG : 462
+       |:| |::| .: |. .  :.   |. :::|   :| ::||| :.: |. :::.::. ::|.. :
+  67 : PAP-SSSYGAPQPPAPPVDSYGPPASGPVTSYGAPPAPPSPPSTSYGAPSGGVSSTYSAPRPFA : 129
+
+ 463 : TGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGG : 526
+       .:.|:: |  :||| |.|: |..::.::: ::.: |.:|||||.. .:.: .::| ::  ..||
+ 130 : PAPSSSYG--APSSGGGGSYSAPAAPSSSYGAPSVGGGGGGGGGGYPAPSVPSSSYGAPSSGGG : 191
+
+ 527 : NGNSSCHEAGIGS : 539
+       .|.::. .:::.|
+ 192 : GGGGGYSAPSVPS : 204
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 400 539 . Medex_00101772-RA 66 204 . 106 M 3 3 G 1 0 M 26 26 G 0 2 M 40 40 G 2 0 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 172 -> 271
+  Target range: 289 -> 384
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..:| ..: : |  ::.:||||||.  .| ::.| ::::|   : :::::|..| |.:: ::|:
+ 290 : GGSYSAPSVPSSSYGAPSGGGGGGG--GGYPAPSVPSSSYGAPSSGGGGGGGGGYPAPS-VPSS : 350
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       | |..|||:| ||:|| ::|: | :: :|..| ||
+ 351 : SYGAPSGGGG-GGGGGYPAPSVPSSSYGAPGGGGG : 384
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 289 384 . 106 M 25 25 G 2 0 M 32 32 G 1 0 M 14 14 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 30 -> 271
+  Target range: 220 -> 454
+
+  31 : QQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       ..|| |: : |:.||..:::|:.. :|:: .:|| :..:.....:.::.  ..     ::|. .
+ 221 : PAPSVPSSSYGAPSSGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPS--SSYGAP : 282
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        :||||:|::  ..  . |:.|..           .. .  . . | ..   . :..:. :.::
+ 283 : SGGGGGGGGSYSAPSVPSSSYGAPSGGGGGGGGGYPA-PSVPSSSYGAPSSGGGGGGGGGYPAP : 345
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       | :   ::::.   ..|  :. ::.| .|:: |:.|||.  .| ::.| ::::|   : :::::
+ 346 : SVP-SSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPGGGG--GGYPAPSVPSSSYGAPSGGGGGG : 406
+
+ 223 : GNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |..|. .|. ::|:| |..|||:| ||:|| ::|: | :: :|.:| ||
+ 407 : GGGGGYPAPSVPSSSYGAPSGGGG-GGGGGYPAPSVPSSSYGAPSGGGG : 454
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 30 271 . Medex_00101772-RA 220 454 . 106 M 56 56 G 2 0 M 43 43 G 1 0 M 29 29 G 1 0 M 35 35 G 2 0 M 47 47 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 172 -> 271
+  Target range: 143 -> 241
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..:| ..::: |  ::.: |||||.  .| ::.| ::::|   | :::::|..| :.::  ||:
+ 144 : GGSYSAPAAPSSSYGAPSVGGGGGGGGGGYPAPSVPSSSYG-APSSGGGGGGGGYSAPSVPSSS : 206
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+         :.::||:|.|| .:.| |::: |:.|:..| ||
+ 207 : YGAPSGGGGGGGGYPAPSVPSSSYGAPSSGGGGGG : 241
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 143 241 . 105 M 41 41 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 444 -> 554
+  Target range: 339 -> 450
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTS-GGGGGNN : 507
+       |  .|:: .  : . .:|.||:|||| .:||  ::: ::.|::.|. .::: .::| |:.:|..
+ 340 : GGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPGGGGGGYPAPSVPSSSYGAPSGGG : 403
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGT : 554
+       :||||||. :. ::..:: .:.|:  .:| |: ...: :. .:::.:
+ 404 : GGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPS : 450
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 554 . Medex_00101772-RA 339 450 . 105 M 56 56 G 0 1 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 185 -> 294
+  Target range: 280 -> 386
+
+ 186 : QSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       .::||||||||:  ..| .:|| |:.    . :::::|. ..|:..  | |: ::|:||:|.||
+ 281 : APSGGGGGGGGSYSAPSVPSSSYGAP---SGGGGGGGGGYPAPSVPSSSYGAPSSGGGGGGGGG : 341
+
+ 250 : AGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGY : 294
+        .:.| |::: |:.|:..| ||.      : .. ... |:  :||
+ 342 : YPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAPGGGGGGY : 386
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 185 294 . Medex_00101772-RA 280 386 . 104 M 26 26 G 3 0 M 80 80
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 172 -> 271
+  Target range: 338 -> 430
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..||...: : |  ::.:||||||.  .| ::.| ::::|     :|:::|..| |.::  ||:
+ 339 : GGGYPAPSVPSSSYGAPSGGGGGGG--GGYPAPSVPSSSY-----GAPGGGGGGYPAPSVPSSS : 395
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+         :.::||:|.||:|| ::|: | :: :|.:| ||
+ 396 : YGAPSGGGGGGGGGGGYPAPSVPSSSYGAPSGGGG : 430
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00101772-RA 338 430 . 104 M 25 25 G 2 0 M 13 13 G 5 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101772-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 171 -> 271
+  Target range: 385 -> 484
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :|:.   ::|  :. :|||||||||.  ..| .:|| |:.    . :::: ...: |:::. ::
+ 386 : YPAPSVPSSSYGAPSGGGGGGGGGGGYPAPSVPSSSYGAPSGGGGGGGGGYPAPSVPSSSYGAP : 449
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :: |.|.||:| || .:.| |::: |:.|:..| ||
+ 450 : SGGGGGRGGGG-GGYPAPSVPSSSYGAPSGGGGGGG : 484
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00101772-RA 385 484 . 104 M 75 75 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00024257-RA
+         Model: affine:local:protein2protein
+     Raw score: 335
+   Query range: 282 -> 366
+  Target range: 170 -> 254
+
+ 283 : LCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLE : 346
+       || |||| .||:|||: :||:||:|||||:|.:  ||| |...|:|:| :|| |. ||||||| 
+ 171 : LCLVCGDVASGFHYGVASCEACKAFFKRTIQGNIEYTCPASNDCEINKRRRKACQACRFQKCLR : 234
+
+ 347 : VGMKLEAVRADRMRGGRNKF : 366
+       :||  |:|| ||:||||:|:
+ 235 : MGMLKEGVRLDRVRGGRQKY : 254
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 282 366 . Medex_00024257-RA 170 254 . 335 M 84 84
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00024257-RA
+         Model: affine:local:protein2protein
+     Raw score: 181
+   Query range: 585 -> 744
+  Target range: 322 -> 478
+
+ 586 : QTQLFALLQKQTYNQVEVDLFELMCKVLDQNLFSQVDWARNTVFFKDLKVDDQMKLLQHSWSDM : 649
+       :.:::.: |. : :: |     |:..: |::| : ::||::.  |.:|.::|||:||| :|:::
+ 323 : EPEILVMSQDSSVSDHEYRTVCLLSDLYDRELVGIIGWAKQIPGFTELSLNDQMRLLQSTWAEI : 386
+
+ 650 : LVLDHLHHRIHNGLPDETQLNNGQVFNLMSLGLLGVPQLGDYFN--ELQNKLQDLKFDMGDYVC : 711
+       |.|. |  |   :|:...:|. :  |.| .    : ..|. | :  :: ::|: |. ...:|  
+ 387 : LTLT-LAFR---SLSSSGKLRFASDFTLDESQARDCGALELYQHCCHIVERLERLSVTKEEYYI : 446
+
+ 712 : MKFLILLNPSVRGIVNRKTVSEGHDNVQAALLD : 744
+       :| |:| |:.|| : :  :|.. :||: :|| |
+ 447 : LKALVLANSDVR-MDEFLSVKKFRDNILSALSD : 478
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 585 744 . Medex_00024257-RA 322 478 . 181 M 68 68 G 1 0 M 4 4 G 3 0 M 32 32 G 0 2 M 30 30 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 152
+   Query range: 172 -> 562
+  Target range: 270 -> 655
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|  :. :: : . |||.||. |.: .|::|| ::| | .  .:|:: :|.:|. .:|: :: 
+ 271 : GGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGI : 334
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLT : 300
+       : | |||::| ||.||.||.::. |::|::.| ||   :     :.| .  |::.:|   |: .
+ 335 : GGGFGSGSTG-GGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGG : 397
+
+ 301 : CESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRN : 364
+       ..:..|  . .  .    .  :..:  :: .:    .     :  .||  :.: .::   || .
+ 398 : SGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGG----GNAGGVGGGFGSGSTGGGVGG-G : 456
+
+ 365 : KFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSS : 428
+       |:|.   .....          :: : :.: |  | ... :.|   :...:.  :.  |.   :
+ 457 : KYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHG-GIGGGQG : 519
+
+ 429 : LTQSPDSSPSPIAIALGQVNASTGGVIA-TPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNN : 491
+        . :.: :::. : : :| .:|:||: : .. ::|.||:.:||:.|. : |:|.| .|:: |.:
+ 520 : GVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGS : 583
+
+ 492 : NSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFD-SGT : 554
+       .:.:::|::|| ||.::|:|:|::: :::   :|| |.|:...:: :| |:.:::.  |: :|.
+ 584 : GGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSGGFGFPGG : 647
+
+ 555 : HPSSTADA : 562
+       |: |::.:
+ 648 : HSQSSSSS : 655
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 562 . Medex_00089660-RA 270 655 . 152 M 74 74 G 1 0 M 90 90 G 4 0 M 21 21 G 1 0 M 57 57 G 1 0 M 35 35 G 0 1 M 95 95 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 151
+   Query range: 171 -> 536
+  Target range: 205 -> 573
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNN--GNPNAGHM : 233
+       :..|| : .::::   || |||.:|   .|:|:|:|||| |:  . ::| ||::  |..::|  
+ 206 : IGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAG : 269
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYG : 297
+        :|:||.| ||||.. :||.:|. ..:||.:| .| ||.  :|    ..  .   : ::| : |
+ 270 : VGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNA-GGIGGGHGGFGGGNAGGIGGGHGGLGGGNAG : 332
+
+ 298 : LLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRG : 361
+        :. .  .|    .| . .  :. :..|.  :       ..    :.|. |   :|  .:   |
+ 333 : GIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFG : 396
+
+ 362 : GRNKF--GPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQI : 423
+       |.. :  |.      : :  : . .  :: : :.::|.: ::..::.|:  : .. .:  .   
+ 397 : GSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGG-NAGGVGGGFGSGSTGGGVGGGKYG : 459
+
+ 424 : PQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGL-NGPSSVGNGNSSNGS : 486
+       .  :| :||..||::.   ::|  :::.|  |:..  :|. |:| ||: .|.:::|.|::: |:
+ 460 : GSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGG : 523
+
+ 487 : SNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       :. .:.:|:|::: :|:::.. || ||| .: :| : .| .|. :. .:|
+ 524 : GGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGG : 573
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 536 . Medex_00089660-RA 205 573 . 151 M 54 54 G 0 2 M 40 40 G 1 0 M 100 100 G 0 2 M 32 32 G 1 0 M 72 72 G 0 1 M 65 65
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 395 -> 539
+  Target range: 276 -> 419
+
+ 396 : GPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPM : 459
+       |.:  ..||:.|   .|..:.  :.  |.  :: .  .:::::.|: : | :.::.:| |:...
+ 277 : GHGGAGGPIGGGTGGNYGGIGGGNAGGIG--GGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGF : 338
+
+ 460 : NAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTS-GGGGGNNAGGGGGGTNSNDGLH : 522
+       .:|:.|:| || :|.|| :.::||.|: .| ..: .|:|.| ||| |.|||| ||| .:::|  
+ 339 : GSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYS : 402
+
+ 523 : RNGGNGNSSCHEAGIGS : 539
+        .|:.|. :  ::||||
+ 403 : GGGSAGGIGGGQGGIGS : 419
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 395 539 . Medex_00089660-RA 276 419 . 146 M 29 29 G 2 0 M 74 74 G 0 1 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 423 -> 563
+  Target range: 253 -> 395
+
+ 424 : PQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGG--GLNGPSSVGNGNSSNG : 485
+       :| :| :.:.: :.:.:: ::|  ::::|| |:.. .:. || |||  |  |.:  | |.::.|
+ 254 : SQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAG : 317
+
+ 486 : SSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLC : 549
+       : .|.:.: .|..::| ||| .:|:.|||..:..|  .::|:::|:   :|:|: :.. ::.| 
+ 318 : GIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLG : 381
+
+ 550 : FDSGTHPSSTADAL : 563
+        : |.::::.::::
+ 382 : GGHGGNAGGVGGGF : 395
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 423 563 . Medex_00089660-RA 253 395 . 139 M 46 46 G 0 2 M 94 94
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 29 -> 265
+  Target range: 61 -> 290
+
+  30 : QQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTL :  93
+       :  |.|::|:|||::|::.:::|:::::.| ..|:||:::.:::: :::. :.  . . :: : 
+  62 : DGGPKSAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSS-SGSKGFGGSGSSSQSSSS : 124
+
+  94 : QLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNS : 157
+         :|: |:| |.    :  ::.|..      :      :.    . |      | :. .. |.:
+ 125 : SSSGSFGGGFGGIGGGGFGGKYGGY---GGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGG : 185
+
+ 158 : SSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+       :: : |   :|:  |..| .:..::     |||.||| |. |.|:::| ::|||    :.::. 
+ 186 : GNAGGI--GGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGG-LGGGNAGFGSGGGSSGGSAGGKY : 246
+
+ 222 : SGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSA : 265
+        :..|:::.:  ||:: |:|::|.|.| :||::|:|.|:||.::
+ 247 : VAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTG : 290
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 29 265 . Medex_00089660-RA 61 290 . 131 M 45 45 G 1 0 M 43 43 G 3 0 M 42 42 G 2 0 M 32 32 G 1 0 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 426 -> 554
+  Target range: 534 -> 661
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       || : |:.:: :.:: : | :.::.:| |:....:|:||| |||  |.|: |:::|:.|:: |.
+ 535 : SSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSG-GDSSSGAGGGFGG : 597
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGT : 554
+       .:|::|:|:|: :|::.::|| ||:.|:.:  .:: :|:::. . |:.: :: :.|. . .:|:
+ 598 : GHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSGGFGFPGGHSQSSSSSSSKGGS : 661
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 554 . Medex_00089660-RA 534 661 . 130 M 50 50 G 1 0 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 171 -> 275
+  Target range: 163 -> 271
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGG------SSAGGGYMLLPQAASSSGNNGNPN : 229
+       |..|| :|.::::   :|| |||.:. :.|| ||      :: ||||  |  :::::|.:|. .
+ 164 : FGGGYGGTGGGNAGGFDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGL--GGGNGGGHGGLG : 225
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVID : 275
+       :|: : || |.:|||::.|   :.:|:::. |::||..||||. ::
+ 226 : GGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVG : 271
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 275 . Medex_00089660-RA 163 271 . 128 M 34 34 G 0 6 M 10 10 G 2 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 421 -> 538
+  Target range: 372 -> 488
+
+ 422 : QIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNG : 485
+       : .: :||. :.:::::.:: ::|  .: :||  |..:.:| || |:|. .|. : |:|. :.|
+ 373 : HGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGN-TGGFGGGHGGLGGG : 435
+
+ 486 : SSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       ::.| ..: .:.:|:|| ||.: ||:||::: :::  ..|| |. :  ::| |
+ 436 : NAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPG : 488
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 421 538 . Medex_00089660-RA 372 488 . 128 M 49 49 G 1 0 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 429 -> 562
+  Target range: 321 -> 456
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS : 493
+       .::. ::.:: :|: |  ::|||| ::.. .::: :::::: .| ::||.|::::|:| |..::
+ 322 : GHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHG : 385
+
+ 494 : STGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKL--CFDSGTH : 555
+       :.:.|.:|| ||:.: :|||::.: :| : . |:||::  .:| |:| ....: :   |:||: 
+ 386 : GNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGST : 449
+
+ 556 : PSSTADA : 562
+       .::.:::
+ 450 : GGGVGGG : 456
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 562 . Medex_00089660-RA 321 456 . 127 M 119 119 G 0 2 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 26 -> 268
+  Target range: 273 -> 512
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       :.  : .::.::::|..:: .: :|:|..: :|.:.: ::.|... ..::::   .: .   .:
+ 274 : VGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGG : 337
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       :.   :||| :|::.   :|. |: :.        :  : :     :.  .     .::.::. 
+ 338 : FGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGG- : 401
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQA : 218
+       ::::: :   . :   | :..  : .::|:  :||.:|| ||.: :||:||: :|| |   . :
+ 402 : YSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYG--GSG : 462
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG : 268
+       :||| :.::::|| ::: : |:|:.|.. ||:| .:| |.. ||.::..|
+ 463 : GSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHG : 512
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 268 . Medex_00089660-RA 273 512 . 127 M 127 127 G 1 0 M 59 59 G 2 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 442 -> 562
+  Target range: 189 -> 307
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       ::|  ::: ||  |..:.:| || |||. .|.:::|.||:: ||:.|::.:|:|.   :|||::
+ 190 : GIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSS : 253
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       :.:|::::..:::|   .|| |.:  |.:: |:: ..::::    :|.::::.:::
+ 254 : SQSGSSSAGGGHGGAGVGGGVGGG--HGGAGGPIGGGTGGNYGGIGGGNAGGIGGG : 307
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 562 . Medex_00089660-RA 189 307 . 126 M 88 88 G 2 0 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 442 -> 562
+  Target range: 229 -> 350
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       ::|  .:|:||  :.   ||.|:|: :| ::::: |:|.:: |:: |..::::|...:||.|||
+ 230 : GFGSGGGSSGGSAGGKYVAGGGSSSQSG-SSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGN : 292
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKL--CFDSGTHPSSTADA : 562
+        :| |||.:.: :| | . |.||::  .:| |:| ....: :   |:||: .::.:::
+ 293 : YGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGG : 350
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 562 . Medex_00089660-RA 229 350 . 126 M 28 28 G 1 0 M 77 77 G 0 2 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 186 -> 271
+  Target range: 267 -> 353
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       :| ||| |||:  .|:: |:::||.|  :. :.::: ..|:.. |  ::|::|.| || |.|.|
+ 268 : AGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNA : 331
+
+ 251 : GGNSGP-GNPMGGTSATPGHGG : 271
+       || :|. |:. .|.:...| ||
+ 332 : GGIGGGFGSGSTGGGVGGGSGG : 353
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00089660-RA 267 353 . 126 M 70 70 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 37 -> 279
+  Target range: 7 -> 247
+
+  38 : LAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHE--YNAYTLQLAGGG :  99
+       |: :::: ...::::: :.:|:|:.| ::: ::::::.:.:   . |::.  :.. . : || .
+   8 : LPRSAEPYGPNSGSGSFSKSSSNSGSFGGSYSSSSSSSSSSSGSGGFDNGIWFGDGGPKSAGLT :  71
+
+ 100 : GSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYI : 163
+       ::|||:  : :: |: |:.         |         . :      : :::::  :|:|::  
+  72 : AGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSSSSS--SSGSFGGG : 133
+
+ 164 : YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN : 227
+       :.  :   |.. | : .:||:  :||.:|| ||.   |::||::|||    :. :.::: ..::
+ 134 : FGGIGGGGFGGKYGGYGGSHGGLGGGNAGGFGGGY--GGTGGGNAGGFDGGFGGGNAGGIGGSH : 195
+
+ 228 : PNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHL : 279
+       .. |  ::|::|.| || |.|.:||::| |.. :| ::..| :|.  : |.:
+ 196 : GGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYV : 247
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 37 279 . Medex_00089660-RA 7 247 . 125 M 50 50 G 0 2 M 66 66 G 2 0 M 43 43 G 2 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 426 -> 562
+  Target range: 271 -> 413
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGG---GGLNGPSSVGNGNSSNGSS : 487
+       :::. :.:::.:||: : |   ::.||  |..:.:| || ||   ||:.|. :  .|.::.| :
+ 272 : GGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIG : 335
+
+ 488 : NGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGL-HRNGGNGNS--SCHEAGIGSLQNTADSKL : 548
+       .| .::|||.|.:||:||::.:|:::::.: :|:   :||:|||  : |.:. |:: .. ::. 
+ 336 : GGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSG : 399
+
+ 549 : CFDSGTHPSSTADA : 562
+        :.:|. :::.:::
+ 400 : GYSGGGSAGGIGGG : 413
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 562 . Medex_00089660-RA 271 413 . 125 M 42 42 G 0 3 M 53 53 G 0 1 M 9 9 G 0 2 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 442 -> 538
+  Target range: 498 -> 594
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       ::|  :::.||   ..:.:| || ||||:.:.:| |::: |.:||.| .. :.|:|. |||.:.
+ 499 : GVGGGHGGIGGG-HGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAG : 561
+
+ 507 : NAGGG-GGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       . ||| |:|:.:: |  . ||:|..|. .|| |
+ 562 : GIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGG : 594
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 538 . Medex_00089660-RA 498 594 . 125 M 12 12 G 1 0 M 56 56 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 432 -> 539
+  Target range: 231 -> 340
+
+ 433 : PDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSN--GSSNGNNNSS : 494
+       ..::.|: : | |:  |:.|:  .:. :::.|| ||:|:.|. : |:|.::.  |::.|.| ::
+ 232 : GSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGG : 295
+
+ 495 : TGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .|.|.:|| ||.::| |||.:.: :| | . |.||::  .:|:||
+ 296 : IGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGS : 340
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 432 539 . Medex_00089660-RA 231 340 . 124 M 52 52 G 0 2 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 144 -> 273
+  Target range: 220 -> 347
+
+ 145 : QQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSA : 208
+       : .::.... |.|:: |   : :::|: ..|  . ::| |. :| ||:| ||.: .| :|::::
+ 221 : HGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGP : 284
+
+ 209 : GGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        ||    . :: ::||.|. .:|| : |: ..|: |:|:|| ||.::.|  :||. ::.: ||.
+ 285 : IGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGG--IGGGFGSGSTGGG : 346
+
+ 273 : V : 273
+       |
+ 347 : V : 347
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 144 273 . Medex_00089660-RA 220 347 . 124 M 113 113 G 2 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 426 -> 560
+  Target range: 486 -> 618
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       :::. :.:: .:.:: : | :.:: ||: :.. ..|.|| |:|| :|:|| :.::|:. :: |.
+ 487 : PGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGG : 550
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGT : 554
+       .:::.|.|.:|| ||. ::|:||:   .:| . .:|.::||  .:|:|: ::.::|  . :||:
+ 551 : GHGGIGGGNAGGIGGGFGSGSGGSL--GGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGS : 612
+
+ 555 : HPSSTA : 560
+        ::|.:
+ 613 : SAGSGG : 618
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 560 . Medex_00089660-RA 486 618 . 124 M 89 89 G 2 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 183 -> 273
+  Target range: 214 -> 304
+
+ 184 : SQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       : ::|| || ||||   ||:||||:|::     .:::||:::|:::||   :|:  .|: |:|:
+ 215 : GGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGH : 278
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGGEV : 273
+       |||||. |.|.. . .: ..|::|.:
+ 279 : GGAGGPIGGGTGGNYGGIGGGNAGGI : 304
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 183 273 . Medex_00089660-RA 214 304 . 123 M 90 90
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 177 -> 272
+  Target range: 317 -> 414
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGG-GYMLLPQAASSSGNNGNPNAGHMSSG-SVG : 239
+       :..::|:  :||.:|| ||.: :||:||: :|| |    : ::||:|. |. .:|| :.| |:|
+ 318 : GIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLG : 381
+
+ 240 : NGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       .| ||.:.| :|| :|:|.  ||.||..  ||:
+ 382 : GGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQ : 414
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 272 . Medex_00089660-RA 317 414 . 123 M 33 33 G 0 1 M 26 26 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 171 -> 271
+  Target range: 178 -> 280
+
+ 172 : FPTGYQDTTSSHSQQSGGG-GGGGGGNLLNGSSG-GSSAGGGYMLLPQAASSSGNNGNPNAGHM : 233
+       | .|: :..::    | || |||.:|.: .| :| |::.|||.  |. :.:: |:.|.:::|  
+ 179 : FDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSA : 242
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ::  |:.|:::: :|::::.:|.|.:  |.:...||||
+ 243 : GGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGG : 280
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00089660-RA 178 280 . 122 M 19 19 G 0 1 M 14 14 G 0 1 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 172 -> 265
+  Target range: 362 -> 455
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       :.|: :..::|: ::.: ||| |||  .| :|| :::|||   . |:: :|.:|. .:|: :: 
+ 363 : AGGFGGVGGGHGGKGNSLGGGHGGN-AGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGF : 425
+
+ 237 : SVGNGS-GGAGNGGAGGNSGPGNPMGGTSA : 265
+       : |:|: ||:..||.||. |:|:. ||.::
+ 426 : GGGHGGLGGGNAGGVGGGFGSGSTGGGVGG : 455
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 265 . Medex_00089660-RA 362 455 . 122 M 25 25 G 1 0 M 44 44 G 0 1 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 444 -> 561
+  Target range: 450 -> 566
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       | |.::. |  :.: :.:.::|::|||.| :: |:|.:: . :.|. .::.|.| :| |||:.:
+ 451 : GGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGG-GHGGPGVPIGGGGYTGGVGGGHGGIGGGHGG : 513
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTAD : 561
+        ||| |. :.:|: ..|::|:||  .:: |:| ..:::.  :::|. .: .::
+ 514 : IGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGG : 566
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 561 . Medex_00089660-RA 450 566 . 122 M 32 32 G 1 0 M 84 84
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 170 -> 271
+  Target range: 490 -> 591
+
+ 171 : IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       | ..|| :..::     ||| || ||.  . ::|| ::||:    :|::||||. |. .:|| :
+ 491 : IGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGG : 554
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+        |: ..|: |:| |:::|.| .|.. ||:::.:: |:
+ 555 : IGGGNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGA : 591
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 170 271 . Medex_00089660-RA 490 591 . 122 M 101 101
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 172 -> 271
+  Target range: 500 -> 601
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSS--AGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       ..|. :..::|:  :|| || |||.: :|:|:|||  :|::   |. .::: |. |..||| ::
+ 501 : GGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIG : 564
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|  :.::|: |.|. ||::| ::: :|.: ..||:|
+ 565 : GGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSG : 601
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00089660-RA 500 601 . 122 M 35 35 G 0 2 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 172 -> 271
+  Target range: 406 -> 502
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       :.|  :. :: :  :.|| ||| |.| .|::||  .|||:   : ::: :|.: ..::|  | :
+ 407 : AGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGG--VGGGFGSGSTGGGVGGGKYGGSGGSSSQS : 468
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : ::::|| | | :||::||| |:||.: |.| ||
+ 469 : GSSSSAGGLG-GVGGGHGGPGVPIGGGGYTGGVGG : 502
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00089660-RA 406 502 . 121 M 33 33 G 2 0 M 39 39 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 177 -> 271
+  Target range: 249 -> 337
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :.:||:|  |::||| ||:.: .| :|| :::||    | :::::|| |. .:|:  :|::|.|
+ 250 : GGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGG----PIGGGTGGNYGGIGGGN--AGGIGGG : 307
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+        || |.|.||| :|. ..:||.:|..  ||
+ 308 : HGGFGGGNAGGIGGGHGGLGGGNAGGIGGG : 337
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 271 . Medex_00089660-RA 249 337 . 120 M 34 34 G 4 0 M 17 17 G 2 0 M 37 37
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 431 -> 539
+  Target range: 461 -> 569
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :..||.|. : : | :.: .||  :..:. |.|| .||  .|.:::|.|::: |:::|. .::.
+ 462 : GGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGG : 525
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+        .:.:::|:::::|:::|| .: :| | . |.||::  .:|:||
+ 526 : FGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGS : 569
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 539 . Medex_00089660-RA 461 569 . 120 M 108 108
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 38 -> 272
+  Target range: 434 -> 670
+
+  39 : AAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSG : 102
+       :.:|. :.. :|||...:.:|.: ::|:.:::::.:.:.|  |.  . ...: .:.::||| :|
+ 435 : GNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTG : 498
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQ-QQQQQNIANNANQFNSSSYSYIYN : 165
+       : .  | :  :.||.    |               .  |      .::. :.  .: : :   .
+ 499 : GVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGG : 562
+
+ 166 : FDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPN : 229
+       ::: :  .:|   ..::.:  :|::::|:||.: .| ||::|::::    :.:::: |.:|: :
+ 563 : IGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKS : 626
+
+ 230 : AGHMSSGSVGNGSGGAG-NGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       ::  || | :.|||| | .|| : :|:::::.||:|: ||||||
+ 627 : SSSSSSQSGSGGSGGFGFPGGHSQSSSSSSSKGGSSGWPGHGGE : 670
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 38 272 . Medex_00089660-RA 434 670 . 120 M 103 103 G 0 1 M 105 105 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 426 -> 555
+  Target range: 165 -> 292
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       :: . :.:::::.:. ::|  ||:. |   ....:|.:|: ||| .| :: |||.: .| :.||
+ 166 : GGYGGTGGGNAGGFDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGG-GNGGGHGGLGGGN : 228
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGT : 554
+       .. ::|.|:|||::|.:  :|||::: :::   .||:|.::  .:|:|: :..|:: :  ::|.
+ 229 : AGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAG-VGGGVGGGHGGAGGPIGGGTGG : 291
+
+ 555 : H : 555
+       :
+ 292 : N : 292
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 555 . Medex_00089660-RA 165 292 . 119 M 50 50 G 1 0 M 54 54 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 432 -> 539
+  Target range: 198 -> 306
+
+ 433 : PDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTG : 496
+       .:::::.|: : | :.::.||  :.  .:.:| ::||| :|.|: |:  ::.|||: :.:||:|
+ 199 : GGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAG : 262
+
+ 497 : NGTSGGGGGNNAGGGGGGTNSNDGLHRNGG-NGNSSCHEAGIGS : 539
+       .| :|:| |...||| ||:.:. |   .|. .| :: :.:|||:
+ 263 : GGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGG : 306
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 432 539 . Medex_00089660-RA 198 306 . 119 M 94 94 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 444 -> 563
+  Target range: 214 -> 334
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSV-GNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       |  .:: ||: :.. . |:||:::|| .|.. | |.|:||:::|::...: .|.|.:|| ||.:
+ 215 : GGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGH : 278
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADAL : 563
+       :|:||. ..:.:| . . |.||::  .:| |:: ....: :  : |. .::.|:::
+ 279 : GGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGI : 334
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 563 . Medex_00089660-RA 214 334 . 119 M 33 33 G 0 1 M 86 86
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 172 -> 276
+  Target range: 541 -> 642
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       :.|  :..::|:  :||.:|| ||. :.::|||| :||.|   : :.||||..|. .:|| :||
+ 542 : SGGLGGVGGGHGGIGGGNAGGIGGG-FGSGSGGSLGGGNYG-GSGGDSSSGAGGGFGGGHSGSG : 603
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       | |::| :::::|:|| :|:|:  :::|::.: :|.  :|
+ 604 : S-GSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSGGF : 642
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 276 . Medex_00089660-RA 541 642 . 119 M 25 25 G 1 0 M 15 15 G 1 0 M 23 23 G 1 0 M 38 38
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 24 -> 274
+  Target range: 0 -> 247
+
+  25 : MQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEY :  88
+       : :.: : |.|:.  :..::|.: :.:|:|::: |.: ||||:::::::...: :  . |.:. 
+   1 : IVIKESRLPRSAEPYGPNSGSGSFSKSSSNSGSFGGSYSSSSSSSSSSSGSGGFDNGIWFGDG- :  64
+
+  89 : NAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNA : 152
+       .: :  |::||:::|::    |: ::.|        |         :  .      | : ::::
+  65 : GPKSAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSSSSSSS : 127
+
+ 153 : NQFNSSSYSYI--YNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYML : 214
+       . | ::::: |   .|:::|   .|| :: :: :  ::|| ||| |.  .|::|| .:| |   
+ 128 : GSF-GGGFGGIGGGGFGGKY---GGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGGGN : 187
+
+ 215 : LPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVI : 274
+        .  ::| |. |..||| :::|  | |:|.:|. |: |.:.:| . ||.|:..: ||. :
+ 188 : AGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYV : 247
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 24 274 . Medex_00089660-RA 0 247 . 118 M 63 63 G 1 0 M 67 67 G 1 0 M 7 7 G 0 2 M 7 7 G 3 0 M 101 101
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 444 -> 539
+  Target range: 282 -> 378
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGG-GLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       |.:.::|||  :.  .:.:|| ||| |  |.::.|. .:::|: .|.|.::.|.| ::|:.|..
+ 283 : GPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGG : 346
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .|||:||:: :::  ..|| |. :  ::| |:
+ 347 : VGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGN : 378
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00089660-RA 282 378 . 118 M 25 25 G 0 1 M 70 70
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 172 -> 271
+  Target range: 300 -> 397
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       :.|  :. :: :  ::|| ||| |.| .|::||   |||:   : ::: :|.:|.::.:  ||:
+ 301 : AGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGG--IGGGFGSGSTGGGVGGGSGGSSQSGSSSS : 362
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : | |: |:|:|| |.: |.|:. .:.:...| ||
+ 363 : AGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGG : 397
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00089660-RA 300 397 . 118 M 33 33 G 2 0 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 423 -> 561
+  Target range: 185 -> 322
+
+ 424 : PQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSS : 487
+       .:.:::. |.:: .:. | ::|   :: ||  :.. .: .||::| | .|.|| |::.:.  ::
+ 186 : GNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAG : 249
+
+ 488 : NGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFD : 551
+       .|::: |.:::::|| ||...||| ||.::..| . .||.| ::. . | |:  ..:::.  |:
+ 250 : GGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTG-GNYGGIGGGNAGGIGGGHGGFG : 312
+
+ 552 : SGTHPSSTAD : 561
+       :|. .: .::
+ 313 : GGNAGGIGGG : 322
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 423 561 . Medex_00089660-RA 185 322 . 117 M 105 105 G 1 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 188 -> 563
+  Target range: 60 -> 440
+
+ 189 : GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG : 252
+       |:||. ::.| .|:||:||.:|:    : ::.: |.:|:::.:  ||:| ::| ||:|:::.::
+  61 : GDGGPKSAGLTAGGSGSSSQSGSSS--SSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSS : 122
+
+ 253 : NSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGY--HYGLLTCESCKGFFKRTVQN : 314
+       :|:::.:.||. :. | ||   .:    ..  .: |::.:|:   ||  . .:  ||      .
+ 123 : SSSSSGSFGGGFGGIGGGGFGGKYGGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGGG : 186
+
+ 315 : KKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGM-KLEAVRADRMRGGRN---KFGPMYKRDR : 374
+       :   .  :: :   :::     .|  :    . |   |.: .|:  .|| :   . |..|  : 
+ 187 : NAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGG : 250
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPS : 438
+       :.. |  . .. : ::  .::|.:: ... ::| . : .. .   .|  .:.:::. :.:: .:
+ 251 : GSSSQSGSSSAGGGHG-GAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGG : 313
+
+ 439 : PIAIALGQVNASTGGVIATPMNAGTG-GSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+       . | ::|  ::: ||  |..:.:| | ||.|||:.|.|: :: ::|::|:.| .. :.|:|..|
+ 314 : GNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKG : 377
+
+ 502 : GG-GGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADAL : 563
+       .: ||.::|.:|| ..: :|    :|.|:::  .:| |:: :...: :  : |. .::.|:::
+ 378 : NSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGV : 440
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 563 . Medex_00089660-RA 60 440 . 117 M 25 25 G 2 0 M 79 79 G 0 2 M 55 55 G 0 1 M 15 15 G 0 3 M 26 26 G 1 0 M 73 73 G 0 1 M 39 39 G 0 1 M 60 60
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 431 -> 539
+  Target range: 367 -> 473
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       : :::.:. : :||  :::.:| ::... :|:|| :||| .|. : |:|. ::|::.| ..: .
+ 368 : GVGGGHGGKGNSLGGGHGGNAGGVGGGF-GGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHG : 430
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       | | :|.:|| .:| |:|:|.:. |  : ||:|.||.:.:: :|
+ 431 : GLG-GGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSS : 473
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 539 . Medex_00089660-RA 367 473 . 117 M 28 28 G 1 0 M 38 38 G 1 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 426 -> 545
+  Target range: 366 -> 488
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSN-GSSNG : 489
+       :::. :.::..:::: : |  .::.|| ::.: . :.|||:||  .|.:::|:||::. |:::|
+ 367 : GGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHG : 430
+
+ 490 : NNNSSTGNGTSGG-GGGNNAGGGGGGT-NSNDGLHRNGGNGNSSCHEAGIGSLQNTAD : 545
+       . .::.:.|.:|| |:|:.:|| |||. .:::|  .::|:::|:   :|:|: :..::
+ 431 : GLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPG : 488
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 545 . Medex_00089660-RA 366 488 . 117 M 58 58 G 0 1 M 18 18 G 0 1 M 13 13 G 0 1 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 431 -> 562
+  Target range: 401 -> 538
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIA---TPMNAGTGGSGGGGL-NGPSSVGNGNSSNGSSNGNN : 491
+       |.::|::.|: : | :.::..| ::   ..:.:|.:|: |||: :|::: | |.:. |:|.|::
+ 402 : SGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSS : 465
+
+ 492 : NSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHR---NGGNGNSSCHEAGIGSLQNTADSKLCFDS : 552
+       : |.:::::|| || .:| ||.|.. .:| .    .||:|. :  ::|||: |...::   |:|
+ 466 : SQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGG-GFGS : 528
+
+ 553 : GTHPSSTADA : 562
+       |. ::|::::
+ 529 : GGSSGSSSQS : 538
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 562 . Medex_00089660-RA 401 538 . 117 M 25 25 G 0 3 M 15 15 G 0 1 M 52 52 G 0 3 M 24 24 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 425 -> 563
+  Target range: 406 -> 545
+
+ 426 : VSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTG-GSGGGGLNGPSSVGNGNSSNGSSN : 488
+       .:::. :.:: .|. : ::|  ::: ||  |..:.:| | ||.|||:.|..  |:|.||: |::
+ 407 : AGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGS : 470
+
+ 489 : GNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDS : 552
+       :::.:: |. .:| ||.. : |||| |.: :| | . |.|:::  .:  |   .. :|  . :|
+ 471 : SSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGS : 534
+
+ 553 : GTHPSSTADAL : 563
+       :::::|::::|
+ 535 : SSQSGSSSGGL : 545
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 425 563 . Medex_00089660-RA 406 545 . 117 M 39 39 G 0 1 M 99 99
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 171 -> 271
+  Target range: 325 -> 427
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNN-GNPNAGHMS : 234
+       :..| .:..::    ::.||| |||:  :: ||:||::||:  :. : ::.||: |..::|: :
+ 326 : LGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAG : 389
+
+ 235 : SGSVG-NGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : : | .|||| :.||::|. |.|:.  |::.|.| ||
+ 390 : GVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGG : 427
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00089660-RA 325 427 . 116 M 54 54 G 0 1 M 14 14 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 172 -> 268
+  Target range: 391 -> 488
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN-PNAGHMSS : 235
+       ..|: ::.:  :  |:|| ||| |.: :|::|| ::| | :  .:|:: :|. |: :.:| :::
+ 392 : GGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGG : 455
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG : 268
+       |. |.::|:::::|:::::|. ..:||. :.||
+ 456 : GKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPG : 488
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 268 . Medex_00089660-RA 391 488 . 116 M 55 55 G 0 1 M 41 41
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 171 -> 271
+  Target range: 506 -> 606
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :..|. :..::::  :||| |:||::  :: ||:||:| | :  .::: ::||.|. .:|  |:
+ 507 : IGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSG : 570
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :: : |:|. |.:|::::||:|...||. :.:| |:
+ 571 : SGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGS : 606
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00089660-RA 506 606 . 116 M 100 100
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 426 -> 562
+  Target range: 493 -> 631
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPM-NAGTGGSGGGGLNGPSSVGNGNSSNGSSNG : 489
+       :: | : :::.:.|: : | :.:: ||| :... ::|::||:: : ::::::|. .:::|: .|
+ 494 : GGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGG : 557
+
+ 490 : NNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGG-NGNSSCHEAGIGSLQNTADSKLCFDS : 552
+       .|.::.|.| ::|:||: :||. ||:.::.:   .|| .|. |  .:| :|  .::.:.  |::
+ 558 : GNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGG : 621
+
+ 553 : GTHPSSTADA : 562
+       :.  ||::.:
+ 622 : SGSKSSSSSS : 631
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 562 . Medex_00089660-RA 493 631 . 116 M 33 33 G 0 1 M 67 67 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 172 -> 270
+  Target range: 187 -> 288
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSA-GGGYMLLPQAASSSGNNGNPN--AGHM : 233
+       :.|  :: :: :  ::|| ||| |.| .|::|| :: |||   :. :::|||.::..:  ||  
+ 188 : AGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGG : 251
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       ||:  |::|:|:|:|||| .:| |.. ||:::. | |
+ 252 : SSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGG : 288
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 270 . Medex_00089660-RA 187 288 . 115 M 36 36 G 0 1 M 21 21 G 0 2 M 41 41
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 175 -> 271
+  Target range: 245 -> 342
+
+ 176 : YQDTTSSHSQQSGGGGGGG-GGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSV : 238
+       | ...:| || :::::||| ||. :.|: ||: :|:|  : . :::: |. |..||| :::|  
+ 246 : YVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHG : 309
+
+ 239 : GNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       | |:|.||. |:| .: .|.. ||.::. | |:
+ 310 : GFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGS : 342
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 175 271 . Medex_00089660-RA 245 342 . 115 M 19 19 G 0 1 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 426 -> 531
+  Target range: 252 -> 355
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       || : |:.::.:. : ::|   ::. |  :.|:.:||||:  ||:.|.:: | | :::|: .|.
+ 253 : SSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGN-YGGIGGGNAGGIG-GGHGGFGGG : 314
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSS : 531
+       |.::.|.| :| ||||.:| ||| .:::.|   .||:|.||
+ 315 : NAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSS : 355
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 531 . Medex_00089660-RA 252 355 . 115 M 40 40 G 1 0 M 13 13 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 177 -> 273
+  Target range: 272 -> 369
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLN-GSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGN : 240
+       :..::|: .:|. |||.|||  . |::.::: |||.  :. :.::: ..|:.. |  ::|::|.
+ 273 : GVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGG : 336
+
+ 241 : GSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEV : 273
+       | |:::.||: |.::.|:: :|:|:::|  |.|
+ 337 : GFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGV : 369
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 273 . Medex_00089660-RA 272 369 . 115 M 23 23 G 0 1 M 73 73
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 186 -> 271
+  Target range: 272 -> 358
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       : ||| ||:|. :.|::||: :| |    .  ::: |. |..||| :::|  | |:|.||. |:
+ 273 : GVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGG : 336
+
+ 251 : G-GNSGPGNPMGGTSATPGHGG : 271
+       | |:::.|..:||.|:.::::|
+ 337 : GFGSGSTGGGVGGGSGGSSQSG : 358
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00089660-RA 272 358 . 114 M 65 65 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 429 -> 540
+  Target range: 313 -> 425
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAG-TGGSGGGGLNGPSSVGNGNSSNGSSNGNNN : 492
+       .::.: :.:. ::: |:..: .||  :.: .:| .|||||:: :|:|| :.| :: |:::|.:.
+ 314 : GNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKG : 377
+
+ 493 : SSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSL : 540
+       :| |.| :|.:|| .:| ||:|. |.:|   . |.|:::  .:..|::
+ 378 : NSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGF : 425
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 540 . Medex_00089660-RA 313 425 . 114 M 33 33 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 431 -> 539
+  Target range: 338 -> 446
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :::|:.:.:: : |  :.|.::  |....: .|| || | : .:: |...:: |:: |.:.: :
+ 339 : GSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYS : 402
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |.|::|| ||.::| |:|.|.: :| | . |.||::  .:|:||
+ 403 : GGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGS : 446
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 539 . Medex_00089660-RA 338 446 . 114 M 108 108
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 444 -> 546
+  Target range: 316 -> 419
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       | :.:: ||: :.. .: .|| |:|: .|. : |:|.||:::|:::..: .| |.: || ||: 
+ 317 : GGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSL : 380
+
+ 509 : GGGGGGTNSNDGLHRNGGNG-NSSCHEAGIGSLQNTADS : 546
+       ||| ||..:. |   .|:.| :::  .:|||: |.. :|
+ 381 : GGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGS : 419
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 546 . Medex_00089660-RA 316 419 . 113 M 84 84 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 431 -> 530
+  Target range: 353 -> 452
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNG-PSSVGNGNSSNGSSNGNNNSS : 494
+       |::|::|: | ::| |.:: ||  :.::.:| ||::||  .| .:| | :.:::::: |..:::
+ 354 : SSQSGSSSSAGGFGGVGGGHGG-KGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGG : 416
+
+ 495 : TGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNS : 530
+       .|:|.:|| ||.::| |||.:.: :|   :|:.|.:
+ 417 : IGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGG : 452
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 530 . Medex_00089660-RA 353 452 . 113 M 22 22 G 1 0 M 19 19 G 0 1 M 57 57
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 177 -> 273
+  Target range: 381 -> 477
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :. ::::   ||| ||:||   .||:|| ::| | :  .:::: :|.:|. .:|: :: : | |
+ 382 : GGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFG : 445
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGGEV : 273
+       ||::|.| :||: |.:.. :: |:::: :|.:
+ 446 : SGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGL : 477
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 273 . Medex_00089660-RA 381 477 . 113 M 96 96
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 395 -> 539
+  Target range: 382 -> 528
+
+ 396 : GPDIKPTPISPGY--QQAYPNMNIKQEIQIPQVS-SLTQSPDSSPSPIAIALGQVNASTGGVIA : 456
+       |.: ::..::.|:    :|:. .   .|  .| : : .::.: :.:. ::: |:..: .||  :
+ 383 : GHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGS : 446
+
+ 457 : TPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDG : 520
+       .: .:|.||:  || .|:|| :.::||.|: .| ..: .|.|.: ||||  :|| ||| .: :|
+ 447 : GSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGG-YTGGVGGGHGGIGG : 509
+
+ 521 : LHRNGGNGNSSCHEAGIGS : 539
+        | . |.|:::  .:|:||
+ 510 : GHGGIGGGQGGVGGGGFGS : 528
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 395 539 . Medex_00089660-RA 382 528 . 113 M 13 13 G 0 2 M 19 19 G 0 1 M 78 78 G 1 0 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 423 -> 540
+  Target range: 434 -> 555
+
+ 424 : PQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSG--GGGLNGPS-SVGNGNSSN : 484
+       .:.:::. : :|:::. ::: |: .:|.|:  .:. ::::|| |  ||| .||: ::|.|. :.
+ 435 : GNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTG : 498
+
+ 485 : GSSNGNNNSSTGNGTSGGGGGNNAGGG-GGGTNSNDGLHRNGGNGNSSCHEAGIGSL : 540
+       | :.|:.. :.|:|. ||| |. :||| |:|.:|..: :..:::|. :  .:| |::
+ 499 : GVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGI : 555
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 423 540 . Medex_00089660-RA 434 555 . 113 M 44 44 G 0 2 M 8 8 G 0 1 M 36 36 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 429 -> 561
+  Target range: 427 -> 558
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS : 493
+       .::. ::.:: ::: |  ::|||| ::... :|:|||:: : :::|: | | : .|: .|.. :
+ 428 : GHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLG-GVGGGHGGPGVP : 490
+
+ 494 : STGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPS : 557
+        .|.| :|| ||.::| ||| .. .:|    ||.| :|  .:| :|  .::.: |   :|.|.:
+ 491 : IGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGG : 554
+
+ 558 : STAD : 561
+        .::
+ 555 : IGGG : 558
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 561 . Medex_00089660-RA 427 558 . 113 M 51 51 G 1 0 M 80 80
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 177 -> 297
+  Target range: 461 -> 581
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :.:||:|  |:::|| || .  :|::| : :||||   . .::: |. |..::| :::|  | |
+ 462 : GGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYT--GGVGGGHGGIGGGHGG-IGGGQGGVG : 522
+
+ 242 : SGGAGNGGAGGNSG-PGNPMGG-TSATPGHGG-EVIDFKHLFEELCPVCGDKVSGYHYG : 297
+       :|| |:||::|:|: :|:: || .:...|||| .  :   : ..: : .|:.::| :||
+ 523 : GGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYG : 581
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 297 . Medex_00089660-RA 461 581 . 113 M 36 36 G 2 0 M 16 16 G 1 0 M 23 23 G 0 1 M 7 7 G 0 1 M 9 9 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 442 -> 539
+  Target range: 162 -> 261
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGP-SSVGNGNSSN-GSSNGNNNSSTGNGTSGGGG : 504
+       ::|   ::|||  |...::| ||:.:||:.|: :: |.||::. |:: |. .::.|.| :| ||
+ 163 : GFGGGYGGTGGGNAGGFDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGG : 226
+
+ 505 : GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       ||.: |:|||:::..:  :  :.|.||.:.:: ::
+ 227 : GNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSA : 261
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 539 . Medex_00089660-RA 162 261 . 112 M 32 32 G 0 1 M 10 10 G 0 1 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 450 -> 539
+  Target range: 247 -> 336
+
+ 451 : TGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGG : 514
+       :||  ::. .::::|:| || . .::||.|:::.|:: |...::. .|.:||.:|. :|| || 
+ 248 : AGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGF : 311
+
+ 515 : TNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       ..:|.|   .| .| :: :.:|||:
+ 312 : GGGNAGGIGGGHGGLGGGNAGGIGG : 336
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 450 539 . Medex_00089660-RA 247 336 . 112 M 89 89
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 177 -> 271
+  Target range: 256 -> 349
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :::|: : ::|:| ||| |.  .|::|. ::|.|    . :::::|. |..::| .::|:.|. 
+ 257 : GSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGG-FGGGNAGGI : 319
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|| |. |:|..:| |...|:.|:..| ||
+ 320 : GGGHGGLGGGNAGGIGGGFGSGSTGGGVGG : 349
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 271 . Medex_00089660-RA 256 349 . 112 M 54 54 G 1 0 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 172 -> 272
+  Target range: 254 -> 356
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGG-GYMLLPQAASSSGNNGNPNAGHMSS : 235
+       .:|  .:.::|: .: ||| ||| .  .|: ||:::|. | :  .:|:: :|.:|. .:|: ::
+ 255 : QSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGG : 318
+
+ 236 : GSVGNGS-GGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        : |:|: ||:..|| ||. |:|:. ||.::.:| :::
+ 319 : IGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQ : 356
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 272 . Medex_00089660-RA 254 356 . 112 M 38 38 G 0 1 M 32 32 G 0 1 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 432 -> 539
+  Target range: 326 -> 434
+
+ 433 : PDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTG : 496
+       .:::::.|: ::|  :::.|   ::. :: :|:|:::|  |. : |:|..:|: :.|:..::.|
+ 327 : GGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGG : 390
+
+ 497 : NGTS-GGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+        |.: ||:|| ::||::||..:.:|   :|..|. :  ::|:|:
+ 391 : VGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGG : 434
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 432 539 . Medex_00089660-RA 326 434 . 112 M 68 68 G 0 1 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 444 -> 562
+  Target range: 485 -> 607
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGG--GGL-NGPSSVGNGN-SSNGSSNGNNNSSTGNGTSGGGG : 504
+       |.  : .||  :..:.:| || ||  ||: .|.::||.|. :|.|||.::::|::::|. || |
+ 486 : GPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVG : 549
+
+ 505 : GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       |.::| |||.:.: :|   :|:.|: :  : | :: ::::::   |::|  .|:::.:
+ 550 : GGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSS : 607
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 562 . Medex_00089660-RA 485 607 . 112 M 24 24 G 0 2 M 3 3 G 0 1 M 10 10 G 0 1 M 81 81
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 426 -> 536
+  Target range: 530 -> 640
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       || : |..:|:|.   ::|  :::.||  |..:.:| |:::||:|.|.:  |:|..|::::.|.
+ 531 : SSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGG : 594
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAG : 536
+        .:: :.:.||::: :.:::|:|| .::::  .::::::|:. .:|
+ 595 : FGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSG : 640
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 536 . Medex_00089660-RA 530 640 . 112 M 110 110
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 164 -> 271
+  Target range: 128 -> 235
+
+ 165 : NFDSQY--IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSG-GSSAGGGYMLLPQAASSSGNN : 225
+       :|:: :  | ..|: :. ::.:   || |||.:|.: .| :| |::.:||:    ::: ::||.
+ 129 : SFGGGFGGIGGGGFGGKYGGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGF----DGGFGGGNA : 188
+
+ 226 : GNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGN-PMGGTSATPGHGG : 271
+       |. .::| : |: ..|: |:| || ||.:|.|: .:||.:|. | ||
+ 189 : GGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGG : 235
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 164 271 . Medex_00089660-RA 128 235 . 111 M 6 6 G 0 2 M 34 34 G 0 1 M 8 8 G 4 0 M 42 42 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 447 -> 539
+  Target range: 257 -> 349
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS-STGNGTSGGGGGNNAGG : 510
+       ::|:||  :.:  :|. |:| || .|| : |.|.: .| :.||..: :.|:|. |||.:.. ||
+ 258 : SSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGG : 321
+
+ 511 : GGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       | || .:.::   .|| |::|  .:|:|:
+ 322 : GHGGLGGGNAGGIGGGFGSGS-TGGGVGG : 349
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 539 . Medex_00089660-RA 257 349 . 111 M 46 46 G 0 1 M 38 38 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 435 -> 539
+  Target range: 338 -> 442
+
+ 436 : SPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGT : 499
+       ::::.: ::|  :::::   ::: .:| || |||  . .:|:|.|:::|::: |.. :::|. :
+ 339 : GSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYS : 402
+
+ 500 : SGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :||::|. :|| || .::|.|   .| .| :: :.:|:|:
+ 403 : GGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGG : 442
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 435 539 . Medex_00089660-RA 338 442 . 111 M 104 104
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 426 -> 539
+  Target range: 392 -> 509
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNG-PSSVGNGNSSNGSSNG : 489
+       :::. |.: |.:. | ::|  :::.|:  :....:| || |||. .| .:: |:|:::.| :.|
+ 393 : GGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGG : 456
+
+ 490 : NNNSSTGNGTSGGGGGNNAG-GGGGGTNSNDGLHRNGG--NGNSSCHEAGIGS : 539
+       : .:|.|::: :|::::.:| || ||.::. |:. .||  .|. :  ::|||:
+ 457 : KYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGG : 509
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 539 . Medex_00089660-RA 392 509 . 111 M 47 47 G 0 1 M 36 36 G 0 1 M 17 17 G 0 2 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 444 -> 539
+  Target range: 462 -> 557
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLN-GPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       |  :.|.::  |..:.: .|| ||.|:. |.:: ..| ::. :: |..:::.|.| :| |||. 
+ 463 : GSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGF : 526
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       ::||::|::|:.|  .:|| |. :  ::|||:
+ 527 : GSGGSSGSSSQSG-SSSGGLGGVGGGHGGIGG : 557
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00089660-RA 462 557 . 111 M 28 28 G 0 1 M 48 48 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 431 -> 539
+  Target range: 464 -> 573
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNG--NSSNGSSNGNNNS : 493
+       |::|::|: | :|| |.:: ||  :.|:.:|. .:| || :|. : |:|  .:::|: .|.. :
+ 465 : SSQSGSSSSAGGLGGVGGGHGGP-GVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFG : 527
+
+ 494 : STGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |.|::.|:: :|:::|| || ..:::|:  ..:.| ::  .:| |:
+ 528 : SGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGFGSGSGG : 573
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 539 . Medex_00089660-RA 464 573 . 111 M 23 23 G 1 0 M 25 25 G 0 2 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 186 -> 271
+  Target range: 500 -> 586
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA-GHMSSGSVGNGSGGAGNGG : 249
+       :|| || |||:   |:: |: :|||:   . ::||| :.:::.: | :::|  | |:|.||. |
+ 501 : GGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIG : 564
+
+ 250 : AGGNSGPGNPMGGTSATPGHGG : 271
+       :| .||:|.::||.: ..: |:
+ 565 : GGFGSGSGGSLGGGNYGGSGGD : 586
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00089660-RA 500 586 . 111 M 44 44 G 0 1 M 41 41
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 171 -> 271
+  Target range: 525 -> 621
+
+ 172 : FPTGYQDTTSSHSQQSGGG-GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       |.:|  ..:||:|  |:|| || |||:   |::.::: |||:     :::|:|: |..| |  :
+ 526 : FGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIGGGF-----GSGSGGSLGGGNYGGSG : 584
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ::| :.::|| |.| :|:.||:::. |:::::.| ||
+ 585 : GDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGG : 621
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00089660-RA 525 621 . 111 M 19 19 G 0 1 M 22 22 G 5 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 392 -> 546
+  Target range: 63 -> 219
+
+ 393 : NSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIA : 456
+       .:.::::.:.. ::: | : :: : .:.:  :  || : |:.||.|    : |  :.|:::  :
+  64 : GPKSAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSSSSSSS : 127
+
+ 457 : TPMNAGTGGSGGGGLNGP-SSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG-GGGGTNSN : 518
+       .:..:| || ||||:.|  :: |.:::: |::|:.. ::. .||:||.:|. .|| |||.:.: 
+ 128 : GSFGGGFGGIGGGGFGGKYGGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGGGNAGGI : 191
+
+ 519 : DGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+       :| | . |.||::  .:| |:| ...::
+ 192 : GGSHGGFGGGNAGGIGGGYGGLGGGNGG : 219
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 392 546 . Medex_00089660-RA 63 219 . 110 M 82 82 G 0 1 M 36 36 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 444 -> 562
+  Target range: 153 -> 272
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTG--NGTSGGGGGN : 506
+       | :.::.:| ::..  :||||:.:||::|. : ||:.: .|| .| ..:::|  .|. || ||.
+ 154 : GGLGGGNAGGFGGG-YGGTGGGNAGGFDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGG : 216
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       |:|| || ..:|.|: ..||::.:|  .  :::  ::::|  . .:|.|.::..::
+ 217 : NGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGG : 272
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 562 . Medex_00089660-RA 153 272 . 110 M 14 14 G 1 0 M 37 37 G 0 2 M 66 66
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 186 -> 272
+  Target range: 299 -> 387
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       ::|| ||| |.: .|::|| ::| | :  .:|:: :|. |:.::|   :|: |.:| ::::::|
+ 300 : NAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSA : 363
+
+ 251 : GGNSGPGNPMGGTSAT--PGHGGE : 272
+       || :| |.. ||.:.:  .||||:
+ 364 : GGFGGVGGGHGGKGNSLGGGHGGN : 387
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 272 . Medex_00089660-RA 299 387 . 110 M 80 80 G 0 2 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 442 -> 539
+  Target range: 302 -> 400
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNG-PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGG : 505
+       ::|  ::: ||  |..:.:| || |||. .| .:: |:|:::.| :.|:..|| :.::|::|| 
+ 303 : GIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGF : 366
+
+ 506 : NNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       ...||| ||..:: |  :.|..|. :   :| |:
+ 367 : GGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGG : 400
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 539 . Medex_00089660-RA 302 400 . 110 M 31 31 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 172 -> 271
+  Target range: 343 -> 443
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSG-GSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       ..|  :.::: || ::::::|| |.: .| :| |:| |||.   : :.::: ..:.. :|  |:
+ 344 : GGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSA : 407
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |::|.| || |:|.:|| :|. ..:||.:|..  ||
+ 408 : GGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGG : 443
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00089660-RA 343 443 . 110 M 32 32 G 0 1 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 186 -> 273
+  Target range: 367 -> 453
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAG-GGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       : ||| || || |.|: ||:::| || .  : : |::|:.|. .:|: : || ..|: |:|:||
+ 368 : GVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGG : 431
+
+ 250 : AGGNSGPGNPMGGTSATPGHGGEV : 273
+        ||.::.|  :||. ::.: ||.|
+ 432 : LGGGNAGG--VGGGFGSGSTGGGV : 453
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 273 . Medex_00089660-RA 367 453 . 110 M 23 23 G 0 1 M 48 48 G 2 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 179 -> 271
+  Target range: 380 -> 469
+
+ 180 : TSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH--MSSGSVGNG : 241
+       .::|: ::|| ||| ||:  .| |||:||||  :  .|:: :|||.|. .:||  :::|:.|. 
+ 381 : GGGHGGNAGGVGGGFGGS--GGYSGGGSAGG--IGGGQGGIGSGNTGGFGGGHGGLGGGNAGGV : 440
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|| |:|::||. |.|:  ||::::::::|
+ 441 : GGGFGSGSTGGGVGGGK-YGGSGGSSSQSG : 469
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 179 271 . Medex_00089660-RA 380 469 . 110 M 18 18 G 2 0 M 11 11 G 2 0 M 20 20 G 0 2 M 26 26 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 188 -> 270
+  Target range: 221 -> 303
+
+ 189 : GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG : 252
+       || |||.:.: :|::::::::||  : . ::|| :.::::.:|| ::|  |. :|| |.:|:. 
+ 222 : GGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPI : 285
+
+ 253 : NSGPGNPMGGTSATPGHG : 270
+       .:|.|.. ||.::..: |
+ 286 : GGGTGGNYGGIGGGNAGG : 303
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 270 . Medex_00089660-RA 221 303 . 109 M 82 82
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 431 -> 563
+  Target range: 250 -> 380
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       ::.| ::: : : |: .|:.|| ::.. ::|:||: ||| .|  : |. .::|::: |..::: 
+ 251 : GSSSQSGSSSAGGGHGGAGVGGGVGGG-HGGAGGPIGGGTGG--NYGGIGGGNAGGIGGGHGGF : 311
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDS-GTHPSS : 558
+       |.|.:|| ||.::| |||.:.: :|   :|:.|.:   .:| :|  .::.|   |:: |. .::
+ 312 : GGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGG : 375
+
+ 559 : TADAL : 563
+       .:::|
+ 376 : KGNSL : 380
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 563 . Medex_00089660-RA 250 380 . 109 M 27 27 G 1 0 M 14 14 G 2 0 M 77 77 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 426 -> 547
+  Target range: 267 -> 387
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       :::. : :::.:. : ::|  .::. | |:.. .:|.|| | ||:.|.:: | |.: .| :.||
+ 268 : AGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGG-GHGGFGGGNAGGIGGGHGGLGGGN : 330
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSK : 547
+       ..: .|. .||:.||. :||:||:::|..:   .| .| :: |.:  .|| .. :::
+ 331 : AGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGN : 387
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 547 . Medex_00089660-RA 267 387 . 109 M 39 39 G 1 0 M 81 81
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 171 -> 268
+  Target range: 303 -> 399
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :..|. : .::::   ||| || ||.  .| :|| ::|:.   :. ::::|:::|:::::  : 
+ 304 : IGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAG-GF : 366
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG : 268
+       |:||.| || ||: :||::|.:..:||. :.:|
+ 367 : GGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSG : 399
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 268 . Medex_00089660-RA 303 399 . 109 M 61 61 G 1 0 M 35 35
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 429 -> 546
+  Target range: 354 -> 471
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS : 493
+       :||..||::.   ::|  :::.|. ::.. ::|.:|: |||:.|::: :.|.|:.| :.|:.. 
+ 355 : SQSGSSSSAGGFGGVGGGHGGKGNSLGGG-HGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGI : 417
+
+ 494 : STGN-GTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+       ::|| |. ||| |. :||.:||..:. |  ..||. .:: ..:: ||  :::.|
+ 418 : GSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSS : 471
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 546 . Medex_00089660-RA 354 471 . 109 M 29 29 G 1 0 M 38 38 G 0 1 M 49 49
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 186 -> 271
+  Target range: 397 -> 482
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       ||| :|||::. :.|: || ::|..  : .  :: :|.|:.. :| .:|||.|.| ||:  ||:
+ 398 : SGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGS : 461
+
+ 251 : GGNSGPGNPMGGTSATPGHGG : 271
+       ||:|:.:.: ::::: .| ||
+ 462 : GGSSSQSGSSSSAGGLGGVGG : 482
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00089660-RA 397 482 . 109 M 85 85
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 432 -> 539
+  Target range: 417 -> 523
+
+ 433 : PDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTG : 496
+       ..::.:.:: : | :.::.:| ::....:|:.|:| || : .:| |::: |.:||::.. ::.|
+ 418 : GSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVG : 481
+
+ 497 : NGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .| :|.| . .:|| .||..:.:|   .||:|. :  ::|:|:
+ 482 : GGHGGPGVPIGGGGYTGGVGGGHG-GIGGGHGGIGGGQGGVGG : 523
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 432 539 . Medex_00089660-RA 417 523 . 109 M 88 88 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 444 -> 539
+  Target range: 564 -> 660
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGG-GNN : 507
+       |  .:::|| ::..  :|:||.:::| .|. : |::.|::|||: :.:|:.:.| :|:|: :::
+ 565 : GGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSS : 628
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :::: :|:.:::|:  .||:::||. .:: |:
+ 629 : SSSSQSGSGGSGGFGFPGGHSQSSSSSSSKGG : 660
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00089660-RA 564 660 . 109 M 60 60 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 188 -> 271
+  Target range: 580 -> 663
+
+ 189 : GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG : 252
+       ||:||::::  .|: ||: :|:|    :|::||:|:.| ..:| .||:| :: ||::|:|| | 
+ 581 : GGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSGGFGF : 644
+
+ 253 : NSGPGNPMGGTSATPGHGG : 271
+       .:|.::: :::|:..| :|
+ 645 : PGGHSQSSSSSSSKGGSSG : 663
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 271 . Medex_00089660-RA 580 663 . 109 M 83 83
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 444 -> 538
+  Target range: 176 -> 269
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  ::: ||  |..:.:: || |||. .|. : | |. :.|::.|:.. :.||:. |:|||:::
+ 177 : GGFDGGFGGGNAGGIGGSHGGFGGGN-AGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSG : 239
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       |::||   :.:|  .::|:::::  ::| |
+ 240 : GSAGGKYVAGGGSSSQSGSSSAGGGHGGAG : 269
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 538 . Medex_00089660-RA 176 269 . 108 M 26 26 G 1 0 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 171 -> 273
+  Target range: 182 -> 285
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAA-SSSGNNGNPNAGHMS : 234
+       |..| .:..::     |||.:|| |.  .| :||:::| | :  .:|: :|:|.::..:|| . 
+ 183 : FGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKY : 246
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEV : 273
+        :: |::| :::::::||::|:| . | .:: .| || :
+ 247 : VAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPI : 285
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 273 . Medex_00089660-RA 182 285 . 108 M 48 48 G 0 1 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00005314-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 25 -> 260
+  Target range: 43 -> 278
+
+  26 : QLEQQQQPSSP-ALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEY :  88
+       :|.: :..:|| ::.:||  :::: :.::..:. |:..: :::.. .. . .:.  |..|:  :
+  44 : HLSNSHATNSPSPVNGGGVVTSSGFAPPSTPGELGSTITLNASTPYATFTLGGDISLNDFDL-F : 106
+
+  89 : NAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQ-EHYQQQQQQNIANN : 151
+       .: | :|.|:.|||:|.    :. :: |.   : :.: :|  : .. .  ..||..|. . ...
+ 107 : PTSTWDLVGSEGSGGGGGGGGGGGGSGGPVWGESRPDSRQSIHSPAGPTYSPYQPAQPSPANTP : 170
+
+ 152 : ANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLL : 215
+       ||.|::|| :: ::   : : .:::  .. .:|:::  ::|.| ..  :.|:.|.|:    :| 
+ 171 : ANPFSNSS-GFPFSPLQEQVPGSAFLLDEVKDSKEGVLDAGNGMNGGESNSAPGDSGRLRNLLT : 233
+
+ 216 : PQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPM : 260
+        :|::|:.::::.:. :: .| :.:..:.. : .. :.:..::::
+ 234 : KRASTSAEESDDGDQHRILKGLLNQEDDEDVQREVKSPANRSHSV : 278
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 25 260 . Medex_00005314-RA 43 278 . 105 M 11 11 G 0 1 M 50 50 G 1 0 M 50 50 G 0 1 M 22 22 G 1 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00084882-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 348 -> 528
+  Target range: 0 -> 181
+
+ 349 : MKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAY : 412
+       |:|.  .:.|  .:.:. :|: :|:|  .  ::::::|:  .|  ::   : : : : : :: .
+   1 : MNLGINPGSRPTESNKSPSPLSRRHRRTSAMIIKHWRLSQLQL-LAVVLLVAARAYADSDNDRW :  63
+
+ 413 : PNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSS : 476
+        : : .::   .  || . :..|:.|. : : |  :|:.||  |.. ::::|||| || .::||
+  64 : DDDDDDHHSLGGSSSSGGGGGSSGGSGSSAGGGGSSAGGGGGSAGGGKGSAGGSGVGGGAAASS : 127
+
+ 477 : VGNGNSSNGSSN--GNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+        :::.:|:| ::  | ..: .| |. ||:|| .::|| ||:.: :|    ||:|
+ 128 : SASAAASSGIGQYGGLRGGWKGYGGWGGSGGWGGSGGWGGSGGWGGSGGWGGSG : 181
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 348 528 . Medex_00084882-RA 0 181 . 118 M 43 43 G 1 0 M 96 96 G 0 2 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00084882-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 170 -> 257
+  Target range: 49 -> 136
+
+ 171 : IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       : : :|.|:.:.: ::.:::  : ||:  :|::||||:|:|    . ::|::|..|::.:|. |
+  50 : VAARAYADSDNDRWDDDDDDHHSLGGSSSSGGGGGSSGGSGSSAGGGGSSAGGGGGSAGGGKGS : 113
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPG : 257
+       :|: | |:|:|::::|::.:::|
+ 114 : AGGSGVGGGAAASSSASAAASSG : 136
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 170 257 . Medex_00084882-RA 49 136 . 107 M 87 87
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00084882-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 383 -> 526
+  Target range: 0 -> 142
+
+ 384 : RQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQV : 447
+       .:|:::: ..: .:: .|:|:|. .::: :.| ||:  :::|:  |:     ::.: | : .: 
+   1 : MNLGINPGSRPTESNKSPSPLSRRHRRT-SAMIIKH-WRLSQLQLLAVVLLVAARAYADSDNDR :  62
+
+ 448 : -NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG : 510
+        :...::  : . ::::||:||:: .:.||.|.|.||.|::.|:..::.|::.::| ||..|::
+  63 : WDDDDDDHHSLGGSSSSGGGGGSSGGSGSSAGGGGSSAGGGGGSAGGGKGSAGGSGVGGGAAAS : 126
+
+ 511 : GGGGTNSNDGLHRNGG : 526
+       :::::.::.|: : ||
+ 127 : SSASAAASSGIGQYGG : 142
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 383 526 . Medex_00084882-RA 0 142 . 105 M 28 28 G 1 0 M 7 7 G 1 0 M 27 27 G 0 1 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 366 -> 539
+  Target range: 50 -> 220
+
+ 367 : GPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLT : 430
+       .|: .:..:.||.: |:: :   : .: .|.::|: | |.:|  | : :|.. : :   .: |:
+  51 : PPVSSHSPSSKLPLSREKGFLCGTRNHQFGGNLKSRP-SQAYSSA-SLLNTMVHCKGVCATFLA : 112
+
+ 431 : QSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS : 494
+          . :: : ::  |  .: .:|  :....:|:||..:|  .:|:  |.:.:: |:::|... :
+ 113 : SVVAFNAVSAGLLGGGGGGYGSGRPSGGFGGGSGGRPSGLYGAPAFGGGSGGGFGGGSGGGGFG : 176
+
+ 495 : TGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .|:| ::|||| .:|. .:.| :. |: ..||.|. :  .:|:|:
+ 177 : GGHG-GSGGGGFGGGPRPSPTYGTPGFSSGGGAGGFGGGAGGFGG : 220
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 366 539 . Medex_00077221-RA 50 220 . 113 M 37 37 G 1 0 M 7 7 G 1 0 M 86 86 G 1 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 187 -> 275
+  Target range: 125 -> 212
+
+ 188 : GGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAG : 251
+       |||||| |:.  :|: ||:|:| .  | ..:| ::|:.|. .:|  ::|: |.| ||:|.|| |
+ 126 : GGGGGGYGSGRPSGGFGGGSGGRPSGLYGAPAFGGGSGGGFGGGS-GGGGFGGGHGGSGGGGFG : 188
+
+ 252 : GNSGPGNPMGGTSATPGHGGEVID : 275
+       |.: |:.. |..: ::| |:. ::
+ 189 : GGPRPSPTYGTPGFSSGGGAGGFG : 212
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 187 275 . Medex_00077221-RA 125 212 . 112 M 45 45 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 172 -> 276
+  Target range: 148 -> 249
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       |:|  ::.:  :  :|| |||:||. :.|: || |:|||:   |::::: |..| :::|  ::|
+ 149 : PSGLYGAPAFGGGSGGGFGGGSGGGGFGGGHGG-SGGGGFGGGPRPSPTYGTPGFSSGG--GAG : 209
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       : |.|:|| |. .:.  ::||..  ..: ..|. .| :.|
+ 210 : GFGGGAGGFGGKPSPVYGAPGGGGYNGAYDNGKVNERFTF : 249
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 276 . Medex_00077221-RA 148 249 . 103 M 33 33 G 1 0 M 25 25 G 2 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 173 -> 270
+  Target range: 107 -> 198
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGS : 237
+       :.: .:. : :. |:|  |||||.  :|.::|: :||:      ::.:||  |.|. |  |:|:
+ 108 : ATFLASVVAFNAVSAGLLGGGGGGYGSGRPSGGFGGGS------GGRPSGLYGAPAFGGGSGGG : 165
+
+ 238 : VGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+        |.||||:| ||: |.||.|.  ||..::|..|
+ 166 : FGGGSGGGGFGGGHGGSGGGGFGGGPRPSPTYG : 198
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 270 . Medex_00077221-RA 107 198 . 102 M 38 38 G 6 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 187 -> 268
+  Target range: 141 -> 223
+
+ 188 : GGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS-GGAGNGGA : 250
+       |||:|| .:.| .::: |:::|||:   : ::: :|.:|.:.:| .::|: .:.: |.:| :::
+ 142 : GGGSGGRPSGLYGAPAFGGGSGGGFGGGSGGGGFGGGHGGSGGGGFGGGPRPSPTYGTPGFSSG : 205
+
+ 251 : GGNSGPGNPMGGTSATPG : 268
+       ||.:| |.. || ::.|:
+ 206 : GGAGGFGGGAGGFGGKPS : 223
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 187 268 . Medex_00077221-RA 141 223 . 102 M 55 55 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077221-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 171 -> 271
+  Target range: 140 -> 236
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |..|  : .|:   .:: |||:|||  :.|:|||:: |||.   . :::: |....|::.. ::
+ 141 : FGGGSGGRPSGLYGAPAFGGGSGGG--FGGGSGGGGFGGGHG--GSGGGGFGGGPRPSPTYGTP : 200
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |  :.|::|: .||||| :| .:|: |:::..|..|
+ 201 : GFSSGGGAGGFGGGAGGFGGKPSPVYGAPGGGGYNG : 236
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00077221-RA 140 236 . 102 M 25 25 G 2 0 M 15 15 G 2 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077222-RA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 104 -> 276
+  Target range: 41 -> 211
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       .|..  :.: ::.   :: :||:  : .: | : :   .: :| . : :. ::::::   ::::
+  42 : PQPYSFQYAVQDAASGNDYKQQESSDGYNVQGEYQVLLPDGRNQVVKYQANDATGFNADVQYQG : 105
+
+ 169 : QYIFPT-GYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAG : 231
+       |  :|: | |:. ::::  :| || || |.  . :: |:|:|||:   .|:: ::|:.|:..:|
+ 106 : QASYPSPGGQGGFGGQGGYGGQGGFGGQGGYGGQGGYGGSSGGGFG--GQGGFGGGHGGSGGSG : 167
+
+ 232 : HMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+        .::|  |:|::|:| || :| :|:|.  || :: .|:||:  :|
+ 168 : GFGAGHGGSGGSGGGFGG-SGFGGSGGFGGGHGGQGGQGGQGGGF : 211
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 276 . Medex_00077222-RA 41 211 . 141 M 70 70 G 0 1 M 39 39 G 2 0 M 34 34 G 1 0 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077222-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 85 -> 265
+  Target range: 42 -> 216
+
+  86 : HEYN-AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQ-QN : 147
+       : |: .|::| .:::|::  :|:  ...: :|:.:   .: ::|  :.|.::.. ::.: | |.
+  43 : QPYSFQYAVQ-DAASGNDYKQQESSDGYNVQGEYQVLLPDGRNQVVKYQANDATGFNADVQYQG : 105
+
+ 148 : IANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGG-GGGNLLNGSSGGSSAGG : 210
+        |: ::. . ::::   .:::|  |  | |:. ::::  :|::||| || . :.|: |||:::|
+ 106 : QASYPSPGGQGGFGGQGGYGGQGGF--GGQGGYGGQGGYGGSSGGGFGGQGGFGGGHGGSGGSG : 167
+
+ 211 : GYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSA : 265
+       |:      ::: |.:|.:.:|  :||  |:|: |:|:||.||::|.|...||:::
+ 168 : GF------GAGHGGSGGSGGGFGGSGFGGSGGFGGGHGGQGGQGGQGGGFGGSNT : 216
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 85 265 . Medex_00077222-RA 42 216 . 135 M 4 4 G 0 1 M 5 5 G 1 0 M 50 50 G 0 1 M 27 27 G 2 0 M 19 19 G 0 1 M 19 19 G 6 0 M 47 47
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077222-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 113 -> 276
+  Target range: 52 -> 217
+
+ 114 : NHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQ : 177
+       : :: :: :||:  :  : | : |   .: ::| :  :||: .: : .  |: :: |  |.|  
+  53 : DAASGNDYKQQESSDGYNVQGEYQVLLPDGRNQVVKYQANDATGFNADVQYQGQASYPSPGGQG : 116
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAG--GGYMLLPQAASSSGNNGNPNAGHMSSGSVG : 239
+       : .:  :  : || || ||   :|: ||||:|  ||   :. : ::||.:|. .||| :||: |
+ 117 : GFGGQGGYGGQGGFGGQGGYGGQGGYGGSSGGGFGGQGGFGGGHGGSGGSGGFGAGHGGSGGSG : 180
+
+ 240 : NGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       .| ||:| ||:|| :|. .. || :: .|  |.  .:
+ 181 : GGFGGSGFGGSGGFGGGHGGQGGQGGQGGGFGGSNTY : 217
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 113 276 . Medex_00077222-RA 52 217 . 127 M 96 96 G 0 2 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077222-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 447 -> 530
+  Target range: 126 -> 210
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGG-GGNNAGG : 510
+       ::: ||  : . ::| |||:|||:.|.:: |.|::::|:|.| ..: .|:|.|||| ||:. ||
+ 127 : QGGFGGQGGYGGQGGYGGSSGGGFGGQGGFGGGHGGSGGSGGFGAGHGGSGGSGGGFGGSGFGG : 190
+
+ 511 : GGGGTNSNDGLHRNGGNGNS : 530
+       :|| ..:::|   :||:|.:
+ 191 : SGGFGGGHGGQGGQGGQGGG : 210
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 530 . Medex_00077222-RA 126 210 . 125 M 56 56 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00077222-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 88 -> 255
+  Target range: 42 -> 209
+
+  89 : NAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNA : 152
+       ::|::| |  :::::.: :::.: .... : : |   .: ::|  : |.::    :.:   :..
+  43 : QPYSFQYAVQDAASGNDYKQQESSDGYNVQGEYQVLLPDGRNQVVKYQANDATGFNADVQYQGQ : 106
+
+ 153 : NQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLP : 216
+       . :.|::    :. :: |  ..|: : .:  :| : ||::||| .  .| :|| :::||   :.
+ 107 : ASYPSPGGQGGFGGQGGYGGQGGFGGQGGYGGQGGYGGSSGGGFGGQGGFGGGHGGSGGSGGFG : 170
+
+ 217 : QAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSG : 255
+       .: ::||.:|.. :|   :|| | |:| :|:||.||::|
+ 171 : AGHGGSGGSGGGFGGSGFGGSGGFGGGHGGQGGQGGQGG : 209
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 88 255 . Medex_00077222-RA 42 209 . 121 M 167 167
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00060984-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 446 -> 529
+  Target range: 6 -> 90
+
+ 447 : VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGG : 510
+       |.. . :|:::::.. .||:|||| .|.:: | |.: .| :. ::.  .|.| . | | ...|:
+   7 : VAVVIVAVVSSSLAQLIGGGGGGGWPGQGTGGMGGGIGGFGGQDQGWFGGGGRRRGQGRRGQGS :  70
+
+ 511 : -GGGGTNSNDGLHRNGGNGN : 529
+        |||| .:.:| :|. |:::
+  71 : MGGGGRRGPGGGRRGQGDSE :  90
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 446 529 . Medex_00060984-RA 6 90 . 101 M 64 64 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 166 -> 268
+  Target range: 76 -> 183
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGG--GGGNLLNG-SSGGSSAGGGYMLLPQAASSSGNNGN : 227
+       :: | ::.|  :.. : : : ||||||  |||.:::| |::|| ::||:. :: :: ::|:.|.
+  77 : GGGYDYSGGGSHGDIGGGLDFGGGGGGGYGGGGIVKGFSGSGSYSSGGFKGISSGGFGGGHGGG : 140
+
+ 228 : PNAGHMSSGSVGNGSG-GAGNGGAG-GNSGPGNPMGGTSATPG : 268
+        ::| .::|  |:::| |:| ||:: :::| |.. ||:| ::|
+ 141 : YSSGGFGGGHGGSSGGLGGGYGGSSYSSGGFGGGHGGSSYSSG : 183
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 268 . Medex_00065423-RA 76 183 . 116 M 27 27 G 0 2 M 8 8 G 0 1 M 42 42 G 0 1 M 8 8 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 172 -> 268
+  Target range: 76 -> 176
+
+ 173 : PTGYQ-DTTSSHSQQSGG---GGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH : 232
+       ..||: ...:||:: :||   |||||||   .|   | |::|:|   .  : |||. |..::| 
+  77 : GGGYDYSGGGSHGDIGGGLDFGGGGGGGYGGGGIVKGFSGSGSYSSGGFKGISSGGFGGGHGGG : 140
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG : 268
+        |||: |.| ||::.| :|| :|:: : || ::..|
+ 141 : YSSGGFGGGHGGSSGGLGGGYGGSSYSSGGFGGGHG : 176
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 268 . Medex_00065423-RA 76 176 . 113 M 5 5 G 0 1 M 12 12 G 0 3 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 444 -> 539
+  Target range: 122 -> 215
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  :: ::| ::.. .:| :::| || :|.|| | |.: .||| ::.. :.|:|.|: ::|. :
+ 123 : GGFKGISSGGFGGGHGGGYSSGGFGGGHGGSSGGLGGGYGGSSYSSGGFGGGHGGSSYSSGGLG : 186
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       || |||: |::||  .||:|.:|. .:|:|:
+ 187 : GGHGGGSYSSGGL--GGGHGGGSYSSGGLGG : 215
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00065423-RA 122 215 . 113 M 77 77 G 2 0 M 16 16
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 425 -> 539
+  Target range: 58 -> 173
+
+ 426 : VSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGS-SN : 488
+       |:::|..|   ::.:: : |  : |.||  :.  .: . |:||||  |.::: :| |::|| |:
+  59 : VAAVTAEPPVHSAGFGSSGGGYDYSGGGSHGDIGGGLDFGGGGGGGYGGGGIVKGFSGSGSYSS : 122
+
+ 489 : GNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |. :: ::.| :|| ||. ::|| ||.::..:   .|| |.||. .:|:|:
+ 123 : GGFKGISSGGFGGGHGGGYSSGGFGGGHGGSSGGLGGGYGGSSYSSGGFGG : 173
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 425 539 . Medex_00065423-RA 58 173 . 112 M 61 61 G 0 1 M 53 53
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 172 -> 305
+  Target range: 223 -> 362
+
+ 173 : PTGYQDTTSSHSQQSGGGGGG-GGGNLLNGSSGGSSAGGGYML--LPQAASSSGNNGNPNAGHM : 233
+       :.|: :. :: |  ||| ||| ||::  :|: ||: :|::|    |. : ::|: ::.. :|  
+ 224 : SGGFGGGHGGGSYSSGGLGGGYGGSSYSSGGFGGGHGGSSYSSGGLGGGYGGSSYSSGGFGGGH : 287
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG--HGGEVIDFKH-LFEELCPVCGDKVSGY : 294
+       :::| ::|: |:|:||:||. |.| : || .:.:|   ||.: ::.   :.. .: .|: ::||
+ 288 : GGSSYSSGGFGGGHGGSGGGLGGGYSSGGFKGISGGFGGGSLKGYSSGGLGGYSSYSGGGLGGY : 351
+
+ 295 : HYGLLTCESCK : 305
+         | |. .| |
+ 352 : SGGGLGGGSIK : 362
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 305 . Medex_00065423-RA 223 362 . 112 M 21 21 G 0 1 M 21 21 G 0 2 M 54 54 G 0 2 M 10 10 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00065423-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 170 -> 275
+  Target range: 67 -> 172
+
+ 171 : IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       : ::|: .:.::..  :||: |: ||.|  |::||:: ||| ::  :: |:||: ::..   :|
+  68 : VHSAGFGSSGGGYDYSGGGSHGDIGGGLDFGGGGGGGYGGGGIV--KGFSGSGSYSSGGFKGIS : 129
+
+ 235 : SGSVGNGSGGA-GNGG-AGGNSGPGNPMGGTSATPGHGGEVID : 275
+       ||: |.| ||: ::|| :||::|::..:||. :.::.::. ::
+ 130 : SGGFGGGHGGGYSSGGFGGGHGGSSGGLGGGYGGSSYSSGGFG : 172
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 170 275 . Medex_00065423-RA 67 172 . 109 M 44 44 G 2 0 M 29 29 G 0 1 M 4 4 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 29 -> 148
+  Target range: 194 -> 314
+
+  30 : QQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTL :  93
+       ::: .:..  ::::::.::::::.:.:::.:.|:: : ....  .| :: | |  . .  : : 
+ 195 : HRRDKARDKHGADKATAKPPASPGSATTTTSATAAVPVPPTTVVPDVNGVVRTPVSSALLGQSA : 258
+
+  94 : QLAGGGGSGSGN-QQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNI : 148
+       | |.... :  : ||:.::::.: . :| |||||||.||:|||.|:: ||||||.:
+ 259 : QQAPPPTVAQVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQQQQQQQRL : 314
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 29 148 . Medex_00103380-RA 194 314 . 110 M 76 76 G 0 1 M 43 43
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 444 -> 574
+  Target range: 118 -> 246
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       .:.:.:. .:: :.  .|..::|.|: :| :: |:|: : .:|.|::.: ::::.|.::||..:
+ 119 : TKTSEAKHEIVKSGELNGGEAPGPGSAEGVAGGGKGKHPLPASGGSSGGVSSSSGSNSAGGGGG : 182
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVSPM : 572
+       |||||:..::.| :|: :.:: :  : :.:. ..:::|    .|:| : :.: : : |  |:.:
+ 183 : GGGGGSKRGSSGHRRDKARDKHG-ADKATAKPPASPGSATTTTSATAAVPVPPTTVVP-DVNGV : 244
+
+ 573 : IR : 574
+       :|
+ 245 : VR : 246
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 574 . Medex_00103380-RA 118 246 . 108 M 87 87 G 1 0 M 34 34 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 28 -> 139
+  Target range: 201 -> 312
+
+  29 : QQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYT :  92
+       ::: :..::  :.:::::.:::.|...:.: ..|:  :: |.  ..  .: :|.: .:: .: |
+ 202 : DKHGADKATAKPPASPGSATTTTSATAAVPVPPTTVVPDVNGVVRTPVSSALLGQSAQQAPPPT : 265
+
+  93 : LQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEH : 139
+       :. .:    .: :..::::: .: :::||.||||||.||:|||||::
+ 266 : VAQVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQQQQQQQ : 312
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 28 139 . Medex_00103380-RA 201 312 . 104 M 111 111
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 104 -> 148
+  Target range: 271 -> 315
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNI : 148
+       :||.. : :::.::: |||||||.|||:||.||:: |||||: :
+ 272 : QQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQQQQQQQRLV : 315
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 148 . Medex_00103380-RA 271 315 . 101 M 44 44
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 412 -> 572
+  Target range: 93 -> 254
+
+ 413 : PNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPS : 475
+       .:|.:.:.  : :  .:. ....:.: .: |  : |:::. .  .:| .:::.| :||| . .:
+  94 : GKMAVEHSATVDKGLKMKIKRTKPGTKTSEAKHEIVKSGELNGGEAPGPGSAEGVAGGGKGKHP : 157
+
+ 476 : SVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+         ::|.||.| |:::.::|:|.|.:|||||:: |::|   :.. : | .: ....:  .:| ::
+ 158 : LPASGGSSGGVSSSSGSNSAGGGGGGGGGGSKRGSSGHRRDKARDKHGADKATAKPPASPGSAT : 221
+
+ 540 : LQNTADSKLCFDSGTHPSSTADALIEPLRVSPM : 572
+         .:|.: :   :.|  :...:.: .|:. : :
+ 222 : TTTSATAAVPVPPTTVVPDVNGVVRTPVSSALL : 254
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 412 572 . Medex_00103380-RA 93 254 . 100 M 34 34 G 0 1 M 126 126
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00009089-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 395 -> 533
+  Target range: 14 -> 153
+
+ 396 : GPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPM : 459
+       |.::..| :. :   . . .::| .|: ..  .|.: : .:::   | |.:  . .. :|....
+  15 : GTQVTGTIVDVDGVMNTHMKSVKMTIKNRPQVELENLAIRGSNVRYIILPDNLNVDPLLIDDGR :  78
+
+ 460 : NAGTGGSGGGGLNG-PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLH : 522
+       : . ||.|||| .| .:. |.|..:. ::.|...:: |.|..|| ||..:| | || .:.:| :
+  79 : DRPRGGRGGGGGRGFGGRGGRGGRGGRGGRGGRGGGRGGGGRGGRGGRGGGRGFGGRGGGGGSD : 142
+
+ 523 : RNGGNGNSSCH : 533
+       |. ::|.::.:
+ 143 : RRYSHGGGGSR : 153
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 395 533 . Medex_00009089-RA 14 153 . 113 M 78 78 G 0 1 M 60 60
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00083545-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 369 -> 517
+  Target range: 289 -> 440
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIPQ-VSSLTQ : 431
+       |  . :: :.|  .|. :: . |.   |  ::.|::   .|:|| ::.    :::|| |:  ..
+ 290 : YPVSVPHPVPVSVPRPYPVSVPRPYAVPVPQAVPVAV--PQPYPVSVPHPVPVRVPQPVAVPVP : 351
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVI-ATPMNAGT-GGSG-GGGLNGPSSVGNGNSSNGSSNGNNN : 492
+        | :  .|:.:: | :.:: || | :..:.:|: || | |:|:.|. : |:| :|. : .:. .
+ 352 : HPVPVDRPVVVGTGGLGSGLGGGIGGVGLGGGSLGGIGYGSGIGGGIGYGSGIGSGIGYGSGIG : 415
+
+ 493 : SSTGNGTSGGGGGNNAGGGGGGTNS : 517
+       |:.| |:: |:| . ::| |||.:|
+ 416 : SGIGYGSGIGSGIGYGSGIGGGISS : 440
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 517 . Medex_00083545-RA 289 440 . 111 M 37 37 G 2 0 M 5 5 G 0 1 M 12 12 G 0 1 M 30 30 G 0 1 M 8 8 G 0 1 M 4 4 G 0 1 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 35 -> 147
+  Target range: 302 -> 413
+
+  36 : PALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGG :  99
+       .::::| .::: :: ||. ::..:::|  : ....:. . ::.: :| .::: :: . ||:   
+ 303 : TSVSTGVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQVT-MQQQQQPTPPQLTVQQ : 365
+
+ 100 : GSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+          : :||:: :: :| ::: ||||.|||||| |||| :: ||||||:
+ 366 : QQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQ : 413
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 35 147 . Medex_00032111-RA 302 413 . 114 M 47 47 G 1 0 M 64 64
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 27 -> 154
+  Target range: 284 -> 412
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAY :  91
+       :|.|| :::: .:.    .:.::| ...| :| .:: |:::.::.  .:.| . |   :: :. 
+ 285 : QQPQQLAASTANTTKMIVTSVSTGVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQV : 348
+
+  92 : TLQLAGGGGSGS-GNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |:| .  ..:.  . ||:: |  :: : :| |: ||| |||:.||||:: |||| |: .::.:|
+ 349 : TMQQQQQPTPPQLTVQQQQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQ : 412
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 154 . Medex_00032111-RA 284 412 . 104 M 76 76 G 0 1 M 51 51
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091920-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 155 -> 272
+  Target range: 37 -> 155
+
+ 156 : NSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAA : 219
+       :||  | | :    .:|.  |  .. . | :|: .|..:||.: .:. :.: .: : :: |::.
+  38 : SSSQRSVILDHRVLCVFQYIYCYKKQDSSSESDVEGTTAGGGFARDEYAEAVQSFDALMTPDSD : 101
+
+ 220 : SSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG-NSGPGNPMGGTSATPGHGGE : 272
+       :: .::|:...:|  . . | :|||:||:|:|| :||.|.  :|.::.:| ||:
+ 102 : APITHDGSGGEDHSHKHEGGCDSGGGGNSGGGGCDSGGGGCDSGGGGDSGGGGD : 155
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 155 272 . Medex_00091920-RA 37 155 . 107 M 97 97 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00043237-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 1 -> 254
+  Target range: 721 -> 971
+
+   2 : LLEMDQQQATVQFISSLNIS--PFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTS :  63
+       :|::.: ::::.  .:||||  : : .|.|  ..::|.::    ||::.:: :.::..|::.||
+ 722 : VLQISKTHGSLPSSDTLNISVGSCTPPLSQGLANTPPVVPI---SSHHVTPQNASSCVSASPTS : 782
+
+  64 : SSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQ : 127
+       . :.:: ::::.. :: : : .:: ::  |: .:.| : :..:.|.:.|:: :.   .. :.  
+ 783 : RLTPSSLQSSSTTVSQPVMQTSQQVSP--LNRQSPGHPHPTPHPHPTPHPHSSPFIGPPGHPTL : 844
+
+ 128 : QQQQHQQQQQEHYQQQQQQNIANNANQ-FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGG : 190
+       ::.:|   ::  :.... :. |...:: :: :  :| |.|. .|  | . |  . :.:::|...
+ 845 : HHPHHSIIHHPLFAAAAVHAAAATVHHPYHHPYAAYGYPFAYPYGPPMP-QPHPVPPPHHSTPP : 907
+
+ 191 : GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNS : 254
+       :.: . .  ::: : .|: :  .| .:::| |::. ::.:. : |:  .. |: :.. . :|:|
+ 908 : ATALTVPSTSSTHSHRSSHDQTRLETRTSSQSSSAVESTSTSLHSSQHTTHSSVTTRREISGSS : 971
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 1 254 . Medex_00043237-RA 721 971 . 100 M 20 20 G 0 2 M 19 19 G 3 0 M 47 47 G 2 0 M 62 62 G 0 1 M 21 21 G 1 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 171 -> 539
+  Target range: 405 -> 780
+
+ 172 : FPTGYQDTTSSHSQQSGGG--GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA-GH : 232
+       ||.| |:.|::::. :.||  ||.:||:  :|::| :::.:|    : :.:: |..| |.: |.
+ 406 : FPGG-QGPTGGQGPSGPGGFPGGPSGGQGPSGPGGFPGGPSGGQGPSGGQGPLGPGGFPGGQGP : 468
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKH-LFEELCPVCGDKVSGYH : 295
+       ..:|: . |  .:|.|| .|.  ||.  || :::.::|:   .:.:  :..: .  | . : | 
+ 469 : FRPGGFPIGQRPSGPGGFPGPFRPGGFPGGFPGANDDGSYDGSYDDGDYSAIPGQPGIDYPIYS : 532
+
+ 296 : YGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPY-CRFQKCLEVGMKLEAVRADR : 358
+          :|. ||.    ..  ..    | | : |  :||    ||    |::   | :  :.   :|
+ 533 : EVPFTSFSCEQQPFPGYYADVETQCQAFHICANNKTYDFLCPNGTVFHQEYFVCVWWNQFDCGR : 596
+
+ 359 : MRGG--RNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQE : 420
+        .:    |:|   |.   :::    .    :: : ..: |.  .|::  ||   : .. : .  
+ 597 : APSLYYLNQFIYDYSIIGSQQPGFGSGGFPGIGGPSGPTGQFPTPSSDFPGSGGPGGPGSPSGP : 660
+
+ 421 : IQIPQVSSLT-QSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGG-GGLNGPS-SVGNGN : 481
+       :. |  :| | ..|:::::|:: : |. .:|..|  :.|.. ..|.|:| .|:.||| ::|:|.
+ 661 : FPRPGGPSGTFPRPGGPSGPFPRPGGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGG : 724
+
+ 482 : SSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :|..::.:..:::.|.|. :|.||.::.||.||  :.:.:.|.||...:    :| ||
+ 725 : PSGPGGPSGPSGPVGPGGLSGPGGPSGPGGPGG--PGGPFPRPGGPTAGYPGPGGPGS : 780
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 539 . Medex_00091664-RA 405 780 . 134 M 4 4 G 1 0 M 14 14 G 0 2 M 40 40 G 0 1 M 48 48 G 0 1 M 60 60 G 0 1 M 24 24 G 0 2 M 68 68 G 0 1 M 38 38 G 0 1 M 7 7 G 0 1 M 39 39 G 2 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 172 -> 566
+  Target range: 390 -> 788
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       |.|:.:. :: :. : .|| |..|.  :|:||.:: .||    . :::::| .|.|::|: :||
+ 391 : PGGFPGGQGPTGPGGFPGGQGPTGG--QGPSGPGGFPGGPSGGQGPSGPGGFPGGPSGGQGPSG : 452
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVI---DFKHLFEELC--PVCGDKVSGYH : 295
+       : |. :.|: .||.|. ...| |:|  ::.||  .. :   :|   | .    . .::. .: :
+ 453 : GQGPLGPGGFPGGQGPFRPGGFPIGQRPSGPGGFPGPFRPGGFPGGFPGANDDGSYDGSYDDGD : 516
+
+ 296 : YGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRM : 359
+       |: :. ::  ::   :  . . ::| .:.      .  .:|.   |: | : ... : : ::  
+ 517 : YSAIPGQPGIDYPIYSEVPFTSFSCEQQPFPGYYADVETQCQ--AFHICAN-NKTYDFLCPNGT : 577
+
+ 360 : RGGRNKFG----PMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQ : 419
+          :: |     . :. :||..|  :.|   .  :: .|  |:: :..::.   .: |. ::  
+ 578 : VFHQEYFVCVWWNQFDCGRAPSLYYLNQFIYDY-SIIGSQQPGFGSGGFPGIGGPSGPTGQFPT : 640
+
+ 420 : EIQIPQVSSLTQSPDSSPSPIAIALGQVNA-STGGVIATPMNAGTGGSGGGGLNGPSSVGNGNS : 482
+            . |: . :|:|:::|:: : |. .: : .|  :.|.. ..|.:|.:| .|||:  . .:
+ 641 : PSSDFPGSGGPGGPGSPSGPFPRPGGPSGTFPRPGGPSGPFPRPGGPGGPSGPGGPSGPFPRPG : 704
+
+ 483 : SNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADS : 546
+       :.:|: .. .:::|. .|||.:|..:.:|.:|. :.:||  .||.:.:: ..:. |::...:::
+ 705 : GPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVGPGGLSGPGGPSGPGGPGGPGGPFPRPGGP : 768
+
+ 547 : KLCFDSGTHPSSTADALIEP : 566
+       .  : :.. |:||::::  |
+ 769 : TAGYPGPGGPGSTSGPFPRP : 788
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 566 . Medex_00091664-RA 390 788 . 131 M 25 25 G 2 0 M 75 75 G 0 3 M 10 10 G 0 2 M 53 53 G 2 0 M 7 7 G 1 0 M 20 20 G 0 4 M 21 21 G 1 0 M 60 60 G 0 1 M 117 117
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 198 -> 582
+  Target range: 116 -> 505
+
+ 199 : LNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG--NSGPGNPM : 260
+       :.:|:.| ::|||:   : :: :||. .::.:|. |:|: .:::. :| .::||  :|.|| | 
+ 117 : FPSSTPGYPSGGGFP-SSTPGYPSGGFPSSTPGYPSGGGFPSSTPRPGYPSGGGFPSSTPGFPS : 179
+
+ 261 : GG-TSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAE : 323
+       || .|:|||. |   :        .. .. : :||. :   .::  ||  ... .   |.  .:
+ 180 : GGFPSSTPGPQGYPSGRPTGRPFPSGPSTPRPAGYPSDENQSNGPGGF--PGASGPGGYPGGQQ : 241
+
+ 324 : RSCH--IDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRNKFGPMYKRDRARK-LQVMRQR : 384
+       .| .  : ..    .|  |  .  . .  : :  :: ..|||.. .. : .: .|     .. |
+ 242 : PSGPGGFPTGGAGGYPSGRPGTRPSGPGGFPSGGPGGFPGGRPSRPGAFPSGGQRPGAGGFPGR : 305
+
+ 385 : QLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVN : 448
+       . : .: :.: ||:  |.. :|. . ::|. :   . | |  ::  .:.:::::| : : |  .
+ 306 : PGGYPGGQGPSGPGGFPGGQGPTGPGSFPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPGGGQG : 369
+
+ 449 : ASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGG : 512
+       ::..| ::.. :::||| |.:| .|. : |:|.::.|: .|.:.::.|:|.||.|| ..:.:||
+ 370 : PAGPGGFPGG-QGSTGGQGPSG-PGGFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGFPGGPSGG : 431
+
+ 513 : GGTNSNDGLH--RNGGNGNSSCHEA-GIGSLQNTADS--KLCFDSGTHPSSTADALIEPLRVSP : 571
+        |.::.:|:.  .:||:|.|: :.: | |::....::     |  | :||: :::: .|:| :.
+ 432 : QGPSGPGGFPGGPSGGQGPSGGQGPLGPGGFPGGQGPFRPGGFPIGQRPSG-PGGFPGPFRPGG : 494
+
+ 572 : MIREFVQSIDD : 582
+       .  .|  : ||
+ 495 : FPGGFPGANDD : 505
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 198 582 . Medex_00091664-RA 116 505 . 130 M 15 15 G 1 0 M 38 38 G 0 2 M 10 10 G 0 1 M 45 45 G 2 0 M 18 18 G 0 2 M 50 50 G 0 1 M 81 81 G 1 0 M 11 11 G 1 0 M 51 51 G 0 2 M 13 13 G 0 1 M 11 11 G 0 2 M 12 12 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 431 -> 539
+  Target range: 328 -> 434
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :|:| |:. : : || .::.||  :.. .||.|| .||| :||:: |. .:::||:.|:..|:.
+ 329 : GPGSFPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPGGG-QGPAGPGGFPGGQGSTGGQGPSGP : 391
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       | | :|| |...:|| .|| .:.:|  .:|..| :: ..:| |:
+ 392 : G-GFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGFPGGPSGGQGP : 434
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 539 . Medex_00091664-RA 328 434 . 118 M 39 39 G 1 0 M 25 25 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 171 -> 270
+  Target range: 289 -> 387
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       ||:| | ..::  . ..|| .|| |.  .|: .|: :..|   :| :.::||.:|.:.:| .::
+ 290 : FPSGGQRPGAGGFPGRPGGYPGGQGPSGPGGFPGGQGPTGPGSFPGGQGPSGGQGPSGPGGFPG : 353
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       |  ..|:||  .||: |.:|||.  || ::|.|:|
+ 354 : GQGPAGPGGY-PGGGQGPAGPGGFPGGQGSTGGQG : 387
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 270 . Medex_00091664-RA 289 387 . 116 M 74 74 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 177 -> 579
+  Target range: 431 -> 843
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :..|:.:  :||.:|| |.:  :|: |.:: .||   :..:: : |:..:..:|  :: . |. 
+ 432 : QGPSGPGGFPGGPSGGQGPSGGQGPLGPGGFPGGQGPFRPGGFPIGQRPSGPGGFPGPFRPGGF : 495
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG-EVIDFKHL-FEELCPVCGDKVSGYHYGLLTCES : 303
+       :|| ..:..:|: :.:   |: ||.||:.| :   :.:: |..:.  |.::  . .|: :. : 
+ 496 : PGGFPGANDDGSYDGSYDDGDYSAIPGQPGIDYPIYSEVPFTSFS--CEQQPFPGYYADVETQ- : 557
+
+ 304 : CKGFFKRTVQNKKVYTCVAERSCHIDKT-----QRKRCPYCRFQKCLEVGMKLEAVRADRMRG- : 362
+       |::|   : ::.  : | ..   | :       ::  |.  .   .|:  :   :: :.: .| 
+ 558 : CQAFHICANNKTYDFLCPNGTVFHQEYFVCVWWNQFDCGRAPSLYYLNQFIYDYSIIGSQQPGF : 620
+
+ 363 : GRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNM-NIKQEIQIP : 424
+       |.. |..:  .. :      . .:::  : ..: |:   | | :.|   ::|.  . .  :. |
+ 621 : GSGGFPGIGGPSGPTGQFPTPSSDFPGSGGPGGPGSPSGPFPRPGGPSGTFPRPGGPSGPFPRP : 684
+
+ 425 : QVSSLTQSPDSSPSPIAIALGQVNASTG-GVIATPMNAGTGGSGGGGLNGPSSVGNGN-SSNGS : 486
+         :: . :|:::::|:: : |. :: .| |  :.|:.:|..::.||. ..:::||.|. |:.|:
+ 685 : GGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVGPGGLSGPGG : 748
+
+ 487 : SNGNNNSSTGNGTSGGGGGNNAG--GGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKL : 548
+       ::|...::...|. . .||..||  |.||..::::.:.|.||.: :    :| ::  ..:::  
+ 749 : PSGPGGPGGPGGPFPRPGGPTAGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGASGPGGPGGPGG : 812
+
+ 549 : CFDSGTHPSSTADALIEPLRVSPMIREFVQS : 579
+        | ... |:::  :  .| | :.  . | ::
+ 813 : PFPRPGGPTTSYPGSGGPSRPGGPGSPFPRP : 843
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 579 . Medex_00091664-RA 431 843 . 116 M 94 94 G 0 1 M 8 8 G 0 1 M 5 5 G 2 0 M 16 16 G 1 0 M 28 28 G 0 5 M 30 30 G 0 1 M 54 54 G 0 1 M 37 37 G 0 1 M 29 29 G 0 1 M 28 28 G 0 2 M 70 70
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 391 -> 561
+  Target range: 239 -> 405
+
+ 392 : RNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVI : 455
+       ::: ||:  ||. :.||. : |. . .    :|  :: . :.:.::.| |:: |  .:::||  
+ 240 : QQPSGPGGFPTGGAGGYPSGRPGTRPSGPGGFPSGGPGGFPGGRPSRPGAFPSGGQRPGAGGFP : 303
+
+ 456 : ATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSND : 519
+       : |  :| .|: |.: .|. : |:|.::.|| .|.:.:|.|:|.||.|| ..: |.:|... .:
+ 304 : GRP--GGYPGGQGPSGPGGFPGGQGPTGPGSFPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPG : 365
+
+ 520 : GLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTAD : 561
+       | : .:|.|. :  :::.|:  .:: :   | :|  |::.::
+ 366 : GGQGPAGPGGFPGGQGSTGGQGPSGPGG--FPGGQGPTGPGG : 405
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 391 561 . Medex_00091664-RA 239 405 . 115 M 67 67 G 2 0 M 87 87 G 2 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 170 -> 276
+  Target range: 669 -> 772
+
+ 171 : IFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       .|| .  :.::: ::.:|.||.:|.|.  .. : .:::::||  :. :::: |:.|.:.:|  |
+ 670 : TFPRP-GGPSGPFPRPGGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPS : 732
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       :.| . |:||   :|:||.||||.| |..:: | .|| . ::
+ 733 : GPSGPVGPGGL--SGPGGPSGPGGPGGPGGPFPRPGGPTAGY : 772
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 170 276 . Medex_00091664-RA 669 772 . 114 M 5 5 G 1 0 M 69 69 G 2 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 166 -> 276
+  Target range: 768 -> 879
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS-SGNNGNPN : 229
+       .: |  |.|  .|::: ::.:|.: | .| .  :|::|.:::||.:   . :::| :|:.|.:.
+ 769 : TAGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGASGPGGPGGPGGPFPRPGGPTTSYPGSGGPSR : 832
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       :|  :|.   .|:.:|| .|:||.||||.| |..:: | .|| . ::
+ 833 : PGGPGSPFPRPGGPSAGYPGPGGPSGPGGPGGPGGPFPRPGGPAAGY : 879
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 276 . Medex_00091664-RA 768 879 . 114 M 55 55 G 0 1 M 55 55
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 172 -> 268
+  Target range: 305 -> 404
+
+ 173 : PTGYQDTTSSHSQQ--SGGGGGGGGGNLLNG-SSGGSSAGGGYMLLPQAASSSGNNGNPNAGHM : 233
+       |.||.:. :: :.   :|| |..|.|:: .| :::|: :.:|   :| :.:::|..| |.:|: 
+ 306 : PGGYPGGQGPSGPGGFPGGQGPTGPGSFPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPGGGQG : 369
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPG : 268
+       ::|: | .:| ::.||.|.::..| | | .::.||
+ 370 : PAGPGGFPGGQGSTGGQGPSGPGGFPGGQGPTGPG : 404
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 268 . Medex_00091664-RA 305 404 . 113 M 14 14 G 0 2 M 15 15 G 0 1 M 67 67
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 171 -> 271
+  Target range: 362 -> 461
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :|.| |:.::: : .:| |:.|| |.  .|: .|: :..|   :| :.:::|.:|.:.:| .::
+ 363 : YPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGFPG : 426
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |: | | |.:|.|| .|.::.|:. :|. :. |.||
+ 427 : GPSG-GQGPSGPGGFPGGPSGGQGPSGGQGPLGPGG : 461
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00091664-RA 362 461 . 113 M 68 68 G 1 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 172 -> 518
+  Target range: 677 -> 1019
+
+  173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS :  234
+        :..:. ..:: :. :.||.:|. ..  ..||| ::.||.   :. :::|:....:..:|.::
+  678 : SGPFPRPGGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVG :  739
+
+  235 : SGSVGNGSGGAGNGGAGGNSGP-GNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYH :  295
+        :|:::..:|.:|.||:||.:|| ..| |.|:: ||.||   .  .:     | .|    |  
+  740 : PGGLSGPGGPSGPGGPGGPGGPFPRPGGPTAGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGA :  801
+
+  296 : YGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRAD :  357
+         |  . .:  | | |.  ... |.  :..|       |   | ..|.:  . :    :  : 
+  802 : SGPGGPGGPGGPFPRPGGPTTSYPGSGGPS-------RPGGPGSPFPRPGGPSAGYPGPGGP :  856
+
+  358 : RMRGGRNKFGPMYKRDRARKLQ-VMRQRQLALQALRNSMGPDIKPTPISPGYQ-QAYPNMNI :  417
+        . .||..  |. : |  :.      .  . :  :  .: ||  :|.. ::||. .: |: . 
+  857 : SGPGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGPGGPSGPG :  918
+
+  418 : KQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGN :  479
+         .. . .. :. . :..: |:| : : .  .::.|| :: | ::.:| :|.|| :|| :...
+  919 : GPGGPGGPFPRPGGPTAGYPGPGGPSGPGGPGGPGGPFPRPGSPTAGYPGPGGPSGPFPTPG :  980
+
+  480 : GNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSN :  518
+        |.::. ::.|.::::::. ...||....:..| .|..::
+  981 : GPTAGYPGTGGSSTPSSPFPRPGGPTTPGPTGVPGGGAQ : 1019
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 518 . Medex_00091664-RA 677 1019 . 113 M 84 84 G 0 1 M 69 69 G 7 0 M 47 47 G 0 1 M 30 30 G 0 1 M 109 109
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 395 -> 539
+  Target range: 266 -> 412
+
+ 396 : GPDIKPTPISPGYQQAYPNM--NIKQEIQIPQVSSLTQSPDSSPSPI-AIALGQVNASTGGVIA : 456
+       ||:  |:. :.|:. : |:.  .:  . | | .:::. .|:: |:.  : : |  .:: |.. :
+ 267 : GPGGFPSGGPGGFPGGRPSRPGAFPSGGQRPGAGGFPGRPGGYPGGQGPSGPGGFPGGQGPTGP : 330
+
+ 457 : TPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDG : 520
+       .:..:| |.||| | :||:: ..|:::.|:: | ..:: |.:.:|| .|.:::.|| |.::.:|
+ 331 : GSFPGGQGPSGGQGPSGPGGFPGGQGPAGPG-GYPGGGQGPAGPGGFPGGQGSTGGQGPSGPGG : 393
+
+ 521 : LHRNGGNGNSSCHEAGIGS : 539
+       :. . |...::   :| |:
+ 394 : FPGGQGPTGPGGFPGGQGP : 412
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 395 539 . Medex_00091664-RA 266 412 . 112 M 20 20 G 0 2 M 25 25 G 0 1 M 47 47 G 1 0 M 51 51
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 172 -> 261
+  Target range: 372 -> 461
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       |.|:.:. :| : |:.:|.|| .|.  ..::|| ::| |    . :::::| .|.|::|: :||
+ 373 : PGGFPGGQGSTGGQGPSGPGGFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGFPGGPSGGQGPSG : 436
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMG : 261
+       : | .:|.:|. |::|. || .| |
+ 437 : PGGFPGGPSGGQGPSGGQGPLGPGG : 461
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 261 . Medex_00091664-RA 372 461 . 112 M 89 89
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 400 -> 539
+  Target range: 267 -> 403
+
+ 401 : PTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTG : 464
+       |..:::| . ::|. . .:  .:|  :  . :.: :..| : : || .::.||  :.. .:|.|
+ 268 : PGGFPSGGPGGFPGGRPSRPGAFPSGGQRPGAGGFPGRPGGYPGGQGPSGPGGFPGGQGPTGPG : 331
+
+ 465 : GSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG : 528
+       : .||  :|||: |:|.|:.|: .|.:.::...| :||| |..:.|| .|.:::.| : .:|.|
+ 332 : SFPGG--QGPSG-GQGPSGPGGFPGGQGPAGPGGYPGGGQGPAGPGGFPGGQGSTGGQGPSGPG : 392
+
+ 529 : NSSCHEAGIGS : 539
+       . :  ::..|:
+ 393 : GFPGGQGPTGP : 403
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 400 539 . Medex_00091664-RA 267 403 . 111 M 69 69 G 2 0 M 5 5 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 172 -> 270
+  Target range: 359 -> 455
+
+ 173 : PTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |.||.:.. :.: .:| .|| |:.|.  .:::|| ::| |    | :::: ... .|.:|: :|
+ 360 : PGGYPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPGGQG----PTGPGGFPGGQGPTGGQGPS : 419
+
+ 236 : GSVGNGSGGAGNGGAGGNSG-PGNPMGGTSATPGHG : 270
+       |: | .:|.:|. |::|.:| ||.| || :::.|:|
+ 420 : GPGGFPGGPSGGQGPSGPGGFPGGPSGGQGPSGGQG : 455
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 270 . Medex_00091664-RA 359 455 . 111 M 16 16 G 0 1 M 23 23 G 4 0 M 40 40 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 171 -> 270
+  Target range: 332 -> 431
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       ||.|   :.:  :  :|| .|| |..  .| :||: :.:|   :| :.:|:|.:|.:.:| .::
+ 333 : FPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPG : 396
+
+ 236 : GSVGNGSGG-AGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       |  ..|:|| :|. |:.|. ||:.| || ::.|: |
+ 397 : GQGPTGPGGFPGGQGPTGGQGPSGP-GGFPGGPSGG : 431
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 270 . Medex_00091664-RA 332 431 . 110 M 73 73 G 0 1 M 15 15 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 171 -> 271
+  Target range: 350 -> 452
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNG-SSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       ||.| |:.::: : .:|| |.:|.|.: .| :|.|: :.:|   :| :.:::|..| |.:   :
+ 351 : FPGG-QGPAGPGGYPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPGGQGPTGPGGFPGGQGPT : 413
+
+ 235 : SGSVGNGSGG--AGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|  .:|:||  :|.:|: |.||||.  ||.|:..|.:|
+ 414 : GGQGPSGPGGFPGGPSGGQGPSGPGGFPGGPSGGQGPSG : 452
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00091664-RA 350 452 . 110 M 4 4 G 1 0 M 25 25 G 0 1 M 43 43 G 0 2 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 172 -> 276
+  Target range: 724 -> 824
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       |:|  :.::: :. :.|| :|.||.  :|::|.:::||.:   ..:::::| .|...:|  |:.
+ 725 : PSGPGGPSGPSGPVGPGGLSGPGGP--SGPGGPGGPGGPFP--RPGGPTAGYPGPGGPGSTSGP : 784
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+          .|:.: | .|.||.||||.| |..:: | .|| ...:
+ 785 : FPRPGGPSYGYPGVGGASGPGGPGGPGGPFPRPGGPTTSY : 824
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 276 . Medex_00091664-RA 724 824 . 109 M 25 25 G 2 0 M 14 14 G 2 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 166 -> 271
+  Target range: 836 -> 942
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGN-PN : 229
+       :|.:  |.|  .. ::.: .||.||.||.|. :. ::|.::: .|    : |::::|..|. |.
+ 837 : GSPFPRPGGPSAGYPGPGGPSGPGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPR : 900
+
+ 230 : AGHMSSGSVGNGSGGAGNGGAGGNSGP-GNPMGGTSATPGHGG : 271
+       :|  ::|  |.| |.:|.||:||.:|| ..| |.|:: ||.||
+ 901 : PGGPTAGYPGPG-GPSGPGGPGGPGGPFPRPGGPTAGYPGPGG : 942
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 166 271 . Medex_00091664-RA 836 942 . 109 M 61 61 G 0 1 M 14 14 G 1 0 M 14 14 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 426 -> 563
+  Target range: 360 -> 499
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVI-ATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNG : 489
+       :: . :.:::::| ::: || :::. |   :....:| |.:|.||:.|. : ..|::::|::. 
+ 361 : GGYPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGF : 424
+
+ 490 : NNNSSTGNGTSGGGG-GNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDS : 552
+       ...:|.|:|.||.|| ...::|| |.:.:::.| ..| .|. :   :|  :: : :.:   | :
+ 425 : PGGPSGGQGPSGPGGFPGGPSGGQGPSGGQGPLGPGGFPGGQGPFRPGGFPIGQRPSGPGGFPG : 488
+
+ 553 : GTHPSSTADAL : 563
+       . :|:: ::::
+ 489 : PFRPGGFPGGF : 499
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 563 . Medex_00091664-RA 360 499 . 108 M 29 29 G 0 1 M 49 49 G 0 1 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 400 -> 562
+  Target range: 785 -> 949
+
+ 401 : PTPISPGYQQAYPNMNIKQEIQIP--QVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAG : 462
+       | | :|:|  :||.:.   .   |  . :::.::.:::.|  : : .  .::.|: :: | .::
+ 786 : PRPGGPSY--GYPGVGGASGPGGPGGPGGPFPRPGGPTTSYPGSGGPSRPGGPGSPFPRPGGPS : 847
+
+ 463 : TGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG--GGGTNSNDGLHRN : 524
+       :| :|.|| :||:: |...:: ..:.|...: .|:|.::|:||..:.||  . ...:..| . .
+ 848 : AGYPGPGGPSGPGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGP : 911
+
+ 525 : GGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+       ||.:.:: ..:. |::...:::.  : :.. ||:.:::
+ 912 : GGPSGPGGPGGPGGPFPRPGGPTAGYPGPGGPSGPGGP : 949
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 400 562 . Medex_00091664-RA 785 949 . 107 M 8 8 G 2 0 M 14 14 G 0 2 M 87 87 G 0 2 M 51 51
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 172 -> 271
+  Target range: 338 -> 436
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPN-AGHMSS : 235
+       |:| |:.::: : .:| |.:|.||   .|:: |:::.||:   . :::: |.:|... :|  ::
+ 339 : PSGGQGPSGPGGFPGGQGPAGPGG--YPGGGQGPAGPGGFPGGQGSTGGQGPSGPGGFPGGQGP : 400
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       .: |. :||.|..|: |.||||.  ||.|:..|.:|
+ 401 : TGPGGFPGGQGPTGGQGPSGPGGFPGGPSGGQGPSG : 436
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00091664-RA 338 436 . 106 M 24 24 G 2 0 M 31 31 G 0 1 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 181 -> 268
+  Target range: 681 -> 766
+
+ 182 : SHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGA : 245
+       :::  :||.:|.||.:   ..:||:|:| . :  | :: :||..:.|.:.  :||:||.| | :
+ 682 : PRPGGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVGPG-GLS : 744
+
+ 246 : GNGGAGGNSGPGNPMGGTSATPG : 268
+       |.||::|.:|||.| ||. : ||
+ 745 : GPGGPSGPGGPGGP-GGPFPRPG : 766
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 181 268 . Medex_00091664-RA 681 766 . 106 M 60 60 G 1 0 M 17 17 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 171 -> 270
+  Target range: 320 -> 417
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       ||.| |:.|:: | .:| |.:|| |.  .|: .|: :.:|    | :: :::..|. .:|: |:
+ 321 : FPGG-QGPTGPGSFPGGQGPSGGQGPSGPGGFPGGQGPAGPGGYPGGGQGPAGPGGFPGGQGST : 383
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       |: | .||.:| .|: |.:|||.  || ::|.|:|
+ 384 : GGQG-PSGPGGFPGGQGPTGPGGFPGGQGPTGGQG : 417
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 270 . Medex_00091664-RA 320 417 . 105 M 4 4 G 1 0 M 63 63 G 1 0 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 426 -> 526
+  Target range: 373 -> 473
+
+ 427 : SSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGN : 490
+       :::. :.:|:.:. : : |  .:: |.. :....:| |.:|| | :||:: ..|.|:. :::|.
+ 374 : GGFPGGQGSTGGQGPSGPGGFPGGQGPTGPGGFPGGQGPTGGQGPSGPGGFPGGPSGGQGPSGP : 437
+
+ 491 : NNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGG : 526
+       .. :.|.:.: |.:|.::. |.|| .:.:|  |.||
+ 438 : GGFPGGPSGGQGPSGGQGPLGPGGFPGGQGPFRPGG : 473
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 426 526 . Medex_00091664-RA 373 473 . 105 M 100 100
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058551-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 199 -> 271
+  Target range: 52 -> 124
+
+ 200 : NGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGT : 263
+       .|:|| :::|||| :: :.:: :|. |... || ::|: |.|:|| |  |:|| :|.|.  ||.
+  53 : GGGSGHGGGGGGYAVVIEDGGFGGGFGGGGLGHHGGGGFGGGGGGFGLHGGGGFGGGGGFGGGD : 116
+
+ 264 : SATPGHGG : 271
+        : .| ||
+ 117 : FGHHGGGG : 124
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 199 271 . Medex_00058551-RA 52 124 . 117 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058551-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 184 -> 255
+  Target range: 69 -> 142
+
+ 185 : QQSGGGGGGGGGNLLNGSSGG-SSAGGGYMLLPQAA-SSSGNNGNPNAGHMSSGSVGNGSGGAG : 246
+       :::| ||| |||.| : ::|| :::|||: | . :: :::|. |..: || ::|: |.|:|| |
+  70 : EDGGFGGGFGGGGLGHHGGGGFGGGGGGFGLHGGGGFGGGGGFGGGDFGHHGGGGFGGGGGGFG : 133
+
+ 247 : NGGAGGNSG : 255
+       .| :| ::|
+ 134 : GGLGGKHGG : 142
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 184 255 . Medex_00058551-RA 69 142 . 108 M 21 21 G 0 1 M 14 14 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00073011-RA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 283 -> 325
+  Target range: 65 -> 107
+
+ 284 : CPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERS : 325
+       | ||||. || |||:|:|::|.|||||:|:.| :| .:| ::
+  66 : CVVCGDTSSGKHYGILACNGCSGFFKRSVRRKLIYRYLAPWG : 107
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 283 325 . Medex_00073011-RA 65 107 . 155 M 42 42
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 172 -> 588
+  Target range: 668 -> 1071
+
+  173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNG-NPNAGHM :  233
+        :|| ::.::.:: .:: |:.|..|.  : ::.|: :. |:  || |::::|::| :.::|  
+  669 : ATGPRGDAGKDGSPGSQGSPGPPGADGDRGAPGPVGPRGFQGLPGAPGNPGSSGKDGEPGVQ :  730
+
+  234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYH :  295
+        ::.::..:||. |: | .|:.|| .: ||.:: ...|::  |  .   .  .. |||  . .
+  731 : GPPGIPGSSGPRGERGFPGERGPVGSPGGPGPRGEPGSQGQDGPP---GPAGTKGDKGHPGP :  789
+
+  296 : YGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRAD :  357
+         |||. :: :|  . .:...|     :||: :.: . ..  |  : :: :: .|  .: .::
+  790 : SGLLGLQGMRG--EAGLPGEK-----GERG-NTGPVGPEGPPGRQGDRGVQGEMGPTGPPGE :  843
+
+  358 : RMRGGRNKFGPMYKRDRARKLQVMRQR-QLALQALRNSMGPDIKPTPISPGYQQAYPNMNIK :  418
+          .::|.. ||   .: |       :| . : |:| .  ||:  :.| ::  :::: . : .
+  844 : --PADRGDPGPPGPPGEAGAPGSPGERGPTGPQGLLGFPGPQGPAGPAGAKGERGFIGNKGE :  903
+
+  419 : QEIQIPQVSSLTQSPD---SSPSPIAIALGQVNASTGGVIATPMNAGTGG-SGGGGLNGPSS :  476
+        |. . .| :: .|:|    : |:: :   .. : :.:|::::| .:|..| :| .|  ||::
+  904 : QGNPGQQGTPGEQGPPGLLGLPGAKGARGEPGSRGEAGIMGAPGRPGEPGLAGHPGSIGPPG :  965
+
+  477 : VGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNG-NSSCHEAGI :  537
+        |:. .: :||: |:...:..:|.:| .|...:.|. |::.|::.  ..| .| :::  : |:
+  966 : VAGVPGIKGST-GDTGRPGNQGPPGQPGTPGPEGPKGDSGSEGPTGPPGQPGPQGPAGDRGL : 1026
+
+  538 : GSLQNTADSKLCFDSGTHPSSTADALIEPLRVSPMIREFVQSIDDREWQTQ :  588
+        .:|..:|::     ||::. ..|.|    || :.| ...::. ..: || |
+ 1027 : PGLPGSAGP-----SGARGVRGATANYLDLR-ARMASGWLNKPTTHMWQLQ : 1071
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 588 . Medex_00010136-RA 668 1071 . 116 M 54 54 G 0 1 M 52 52 G 3 0 M 25 25 G 2 0 M 8 8 G 5 0 M 4 4 G 1 0 M 31 31 G 2 0 M 25 25 G 0 1 M 50 50 G 0 3 M 31 31 G 0 1 M 22 22 G 1 0 M 40 40 G 0 1 M 18 18 G 5 0 M 17 17 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 172 -> 519
+  Target range: 926 -> 1268
+
+  173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS :  234
+        :.| ::..:|:::.:  |:.| .|:   :: .|| :..|   :|   :|:|:.|.|  |: :
+  927 : AKGARGEPGSRGEAGIMGAPGRPGEPGLAGHPGSIGPPGVAGVPGIKGSTGDTGRP--GNQG :  986
+
+  235 : SGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHY :  296
+        :.: ...:|..|. |.:|:.||..| | .:: .. |:  :   .  .. ... | : :. :|
+  987 : PPGQPGTPGPEGPKGDSGSEGPTGPPGQPGPQGPAGDRGLPGLPGSAGPSGARGVRGATANY : 1048
+
+  297 : GLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADR :  358
+          |     .|.:::.. :.     :  :..| : ::  :|   .| . :. |:: |: .:::
+ 1049 : LDLRARMASGWLNKPTTHMWQLQPIC-KEYHDNGAKTLHCD--NFVEIISYGLQGETGPPGK : 1107
+
+  359 : MRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQE :  420
+          :. .  .|  .  .::  |   | . :  : ..: | . :|.  :|  | : |. : :..
+ 1108 : PGSEGPPGPPGVSGPPGQPGQPGEQGPEGPSGKSGPPGIAGRPGDKGPIGQSGAPGQQGQPG : 1169
+
+  421 : IQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNS :  482
+        :. |. :| ..:: :..:. : : .|  .:  |  :.| .||..|: |:  : .:: .:|:.
+ 1170 : MPGPPGPSGPAGSPGERGQKGESGPQGVDGQQGPRGKPGPAGPEGTKGDRGEVGPAGPKGHR : 1231
+
+  483 : SNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSND :  519
+        :  : :| ..: ..:|..| .| ..:.| :|...:::
+ 1232 : GLIGLQGLPGPIGPSGERGYPGQPGPPGKDGEPGPKG : 1268
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 519 . Medex_00010136-RA 926 1268 . 104 M 56 56 G 2 0 M 92 92 G 1 0 M 14 14 G 2 0 M 180 180
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00030593-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 283 -> 305
+  Target range: 31 -> 53
+
+ 284 : CPVCGDKVSGYHYGLLTCESCK : 305
+       | |||||.||||||: :||:||
+  32 : CKVCGDKASGYHYGVTSCEGCK :  53
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 283 305 . Medex_00030593-RA 31 53 . 114 M 22 22
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00033330-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 91 -> 541
+  Target range: 120 -> 573
+
+  92 : TLQLAGGGGSGSGNQQHHS-NHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       .|: .|::::.:|: .||  .:  :|...:  | :|: :       :.   .:::::|:||.|:
+ 121 : GLEEDGADSPPPGELAHHMLRDILQGRKKELLQLEQELRSVSVSGGDSAPSPDNNNSITNNNNN : 184
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQA : 218
+        : .: :   : ..  : .:. .:::::|| :   . .|:: .:  ::|||...::: : : :|
+ 185 : NELKNGGAGTDCSDTELGGANTPHSATNHSGKQQLNVNGSDLGMDVDASGGEDDAAAAVAMEEA : 248
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEE : 282
+        :.:|  ::::  : : .::..|:|:.:: : ::.|:   | : .::. :  : | : |:   .
+ 249 : LNEAGVVSKADLMEEALNNMNGGAGSDSEQSLASPSSDCLPNDKETGEDSTQAPVGEAKESQPS : 312
+
+ 283 : LC--PVCGDKVSGYHYGLLTCESCKGFFKRTVQ-NKKVYTCVAERSCHIDKTQRKRC-PYCRFQ : 342
+        |  :| | | .  :      |:  : .:.:   ..:| .|   : .| :: :..   .|   |
+ 313 : PCAPAVGGPKPEQMELKRARVENIVSSMRSSPSLPTQVNGCKKRKLYHPQQHDNSAAERYAASQ : 376
+
+ 343 : KCLEVGMKLEAVRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISP : 406
+         |.:|: |:.  .| : ..  :  .: |..  .:|:.|:::  .:|.    : . :...: ..
+ 377 : YGLGLGLLLDD-DEDLVEPPEVRQKRVEKNALKNQLRTMQEQLAEMQQKYVQLCTRMEQESDCQ : 439
+
+ 407 : GYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGG : 470
+       : ::. ::::  |: :  .::. .|:  |:| ..::   :   :. : :|:: .|::.  . : 
+ 440 : DTEDVLSDLE--QDGNSMPLPDKPQPVVSTPVTTPVKEQRRFLGKQSEVAAAAAAAAEQLNKDL : 501
+
+ 471 : LNGPSSVG-NGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCH : 533
+       | ::  :: ::..::  ..|...::.|.|:::||||:...  .|:: ::.|: :.||...:: .
+ 502 : LMASQLLDRKSPRTKVIDRGGATGPGGGGAGAGGGGQGVPRMNGSAFPSTGMTHGGGGPGGGAP : 565
+
+ 534 : EAGIGSLQ : 541
+       |..|.:::
+ 566 : ENNINTMN : 573
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 91 541 . Medex_00033330-RA 120 573 . 115 M 19 19 G 0 1 M 174 174 G 0 2 M 29 29 G 0 1 M 23 23 G 0 1 M 17 17 G 1 0 M 62 62 G 2 0 M 60 60 G 0 1 M 63 63
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00101308-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 88 -> 252
+  Target range: 64 -> 232
+
+  89 : NAYTLQLAGGGG-----SGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       : |.|  |||:|     :: :::   :. :: :.  ||.  ::  | .:   .:..  ::::.:
+  65 : DKYPLGAAGGAGGLLQNADVASRSAAAAAASAAAAVQQAVGRDMYQMPNGYMPNGYMMHHHDPS : 128
+
+ 148 : IANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGG : 211
+        | :.:::.: :  |  .:|   : ..:| :.:|:.:  :||||||:. .  .|:    :::: 
+ 129 : AAYQQHHYGGQTAVYP-RYDMSQMHHNSYMNGSSAYGMYGGGGGGGSPYGGGGGGMQQQPPASQ : 191
+
+ 212 : YMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG : 252
+           | ::| .::. :|::: : :.: .:::||:|.||:||
+ 192 : MSHSPSGSSIKSEPVSPSSAGLQTPTPTSSAGGGGGGGGGG : 232
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 88 252 . Medex_00101308-RA 64 232 . 112 M 12 12 G 0 5 M 63 63 G 1 0 M 88 88
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00076934-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 471 -> 567
+  Target range: 274 -> 368
+
+ 472 : NGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEA : 535
+       :| .. |:|:::::|.:|::: |:::|.:.|:|::.::.|:||..:::| : .::::::.|::.
+ 275 : DGECDGGDGDGGDDSDDGDSEVSSSKGGNEGDGSDGGDEGDGGDAGDGG-DEGDSSDEGDCDNE : 337
+
+ 536 : GIGSLQNTADSKLCFDSGTHPSSTADALIEPL : 567
+       | |:  :..:  || |.:. :: ::..:: :|
+ 338 : GDGGNGSGDGVPLC-DRSIIAAVSPAVVVPSL : 368
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 471 567 . Medex_00076934-RA 274 368 . 125 M 49 49 G 1 0 M 28 28 G 1 0 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00076934-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 326 -> 535
+  Target range: 138 -> 347
+
+ 327 : HIDKTQRKRCPYCRFQKCLEVGMKLEA-VRADRMRGGRNKFGPMYKRDRARKLQVMRQRQLALQ : 389
+       :::. :| :| |    :| : .    :  .: : |  .. : | | |. |: |.::    |.  
+ 139 : EVEEFERPWC-YALCLRCRQPEDGTPSWEPPLWQRVFPRPYFPSY-RSCAQILALLLVGLLVWG : 200
+
+ 390 : ALRNSMGPDIKPTPISPGYQQAYPNMNIKQ-EIQIPQVSSLTQSPDSSPSPIAIALGQVNASTG : 452
+       :| ..:|:| .|..   | ..   . ::    : : ::::|.     ::   ..:| :::.|  
+ 201 : TLVTEVGSDAEPGGKLFGLAALVIASHFGGWLFSLMRLPALVGMLVVGAVFQNTGLVHIDVSYQ : 264
+
+ 453 : GVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTN : 516
+         ::.  : ..|..:||: :|... ::|:|. :||:|.|::..::|...|:||:.::||:.|.:
+ 265 : HFVTVLSDCEDGECDGGDGDGGDDSDDGDSEVSSSKGGNEGDGSDGGDEGDGGDAGDGGDEGDS : 328
+
+ 517 : SNDGLHRNGGNGNSSCHEA : 535
+       |::|   |.|:|.::. ::
+ 329 : SDEGDCDNEGDGGNGSGDG : 347
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 326 535 . Medex_00076934-RA 138 347 . 124 M 10 10 G 1 0 M 16 16 G 0 1 M 17 17 G 1 0 M 48 48 G 0 1 M 116 116
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00080240-RA
+         Model: affine:local:protein2protein
+     Raw score: 160
+   Query range: 369 -> 558
+  Target range: 159 -> 341
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSP : 433
+       |  . :: :.|  .|. :: . |.   |  :|.|::   .|:|| ::: |.:.: ||:  .. |
+ 160 : YPVSVPHPVPVSVPRPYPVTVPRPVAVPVAQPVPVPV--PQPYP-VSVPQAVPV-QVPQPVAVP : 219
+
+ 434 : DSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGN : 497
+        : | .:: ::   ::: ||  ::...::. |:|| |  |:: || :.:: | ::| :.|:.| 
+ 220 : VPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGIGY-GSGIVGYSAGGIGYGSGIEGSAGGL : 282
+
+ 498 : GTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSS : 558
+       | : | ||.:||| | | . .:|  ..|| | :| |.|||||| .:: :.:.::||  ::|
+ 283 : GHGYGIGGGSAGGIGHGYGIGGG--STGGIGYGSGHGAGIGSLGGSSYASVSYGSGQGSGS : 341
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 558 . Medex_00080240-RA 159 341 . 160 M 37 37 G 2 0 M 5 5 G 1 0 M 9 9 G 1 0 M 47 47 G 1 0 M 48 48 G 2 0 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00080241-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 374 -> 558
+  Target range: 113 -> 292
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPS : 438
+       :: :.|  .:.::: . |.   |  :|.|:|   .::|| ::: : :.::  .:    | : |.
+ 114 : TQAVPVPVPQPVPVTVNRPIPVPVAQPVPVSV--PRPYP-VSVPHPVPVSVPRPY---PVAVPR : 171
+
+ 439 : PIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+       |:|::::| |..:..   :.::..:..   . .:. | : . . :..   :::. ::.:.:. |
+ 172 : PVAVPVAQPVPVPVPQPYPVSVPQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFG : 235
+
+ 502 : GGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSS : 558
+       | | ..:|:|| | .|. |  .:|| : :| |.|||||| .:: |.:.: ||  ::|
+ 236 : GVGFGAGGAGGIGYGSGIGGGSSGGIDYGSGHGAGIGSLGGSSYSSVSYVSGHGSGS : 292
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 558 . Medex_00080241-RA 113 292 . 112 M 32 32 G 2 0 M 5 5 G 1 0 M 15 15 G 3 0 M 14 14 G 0 1 M 112 112
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00080241-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 372 -> 538
+  Target range: 129 -> 299
+
+ 373 : DRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSS : 436
+       :|:  :.| :. .:::.   .   |:  |.:::..|. | |.    .  |  .|:   . | | 
+ 130 : NRPIPVPVAQPVPVSVPRPYPVSVPHPVPVSVPRPYPVAVPRPVAVPVAQPVPVPVPQPYPVSV : 193
+
+ 437 : PSPIAIALGQ---VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGS-SNGNNNSSTG : 496
+       | ::::.:.|   |..: . .:: |:  :::| |||: .| ::|| |.::.|: : |:. ::.:
+ 194 : PQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFGGVGFGAGGAGGIGYGSGIGGGS : 257
+
+ 497 : NGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       :|. : |:|:.|| |: |.:| .::   :|:|::| ..:| |
+ 258 : SGGIDYGSGHGAGIGSLGGSSYSSVSYVSGHGSGSDYSSGSG : 299
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 372 538 . Medex_00080241-RA 129 299 . 110 M 74 74 G 0 3 M 40 40 G 0 1 M 52 52
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00080241-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 374 -> 538
+  Target range: 137 -> 301
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIPQVSSLTQS-PDSS : 436
+       |: :.|  .|. :: . :.   :  :| |:: . . | | . .:   :. |   |:.|: |   
+ 138 : AQPVPVSVPRPYPVSVPHPVPVSVPRPYPVAVPRPVAVPVAQPVPVPVPQPYPVSVPQAVPVQV : 201
+
+ 437 : PSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTS : 500
+       | |:|:::.|  : | .|: :  ::| ||::|:|:.| :  :.|.:: | ::| ..:|:|. . 
+ 202 : PQPVAVPVPQPITVTRPVFIS--SSGLGGGAGAGFGGVGFGAGGAGGIGYGSGIGGGSSGGIDY : 263
+
+ 501 : GGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       |:| |.. |: ||:: |: :  .. |:|:. . .:| |
+ 264 : GSGHGAGIGSLGGSSYSSVSYVSGHGSGSDYSSGSGYG : 301
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 538 . Medex_00080241-RA 137 301 . 108 M 39 39 G 0 1 M 19 19 G 0 1 M 25 25 G 2 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 152
+   Query range: 188 -> 271
+  Target range: 103 -> 187
+
+ 189 : GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAG- : 252
+       |||| |||.: .|::||: :|||:   . : :::| .....:|: ::|: |.|:||:|:||:| 
+ 104 : GGGGHGGGGFGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGF : 167
+
+ 253 : GNSGPGNPMGGTSATPGHGG : 271
+       |.:|.|.. ||.: .|| ||
+ 168 : GPGGGGGGHGGGGFGPGGGG : 187
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 271 . Medex_00058604-RA 103 187 . 152 M 63 63 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 431 -> 532
+  Target range: 128 -> 227
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :.:::.:. ::: |  .:. ||   .| .:|.|| ||||: ||:: |.|:::.| :.|...:: 
+ 129 : PGGGGHGGGGFGPGGGGGRHGGGGFGP-GGGGGGHGGGGF-GPGGGGGGHGGGGFGPGGGGGGH : 190
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSC : 532
+       |.|. |.|||.. |.||||. :.:|   :||:|.::|
+ 191 : GGGGFGPGGGGGYGPGGGGGYGPGGGGGHGGQGGGGC : 227
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 532 . Medex_00058604-RA 128 227 . 139 M 27 27 G 1 0 M 12 12 G 1 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 171 -> 271
+  Target range: 126 -> 226
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |..|  : .::   .:||||  |||.: .|::||: :|||:   . ::: :|.. .|.:|  : 
+ 127 : FGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGGH : 190
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |: | |:||:|. |:||.:| |.. ||. :..| ||
+ 191 : GGGGFGPGGGGGYGPGGGGGYGPGGGGGHGGQGGGG : 226
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 271 . Medex_00058604-RA 126 226 . 138 M 100 100
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 171 -> 297
+  Target range: 112 -> 240
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       |..|  :.. : :  :.|||| |||.: .|::||. :|||:   . ::: :|.. .|.:|  : 
+ 113 : FGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGH : 176
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMG-GTSATPGHG-GEVIDFKHLFEELCPVCGDKVSGYHYG : 297
+       |: | |:||:|.| :||. |||.. | |.::..|.| |.  :     .. |  |::  :|  |:
+ 177 : GGGGFGPGGGGGGHGGGGFGPGGGGGYGPGGGGGYGPGGGGGHGGQGGGGCLKCAGGGGGGSYS : 240
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 297 . Medex_00058604-RA 112 240 . 137 M 90 90 G 0 1 M 9 9 G 0 1 M 27 27
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 428 -> 566
+  Target range: 61 -> 197
+
+ 429 : LTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNN : 492
+       |: |:| |..   : : :   :.|. :  .: :  || |||| .|.:  |.| ::.|::.|:..
+  62 : LSVSSDQSGKKHKVLVVEEVKPDGTRVKRGICSVCGG-GGGGHGGGGHGGGGFGPGGGGGGHGG : 124
+
+ 493 : SSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHP : 556
+       :: |.|.:| |||. :.||||| ::.:|: ..||.|. :  . | |:  ..:::   |::|. .
+ 125 : GGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGG-GGGGHGGGGFGPGGGG : 187
+
+ 557 : SSTADALIEP : 566
+       :: ::: :.|
+ 188 : GGHGGGGFGP : 197
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 428 566 . Medex_00058604-RA 61 197 . 131 M 37 37 G 1 0 M 73 73 G 1 0 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 185 -> 271
+  Target range: 114 -> 199
+
+ 186 : QSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       .:||||| |||.:  |::||: :|||:   . ::. :|.. .|.:|  : |: | |:||:|.| 
+ 115 : PGGGGGGHGGGGF--GPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGH : 176
+
+ 250 : AGGNSGPGNPMGGTSATP-GHGG : 271
+       :||. |||.. || ::.. |.||
+ 177 : GGGGFGPGGGGGGHGGGGFGPGG : 199
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 185 271 . Medex_00058604-RA 114 199 . 130 M 13 13 G 2 0 M 67 67 G 0 1 M 4 4
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 185 -> 276
+  Target range: 154 -> 239
+
+ 186 : QSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       .:||||| |||.: .|::||: :|||:      ::::|..|:..:|  ::|: | |:||:|. |
+ 155 : PGGGGGGHGGGGFGPGGGGGGHGGGGF------GPGGGGGGHGGGGFGPGGGGGYGPGGGGGYG : 212
+
+ 250 : AGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       :||.:|.|.. ||.. . : ||.  .:
+ 213 : PGGGGGHGGQGGGGCLKCAGGGGGGSY : 239
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 185 276 . Medex_00058604-RA 154 239 . 130 M 27 27 G 6 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 444 -> 539
+  Target range: 120 -> 213
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |: .:: |.  :.. .:| |.:|||| :|.:: |.|  :.|:::|... :.|.|.:| |||. :
+ 121 : GHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPG--GGGGGHGGGGFGPGGGGGGHGGGGFG : 182
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       .|||||.::.:|: ..||.| ::  .:| |:
+ 183 : PGGGGGGHGGGGFGPGGGGGYGPGGGGGYGP : 213
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058604-RA 120 213 . 128 M 36 36 G 2 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 437 -> 541
+  Target range: 127 -> 229
+
+ 438 : SPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+       :| : : |  . :.||  : . .:| |.:|||| :|.:: |.|.::.| :.|. .::.|.|. |
+ 128 : GPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGGHG : 191
+
+ 502 : GGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQ : 541
+       ||| ..:|||| |..:.:|  ..||.|:::  ::| |.|:
+ 192 : GGGFGPGGGGGYGPGGGGGYGPGGGGGHGG--QGGGGCLK : 229
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 437 541 . Medex_00058604-RA 127 229 . 128 M 94 94 G 2 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 444 -> 539
+  Target range: 103 -> 199
+
+ 445 : GQVNASTGGVIATPMNAGTGGSG-GGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNN : 507
+       |  . :.||  :.. .:| ||:| |.| .|.:: | |.::.|:.:|... :.|.|.:| |||. 
+ 104 : GGGGHGGGGFGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGF : 167
+
+ 508 : AGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :.|||||.::.:|: ..||.|. :  . | |:
+ 168 : GPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGG : 199
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058604-RA 103 199 . 125 M 23 23 G 0 1 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 179 -> 272
+  Target range: 127 -> 222
+
+ 180 : TSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSG : 243
+       .:: : ::||| |.|||.  :|::| :::|||    . : :::|..|...:| .::|: |.| |
+ 128 : GPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGGHG : 191
+
+ 244 : GAGNG-GAGGNSGPGNPMG-GTSATPGHGGE : 272
+       |:| | |:||. |||.. | |.::..||||:
+ 192 : GGGFGPGGGGGYGPGGGGGYGPGGGGGHGGQ : 222
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 179 272 . Medex_00058604-RA 127 222 . 125 M 69 69 G 0 1 M 13 13 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 431 -> 553
+  Target range: 114 -> 234
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+       :.:::.:. : ::|. .:: ||   .|  :|.||. |||  ||:: |.|:::.| :.|...:: 
+ 115 : PGGGGGGHGGGGFGPGGGGHGGGGFGP--GGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGH : 176
+
+ 496 : GNGTSG-GGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSG : 553
+       |.|. | ||||.. |||| |..:.:|  ..||.| ::  .:| |: |..::.  | ::|
+ 177 : GGGGFGPGGGGGGHGGGGFGPGGGGGYGPGGGGGYGPGGGGGHGG-QGGGGCLKCAGGG : 234
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 431 553 . Medex_00058604-RA 114 234 . 125 M 27 27 G 2 0 M 41 41 G 0 1 M 38 38 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 444 -> 539
+  Target range: 101 -> 197
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |: .:: ||   .| .:|.|| ||||: ||:: |:|.:: |::.|... :.|. .:|||||.::
+ 102 : GHGGGGHGGGGFGP-GGGGGGHGGGGF-GPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHG : 163
+
+ 509 : GGG---GGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |||   |||..:::|   ..|.|.::  .:|:|:
+ 164 : GGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGP : 197
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058604-RA 101 197 . 123 M 14 14 G 1 0 M 12 12 G 1 0 M 39 39 G 0 3 M 28 28
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 457 -> 554
+  Target range: 154 -> 252
+
+ 458 : PMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGG-GTNSNDG : 520
+       | .:|.| :|||  .|.:: |:|.:: |::.|... :.|. .:||||| .:||||| |..:.:|
+ 155 : PGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGYGPGGGGGYGPGGGGG : 218
+
+ 521 : LHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGT : 554
+          :||.|  .| .:| |:  :.::|. . .||:
+ 219 : HGGQGGGGCLKCAGGGGGGSYSKSESSASSSSGS : 252
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 457 554 . Medex_00058604-RA 154 252 . 123 M 56 56 G 0 1 M 41 41
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 186 -> 271
+  Target range: 100 -> 185
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       :| |||| ||. :..::||:: |||  : | ::: :|.. .|.:|  . |: | |:||:|.| :
+ 101 : GGHGGGGHGGGGFGPGGGGGGHGGG-GFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHG : 163
+
+ 251 : GGNSGPGNPMGGTSATP-GHGG : 271
+       ||. |||.. || ::.. |.||
+ 164 : GGGFGPGGGGGGHGGGGFGPGG : 185
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00058604-RA 100 185 . 122 M 25 25 G 1 0 M 55 55 G 0 1 M 4 4
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 177 -> 275
+  Target range: 97 -> 196
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :..::|:  : |||| |.|.  .| :||: :.||    . : :::|..|...:| .::|: |.|
+  98 : GGGGGHGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGG : 161
+
+ 242 : SGGAGNGGAGGNSG-PGNPMGGTSATPGHGGEVID : 275
+        ||:| |.:||.:| .|...|..::..||||. ::
+ 162 : HGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFG : 196
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 275 . Medex_00058604-RA 97 196 . 121 M 78 78 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 186 -> 271
+  Target range: 114 -> 201
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGG-GYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       :|||||| ||. :..::|| ::|| |    .   :::| .....:|  ::|: |.|:||:|:||
+ 115 : PGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGG : 178
+
+ 250 : AG-GNSGPGNPMGGTSATPGHGG : 271
+       :| |.:|.|.. ||.: .|| ||
+ 179 : GGFGPGGGGGGHGGGGFGPGGGG : 201
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00058604-RA 114 201 . 121 M 24 24 G 0 1 M 41 41 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 447 -> 539
+  Target range: 115 -> 207
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       .::.||  :....:|.|| ||||:...:: |. .::. ::.|...: .|.| :.||||.. |||
+ 116 : GGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGG : 179
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       | |..:.:| | .|| |.::  . | |:
+ 180 : GFGPGGGGGGHGGGGFGPGGGGGYGPGG : 207
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 539 . Medex_00058604-RA 115 207 . 121 M 92 92
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 186 -> 271
+  Target range: 140 -> 224
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       :|||||  ||. :..::||:: |||  : | ::::: ..|. .:|  ::|  |.| |.:|.|| 
+ 141 : PGGGGGRHGGGGFGPGGGGGGHGGG-GFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGY : 203
+
+ 251 : GGNSGPGNPMGGTSATPGHGG : 271
+       |..:|.| . ||.:: .|:||
+ 204 : GPGGGGGYGPGGGGGHGGQGG : 224
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00058604-RA 140 224 . 120 M 25 25 G 1 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 186 -> 275
+  Target range: 96 -> 182
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVG-NGSGGAGNGG : 249
+       :||||| |||.  .|: |.:::|||.   . :: ::|..|:..:|  ::|: | :|:|| |.||
+  97 : GGGGGGHGGGGHGGGGFGPGGGGGGH---GGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGG : 157
+
+ 250 : AGGNSGPGNPMGGTSATPGHGGEVID : 275
+       :||. | |...|..::..||||. ::
+ 158 : GGGGHG-GGGFGPGGGGGGHGGGGFG : 182
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 275 . Medex_00058604-RA 96 182 . 119 M 26 26 G 3 0 M 24 24 G 0 1 M 16 16 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 172 -> 270
+  Target range: 109 -> 204
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|:  ..:: :: :|| |.||||   :|::| :::||| .  . : :::|..|...:| .::|
+ 110 : GGGFGPGGGGGGHGGGGFGPGGGG---HGGGGFGPGGGGGRHGGGGFGPGGGGGGHGGGGFGPG : 170
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       : |.| ||:| |.:||.:|.|..  |.::..|.|
+ 171 : GGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGYG : 204
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 270 . Medex_00058604-RA 109 204 . 119 M 24 24 G 3 0 M 71 71
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 444 -> 539
+  Target range: 148 -> 246
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  . :.||  :.. .:| |.:|||| :|.:: |.|.::.| :.|. .::.|.| :.||||. :
+ 149 : GGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGGYGPGGGGGYG : 212
+
+ 509 : GGGGGGTNSNDG---LHRNGGNGNSSCHEAGIGS : 539
+       .||||| .:::|   |. .||.|.:|. .:. ::
+ 213 : PGGGGGHGGQGGGGCLKCAGGGGGGSYSKSESSA : 246
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058604-RA 148 246 . 119 M 76 76 G 0 3 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 156 -> 271
+  Target range: 46 -> 159
+
+ 157 : SSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAAS : 220
+       ::.|   |:|..: :::.: :::...|.    ..  .:|..: .| .: .::|||    .::::
+  47 : APKYLGSYEFKEELLLSVSSDQSGKKHKVLVVEEVKPDGTRVKRGICSVCGGGGG----GHGGG : 106
+
+ 221 : SSGNNG-NPNAGHMSSGSVGNGSGGAGNGGAG-GNSGPGNPMGGTSATPGHGG : 271
+       : |..| .|.:|  : |: | |:||:|:||:| |.:|.|.. ||.: .|| ||
+ 107 : GHGGGGFGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGG : 159
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 156 271 . Medex_00058604-RA 46 159 . 118 M 55 55 G 4 0 M 11 11 G 0 1 M 25 25 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058604-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 186 -> 271
+  Target range: 95 -> 180
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       .|||||| ||.  .|:: |:::|||    .  ::::|.:|... |. ::|:  .|:| :..||:
+  96 : CGGGGGGHGGGGHGGGGFGPGGGGGGHGGGGFGPGGGGHGGGGFGPGGGGGRHGGGGFGPGGGG : 159
+
+ 251 : GGNSGPGNPMGGTSATPGHGG : 271
+       ||::|.| . ||.::..| ||
+ 160 : GGHGGGGFGPGGGGGGHGGGG : 180
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00058604-RA 95 180 . 118 M 85 85
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 414 -> 539
+  Target range: 29 -> 160
+
+ 415 : MNIKQEIQIPQVS-SLTQSPDSSPSPIAIALGQVNASTGGV---IATPMNAGTG-GSGGGGLNG : 473
+       ||::|: .:.:.: |:. :.:.: :.  :.||||::...     :| .: ||.| |:|||| :|
+  30 : MNMQQHSPVRRAGCSIEVGQQCGLAGKKLVLGQVKTDDNRSKRNVACNVCAGGGEGPGGGGHHG :  93
+
+ 474 : PSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGG-GTNSNDGLHRNGGNGNSSCHEAG : 536
+       .:  |.|. ::|::.| ..::.|. .|||||| .:||||| |:.:.:|: ..||.| :|  .:|
+  94 : GGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGG : 157
+
+ 537 : IGS : 539
+       :|:
+ 158 : FGP : 160
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 414 539 . Medex_00058606-RA 29 160 . 135 M 13 13 G 0 1 M 27 27 G 0 3 M 10 10 G 0 1 M 49 49 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 429 -> 539
+  Target range: 65 -> 176
+
+ 430 : TQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNS : 493
+       .::..... : .:  |  :::.||   .. ::|.|| |:|| .| :: |.|. ::|::.| ..:
+  66 : DDNRSKRNVACNVCAGGGEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPG : 129
+
+ 494 : STGNGTSGGGGGNNAGGGGG-GTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :.|. .|||||| .:||||| |:.:.:|: ..||.| :|  .:|:|:
+ 130 : GGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGP : 176
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 429 539 . Medex_00058606-RA 65 176 . 132 M 84 84 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 172 -> 276
+  Target range: 98 -> 206
+
+ 173 : PTGYQDTTSSHSQQSGGG--GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       ..|: ...::   .:|||  |:||||.: .|::|| ::|||  : | :::: |:.|... |. :
+  99 : GGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGG : 162
+
+ 235 : SGSVGNGSGGA-GNGGAGG-NSGPGNPMGGTSATPGHGGEVIDF : 276
+       :|: |:|:||: |.||:|| .||.|...|..::..  :|.  :|
+ 163 : GGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGRGF : 206
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 276 . Medex_00058606-RA 98 206 . 125 M 18 18 G 0 2 M 55 55 G 0 1 M 7 7 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 172 -> 271
+  Target range: 85 -> 180
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       |.|  : .::|:  :|| |:||||.: .|::|| ::|||  : | :::: |:.|... |. ::|
+  86 : PGGGGHHGGGHG-GGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGG : 148
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : |:|:||: ..|:||. |:|   ||.: .|| ||
+ 149 : GFGSGGGGGFGPGGGGGFGSG---GGGGFGPGGGG : 180
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00058606-RA 85 180 . 124 M 12 12 G 1 0 M 72 72 G 3 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 444 -> 539
+  Target range: 99 -> 192
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  .::.|| ::.. .:| |::||||: ||:: |.| :|.|::. ...::.| |::|||| ..:
+ 100 : GGFGSGGGGGFGPGGGGGFGSGGGGGF-GPGG-GGGFGSGGGGGFGPGGGGGFGSGGGGGFGPG : 161
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |||| |:.:.:|: ..||.| :|  .:|:|:
+ 162 : GGGGFGSGGGGGFGPGGGGGFGSGGGGGFGP : 192
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058606-RA 99 192 . 124 M 27 27 G 1 0 M 4 4 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 183 -> 270
+  Target range: 119 -> 205
+
+ 184 : SQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       |  :|| |.||||.: :|::|| ::|||  : : :::: |..|... |  ::|: |.|:||: .
+ 120 : SGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFG : 183
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHG : 270
+       :|:||. |||.. || ::..|:|
+ 184 : SGGGGGFGPGGG-GGFGSGGGRG : 205
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 183 270 . Medex_00058606-RA 119 205 . 123 M 76 76 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 188 -> 271
+  Target range: 92 -> 173
+
+ 189 : GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG : 252
+       ||| ||||.: :|::|| ::|||  : : :::: |..|... |  ::|: |.|:||: .:|:||
+  93 : GGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGG : 156
+
+ 253 : NSGPGNPMGGTSATPGHGG : 271
+       . |||.  ||. ::.| ||
+ 157 : GFGPGG--GGGFGSGGGGG : 173
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 188 271 . Medex_00058606-RA 92 173 . 122 M 70 70 G 2 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 172 -> 261
+  Target range: 114 -> 205
+
+ 173 : PTGYQDTTSSHSQQSGGG--GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMS : 234
+       ..|: ...::   .:|||  |:||||.: .|::|| ::|||  : | :::: |:.|... |. :
+ 115 : GGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGG : 178
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPMG : 261
+       :|: |:|:||: ..|:||. |:|...|
+ 179 : GGGFGSGGGGGFGPGGGGGFGSGGGRG : 205
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 261 . Medex_00058606-RA 114 205 . 122 M 18 18 G 0 2 M 71 71
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 172 -> 271
+  Target range: 92 -> 189
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..|. :..:  |  :|| |.||||.: :|::|| ::|||  : : :::: |..|... |  ::|
+  93 : GGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGG : 156
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : |.|:||: .:|:||. |||.  ||. ::.| ||
+ 157 : GFGPGGGGGFGSGGGGGFGPGG--GGGFGSGGGGG : 189
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00058606-RA 92 189 . 121 M 86 86 G 2 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 444 -> 539
+  Target range: 107 -> 200
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  .::.|| :::. .:| |.:||||:.:.:: | |.::.|:   .:.::.| |.:|||| .::
+ 108 : GGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGF--GSGGGGGFGPGGGGGFGSG : 169
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |||| |..:.:|: ..||.| ::  .:|:||
+ 170 : GGGGFGPGGGGGFGSGGGGGFGPGGGGGFGS : 200
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058606-RA 107 200 . 121 M 43 43 G 2 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 444 -> 539
+  Target range: 115 -> 208
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  .::.|| ::.. .:| |::||||: ||:: |.| :|.|::. ...::.| |::|||| ..:
+ 116 : GGFGSGGGGGFGPGGGGGFGSGGGGGF-GPGG-GGGFGSGGGGGFGPGGGGGFGSGGGGGFGPG : 177
+
+ 509 : GGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       |||| |:.:.:|: ..||.| :|  . |:|:
+ 178 : GGGGFGSGGGGGFGPGGGGGFGSGGGRGFGP : 208
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 539 . Medex_00058606-RA 115 208 . 121 M 27 27 G 1 0 M 4 4 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 459 -> 539
+  Target range: 103 -> 184
+
+ 460 : NAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGG-GTNSNDGLH : 522
+       ::|.|| |.|| .| :| |.|. :.|::.| .:::.|. .:||||| .:||||| |..:.:|: 
+ 104 : SGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFG : 167
+
+ 523 : RNGGNGNSSCHEAGIGS : 539
+       ..||.| ::  .:|:||
+ 168 : SGGGGGFGPGGGGGFGS : 184
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 459 539 . Medex_00058606-RA 103 184 . 119 M 54 54 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 451 -> 539
+  Target range: 79 -> 168
+
+ 452 : GGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGG-G : 514
+       :|  ..| .:|  |:| || .| :| |.|. :.|::.| .:::.|. .:||||| .:||||| |
+  80 : AGGGEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG : 143
+
+ 515 : TNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       ..:.:|: ..||.| ::  .:|:||
+ 144 : PGGGGGFGSGGGGGFGPGGGGGFGS : 168
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 451 539 . Medex_00058606-RA 79 168 . 117 M 62 62 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 183 -> 278
+  Target range: 135 -> 230
+
+ 184 : SQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       |  :|| |.||||.: :|::|| ::|||  : : :::: |..|... |  ::|: |.|:||: .
+ 136 : SGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFG : 199
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGGEVIDFKH : 278
+       :|:| . ||    || :: .|| |. || .|
+ 200 : SGGGRGFGPWLLGGGFGPHGGHRGGGIDGDH : 230
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 183 278 . Medex_00058606-RA 135 230 . 115 M 95 95
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 467 -> 539
+  Target range: 79 -> 152
+
+ 468 : GGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGG-GTNSNDGLHRNGGNGNS : 530
+       :|| :||:: |: .:::|::.| .:::.|. .:||||| .:||||| |..:.:|: ..||.| :
+  80 : AGGGEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG : 143
+
+ 531 : SCHEAGIGS : 539
+       :  .:|:||
+ 144 : PGGGGGFGS : 152
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 467 539 . Medex_00058606-RA 79 152 . 113 M 46 46 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 444 -> 528
+  Target range: 123 -> 205
+
+ 445 : GQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNA : 508
+       |  .::.|| :::. .:| |.:||||:.:.:: | |.::.|:   .:.::.| |.:|||| .::
+ 124 : GGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGF--GSGGGGGFGPGGGGGFGSG : 185
+
+ 509 : GGGGGGTNSNDGLHRNGGNG : 528
+       |||| |..:.:|: ..||.|
+ 186 : GGGGFGPGGGGGFGSGGGRG : 205
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 444 528 . Medex_00058606-RA 123 205 . 113 M 43 43 G 2 0 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 185 -> 271
+  Target range: 79 -> 165
+
+ 186 : QSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       .:||.|.||||:  .| :||:: |:|      :::::| .:...:|  ::|: | ||||:|. |
+  80 : AGGGEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG : 143
+
+ 250 : AGGNSGPGNPMGGTSATPGHGG : 271
+       :||.:| |:. ||. :..| ||
+ 144 : PGGGGGFGSGGGGGFGPGGGGG : 165
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 185 271 . Medex_00058606-RA 79 165 . 112 M 86 86
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 183 -> 271
+  Target range: 94 -> 181
+
+ 184 : SQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       :: :||| |:|||. :..::||: ::||   :. :::::| .:...:|  ::|: | ||||:|.
+  95 : GHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG-PGGGGGFGSGGGGGFGPGGGGGFGSGGGGG : 157
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGG : 271
+        |:||.:| |:. ||. :..| ||
+ 158 : FGPGGGGGFGSGGGGGFGPGGGGG : 181
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 183 271 . Medex_00058606-RA 94 181 . 110 M 33 33 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 186 -> 271
+  Target range: 82 -> 164
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGA : 250
+       :.|.||||  .  :|::|| ::|||  : | :::: |:.|... |. ::|: |:|:||: ..|:
+  83 : GEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGG : 146
+
+ 251 : GGNSGPGNPMGGTSATPGHGG : 271
+       ||. |:|   ||.: .|| ||
+ 147 : GGGFGSG---GGGGFGPGGGG : 164
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 271 . Medex_00058606-RA 82 164 . 109 M 71 71 G 3 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 173 -> 271
+  Target range: 79 -> 172
+
+ 174 : TGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGS : 237
+       :|  :..:: ::::|| ||||| .  .|:: |:::|||:     :::::| .....:|  |:|:
+  80 : AGGGEGPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGF----GSGGGGGFGPGGGGGFGSGGG : 139
+
+ 238 : VGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+        | |:||:|. |:||.:| | | ||.: .:| ||
+ 140 : GGFGPGGGGGFGSGGGGGFG-PGGGGGFGSGGGG : 172
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 173 271 . Medex_00058606-RA 79 172 . 109 M 39 39 G 4 0 M 41 41 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 459 -> 566
+  Target range: 84 -> 192
+
+ 460 : NAGTGGSGGGGLNGPSSVGNGNSSN-GSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLH : 522
+       .:|.||  ||| .|.:: |:|.::. |::.|.. :|.|.|. |.|||.. |:||||. :.:|  
+  85 : GPGGGGHHGGGHGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGG : 148
+
+ 523 : RNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADALIEP : 566
+         |:.|.::   :| |:: :.::: :  ::|.  :|.::: :.|
+ 149 : GFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGP : 192
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 459 566 . Medex_00058606-RA 84 192 . 108 M 25 25 G 0 1 M 82 82
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 177 -> 271
+  Target range: 104 -> 197
+
+ 178 : DTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNG : 241
+       :..:: :. :||| |:|||. :..::||: ::||   :. :::::| .:...:|  ::|: | |
+ 105 : GGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG-PGGGGGFGSGGGGGFGPGGGGGFG : 167
+
+ 242 : SGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |||:|. |:||.:| |:. ||. :..| ||
+ 168 : SGGGGGFGPGGGGGFGSGGGGGFGPGGGGG : 197
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 177 271 . Medex_00058606-RA 104 197 . 108 M 39 39 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00058606-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 459 -> 536
+  Target range: 111 -> 188
+
+ 460 : NAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHR : 523
+       .:|.|| |:|| .| :: |.|. ::|::.| ..::.|. .|||||| .:||||| .::.:|   
+ 112 : PGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFGPGGGGGFGSGGGGGFG : 175
+
+ 524 : NGGNGNSSCHEAG : 536
+       .||.|. :. .:|
+ 176 : PGGGGGFGSGGGG : 188
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 459 536 . Medex_00058606-RA 111 188 . 107 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 172 -> 271
+  Target range: 39 -> 135
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..||...: : |  ::.:||||||.  .| ::.| :::.|   : :::::|. :.|:..  | |
+  40 : GGGYPAPSVPSSSYGAPSGGGGGGG--GGYPAPSVPSSNYGAPSGGGGGGGGYSAPSVPSSSYG : 101
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       : ::|:||:| ||:|| |:|: | :: :|.:| ||
+ 102 : APSSGGGGGG-GGGGGYSAPSVPSSSYGAPSGGGG : 135
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00091391-RA 39 135 . 115 M 25 25 G 2 0 M 47 47 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 172 -> 271
+  Target range: 63 -> 162
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSG : 236
+       ..||...: : |: ::.:||||||.  :::| .||: |:    . :::::|.. ::.: . || 
+  64 : GGGYPAPSVPSSNYGAPSGGGGGGGGYSAPSVPSSSYGAPSSGGGGGGGGGGGYSAPSVPSSSY : 127
+
+ 237 : SVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :..:|:||:|.||:|| |:|: | :: :|.:| ||
+ 128 : GAPSGGGGGGGGGGGGYSAPSVPSSSYGAPSGGGG : 162
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 271 . Medex_00091391-RA 63 162 . 112 M 99 99
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 183 -> 276
+  Target range: 0 -> 90
+
+ 184 : SQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+       :..||||||||||   .| ::.| ::::|   : ::::.|..|.. ::.  ::|  .:::|:|.
+   1 : GAPSGGGGGGGGG---GGYPAPSVPSSSYGAPSGGGGGRGGGGGGYPAPSVPSSSYGAPSGGGG :  61
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       ||:|| ::|: | :. :|.:| ||.  ::
+  62 : GGGGGYPAPSVPSSNYGAPSGGGGGGGGY :  90
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 183 276 . Medex_00091391-RA 0 90 . 111 M 13 13 G 3 0 M 77 77
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 178 -> 271
+  Target range: 21 -> 111
+
+ 179 : TTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS : 242
+       .:||.:..|||||| |||.  .| ::.| ::::|   | :::::|..| |.::  ||.  :.::
+  22 : PSSSYGAPSGGGGGRGGGG--GGYPAPSVPSSSYG-APSGGGGGGGGGYPAPSVPSSNYGAPSG :  82
+
+ 243 : GGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       ||:|.|| ::.| |::: |:.|:..| ||
+  83 : GGGGGGGYSAPSVPSSSYGAPSSGGGGGG : 111
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 178 271 . Medex_00091391-RA 21 111 . 111 M 19 19 G 2 0 M 14 14 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 178 -> 271
+  Target range: 95 -> 186
+
+ 179 : TTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS : 242
+       .:||.:..|:||||||||.  .| |:.| ::::|   : :::::|..|.. ::.  ::|  .::
+  96 : PSSSYGAPSSGGGGGGGGG--GGYSAPSVPSSSYGAPSGGGGGGGGGGGGYSAPSVPSSSYGAP : 157
+
+ 243 : GGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       :|:|.|| ::.| |::: |:.|:::| ||
+ 158 : SGGGGGGYSAPSVPSSSYGAPSGSAGGGG : 186
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 178 271 . Medex_00091391-RA 95 186 . 110 M 19 19 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00091391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 178 -> 271
+  Target range: 122 -> 208
+
+ 179 : TTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS : 242
+       .:||.:..||||||||||.  .| |:.| ::::|     :|:|:|..|. :|. ::|:| |..|
+ 123 : PSSSYGAPSGGGGGGGGGG--GGYSAPSVPSSSY-----GAPSGGGGGGYSAPSVPSSSYGAPS : 179
+
+ 243 : GGAGNGGAGGNSGPGNPMGGTSATPGHGG : 271
+       |:||.||:|: |:|.::  |:::..| ||
+ 180 : GSAGGGGGGSYSAPPSSSYGAPSGGGGGG : 208
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 178 271 . Medex_00091391-RA 122 208 . 109 M 19 19 G 2 0 M 13 13 G 5 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 374 -> 560
+  Target range: 414 -> 600
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIP-QVSSLTQSPDSSP : 437
+       .|.:.|   ::::::  |. : :  .|.|:|   .::|| ::: : :.:| . : |.. |:: |
+ 415 : ERHVPVPITQHVPFEIPRPYLVSVPHPVPVSV--PRPYP-VSVPRPVAVPVAQAVLVPVPQPYP : 475
+
+ 438 : SPIAIALG-QVNASTGGVIATPMNAGTGG-SGGGGLNGPSSVGNGNSSNGSSNGNNNS-STGNG : 498
+        .:: ::. ||. :.:  ::  :..:..   :::|:.| :| | |.|: |..|::||: ::| |
+ 476 : VNVPHPVPVQVPHPVAIPVPQLITVDKPILIASSGFGGDASSGLGGSGIGRDNAENNAFGSGIG : 539
+
+ 499 : TSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTA : 560
+       .: :| .: ::| |||:.: ::: .: |.|::: :. | | : ..:.:  .|:||. .:|::
+ 540 : GGIAGVNSFSSGIGGGSAGVNSFGSEIGAGSTGINSFGSG-IGGGSAGVNSFGSGIGGGSAG : 600
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 560 . Medex_00023493-RA 414 600 . 115 M 32 32 G 2 0 M 5 5 G 1 0 M 10 10 G 0 1 M 21 21 G 0 1 M 20 20 G 0 1 M 28 28 G 0 1 M 45 45 G 1 0 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 396 -> 538
+  Target range: 213 -> 358
+
+ 397 : PDIKPTPISPGYQQAYP-NMNIKQEIQIPQ-VSSLTQSPDSSPSPIAIALGQVNASTGGVIATP : 458
+       | . | |:: . .|: | .:.    : :|| |:  .. | : | | :|::.:    ::: ::..
+ 214 : PVTVPRPVAVPVAQPVPVPVPQPYPVSVPQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGG : 277
+
+ 459 : MNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGG-GNNAGGGGGGTNSND-G : 520
+        .|| ||:| |: .|::::| |:: .|:|.|. . ::| |.::.|| |:.:| |||::.: : |
+ 278 : AGAGFGGAGFGA-GGAGGIGYGSGIGGGSAGGIGYGSGIGGGSTGGFGHGSGIGGGSAGGIGYG : 340
+
+ 521 : LHRNGGNGNSSCHEAGIG : 538
+       :  .||::.:  |.:|||
+ 341 : IGIGGGSSGGFGHGSGIG : 358
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 396 538 . Medex_00023494-RA 213 358 . 127 M 17 17 G 0 1 M 12 12 G 0 1 M 45 45 G 1 0 M 33 33 G 0 1 M 15 15 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 369 -> 538
+  Target range: 196 -> 368
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIPQ-VSSLTQ : 431
+       |  . :: :.|  . . :: . |.   |  :|.|::   .|:|| ::.    :|:|| |:  ..
+ 197 : YPVSVPHPVPVSVPIPYPVTVPRPVAVPVAQPVPVPV--PQPYPVSVPQAVPVQVPQPVAVPVP : 258
+
+ 432 : SPDSSPSPIAIALGQVNASTGGVIATP--MNAGTGGSG-GGGLNGPSSVGNGNSSNGSSNGNNN : 492
+        | : ..|: |: : :.:::|: ::.:   .:|:|| | |:|:.|.|: | | :|. ::.:...
+ 259 : QPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGSAGGIGYGSGIGGGSTGG : 322
+
+ 493 : SSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+        : |:|.:||::|. : | | |..|::|: :.:| | ::  . | |
+ 323 : FGHGSGIGGGSAGGIGYGIGIGGGSSGGFGHGSGIGVGNAGGIGYG : 368
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 538 . Medex_00023494-RA 196 368 . 127 M 37 37 G 2 0 M 5 5 G 0 1 M 12 12 G 0 1 M 33 33 G 0 2 M 9 9 G 0 1 M 71 71
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 396 -> 538
+  Target range: 197 -> 340
+
+ 397 : PDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSL-TQSPDSSPSPIAIALG-QVNASTGGVIATP : 458
+       |   | |:: : . :|| :.: : :.:| . :: .. |:: | ::: |:. ||..:.:  :: |
+ 198 : PVSVPHPVPVSVPIPYP-VTVPRPVAVPVAQPVPVPVPQPYPVSVPQAVPVQVPQPVAVPVPQP : 260
+
+ 459 : MNAGTGG-SGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGL : 521
+       :... .   :::||.|.::.| |.:: |:: |... : |:|.:||::|. : |:| |..|.:|:
+ 261 : ITVTRPVFISSSGLGGGAGAGFGGAGFGAG-GAGGIGYGSGIGGGSAGGIGYGSGIGGGSTGGF : 323
+
+ 522 : HRNGGNGNSSCHEAGIG : 538
+        :.:| |.:|  . | |
+ 324 : GHGSGIGGGSAGGIGYG : 340
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 396 538 . Medex_00023494-RA 197 340 . 122 M 17 17 G 1 0 M 15 15 G 0 1 M 16 16 G 0 1 M 20 20 G 0 1 M 22 22 G 1 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 171 -> 297
+  Target range: 366 -> 494
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :..|  :.:::   :::| |||: |.   ||: |::::||:   :  :::|:.. : .:|  .|
+ 367 : YGIGIGGGSAGGFGHGSGIGGGSVGGSSYGSGIGGGSAGGFGHGSGIGGGSAGGISYGSGIGES : 430
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATP-GHGGEV-IDFKHLFEELCPVCGDKVSGYHYG : 297
+       :: | | |:: .||::|. |.|:.:||.||.: |||:.:  :    |.: ..: |:..:|  ||
+ 431 : SAGGFGHGSGIGGGSAGAFGHGSGIGGGSAGAFGHGSGIGGGSAGAFGHGSGIGGGSTGGISYG : 494
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 297 . Medex_00023494-RA 366 494 . 122 M 96 96 G 0 1 M 6 6 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 400 -> 538
+  Target range: 229 -> 370
+
+ 401 : PTPISPGYQQAYPN---MNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNA : 461
+       |.|::..|. : |:   ::: | :.:|   ::| :.    |: ::: |. .: .|: :::. .:
+ 230 : PVPVPQPYPVSVPQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGAG : 293
+
+ 462 : GTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNG : 525
+       |.| ::| | .:::::| |:: .|:|.|. . ::| |.:::|| . : | |||:::. |  .. 
+ 294 : GIGYGSGIGGGSAGGIGYGSGIGGGSTGGFGHGSGIGGGSAGGIGYGIGIGGGSSGGFGHGSGI : 357
+
+ 526 : GNGNSSCHEAGIG : 538
+       | ||::  . |||
+ 358 : GVGNAGGIGYGIG : 370
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 400 538 . Medex_00023494-RA 229 370 . 121 M 14 14 G 0 3 M 124 124
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 171 -> 308
+  Target range: 296 -> 435
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGG-GYMLLPQAASSSGNNGNPNAGHM : 233
+       :.:|  :.:::    ::| |||:.|.: :||: ||:|||| || :   ::||:| . .:. |  
+ 297 : YGSGIGGGSAGGIGYGSGIGGGSTGGFGHGSGIGGGSAGGIGYGIGIGGGSSGGFGHGSGIGVG : 360
+
+ 234 : SSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYG : 297
+       ::|::| | | :|.:::| . |:| . |:.::::  :|   :    |.: ..: |:..:|  ||
+ 361 : NAGGIGYGIGIGGGSAGGFGHGSGIGGGSVGGSSYGSGIGGGSAGGFGHGSGIGGGSAGGISYG : 424
+
+ 298 : LLTCESCKGFF : 308
+         . ||. | |
+ 425 : SGIGESSAGGF : 435
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 308 . Medex_00023494-RA 296 435 . 120 M 32 32 G 0 1 M 7 7 G 0 1 M 98 98
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 169 -> 297
+  Target range: 267 -> 396
+
+ 170 : YIFPTGYQDTTSSHSQQSG-GGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH : 232
+       :| ::|  :.:::    :| |:||:|| .  :| :|||::| ||     ::|::| . .:. | 
+ 268 : FISSSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGSAGGIGYGSGIGGGSTGGFGHGSGIGG : 331
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHY : 296
+        |:|::| | | :|.:::| . |:| .:|.:::..   |   :    |.: ..: |:.|:|  |
+ 332 : GSAGGIGYGIGIGGGSSGGFGHGSGIGVGNAGGIGYGIGIGGGSAGGFGHGSGIGGGSVGGSSY : 395
+
+ 297 : G : 297
+       |
+ 396 : G : 396
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 169 297 . Medex_00023494-RA 267 396 . 117 M 19 19 G 0 1 M 109 109
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 372 -> 539
+  Target range: 177 -> 345
+
+ 373 : DRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSS : 436
+       :|:  :.| :. .:::.   .   |:  |.::: .|. : |.    .  |  .|:   . | | 
+ 178 : NRPVPVPVAQPVPVSVPRPYPVSVPHPVPVSVPIPYPVTVPRPVAVPVAQPVPVPVPQPYPVSV : 241
+
+ 437 : PSPIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGT : 499
+       | ::::.:.| |..:..  |:..... .::|| || .|::  |.| ::.|::. . .|:.|.|:
+ 242 : PQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGS : 305
+
+ 500 : SGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :|| | .:: |||:... .:|   .||::.:  .. |||:
+ 306 : AGGIGYGSGIGGGSTGGFGHGSGIGGGSAGGIGYGIGIGG : 345
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 372 539 . Medex_00023494-RA 177 345 . 116 M 74 74 G 0 1 M 93 93
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 442 -> 553
+  Target range: 433 -> 545
+
+ 443 : ALGQVNASTGGVIAT-PMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGG : 505
+       ::|: :: .||  :: . .:|.||:::|::. .|::|.|:::. : .:. .:::..|.| |:| 
+ 434 : GFGHGSGIGGGSAGAFGHGSGIGGGSAGAFGHGSGIGGGSAGAFGHGSGIGGGSTGGISYGSGI : 497
+
+ 506 : NNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSG : 553
+       ..:::|| | .|. |  ..|| | :| |. | |:| .:: : :.::||
+ 498 : GGGSAGGFGHGSGIGGGSTGGIGYGSGHGFGAGTLGGSSYAAVSYGSG : 545
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 442 553 . Medex_00023494-RA 433 545 . 114 M 15 15 G 0 1 M 96 96
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 171 -> 297
+  Target range: 394 -> 522
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       :.:|  :.:::   :::| |||::|.:  ||: |.|::||:   :  :::|:.. ...:|  ::
+ 395 : YGSGIGGGSAGGFGHGSGIGGGSAGGISYGSGIGESSAGGFGHGSGIGGGSAGAFGHGSGIGGG : 458
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATP-GHGGEV-IDFKHLFEELCPVCGDKVSGYHYG : 297
+       :: : | |:: .||::|. |.|:.:||.|:.. :.|:.:  :    |.: ..: |:..:|  ||
+ 459 : SAGAFGHGSGIGGGSAGAFGHGSGIGGGSTGGISYGSGIGGGSAGGFGHGSGIGGGSTGGIGYG : 522
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 297 . Medex_00023494-RA 394 522 . 113 M 96 96 G 0 1 M 6 6 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023494-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 378 -> 539
+  Target range: 213 -> 373
+
+ 379 : QVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAI : 442
+       .|  .|.:|:.. :.   |  :| |:| . |..  ::.   .:.:||  ::|::   |:|.:: 
+ 214 : PVTVPRPVAVPVAQPVPVPVPQPYPVSVP-QAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGG : 276
+
+ 443 : ALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGN : 506
+       : |.  :::|   :.: . | |:: ||| .|. : |:| ::.:::. .:.|:.|.|::|| | .
+ 277 : GAGAGFGGAGFGAGGAGGIGYGSGIGGGSAGGIGYGSGIGGGSTGGFGHGSGIGGGSAGGIGYG : 340
+
+ 507 : NAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+        : |||::.. .:|   . ||:.:  .. |||:
+ 341 : IGIGGGSSGGFGHGSGIGVGNAGGIGYGIGIGG : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 378 539 . Medex_00023494-RA 213 373 . 111 M 29 29 G 1 0 M 131 131
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023497-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 374 -> 553
+  Target range: 138 -> 312
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPS : 438
+       ::.:.|  .:.::: . |.   |  :|.|:|   .::|| ::: : :.::  .:    | : |.
+ 139 : TQTVPVPVPQPVPVTVNRPVPVPVAQPVPVSV--PRPYP-VSVPHPVPVSVPRPY---PVTVPR : 196
+
+ 439 : PIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+       |:|::::| |..:..   :.::..:..   . .:. | : . . :..   :::. ::.:.:. |
+ 197 : PVAVPVAQPVPVPVPQPYPVSVPQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFG : 260
+
+ 502 : GGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSG : 553
+       |:| ..:|:|| | .|. |  ..|| | :| |.:|||:: .:: |.|.::||
+ 261 : GAGFGAGGSGGIGYGSGIGSGSAGGIGYGSEHGTGIGNVGGSSYSSLSYGSG : 312
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 553 . Medex_00023497-RA 138 312 . 117 M 32 32 G 2 0 M 5 5 G 1 0 M 15 15 G 3 0 M 14 14 G 0 1 M 107 107
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023497-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 372 -> 538
+  Target range: 154 -> 324
+
+ 373 : DRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSS : 436
+       :|:  :.| :. .:::.   .   |:  |.:::..|. : |.    .  |  .|:   . | | 
+ 155 : NRPVPVPVAQPVPVSVPRPYPVSVPHPVPVSVPRPYPVTVPRPVAVPVAQPVPVPVPQPYPVSV : 218
+
+ 437 : PSPIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGT : 499
+       | ::::.:.| |..:..  |:..... .::|| || .|::  |.| ::.||:. . .|:.|:|:
+ 219 : PQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGSGGIGYGSGIGSGS : 282
+
+ 500 : SGG---GGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       :||   |:.:.:| |. |.:| .:|  .:| | :| ..:| |
+ 283 : AGGIGYGSEHGTGIGNVGGSSYSSLSYGSGYGFGSGYSSGSG : 324
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 372 538 . Medex_00023497-RA 154 324 . 107 M 74 74 G 0 1 M 56 56 G 0 3 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023497-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 396 -> 531
+  Target range: 174 -> 306
+
+ 397 : PDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMN : 460
+       |   | |:: : .::|| :.: : :.:| |:  .. | : | |::::  .|.. ..  :|.|:.
+ 175 : PVSVPHPVPVSVPRPYP-VTVPRPVAVP-VAQPVPVPVPQPYPVSVP-QAVPVQVPQPVAVPVP : 235
+
+ 461 : AGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRN : 524
+       .... : .  :::::  |.:.:: |::. ...:|.| | ::| |:.:||| | |:: ..|: . 
+ 236 : QPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGSGGIGYGSGIGSGSAGGIGYGSEHGTGIGNV : 299
+
+ 525 : GGNGNSS : 531
+       ||:: ||
+ 300 : GGSSYSS : 306
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 396 531 . Medex_00023497-RA 174 306 . 104 M 17 17 G 1 0 M 10 10 G 1 0 M 18 18 G 1 0 M 87 87
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023496-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 374 -> 558
+  Target range: 155 -> 334
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPS : 438
+       ::.:.|  .:.::: . |.   |  :|.|:|   .::|| ::: : :.::  .:    | : |.
+ 156 : TQTVPVPVPQPVPVTVNRPVPVPVAQPVPVSV--PRPYP-VSVPHPVPVSVPRPY---PVTVPR : 213
+
+ 439 : PIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+       |:|::::| |..:..   :.::..:..   . .:. | : . . :..   :::. ::.:.:. |
+ 214 : PVAVPVAQPVPVPVPQPYPVSVPQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFG : 277
+
+ 502 : GGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSS : 558
+       |:| ..:|:|| | .|. |  ..|| | :| |.|||||| .:: :.:.::||  ::|
+ 278 : GAGFGAGGAGGIGYGSGIGGGSTGGIGYGSGHGAGIGSLGGSSYTSISYGSGHGSGS : 334
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 558 . Medex_00023496-RA 155 334 . 120 M 32 32 G 2 0 M 5 5 G 1 0 M 15 15 G 3 0 M 14 14 G 0 1 M 112 112
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023496-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 372 -> 536
+  Target range: 171 -> 339
+
+ 373 : DRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSS : 436
+       :|:  :.| :. .:::.   .   |:  |.:::..|. : |.    .  |  .|:   . | | 
+ 172 : NRPVPVPVAQPVPVSVPRPYPVSVPHPVPVSVPRPYPVTVPRPVAVPVAQPVPVPVPQPYPVSV : 235
+
+ 437 : PSPIAIALGQ-VNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGT : 499
+       | ::::.:.| |..:..  |:..... .::|| || .|::  |.| ::.|::. . .|:.|.|:
+ 236 : PQAVPVQVPQPVAVPVPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGS : 299
+
+ 500 : SGG---GGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAG : 536
+       :||   |:|:.|| |: |.:| .::  .:|:|::| ..:|
+ 300 : TGGIGYGSGHGAGIGSLGGSSYTSISYGSGHGSGSGYSSG : 339
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 372 536 . Medex_00023496-RA 171 339 . 109 M 74 74 G 0 1 M 56 56 G 0 3 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023496-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 374 -> 538
+  Target range: 179 -> 343
+
+ 375 : ARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIPQVSSLTQS-PDSS : 436
+       |: :.|  .|. :: . :.   :  :| |:: . . | | . .:   :. |   |:.|: |   
+ 180 : AQPVPVSVPRPYPVSVPHPVPVSVPRPYPVTVPRPVAVPVAQPVPVPVPQPYPVSVPQAVPVQV : 243
+
+ 437 : PSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTS : 500
+       | |:|:::.|  : | .|: :  ::| ||::|:|:.|::  :.|.:: | ::| ..:|||. . 
+ 244 : PQPVAVPVPQPITVTRPVFIS--SSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGSTGGIGY : 305
+
+ 501 : GGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIG : 538
+       |:| |.. |: ||:: :: :  .. |:|:: . .:. |
+ 306 : GSGHGAGIGSLGGSSYTSISYGSGHGSGSGYSSGSEYG : 343
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 374 538 . Medex_00023496-RA 179 343 . 107 M 39 39 G 0 1 M 19 19 G 0 1 M 25 25 G 2 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00023496-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 369 -> 520
+  Target range: 190 -> 339
+
+ 370 : YKRDRARKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSP : 433
+       |  . :: :.|  .|. :: . |.   |  :|.|::   .|:|| ::: |.:.: ||:  .. |
+ 191 : YPVSVPHPVPVSVPRPYPVTVPRPVAVPVAQPVPVPV--PQPYP-VSVPQAVPV-QVPQPVAVP : 250
+
+ 434 : DSSPSPIAIALGQVNASTGGVIATPM-NAGTGGSGGGGLNGPSSVGNGNSSN-GSSNGNNNSST : 495
+        : | .:: ::   ::: ||  ::.. .|| |::|:||:. .|::|.|:::. | ::|:..: .
+ 251 : VPQPITVTRPVFISSSGLGGGAGAGFGGAGFGAGGAGGIGYGSGIGGGSTGGIGYGSGHGAGIG : 314
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDG : 520
+       : |.|: .: : ::| |:|:. :.|
+ 315 : SLGGSSYTSISYGSGHGSGSGYSSG : 339
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 369 520 . Medex_00023496-RA 190 339 . 106 M 37 37 G 2 0 M 5 5 G 1 0 M 9 9 G 1 0 M 35 35 G 0 1 M 25 25 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 26 -> 295
+  Target range: 261 -> 524
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       |:::   :.:: . |::. .: . ||::| :| ::.| ...::|:.:::.::|  .. :|. :.
+ 262 : LHEHGSLNRSSHNHGSHEHGSHQHGSHEN-GSHQHGSHERRSHNHGSHERGSHEYGSHQHGSHE : 324
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+          :  |:   || ::  | :|::|.:  :|:  :::  ::|: :::. .::  ::: ::|.: 
+ 325 : RRSHNHGSHQHGSHEHGSH-QHGSHEHGSHQHGSHEHGSHHHESHERGSHNHGSHEHRPHNNDS : 387
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQA : 218
+        : .|.:|  : :: .  .:  :|: . :|:: |: . |  .:    .  .|  . :| |  : 
+ 388 : HEHRSHNYSSHNHGSHEHGSHNHDSHEHRSHNHGSHEHGVHNHNRYHEWLESHRNKSY-LAERY : 450
+
+ 219 : ASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDFKHLFEE : 282
+        |..: :.::: : : :| :: .. ::|: ::|:     :.|:::. .|. .:.:|  .:: .:
+ 451 : RSRRSYHNHSQHSGLLNGFLDVPRISGGKIDPGAIQIFLQGMAAARHVPEWTSGLI--SQVVTN : 512
+
+ 283 : LCPVCGDKVSGYH : 295
+        |:| ::|::. :
+ 513 : -CSVTAGKLTNLN : 524
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 295 . Medex_00041021-RA 261 524 . 120 M 29 29 G 1 0 M 53 53 G 1 0 M 102 102 G 1 0 M 61 61 G 2 0 M 6 6 G 1 0 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 19 -> 269
+  Target range: 113 -> 364
+
+  20 : ISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK :  83
+       :.| . : .::::: ..   . |: .:.:   :::: :| .:.| . .::::.::::::|  ..
+ 114 : LEPHRHHDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGS : 177
+
+  84 : FEHEYNAYTLQLAGGGGSGSGNQ--QHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQ : 145
+        .|. : .. :  |:   || ::  ::|::|..|:::|: :::  :::  |::: ::|  ::: 
+ 178 : HGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHERHSHNHRSHEHGFHHHGSHEHESHQHGSHNHG : 241
+
+ 146 : QNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAG : 209
+        :  .: |: : .: |. .:::.:  :. : ::  :||.: |   |: ..|:  :|| . .| .
+ 242 : SHEHRSHNHDSHENRSHNHSLHEHGSLNRSSHN-HGSHEHGSHQHGSHENGSHQHGSHERRSHN : 304
+
+ 210 : GGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGH : 269
+        |    .  . :| ::|:.:    : ||  :|| . |:   |::. .::. |: . .: |
+ 305 : HGSHERGSHEYGSHQHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGSHQHGSHEHGSHH : 364
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 19 269 . Medex_00041021-RA 113 364 . 117 M 87 87 G 0 2 M 72 72 G 1 0 M 90 90
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 27 -> 154
+  Target range: 251 -> 378
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAY :  91
+       .::::: :.:| . |: :.:: : :::: :| ::.| .:.::::.:::. :|  .. |:. :.|
+ 252 : SHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSHNHGSHERGSHEY : 315
+
+  92 : TLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       . :  |: .. | |:  | : |:: . ||:  :::  :|:  ::: .|.:: :::.  |::::
+ 316 : GSHQHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGSHQHGSHEHGSHHHESHERGSHNHGSH : 378
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 154 . Medex_00041021-RA 251 378 . 115 M 127 127
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 12 -> 262
+  Target range: 111 -> 362
+
+  13 : QFISSLNISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDN :  76
+       :::.: .      : .::::: :.:  . |:  :.: . :::. :| ::.|   .::::.::.:
+ 112 : DYLEPHRHHDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSH : 175
+
+  77 : DAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHY : 140
+       ::|  .. .|. :... :  |: . || ::  |..||:: . |::  :::  :::: :|: .| 
+ 176 : GSHGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHERHSHNHRSHEHGFHHHGSHEHESHQHGSHN : 239
+
+ 141 : QQQQQQNIANNANQFNSSSYSYIYNFDS--QYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGS : 202
+       :  :::.  |:.:: |.|    :.: :|  :   . | :: .| :    ..|:   |::  .: 
+ 240 : HGSHEHRSHNHDSHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSH : 303
+
+ 203 : SGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGG : 262
+       : || . |:.   ::. :| ...::.:::|   || .:||   |: . |::  .::  |:
+ 304 : NHGSHERGSHEYGSHQHGSHERRSHNHGSH-QHGSHEHGSHQHGSHEHGSHQHGSHEHGS : 362
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 12 262 . Medex_00041021-RA 111 362 . 114 M 156 156 G 0 2 M 64 64 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 41 -> 272
+  Target range: 145 -> 378
+
+  42 : GNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGN : 105
+       |: .:.: . :::: :| ::.| . .::::.::::::|  .. ||. : .. :  |:   || :
+ 146 : GSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGSHGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHE : 209
+
+ 106 : QQHHSNHSN-HGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       :: |:::|: || ||:  :::: :|:  :::  ::.: ::::: .|.::: :  ..: : . . 
+ 210 : RHSHNHRSHEHGFHHHGSHEHESHQHGSHNHGSHEHRSHNHDSHENRSHNHSLHEHGSLNRSSH : 273
+
+ 169 : QYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH : 232
+       :.  ..   :  :||.: |   |: .  :  :|| . :| . |    .  ...| |:|:.: | 
+ 274 : NHGSHEHGSHQHGSHENGSHQHGSHERRSHNHGSHERGSHEYGSHQHGSHERRSHNHGSHQHGS : 337
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNS-GPGNPMGGTSATPGHGGE : 272
+        . ||  :|| . |:   |::. |: :. : ..::..||::
+ 338 : HEHGSHQHGSHEHGSHQHGSHEHGSHHHESHERGSHNHGSH : 378
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 41 272 . Medex_00041021-RA 145 378 . 113 M 73 73 G 0 1 M 140 140 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 41 -> 221
+  Target range: 315 -> 495
+
+  42 : GNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGN : 105
+       |:  :.: . .::| :| ::.| . .::::.::::::|  .. ||. : .. :  |: . || :
+ 316 : GSHQHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGSHQHGSHEHGSHHHESHERGSHNHGSHE : 379
+
+ 106 : QQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQ : 169
+       ::.|:|:|:: . |:   :::  :::  ::::.| :: :::.  ::: : ::. ...: :  ::
+ 380 : HRPHNNDSHEHRSHNYSSHNHGSHEHGSHNHDSHEHRSHNHGSHEHGVHNHNRYHEWLESHRNK : 443
+
+ 170 : YIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASS : 221
+         ::. |:.  | |::   :|  .|  :: . |:|  .:|:  ::|.  |::
+ 444 : SYLAERYRSRRSYHNHSQHSGLLNGFLDVPRISGGKIDPGAIQIFLQGMAAA : 495
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 41 221 . Medex_00041021-RA 315 495 . 104 M 180 180
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 26 -> 272
+  Target range: 113 -> 358
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       ||.:::..|.. .: .: |:| :| .:.:   |::. :|   :.:.::::::|  .. ||. ::
+ 114 : LEPHRHHDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGS---HRHGSHEHGSHHHGSHEHGSHS : 174
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSN-HGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       .. :  |:   || ::  |.: |: ||:|::  :::: :::: :::  :|.  ::::: .:.::
+ 175 : HGSHGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHERHSHNHRSHEHGFHHHGSHEHESHQHGSH : 238
+
+ 154 : QFNSSSY-SYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLP : 216
+       : .| .. |. .: :.:   . : :: .| :.   . |: . |::  .: ..|| . |:.   :
+ 239 : NHGSHEHRSHNHDSHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRS : 302
+
+ 217 : QAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       :. :| ...::  ::|  ::   .: . :::  :: : |: :. : . ::. ||::
+ 303 : HNHGSHERGSHEYGSHQHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGSHQHGSH : 358
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 272 . Medex_00041021-RA 113 358 . 103 M 39 39 G 3 0 M 46 46 G 0 1 M 46 46 G 0 1 M 112 112
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 27 -> 157
+  Target range: 281 -> 412
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAY :  91
+       .:|: : ..:  . |: ...: : ::::.:| : .|   .:::..::::::|  .. ||. :..
+ 282 : SHQHGSHENGSHQHGSHERRSHNHGSHERGSHEYGSHQHGSHERRSHNHGSHQHGSHEHGSHQH : 345
+
+  92 : TLQLAGGGGSGSGNQ-QHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       . :  |:   || ::  || :  ::|:|::  ::::.:::: :::: ::|  ::: : .:.:::
+ 346 : GSHEHGSHQHGSHEHGSHHHESHERGSHNHGSHEHRPHNNDSHEHRSHNYSSHNHGSHEHGSHN : 409
+
+ 155 : FNS : 157
+        :|
+ 410 : HDS : 412
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 157 . Medex_00041021-RA 281 412 . 103 M 79 79 G 0 1 M 51 51
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 25 -> 249
+  Target range: 127 -> 352
+
+  26 : QLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYN :  89
+       : :: ::.:|.. ::  ::|:: :| .:.: . |::  :| ::.::::..::    .. .||..
+ 128 : HEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGSHGHGSHKHGSHEHG : 191
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEH-YQQQQQQNIANNA : 152
+       :..    . |:   |::::|| |::::::|  :::  :::: ||:  ::|  :::: :| .::.
+ 192 : SHKHGSHEHGSHQHGSHERHS-HNHRSHEHGFHHHGSHEHESHQHGSHNHGSHEHRSHNHDSHE : 254
+
+ 153 : NQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGG-GYMLL : 215
+       |: :: |     :::.    ..:.::.:  |: :..|:   |: :  : : |: . |: .|   
+ 255 : NRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSHNHGSHERGSHEYGSH : 318
+
+ 216 : PQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG : 249
+       .::: .. ::.:.:  | | .  ::  |: .:|:
+ 319 : QHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGS : 352
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 25 249 . Medex_00041021-RA 127 352 . 102 M 85 85 G 1 0 M 28 28 G 0 1 M 71 71 G 0 1 M 39 39
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00076097-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 377 -> 545
+  Target range: 135 -> 309
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIP---QVSSLTQSPDSSP : 437
+       ::|  :|. :::. :.   |  ||.| : . . :|| ::.:|  :. |   :|:. .. | :.|
+ 136 : VHVPVDRPYPVHVPKPFPVPVEKPVPYPVEKPVPYPVKVPVKVPVPQPYPVHVPKPVAVPIPKP : 199
+
+ 438 : SPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSG : 501
+        ::::: . | ... .| ..: ::| ||: ||  .| :::|.| :: |: .| :.: :: |:| 
+ 200 : VAVPVPHPVVVEKKVPVYVDSHSGGLGGGYGGLGGGYGGLGGGYGGLGGHGGFSGGFSSIGSSH : 263
+
+ 502 : G-GGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHE-AGIGSLQNTAD : 545
+       | :||:. || |: .:|::|:  . |:: ::. . || ||: ..::
+ 264 : GLSGGSGFGGFGSIGSSHGGFSGGIGSSYGGYSSLAGHGSFGGISG : 309
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 545 . Medex_00076097-RA 135 309 . 111 M 36 36 G 0 1 M 11 11 G 0 3 M 78 78 G 0 1 M 32 32 G 0 1 M 11 11
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00076096-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 377 -> 530
+  Target range: 248 -> 411
+
+ 378 : LQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYP-NMNIKQEIQIP---QVSSLTQSPDSSP : 437
+       ::|  :|. :::. :.   |  ||.| : . . :|| ::.:|  :. |   :|:. .. | :.|
+ 249 : VHVPVDRPYPVHVPKPFPVPVEKPVPYPVEKPVPYPVKVPVKVPVPHPYPVHVPKPVAVPVPKP : 312
+
+ 438 : SPIAIALGQVNASTGGVIATPMNAGTGGS-GG-----GGLNGPSSVGNGNSSNGSSNGNNNSST : 495
+        ::::: . | ... .| ..: ::| ||: ||     |:|.|.:: :.| || |||:| :.:|.
+ 313 : FAVPVPHPVVVEKKVPVYVDSHSGGLGGGYGGLGGGYGDLGGHGGFSGGFSSIGSSHGLSGGSG : 376
+
+ 496 : GNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNS : 530
+        .| : :: |: ::: ||| ::. ||  :|| |:|
+ 377 : FGGHGLSSFGSIGSSHGGGFSGGYGLGGHGGFGSS : 411
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 377 530 . Medex_00076096-RA 248 411 . 105 M 36 36 G 0 1 M 11 11 G 0 3 M 42 42 G 0 1 M 2 2 G 0 5 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 113 -> 147
+  Target range: 308 -> 342
+
+ 114 : NHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       ::.:::||||||||||||:|||||:: ||||||:
+ 309 : SNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQS : 342
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 113 147 . Medex_00032240-RA 308 342 . 107 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 115 -> 147
+  Target range: 308 -> 340
+
+ 116 : GNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       :|::||||||||||||:|||||:: ||||||:
+ 309 : SNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ : 340
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 115 147 . Medex_00032240-RA 308 340 . 105 M 32 32
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 111 -> 147
+  Target range: 305 -> 341
+
+ 112 : HSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       :|  .|::||||||||||||:|||||:: ||||||:
+ 306 : RSLSNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ : 341
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 111 147 . Medex_00032240-RA 305 341 . 105 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 112 -> 145
+  Target range: 308 -> 341
+
+ 113 : SNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQ : 145
+       ||: :::||||||||||||:|||||:: |||||
+ 309 : SNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ : 341
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 112 145 . Medex_00032240-RA 308 341 . 104 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 116 -> 147
+  Target range: 308 -> 339
+
+ 117 : NHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       :::||||||||||||:|||||:: ||||||:
+ 309 : SNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQ : 339
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 116 147 . Medex_00032240-RA 308 339 . 102 M 31 31
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00032240-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 108 -> 144
+  Target range: 305 -> 341
+
+ 109 : HSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQ : 144
+       :|  :|: :::||||||||||||:|||||:: ||||
+ 306 : RSLSNNQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ : 341
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 108 144 . Medex_00032240-RA 305 341 . 100 M 36 36
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00066972-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 39 -> 251
+  Target range: 15 -> 226
+
+  40 : AGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGS : 103
+       ::|:::|:: : |: : ::. ..:..    ...:.:::.|     : ..::.. : : ||.:|:
+  16 : GAGHGGNSGLAHSSWHFSGPVAGPDKVVYVPAGHGGHGDHGGHAGHGGHDGHGGHAGHGGNGGG :  79
+
+ 104 : GNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSY-SYIYNF : 166
+       |.: :  .:::.:  .:  :::  : : :|::::.:   :   :: :.:.: .: :| :  ..|
+  80 : GGHIDFVAEPKYSFGYEVVDHKTGDIHGQQEHHDGQ-TVKGSYHVKEPGGNVRTVNYVADKHGF : 142
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA : 230
+       ::|   :.| :::.:: : ::|| :|| :|.  .|::||   :||.   ..:::::|:.|..::
+ 143 : HAQVHNSGGNDHSGGNAGGHAGGHAGGHAGGHAGGNGGG--HAGGHAGDHAGGNGGGHAGGHDG : 204
+
+ 231 : GHMSSGSVGNGSG-GAGNGGAG : 251
+       || :: : |:::| :.| || |
+ 205 : GHTGGHAGGHAGGYADGYGGHG : 226
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 39 251 . Medex_00066972-RA 15 226 . 119 M 100 100 G 1 0 M 20 20 G 0 1 M 45 45 G 2 0 M 36 36 G 0 1 M 8 8
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00066972-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 401 -> 533
+  Target range: 101 -> 231
+
+ 402 : TPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGG : 465
+       |.  .| |: . . .:| . :: : :: .:: :  :.  ::  :||:.|.|.  :.. .:| :|
+ 102 : TGDIHGQQEHHDGQTVKGSYHVKEPGGNVRTVNYVADKHGFH-AQVHNSGGNDHSGGNAGGHAG : 164
+
+ 466 : SGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGN : 529
+       : :|| .|. : |||.: .|: .|::.::.|.| :|| :|.::|| :|| ::.:  :  ||:|:
+ 165 : GHAGGHAGGHAGGNGGGHAGGHAGDHAGGNGGGHAGGHDGGHTGGHAGG-HAGGYADGYGGHGH : 227
+
+ 530 : SSCH : 533
+        :.|
+ 228 : YGYH : 231
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 401 533 . Medex_00066972-RA 101 231 . 117 M 42 42 G 1 0 M 70 70 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00066972-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 404 -> 530
+  Target range: 87 -> 213
+
+ 405 : SPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGG : 468
+       .| |  :|  :: | .   .| .  .  . .:: .:  : |:|.: .  .   ..:| . .|||
+  88 : EPKYSFGYEVVDHKTGDIHGQQEHHDGQTVKGSYHVKEPGGNVRTVNYVADKHGFHAQVHNSGG : 151
+
+ 469 : GGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNS : 530
+       .: :|.:: |::.: .|: .|.:.::.|.| :|| :|::|||.||| .:.::  :.||::.:
+ 152 : NDHSGGNAGGHAGGHAGGHAGGHAGGNGGGHAGGHAGDHAGGNGGGHAGGHDGGHTGGHAGG : 213
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 404 530 . Medex_00066972-RA 87 213 . 116 M 126 126
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00066972-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 417 -> 525
+  Target range: 110 -> 217
+
+ 418 : KQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGN : 481
+       .:: |. : |  .:.|::: ..:.  ::: ::  : | .:. |. :||::||  .|.::  .|.
+ 111 : HHDGQTVKGSYHVKEPGGNVRTVNY-VADKHGFHAQVHNSGGNDHSGGNAGGHAGGHAGGHAGG : 173
+
+ 482 : SSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNG : 525
+        :.|::.|:..: :|: ::|.|||:.:| :|| |.::.| | .|
+ 174 : HAGGNGGGHAGGHAGDHAGGNGGGHAGGHDGGHTGGHAGGHAGG : 217
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 417 525 . Medex_00066972-RA 110 217 . 106 M 25 25 G 1 0 M 82 82
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00066972-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 97 -> 270
+  Target range: 55 -> 226
+
+  98 : GGGSGSGNQQHHSNHSNHGNHHQQQQQQQ-QQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSY : 160
+       || :| |.:: |:.|:.||.:     : :  .:.:.    :   ::  : : .:: :: :: . 
+  56 : GGHAGHGGHDGHGGHAGHGGNGGGGGHIDFVAEPKYSFGYEVVDHKTGDIHGQQEHHDGQTVKG : 119
+
+ 161 : SYIYNFDSQYIFPTGY-QDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSG : 223
+       ||  :  :  : ...| .|. : |:|  .:||.: :|.  .| :|| ::| :    .:|::::|
+ 120 : SYHVKEPGGNVRTVNYVADKHGFHAQVHNSGGNDHSGGNAGGHAGGHAGGHA---GGHAGGNGG : 180
+
+ 224 : NNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHG : 270
+       .::..:||: ::|: |. :|| :.| :||::| |:: | :.: .|||
+ 181 : GHAGGHAGDHAGGNGGGHAGGHDGGHTGGHAG-GHAGGYADGYGGHG : 226
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 97 270 . Medex_00066972-RA 55 226 . 105 M 29 29 G 0 1 M 50 50 G 0 1 M 35 35 G 3 0 M 41 41 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00048031-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 171 -> 282
+  Target range: 186 -> 300
+
+ 172 : FPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPN-AGHMS : 234
+       ::.| |:. :::: |:. | ||  ||: :|:  || : ||       ::  || |:.. .|:|:
+ 187 : LAGGMQGNMGPRGMQGNMGHGGMQGNMGHGGMQGSMGHGGMQGSMGHGGMQGNMGHGGMQGNMG : 250
+
+ 235 : SGSVGNGSGGAGNGGAGGNSGPGNPM--GGTSATPGHGGEVIDFKHLFEE : 282
+        |:: .. | :|  |. |::|. ..|  ||| :. ||||:|:. :.::.:
+ 251 : HGGMQGNMGHGGMQGNMGHGGTQGNMGHGGTQGNMGHGGNVLSHNPVLGQ : 300
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 171 282 . Medex_00048031-RA 186 300 . 108 M 58 58 G 0 1 M 31 31 G 0 2 M 22 22
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00018886-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 26 -> 275
+  Target range: 189 -> 452
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       ||:  ::.:.: :::|:||:::. .|:::|:|: ::||||:::|::::.:.:   :. . .::.
+ 190 : LEDSFRSETGSSSTAGESSSSSNVTSSSSSGSSFSSSSSSSSSNSSSSSSSSSGSSSSGSGFSN : 253
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+        .   ..  .|.::.   :::::. ..  :::|:  :::::: :::| :|:  . :. ..... 
+ 254 : SGGSWQTVRTSNGSTVVAQGHDTRMETLTEEEQRLLEEERRQLEEEQRRYRTSAGRGPVGGEGS : 317
+
+ 155 : FNSSSYSYIY--------NFDS-QYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAG : 209
+       :::|:||  .        :|.:  |. :|| :.. :|:.   .|::|  : .: :.  |.  :.
+ 318 : YSTSNYSASWSGTNIPQGHFSNYSYTNSTGGRAVQTSQRGYVPGAAGVHAQPVHENMQGTWLPN : 381
+
+ 210 : GGYM--LLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGG---NSGPGNPMGGTSATPG : 268
+       | :.  :|: .: ::|..| . ..: :  |.|:|. ::.:: .     :...|:. ||: ..||
+ 382 : GQFRTGILSSEGVGGGAGGLNVNEQHGWVSAGSGKLDSTQDMNQQAWRSETHGSRSGGSFVGPG : 445
+
+ 269 : HGGEVID : 275
+       |:|: .:
+ 446 : HDGNETE : 452
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 275 . Medex_00018886-RA 189 452 . 105 M 138 138 G 0 8 M 4 4 G 0 1 M 45 45 G 0 2 M 39 39 G 0 3 M 23 23
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00081746-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 186 -> 444
+  Target range: 234 -> 488
+
+ 187 : SGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGS-GGAGNGG : 249
+       |::||:: ||:  .||| |||: ||    . : |: |::: .:.|  | |: |.:| || |:||
+ 235 : SSDGGSSYGGSSYGGSSYGSSSYGGSSYGGSSYSGYGESSYGSNGASSHGNYGGSSYGGYGHGG : 298
+
+ 250 : AG-GNSGPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYGLLTCESCKGFFKRTV : 312
+       :: |. |.|.. | .:::.|: |:  :|..:: .  :  |:   || |:| .  : .  :| .:
+ 299 : SSYGGYGNGGTYGQVASSHGDYGQSGQFTPIIRGQ-SYAGGYSHGY-YDLGKTVTIHKKIKIPI : 360
+
+ 313 : QNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEVGMKLEAVRADRMRGGRNKFGPMYKR-DRA : 375
+       .  : |.     . |:  . .|. || . :  :: .: : .|:. . . .::   |:  : ||:
+ 361 : PVPQPYPVHIPVEKHVPVPIPKPVPY-PVKIPVDRPIPIPVVKNVPYPVEKHVPVPVKVHFDRP : 423
+
+ 376 : RKLQVMRQRQLALQALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSL-TQSPDSSPS : 438
+         ::|  ::::: ..  : . | :.| |::   :::|| : :.:.:.:|.  :: .: | :.| 
+ 424 : YPVHVAVEKKVPYPV--EVKVPVVHPYPVPV--EKPYP-VFVEKKVAVPAPYPVHVKVPVPKPY : 482
+
+ 439 : PIAIAL : 444
+       |: : :
+ 483 : PVHVKV : 488
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 186 444 . Medex_00081746-RA 234 488 . 117 M 56 56 G 0 1 M 9 9 G 0 1 M 32 32 G 1 0 M 10 10 G 1 0 M 43 43 G 1 0 M 33 33 G 0 1 M 18 18 G 2 0 M 14 14 G 2 0 M 5 5 G 1 0 M 15 15 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00012313-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 430 -> 525
+  Target range: 60 -> 155
+
+ 431 : QSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSS : 494
+       :: .::|:. | | |  .  :|| ::...  :.:.:|||| .:::::|.  ::.|::.||  |:
+  61 : HAEAGTPGGPAAAAGLGGLLSGGGVGGGKLYSGATTGGGGPAAAAGLGGVLAGGGGGGGNLYSG : 124
+
+ 495 : TGNGTSGGGGGNNAGGGGGGTNSNDGLHRNG : 525
+       :::|:|:|:|: .:| |||:.  ::|:.:.|
+ 125 : ASSGASSGAGSYAGGYGGGSKFVSGGVYKGG : 155
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 430 525 . Medex_00012313-RA 60 155 . 110 M 95 95
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00012313-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 190 -> 318
+  Target range: 37 -> 167
+
+ 191 : GGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNS : 254
+       || :::. |.|  ||.:|::| :   .:::::...:.. :| :|:|:||.|.  :|...:||.:
+  38 : GGYSASAGLGGLLGGRGAAAGGLHAEAGTPGGPAAAAGLGGLLSGGGVGGGKLYSGATTGGGGP : 101
+
+ 255 : GPGNPMGGTSATPGHGGEVIDFKHLFEELCPVCGDKVSGYHYG--LLTCESCK-GFFKRTVQNK : 315
+       :::..:||. |..| ||. : :.   .. .:  |. .:||  |  ::: . .| |||.|. : :
+ 102 : AAAAGLGGVLAGGGGGGGNL-YSGASSGASSGAGSYAGGYGGGSKFVSGGVYKGGFFDRIFDVN : 164
+
+ 316 : KVY : 318
+       . :
+ 165 : SNF : 167
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 190 318 . Medex_00012313-RA 37 167 . 106 M 84 84 G 1 0 M 22 22 G 0 2 M 8 8 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00086045-RA
+         Model: affine:local:protein2protein
+     Raw score: 209
+   Query range: 605 -> 726
+  Target range: 77 -> 198
+
+ 606 : FELMCKVLDQNLFSQVDWARNTVFFKDLKVDDQMKLLQHSWSDMLVLDHLHHRIHNGLPDETQL : 669
+       :: :|.: .: |||.|:||||. || ||:|.||: ||:  ||:::||:  : .:.  ::   . 
+  78 : IDNICELAARLLFSAVEWARNIPFFPDLQVTDQVALLRLVWSELFVLNASQCSMPLHVAPLLAA : 141
+
+ 670 : NNGQVFNLMSLGLLGVPQLGDYFNELQNKLQDLKFDMGDYVCMKFLILLNPSVRGIV : 726
+       .. :. .: :  :::  :    |:|  :||:.|. | ::| |:| ::|:..:. :.:
+ 142 : AGLHASPMAADRVVAFMDHIRIFQEQVEKLKALHVDSAEYSCLKAIVLFTTGTVSTM : 198
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 605 726 . Medex_00086045-RA 77 198 . 209 M 121 121
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 57 -> 161
+  Target range: 1 -> 105
+
+  58 : SGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQ : 121
+       :|  . ::|::..: ::::  |   . :::|:.   | |  :  :  .|: |::||:|::|:|:
+   2 : TGVMEQGPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQH :  65
+
+ 122 : QQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYS : 161
+        |: || |: :: |: :: |::|: : :::::: :|| .|
+  66 : SQHSQQSQHSQNSQHSQQSQHNQHTHHGQHTQHNQSSHHS : 105
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 57 161 . Medex_00062942-RA 1 105 . 116 M 104 104
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 59 -> 154
+  Target range: 7 -> 104
+
+  60 : NNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQH--HSNHSNHGNHHQQ : 121
+       ..:||.:: ::::.:::: |   .:::: |..: : . :  :  .::||  ||:|::|::| ||
+   8 : GPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQ :  71
+
+ 122 : QQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+        |: |: |: :| |:::| :: |: : .:::::
+  72 : SQHSQNSQHSQQSQHNQHTHHGQHTQHNQSSHH : 104
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 59 154 . Medex_00062942-RA 7 104 . 108 M 49 49 G 0 2 M 46 46
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 94 -> 224
+  Target range: 4 -> 133
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+       :. |.:|:.:: :|| .| :| :||:: ::||:|:.|| |: |:  : ::|::  :: || :  
+   5 : MEQGPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQH :  68
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSS : 222
+       |    .: :||.  . : ::  : |:|::  . ::  ::  : | .. .   .|.|| ::  :.
+  69 : SQQSQHSQNSQHS-QQSQHNQHTHHGQHTQHNQSSHHSQQNQHSQTNHRKLRNYKLLVDPCIAK : 131
+
+ 223 : GN : 224
+       |:
+ 132 : GS : 133
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 94 224 . Medex_00062942-RA 4 133 . 107 M 77 77 G 1 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 66 -> 154
+  Target range: 7 -> 95
+
+  67 : NNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQ : 130
+       ..:::..: :: |   .  |:.. |  | .  :  :  :|: : .|::|::| |::|: |: ||
+   8 : GPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQ :  71
+
+ 131 : QHQQQQQEHYQQQQQQNIANNANQ : 154
+        :: |: :| || |::: ::::::
+  72 : SQHSQNSQHSQQSQHNQHTHHGQH :  95
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 66 154 . Medex_00062942-RA 7 95 . 103 M 88 88
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 49 -> 154
+  Target range: 1 -> 107
+
+  50 : SGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLT-KFEHEYNAYTLQLAGGGGSGSGNQQHHSNH : 112
+       :|  ::::|::.:.   ::.::::.::: |  . : :|. ::   | :  . :  ::: :|::|
+   2 : TGVMEQGPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQH :  65
+
+ 113 : SNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |:|::: |: |: |: || :::|: :| |: |::: :::::|
+  66 : SQHSQQSQHSQNSQHSQQSQHNQHTHHGQHTQHNQSSHHSQQ : 107
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 49 154 . Medex_00062942-RA 1 107 . 102 M 33 33 G 0 1 M 72 72
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 26 -> 162
+  Target range: 4 -> 139
+
+  27 : LEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNA :  90
+       :|| . :|.:.|    .  ::    .: ::. .:: :  |:::::.::.::.|   . :::.:.
+   5 : MEQGPSSSRAELHHHHRHHHHRHHHRHYHNQQNQH-AQHSQHSQHTQHTHNQHSQHSQHNQHSQ :  67
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       .: | . : .|  ::| :|::|::||:| |::|  :: ||::: | :::  :: :  :..  .:
+  68 : HSQQSQHSQNSQHSQQSQHNQHTHHGQHTQHNQSSHHSQQNQHSQTNHRKLRNYKLLVDPCIAK : 131
+
+ 155 : FNSSSYSY : 162
+        ::. |.|
+ 132 : GSAKVYRY : 139
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 26 162 . Medex_00062942-RA 4 139 . 101 M 35 35 G 1 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00022433-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 447 -> 562
+  Target range: 268 -> 383
+
+ 448 : NASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGG : 511
+       .:|.:|  |:: .|| ::  ||| .|::: : |.:| ::|:::..::. .:. ||| |.::||.
+ 269 : GGSVSGSSASAAAAGQASIIGGGWGGSTGGSYGGGSVSGSSASAAAAGQASIIGGGWGGSTGGT : 332
+
+ 512 : GGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADA : 562
+        ||.: :::  ..::.|::|  .:| |: : .:.:  .:::|: ::|:|.|
+ 333 : YGGGSVSGSSASAAAAGQASIIGGGWGGGRWGGSTGGSYGGGSVSGSSAAA : 383
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 447 562 . Medex_00022433-RA 268 383 . 101 M 115 115
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00088612-RA
+         Model: affine:local:protein2protein
+     Raw score: 271
+   Query range: 283 -> 349
+  Target range: 109 -> 175
+
+ 284 : CPVCGDKVSGYHYGLLTCESCKGFFKRTVQNKKVYTCVAERSCHIDKTQRKRCPYCRFQKCLEV : 347
+       | ||||| || |||::|||:|||||:|:  :   | |  :::| :|:.:|:||.|||:|||| :
+ 110 : CKVCGDKSSGVHYGVITCEGCKGFFRRSQSSVVNYQCPRNKNCVVDRVNRNRCQYCRLQKCLRL : 173
+
+ 348 : GM : 349
+       ||
+ 174 : GM : 175
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 283 349 . Medex_00088612-RA 109 175 . 271 M 66 66
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00046361-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 428 -> 543
+  Target range: 12 -> 129
+
+ 429 : LTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNN : 492
+       | :|.. ....|.:  :  :|. :|  ::. .:| ||.|||| .|.|  :.|.::: ||:|...
+  13 : LQRSHSIRGKHIDVKKALSKAEMAGQGGSGGRGGRGGRGGGGSGGGSWSSRGGGGDWSSSGGGG :  76
+
+ 493 : SSTGNGTSGGGGG--NNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNT : 543
+       :: |.|:| ||::  ::.|:||||.. .:  :  ||.::: .:::  |: |::
+  77 : GGYGGGSSWGGSDPWDSQGSGGGGGGWGGQSQGYGGGSSNWSNDSFGGGYQQS : 129
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 428 543 . Medex_00046361-RA 12 129 . 104 M 77 77 G 0 2 M 38 38
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 104 -> 144
+  Target range: 196 -> 236
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQ : 144
+       | :||:|| :| |:|:::||||||||| :||::.:|:.::
+ 197 : NGHHHNNHHHHHNNHHHHQQQQQQQQQLHQQEDGRYHARH : 236
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 104 144 . Medex_00037061-RA 196 236 . 117 M 40 40
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 25 -> 157
+  Target range: 109 -> 239
+
+  26 : QLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYN :  89
+       .:.::  || |:|:::..::. :  . ..::|. :..|.|.::: .: .|  |.::.:  :  .
+ 110 : AMSKNSVPSVPSLPTAPPPATIPILTVTPKPARKSRDSRSRSQDWPDVPD-VAKIVENNPEILA : 172
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       . .|: :|   .:|:.:: ... . :|:||::::::::::::||||||:: | :||::   :|.
+ 173 : QKILE-TGRQIEASAGKRVPEPIKFNGHHHNNHHHHHNNHHHHQQQQQQQQQLHQQEDGRYHAR : 235
+
+ 154 : QFNS : 157
+       ::::
+ 236 : HYQP : 239
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 25 157 . Medex_00037061-RA 109 239 . 114 M 50 50 G 1 0 M 18 18 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 3 -> 154
+  Target range: 99 -> 249
+
+   4 : EMDQQQATVQFISSLNISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSN :  67
+       .|.: ::.:. :|. :::: :  |  ...|:: :: : ...:.. :.:|.:.|.. .:.:. ::
+ 100 : KMSRLESELAAMSKNSVPSVP-SLPTAPPPATIPILTVTPKPARKSRDSRSRSQDWPDVPDVAK : 162
+
+  68 : NNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQ : 131
+         :||.:  ...:|.. .:: :| : : .... . :|::::: :| ::.:||:||||||||| :
+ 163 : IVENNPEILAQKILET-GRQIEASAGKRVPEPIKFNGHHHNNHHHHHNNHHHHQQQQQQQQQLH : 225
+
+ 132 : HQQQQQEHYQQ-QQQQNIANNANQ : 154
+       :|:: : | :: |.|..|:..::|
+ 226 : QQEDGRYHARHYQPQPPIPTPTQQ : 249
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 3 154 . Medex_00037061-RA 99 249 . 106 M 21 21 G 1 0 M 58 58 G 1 0 M 58 58 G 0 1 M 12 12
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 103 -> 147
+  Target range: 196 -> 240
+
+ 104 : GNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQN : 147
+       ..::|:::| :|.|||::||||||||| |||::  ...:: |.:
+ 197 : NGHHHNNHHHHHNNHHHHQQQQQQQQQLHQQEDGRYHARHYQPQ : 240
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 103 147 . Medex_00037061-RA 196 240 . 105 M 44 44
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00045708-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 469 -> 703
+  Target range: 78 -> 311
+
+ 470 : GLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCH : 533
+       | :.:: :| |::::|..::::::|::::::..|.:::..:|:...:.: :  .:.|:|:.:. 
+  79 : GRSESNVLGLGDNPDGKDDDESENSSDEDANENGEDEHENDGDTNDDEKVD-GSEEGKGKEASA : 141
+
+ 534 : EAGIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVSPMIREFVQSIDDREWQTQLFALLQKQT : 597
+       ..: |.  ::.:||:  :||:. :.|.:.  :.|:::  : |:.::| :|:      | ::|| 
+ 142 : SDAKGDAGEAVGSKMD-ESGAPEGDTEQEDEDNLKLAWEVLELAKTIFERQ------AKIDKQ- : 198
+
+ 598 : YNQVEVDLFELMCKV-LDQNLFSQ-VDWARNTVFFKDLKVDDQMKLLQHSWSDMLV---LDHLH : 656
+       |:   .:::  :|.| |: .::.| ::  :  | ::. ::.:: ::|.:|. :: :   |.: .
+ 199 : YELKLAEVYFKLCEVGLESGVYDQAIEDMKICVEIQKRNLSEDDRILAESFYELGIAYSLKNEY : 261
+
+ 657 : HRIHNGLPDETQLNNGQVFNLMSLGLLGVP---QLGDYFNELQNKLQDLK : 703
+       :   ..: :..|: : :| || .:   |||   : :| | .::..:::|:
+ 262 : DVAITEFKNAIQVLEKRVSNLQEMLKQGVPAEVKDSDPFYSVEGEIKELN : 311
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 469 703 . Medex_00045708-RA 78 311 . 108 M 51 51 G 1 0 M 28 28 G 1 0 M 34 34 G 6 0 M 6 6 G 1 0 M 15 15 G 0 1 M 8 8 G 0 1 M 31 31 G 0 3 M 35 35 G 0 3 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00029957-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 423 -> 539
+  Target range: 80 -> 195
+
+ 424 : PQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSS : 487
+       : :::|..: : :.||:: ::| .|| . || ||| .|:  |:|:|: .:: : |...::. : 
+  81 : AGIGALGAGLGVTGSPFGAGVG-ANAFGVGVGATPNPAAFLGAGAGAQGAAQAFGTNPGAGQAF : 143
+
+ 488 : NGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGS : 539
+       :. ::: ...|.:|||||.. |||::. : .:|  :.||| ||:  ::.:|:
+ 144 : DNISSAIGNAGGGGGGGGGGFGGGASERDLRGGGGQGGGNLNSNFANGPMGG : 195
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 423 539 . Medex_00029957-RA 80 195 . 112 M 22 22 G 1 0 M 93 93
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00097167-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 28 -> 144
+  Target range: 63 -> 178
+
+  29 : QQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYT :  92
+       .: |..|| :.. .:|:...:  | ... |..:.:.  ::::::.: .:.    : :::|:..|
+  64 : AESQRRSPFINNLPSSTRGQGMVSVGGRRSTAQVPRLVQQQQQQPQPPQVLQQQQQQQHYQVHT : 127
+
+  93 : LQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQ : 144
+       :: .:..|...:  |:: :| :| :||||| |..||.||:|||||  . | :
+ 128 : VRYVDPTGRTEAVLQNQ-HHLHHHHHHQQQLQPPQQPQQQQQQQQIAWGQME : 178
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 28 144 . Medex_00097167-RA 63 178 . 106 M 81 81 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00074961-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 139 -> 271
+  Target range: 144 -> 275
+
+ 140 : YQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLN-GS : 202
+       |  . :.. |.::.  ..|: :  |: .: |  :..|  ::|:: : :|::|:|.:|.: . ||
+ 145 : YGSAGEPGSAGEPGGAGESGRGGGYESSGSYGSSGTY--SSSGRVDSGGAAGAGESGRVGGYGS : 206
+
+ 203 : SGGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSAT : 266
+       ||| :::|:|   .  :||||. |::::.. |||.|::|::::|.|::| .|:.: . || :::
+ 207 : SGGYGSSGSYGSSGTYGSSSGTYGSSSGTYGSSGKVDSGGAASGGGDSGYGSSGSYGSGGYGSS : 270
+
+ 267 : PGHGG : 271
+       ...|:
+ 271 : GTYGS : 275
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 139 271 . Medex_00074961-RA 144 275 . 115 M 37 37 G 2 0 M 22 22 G 0 1 M 71 71
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00056420-RA
+         Model: affine:local:protein2protein
+     Raw score: 697
+   Query range: 638 -> 802
+  Target range: 0 -> 164
+
+ 639 : MKLLQHSWSDMLVLDHLHHRIHNGLPDETQLNNGQVFNLMSLGLLGVPQLGDYFNELQNKLQDL : 702
+       ||||||||||||||||||:|:||.||||| |.||| |:|:.||||||| |::.|||| .|||||
+   1 : MKLLQHSWSDMLVLDHLHQRMHNNLPDETSLPNGQKFDLLCLGLLGVPTLAGHFNELTAKLQDL :  64
+
+ 703 : KFDMGDYVCMKFLILLNPSVRGIVNRKTVSEGHDNVQAALLDYTLTCYPSVNDKFRGLVNILPE : 766
+       |||::||:|:|||:||||.|||||||| | ||||:||.||||||||||| ::|||  |: : ||
+  65 : KFDISDYICLKFLLLLNPDVRGIVNRKHVQEGHDQVQQALLDYTLTCYPQIQDKFGKLLMVKPE : 128
+
+ 767 : IHAMAVRGEDHLYTKHCAGSAPTQTLLMEMLHAKRK : 802
+       ||.:| ||||||| |||.||||||||||||||||||
+ 129 : IHQLASRGEDHLYHKHCDGSAPTQTLLMEMLHAKRK : 164
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 638 802 . Medex_00056420-RA 0 164 . 697 M 164 164
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00056419-RA
+         Model: affine:local:protein2protein
+     Raw score: 461
+   Query range: 358 -> 646
+  Target range: 0 -> 253
+
+ 359 : MRGGRNKFGPMYKRDRARKLQVMRQRQLALQALRNS---MGPDIK---PTPISPGYQ-QAYPNM : 415
+       |||||||||||||||||||||:|||||:|||:||.|   :| ::.   :|. ::| .  |:.::
+   1 : MRGGRNKFGPMYKRDRARKLQMMRQRQIALQTLRGSHAQLGDGVTLSYSTGGGAGAAGSAFGSL :  64
+
+ 416 : NIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGGVIATPMNAGTGGSGGGGLNGPSSVGN : 479
+       :|||||||||||||| |||||||||::||||..:|             :::|:::|:: ::|: 
+  65 : HIKQEIQIPQVSSLTSSPDSSPSPITVALGQAGTS-------------SAPGAASLQAVGGVA- : 115
+
+ 480 : GNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNSNDGLHRNGGNGNSSCHEAGIGSLQNT : 543
+                         |:::|::: : ||     :|:: |  ...:.::| |. :  :::  
+ 116 : ------------------GATSGAASISLGG-----SSDHKLWGTPNSTSPSPHSLSPKAFH-- : 154
+
+ 544 : ADSKLCFDSGTHPSSTADALIEPLRVSPMIREFVQSIDDREWQTQLFALLQKQTYNQVEVDLFE : 607
+        |: |  .:|| .|::|.:     ::::|||||:|::||||||. |::|||:||||| ||||||
+ 155 : FDGALAASAGTAGSGAATP-----KIPAMIREFMQALDDREWQNSLYSLLQNQTYNQCEVDLFE : 212
+
+ 608 : LMCKVLDQNLFSQVDWARNTVFFKDLKVD--DQMKLLQHSW : 646
+       |||||||||||||||||||:||||||||:  .|  |:   |
+ 213 : LMCKVLDQNLFSQVDWARNSVFFKDLKVNIGSQSPLVMWIW : 253
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 358 646 . Medex_00056419-RA 0 253 . 461 M 36 36 G 0 3 M 6 6 G 0 3 M 9 9 G 0 1 M 41 41 G 13 0 M 15 15 G 19 0 M 13 13 G 5 0 M 26 26 G 2 0 M 19 19 G 5 0 M 69 69 G 0 2 M 10 10
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 27 -> 276
+  Target range: 119 -> 373
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK-FEHEYNA :  90
+       .:  ::|: : .::|::::: : |::::: :|:::: :::::.:..:.::    :.  . : ::
+ 120 : GHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSG : 183
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |. | :| || :||:  : |.|:.|:: |  :   :  | .    : .  :  | .. :.::: 
+ 184 : YGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSG-HGGQSAGYGGHSSG : 246
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQ : 217
+        .:.| :|  : .::   ::|| : :|:|: ||:| || ::|:  ::|: || |:| | .  . 
+ 247 : HGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGY : 310
+
+ 218 : AASSSGNNGNPNA-GHMSSGSVGNGSGGAGNGGA-GGNSG--PGNPMGGTSATPGHGGEVIDF : 276
+       :: |||:.|::.: |  |||  |:::| :|:::: ||:|:  .|:: | .: ::||||. :::
+ 311 : GGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGY : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 276 . Medex_00082084-RA 119 373 . 155 M 56 56 G 0 1 M 56 56 G 1 0 M 63 63 G 0 1 M 27 27 G 0 1 M 20 20 G 0 1 M 5 5 G 0 2 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 149
+   Query range: 27 -> 276
+  Target range: 161 -> 408
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK-FEHEYNA :  90
+       .:  ::|:.: .::|::::::: |::::: :|:::: :::::.:..:.::    :.  . : .:
+ 162 : GHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAG : 225
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |. : :| || ::|   | |.|:..:. .  :   :  | .    : .  :  | .. :.::: 
+ 226 : YGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSG-HGGQSAGYGGHSSG : 288
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQ : 217
+        .: | :|  : .::   ::|| : :|:|: ||:| || ::|:  :::: || |:: |    .:
+ 289 : HGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGH : 352
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       ::.|:| .|: ::|| :: ||| |: :.|:|| ::. | |:: | .: ::||||. :::
+ 353 : GGKSAGYGGH-SSGH-GGKSVGYGGKSVGHGGHSSGHG-GHSSGHGGHSSGHGGKSVGY : 408
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 276 . Medex_00082084-RA 161 408 . 149 M 56 56 G 0 1 M 56 56 G 1 0 M 63 63 G 0 1 M 24 24 G 1 0 M 4 4 G 1 0 M 22 22 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 140
+   Query range: 12 -> 294
+  Target range: 78 -> 359
+
+  13 : QFISSLNISPFSMQLEQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDN :  76
+       : |  :::: : :.:. . : .:.  : | |.::.: : |:.::: ::. :: |:.:..:: ::
+  79 : EVIVIVSVAVLLVAVSSASNICNTCGSKGHNCGHGSHGISSGHGGHSSGYGGQSSGHGGKSCGH : 142
+
+  77 : DAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHY : 140
+       ::|  .. .:. ::.. | :| || :||:  : |.|:.|:: .  |   :  :   :  | . .
+ 143 : GGHSSGHGGQS-SGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGH : 205
+
+ 141 : QQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS- : 204
+         :   : ::::.: .: | :|  : .::   ::|| : :|:|: :|:| || ::|:  :::: 
+ 206 : GGHSSGHGGHSSGH-GGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGY : 268
+
+ 205 : GGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATP : 267
+       || |:| |    . :: |||:.|::::   :: | |:|: :|| || ::. | |:: | .: ::
+ 269 : GGHSSGHGGQSAGYGGHSSGHGGHSSG--YGGHSSGHGGKSAGYGGHSSGHG-GQSAGYGGHSS : 329
+
+ 268 : GHGGEVIDF---KHLFEELCPVCGDKVSGY : 294
+       ||||: .::   .  :.. .:  |:| :||
+ 330 : GHGGQSTGYGGHSSSYGGHSSGHGGKSAGY : 359
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 12 294 . Medex_00082084-RA 78 359 . 140 M 75 75 G 1 0 M 66 66 G 1 0 M 48 48 G 0 1 M 27 27 G 2 0 M 23 23 G 1 0 M 20 20 G 0 3 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 39 -> 294
+  Target range: 117 -> 373
+
+  40 : AGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK-FEHEYNAYTLQLAGGGGSG : 102
+       ::|::::::: |::::: :|:: : :::::.:..:.::    :.  . : ::.. | :| || :
+ 118 : SSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHS : 181
+
+ 103 : SGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNF : 166
+       ||   : |.|:.|:: |  |   :  :   :  : .  :  | .. :.:::  .: | :|  : 
+ 182 : SGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSG-HGGQSAGYGGHSSGHGGQSAGYGGHS : 244
+
+ 167 : DSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA : 230
+       .::   ::|| : :|:|: ||:| || ::|:  :::: |: ::|     :  :: |:.:|. :|
+ 245 : SGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSA : 308
+
+ 231 : GHMSSGSVGNGSGGAGNGG-AGGNSGPGNPMGGTSAT-PGHGGEVIDFKHLFEELCPVCGDKVS : 292
+       |. :: | |:|: :|| || ::|::|.:.. || |:: .||::.  : .  :.. .:  |:|  
+ 309 : GY-GGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSV : 371
+
+ 293 : GY : 294
+       ||
+ 372 : GY : 373
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 39 294 . Medex_00082084-RA 117 373 . 138 M 44 44 G 0 1 M 56 56 G 1 0 M 92 92 G 1 0 M 16 16 G 0 1 M 17 17 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 31 -> 272
+  Target range: 130 -> 383
+
+  32 : QPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK-FEHEYNAYTLQ :  94
+       |:|:.:  : |::::::: |::::: :|:::: :::::.:..:.::    :. :. : ::.. :
+ 131 : QSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGH : 194
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHY------QQQQQQNIANNA : 152
+        :| || :||:  | |.|:.|:: |  | .    :   :  | . |      :  : .. :.::
+ 195 : SSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHS : 258
+
+ 153 : NQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLL : 215
+       :  .: | :|  : .::   ::|| : :|:|: :|:| || ::|:  :::: || |:| |    
+ 259 : SGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSA : 322
+
+ 216 : PQAASSSGNNGNPN--AGHMSS-GSVGNGSGGAGNGGAGGNSG-PGNPMGGTSATPGHGGE : 272
+       . :: |||:.|::.  :|| || |: ::| || :.| :| :|| .|:::| .: : ||||:
+ 323 : GYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHGGH : 383
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 31 272 . Medex_00082084-RA 130 383 . 137 M 52 52 G 0 1 M 57 57 G 0 6 M 63 63 G 0 1 M 26 26 G 0 2 M 6 6 G 0 1 M 20 20 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 27 -> 276
+  Target range: 189 -> 436
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDND-AHVLTKFEHEYNA :  90
+       .:  ::|:.: .::|::::::: |::::: :|:::: :::::.:..:..: :   :  . . .:
+ 190 : GHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAG : 253
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |. : :| || ::|   | |.|:.::. .  :   :  :      : .  :  : .. :.::: 
+ 254 : YGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSG-HGGKSAGYGGHSSG : 316
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGG-NLLNGSSGGSSAGGGYMLLPQ : 217
+        .: | :|  : .::   :||| : :||.: :|:| || ::| .  ::: ||.|.| | . :.:
+ 317 : HGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGH : 380
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       :: |||:.|: ::|| :: | |:|: :.| || : . | ||::| .: ::|.||:.:::
+ 381 : GGHSSGHGGH-SSGH-GGHSSGHGGKSVGYGGYSYGHG-GNSVGHGGHSSGYGGHAVGI : 436
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 276 . Medex_00082084-RA 189 436 . 135 M 50 50 G 0 1 M 62 62 G 1 0 M 56 56 G 0 1 M 31 31 G 1 0 M 4 4 G 1 0 M 22 22 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 27 -> 270
+  Target range: 210 -> 454
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNN-NNNNDNDAHVLTKFEHEYNA :  90
+       .:  ::|:.: .::| :::::: |:::.: :|:::: ::::.. ..::..::   : :. : ::
+ 211 : GHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSG : 274
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       .. | || || :||:  | |..:.|:: |  : .    :   :  | . |  :   : :.::. 
+ 275 : HGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGH-GGQSTG : 337
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQ : 217
+       :.: | ||  : .::   ::|| : :|:|: :| | || : |:  ::|: || |:| |    .:
+ 338 : YGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSGHGGHSSGH : 401
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG-AGGNSGPGNPMGGTS-ATPGHG : 270
+       ::.| | .| :  || ::.|||:|: ::| || | | :|.   .||::  ::|||
+ 402 : GGKSVGYGGYSY-GH-GGNSVGHGGHSSGYGGHAVGIGGHVIIKGGSGCLASGHG : 454
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 270 . Medex_00082084-RA 210 454 . 131 M 43 43 G 0 1 M 77 77 G 1 0 M 55 55 G 0 1 M 26 26 G 1 0 M 2 2 G 1 0 M 16 16 G 0 1 M 15 15 G 0 1 M 6 6
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 27 -> 272
+  Target range: 147 -> 390
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNT--SSSSNNNNNNNNDNDAHVLTKFEHEYN :  89
+       .:  |:|:.: .::|::::::: |::::: :|:::  :: |:.:..::::::::  .. .|. :
+ 148 : GHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHS-S : 210
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       :.. : :| || ::|   | |.|:.::. .  :   :  : .    : .  :  | .. :.:::
+ 211 : GHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSG-HGGQSAGYGGHSS : 273
+
+ 154 : QFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQ : 217
+         .: | :|  : .::   ::|| : :|:|: :|:| || ::|:  :::: |: ::|     . 
+ 274 : GHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTG : 337
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+        :: |:: |..::|| :: |.| |: ::|:|| : . | |:::| .: ::||||:
+ 338 : YGGHSSSYGGHSSGH-GGKSAGYGGHSSGHGGKSVGYG-GKSVGHGGHSSGHGGH : 390
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 272 . Medex_00082084-RA 147 390 . 129 M 35 35 G 0 2 M 25 25 G 1 0 M 51 51 G 1 0 M 92 92 G 1 0 M 22 22 G 1 0 M 16 16
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 27 -> 276
+  Target range: 175 -> 429
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDND-AHVLTKFEHEYNA :  90
+       .:  ::|: : .::|::::::: |::::: :|:::: :::::.:..:..: :   :  . : .:
+ 176 : GHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAG : 239
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       |. : :| ||.::|   | |.|:.::. .  :   :  | .    : .  :  :  . :.::: 
+ 240 : YGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSG-HGGHSSGYGGHSSG : 302
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGG-GGGGGGGNLLNGSSGGSSAGGGYMLLPQ : 217
+        .:.| :|  : .::   ::|| : :|:|: ||.| || ::: .  ::: ||.||| |    .:
+ 303 : HGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGH : 366
+
+ 218 : AASSSGNNGNP--NAGHMSS-GSVGNGSGGAGNGGAGGNSG-PGNPMGGTSATPGHGGEVIDF : 276
+       ::.| | .|::  ::|| |: |: ::| || ::| :| : | .| : | .:.: ||||:  ::
+ 367 : GGKSVGYGGKSVGHGGHSSGHGGHSSGHGGHSSGHGGKSVGYGGYSYGHGGNSVGHGGHSSGY : 429
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 276 . Medex_00082084-RA 175 429 . 129 M 50 50 G 0 1 M 62 62 G 1 0 M 49 49 G 0 1 M 39 39 G 0 2 M 7 7 G 0 1 M 20 20 G 0 1 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 46 -> 276
+  Target range: 91 -> 324
+
+  47 : NAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHS : 110
+       ..:|:||  ::.|::. :.::.::. ::::::|  : :. : ::.. :  | || :||:  : |
+  92 : AVSSASNICNTCGSKGHNCGHGSHGISSGHGGHS-SGYGGQSSGHGGKSCGHGGHSSGHGGQSS : 154
+
+ 111 : NHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPT : 174
+       .|:.::: |  :   :  |   :  : . |  |   : ::::.: .: | :.  : .::   ::
+ 155 : GHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGH-GGQSSGHGGHSSGHGGHSS : 217
+
+ 175 : GYQDTTSSHSQQSGGGGGGGGG-NLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNA-GHMSSG : 236
+       |. : :::.: :|:| || ::| .  ::: ||.||| |    .::: |:| .|:::: |  |:|
+ 218 : GHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAG : 281
+
+ 237 : SVGNGSGGAGN-GGAGGNSG--PGNPMGGTSATPGHGGEVIDF : 276
+         |::|| :|: :| ||:|:  .|:: | .: ::||||:  ::
+ 282 : YGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGY : 324
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 46 276 . Medex_00082084-RA 91 324 . 127 M 34 34 G 1 0 M 73 73 G 1 0 M 41 41 G 0 1 M 34 34 G 0 1 M 17 17 G 0 1 M 8 8 G 0 2 M 21 21
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 27 -> 274
+  Target range: 196 -> 441
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNN-NNNNDNDAHVLTKFEHEYNA :  90
+       .:  |:|:.:  ::|::::::: |:::.: :|:::: ::::.. ..::..::   : :. : ::
+ 197 : GHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSG : 260
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       .. | || || :||:  : :..:.|:: |  :      :   :  : . |  :   : :.::. 
+ 261 : HGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGH-GGQSAG : 323
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQ : 217
+       :.: | :.  : .:    :::| : :|:|: :|:| || ::|:  :: : ||.|.| |    .:
+ 324 : YGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHGGHSSGH : 387
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVI : 274
+       :: |||:.|: ::|| :: ||| |: : |:||.: . | |:: | .: : | ||:||
+ 388 : GGHSSGHGGH-SSGH-GGKSVGYGGYSYGHGGNSVGHG-GHSSGYGGHAVGIGGHVI : 441
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 274 . Medex_00082084-RA 196 441 . 125 M 43 43 G 0 1 M 77 77 G 1 0 M 55 55 G 0 1 M 24 24 G 1 0 M 4 4 G 1 0 M 22 22 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 31 -> 289
+  Target range: 228 -> 489
+
+  32 : QPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNN-NNNNDNDAHVLTKFEHEYNAYTLQ :  94
+       ::|:.: .::| :::::: |:::.: :|:::: ::::.. ..::..::   : :. : ::.. :
+ 229 : HSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGH : 292
+
+  95 : LAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSS : 158
+        :| || :||:  . :..:.|:: |  | .    :   :  | . |   :  : :.:::  .:.
+ 293 : SSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGY-GGHSSSYGGHSSGHGGK : 355
+
+ 159 : SYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAG-GGYMLLPQAAS : 220
+       | :|  : .::   :.|| :.: :|: :|:| || ::|:  ::|: ||.|.| |||   .::::
+ 356 : SAGYGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSGHGGHSSGHGGKSVGYGGYS-YGHGGN : 418
+
+ 221 : SSGNNGNPNA-GHMSSGSVGNGSGGAGNGGAGGNSGP-GNPMGGTSATPGHGGEVIDFKHLFEE : 282
+       | |:.|:::: |  : |  |:    :|:|  ::. |. ::. .| |:. |:||   | .   :.
+ 419 : SVGHGGHSSGYGGHAVGIGGHVIIKGGSGCLASGHGRYASGYEGYSSGLGRGGRGHDSDSDSDS : 482
+
+ 283 : LCPVCGD : 289
+        .  |:|
+ 483 : DSDSCSD : 489
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 31 289 . Medex_00082084-RA 228 489 . 123 M 39 39 G 0 1 M 70 70 G 1 0 M 62 62 G 0 1 M 6 6 G 0 1 M 4 4 G 1 0 M 16 16 G 0 1 M 26 26 G 0 1 M 33 33
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 27 -> 275
+  Target range: 168 -> 421
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTK-FEHEYNA :  90
+       .:  |:|:.:  ::| :::::: |::::: :|:::: :::::.:..:.::    :  :. : ::
+ 169 : GHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSG : 232
+
+  91 : YTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQ : 154
+       .. | || || :||:  . :..:.|:: |  | .    :   :  | . |  :   : :.::: 
+ 233 : HGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGH-GGHSSG : 295
+
+ 155 : FNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQ : 217
+       :.: | :.  : .:    ::|. : :::.: :|:| || :.|   ::|| || |:| | .  . 
+ 296 : YGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGY : 359
+
+ 218 : AASSSGNNGNPNA-GHMSSGSVGNGSGGAGN-GGAGGNSG--PGNPMGGTSATPGHGGEVID : 275
+       :: |||:.|:: : | .| |  |::|| :|: :| ||:|:  .|:::| .: : ||||: ::
+ 360 : GGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSGHGGHSSGHGGKSVGYGGYSYGHGGNSVG : 421
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 275 . Medex_00082084-RA 168 421 . 122 M 56 56 G 0 1 M 64 64 G 1 0 M 55 55 G 0 1 M 27 27 G 0 1 M 17 17 G 0 1 M 8 8 G 0 2 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 40 -> 276
+  Target range: 128 -> 359
+
+  41 : GGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSG : 104
+       ||:||.:::.:..:.: |:.: :: |:.:..:::::::|  .. .:. ::.. : :| || :||
+ 129 : GGQSSGHGGKSCGHGGHSSGH-GGQSSGHGGQSSGHGGHSSGHGGQS-SGHGGHSSGYGGQSSG : 190
+
+ 105 : NQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDS : 168
+       :  | |.|:.::: |  :   :  :   :  | . |  :   : :.::. :.: | :.  : .:
+ 191 : HGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGH-GGQSAGYGGHSSGHGGKSAG : 253
+
+ 169 : QYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQAASSSGNNGNPNAGH : 232
+           ::|. : :::.: :|:| || ::|   ::|: |: ::|     :  ::.|:. |..::||
+ 254 : YGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGH : 317
+
+ 233 : MSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+        :: |.| |: ::|:||.:.. | |:: : .: ::||||.  ::
+ 318 : -GGQSAGYGGHSSGHGGQSTGYG-GHSSSYGGHSSGHGGKSAGY : 359
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 40 276 . Medex_00082084-RA 128 359 . 121 M 21 21 G 1 0 M 25 25 G 1 0 M 59 59 G 1 0 M 84 84 G 1 0 M 22 22 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 56 -> 276
+  Target range: 93 -> 310
+
+  57 : ASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQ : 120
+       :|::|..::..::.:| .:..  : :  . : ::|. | :| ||.:.|:  | |.|:.::: | 
+  94 : SSASNICNTCGSKGHNCGHGSHGISSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHG : 157
+
+ 121 : QQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYNFDSQYIFPTGYQDTTSSHS : 184
+        |   :  :   :  | .  :  :  . :.:::  .: | :.  : .::   ::|. : :|:|:
+ 158 : GQSSGHGGHSSGHGGQSSG-HGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHG : 220
+
+ 185 : QQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQAASSSGNNGNPNAGHMSSGSVGNGSGGAGN : 247
+        ||:| || ::|:  :::: || |:| | .  . :: |||:.|::.:   :: | |:|: :|| 
+ 221 : GQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAG--YGGHSSGHGGQSAGY : 282
+
+ 248 : GGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+       || ::. | |:: | .: ::||||.  ::
+ 283 : GGHSSGHG-GHSSGYGGHSSGHGGKSAGY : 310
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 56 276 . Medex_00082084-RA 93 310 . 119 M 83 83 G 1 0 M 63 63 G 0 1 M 27 27 G 2 0 M 23 23 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 27 -> 272
+  Target range: 154 -> 397
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNN--NNNDNDAHVLTKFEHEYN :  89
+       .:  |:|:.:  ::|::::::: |::::: :|:::: :::::.:  :::::::|  .. .|. :
+ 155 : GHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHS-S : 217
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       :.. | || || :||:  : :..:.|:: |  : .    :   :  | . |  :   : :.::.
+ 218 : GHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGH-GGQSA : 280
+
+ 154 : QFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQ : 217
+        :.: | :.  : .:    ::|. :.:::.: :|:| || ::|   . ||| ::.:.||   : 
+ 281 : GYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAG-YGGHSSGHGGQSTGYGGHSS : 343
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGE : 272
+       : :: ::. ..:::  :: | |:|: :.| || : . | |:: | .: ::||||:
+ 344 : SYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHG-GHSSGHGGHSSGHGGH : 397
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 272 . Medex_00082084-RA 154 397 . 118 M 44 44 G 0 2 M 16 16 G 1 0 M 59 59 G 1 0 M 48 48 G 1 0 M 58 58 G 1 0 M 16 16
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 37 -> 272
+  Target range: 89 -> 327
+
+  38 : LAAGGNSSNNAASGSNNNSASGNNTSSSSNNNNNNNNDNDAHVLTKFEHEYNAYTLQLAGGGGS : 101
+       |.| :::||  .: :::. ..|:.: : |:.:..:::: :::  .. .... :.. : :| || 
+  90 : LVAVSSASNICNTCGSKGHNCGHGSHGISSGHGGHSSGYGGQSSGHGGKSC-GHGGHSSGHGGQ : 152
+
+ 102 : GSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNANQFNSSSYSYIYN : 165
+       :||:  : |.|:.|:: |  |   :  :      | . .  :   : ::::.: .: | :.  :
+ 153 : SSGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGH-GGHSSGHGGH : 215
+
+ 166 : FDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQAASSSGNNGNP : 228
+        .::   ::|| : :|:|: ||:| || ::|:  :::: || |:| |    . :: |||:.|::
+ 216 : SSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQS : 279
+
+ 229 : NA-GHMSSGSVGNGSG-GAGNGGAGGNSG--PGNPMGGTSATPGHGGE : 272
+       .: |  |||  |::|| |: ::| ||:|:  .|:: | .:.::|.||:
+ 280 : AGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGH : 327
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 37 272 . Medex_00082084-RA 89 327 . 112 M 51 51 G 1 0 M 65 65 G 1 0 M 48 48 G 0 1 M 27 27 G 0 1 M 13 13 G 0 1 M 12 12 G 0 2 M 17 17
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 172 -> 276
+  Target range: 124 -> 226
+
+ 173 : PTGYQDTTSSHSQQSGGGGGGGGGNLLNGSS-GGSSAGGGYMLLPQAASSSGNNGNPNAGHMSS : 235
+       ::|| : :|:|: :| | || ::|:  ::|: || |:| |    .::: |||:.|::::   ::
+ 125 : SSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSG--YGG : 186
+
+ 236 : GSVGNGSGGAGNGGAGGNSGPGNPMGGTSATPGHGGEVIDF : 276
+        | |:|: ::|:||.::. | |:: | .: ::||||:  ::
+ 187 : QSSGHGGHSSGHGGQSSGHG-GHSSGHGGHSSGHGGQSAGY : 226
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 172 276 . Medex_00082084-RA 124 226 . 111 M 31 31 G 0 1 M 27 27 G 2 0 M 23 23 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 27 -> 294
+  Target range: 140 -> 408
+
+  28 : EQQQQPSSPALAAGGNSSNNAASGSNNNSASGNNTSSSSNNN--NNNNNDNDAHVLTKFEHEYN :  89
+       .:  ::|:.: .::|::::::: |::::: :|:::: :::::  ..:::::::|  .. .:. :
+ 141 : GHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQS-S : 203
+
+  90 : AYTLQLAGGGGSGSGNQQHHSNHSNHGNHHQQQQQQQQQQQQHQQQQQEHYQQQQQQNIANNAN : 153
+       :.. : :| || :||:  : :..:.|:: |  | .    :   :  : . |  :   : :.::.
+ 204 : GHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGH-GGQSA : 266
+
+ 154 : QFNSSSYSYIYNFDSQYIFPTGYQDTTSSHSQQSGGGGGGGGGNLLNGSSGGSSAGGGYMLLPQ : 217
+        :.: | :.  : .:    ::|. : :|:.: :|:| || ::|   . ||| ::.::||   : 
+ 267 : GYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAG-YGGHSSGHGGQSAGYGGHSS : 329
+
+ 218 : AASSSGNNGNPNAGHMSSGSVGNGSGGAGNGG-AGGNSGPGNPMGGTS-ATPGHGGEVIDFKHL : 279
+       : :: :.. ..:::  :: | |:|: :|| || ::|::| : . ||.| : .||::.  : .  
+ 330 : GHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSG : 393
+
+ 280 : FEELCPVCGDKVSGY : 294
+        .. .:  |:|  ||
+ 394 : HGGHSSGHGGKSVGY : 408
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 27 294 . Medex_00082084-RA 140 408 . 111 M 42 42 G 0 2 M 18 18 G 1 0 M 59 59 G 1 0 M 48 48 G 1 0 M 52 52 G 0 1 M 15 15 G 0 1 M 30 30
+
+C4 Alignment:
+------------
+         Query: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz transcription factor 1 (ftz-f1)
+        Target: Medex_00083297-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 389 -> 624
+  Target range: 193 -> 425
+
+ 390 : ALRNSMGPDIKPTPISPGYQQAYPNMNIKQEIQIPQVSSLTQSPDSSPSPIAIALGQVNASTGG : 453
+       .|| :::    |.  ::   |:  .::::: .:|:: . : :.. ::. . :|: | :. ..||
+ 194 : ELRIALSVCNIPGVSPALTVQGIVPVSFNDITNISDKCVMLDEGPATNIRWGIPKG-LGLRGGG : 256
+
+ 454 : VIATPMNAGTGGSGGGGLNGPSSVGNGNSSNGSSNGNNNSSTGNGTSGGGGGNNAGGGGGGTNS : 517
+         .:::.|||.: |:.. .|.|: ....:: ||:| .:.|:.|:|  ||||..::::: |:|: 
+ 257 : --ESSLTAGTTSWGAPPSGGTSAGNPTGTGWGSNNQGQGSAGGQGQWGGGGNRSGSASQGSTSQ : 318
+
+ 518 : NDGLHRNGGNGNSSCHEAGIGSLQNTADSKLCFDSGTHPSSTADALIEPLRVS-PMIREFVQSI : 580
+       :.:  ... .|. : .:.|  : .:|.:::   .|.: : :::.:| .. : | | ... ..:.
+ 319 : QSAAGSGNKGGGQPGPQQGQQGSASTQQGQQNGASTSWAQAAGKGLPSGSQGSAPNTSSTAATT : 382
+
+ 581 : DDREWQTQLFALLQKQTYNQVEVDLFELMCKVLDQNLFSQVDWA : 624
+       .. .  :   :     | |  . : :| : :.: :.|||| :|:
+ 383 : TTITSTASSTTATTPSTVNTSTKQQLEQL-NTMREALFSQDGWG : 425
+
+vulgar: ftz-f1-PA_FBpp0074854_FBgn0001078_ftz 389 624 . Medex_00083297-RA 193 425 . 100 M 56 56 G 1 0 M 7 7 G 2 0 M 115 115 G 0 1 M 39 39 G 1 0 M 14 14
+-- completed exonerate analysis

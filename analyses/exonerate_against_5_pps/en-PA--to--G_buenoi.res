@@ -1,0 +1,4104 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/en-PA.fas analyses/2019-09-02/polypeptides/G_buenoi_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000364-PA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 7 -> 419
+  Target range: 330 -> 740
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAA :  71
+       :.| :| |   . |: ...:||. ||..  |. :| .  |. :|.. :... ..:. :::..: 
+ 331 : PGQQPPYPNQQPGQQPPYPNQQPGQQPPYQQPSQQPPSQQPGQQPPYPNEA-PPSQPSYQNQPI : 393
+
+  72 : AAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNE : 135
+       .::.:. :.  ::|.: :   :.:: .|| :|: : .: .|.. .:|.  . .| :: |....|
+ 394 : NPTQPDLGNRFGDAESSKTDKPTTAIGASTTTAKPIDSNEITSPKNDESSTPKSGDSTTPNPTE : 457
+
+ 136 : EEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDR-FGDVQKPGKSMENQ : 198
+       ...:  .:.. :: :.|::.:. ..| ::| |. .|  . .:.| |::.  :..:||..   . 
+ 458 : STTPIIKETTPIGSESTTPESSKTTPKNDQTSPKSPQQDSDLENRLGEPESSKTDKPTTVTVPS : 521
+
+ 199 : ASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHE : 262
+       :::  |:|:: | ::....   .:  : | .  . ::::...    ::.  :  .| .  ..  
+ 522 : TTVSTPYESTESTSPKNEEPMTTEKENSSTPSSEKPTSPKNDETTPKSG--DITTPKNDEPTTP : 583
+
+ 263 : EIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSL : 326
+       .: ::. :...:.:  . . |:| .::.. ||. .|  :.   ..::...: .:   ::: :: 
+ 584 : KVDETSPKNEESTSPKTDGTSPKNEESTTPKSDETSPKNDELTTPKSDETSPKNDESTTPKGNE : 647
+
+ 327 : ASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPP : 390
+       :|| ...::|. |..|:.:.|..:|:.. . :::. :.:::.  .::.: |:|:||:.:  ..|
+ 648 : TSPKNDESTSPKSEESTTPKSDETSPKNDELTTPKSDETSPKDDESTTPQVDATSPKNDESTTP : 711
+
+ 391 : SAVSRDSGMESSDDTRSETGSTTTEGGKN : 419
+       .: . .:. :.|...:||.:::...:|.:
+ 712 : KGDETSPNNDESTSPKSEESTSPKTDGTS : 740
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 419 . GBUE000364-PA 330 740 . 121 M 51 51 G 1 0 M 125 125 G 0 1 M 63 63 G 2 0 M 170 170
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000364-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 10 -> 420
+  Target range: 184 -> 593
+
+  11 : SAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAA :  74
+       :..:|.: : ..:..:||.. .:||.  . :|    :| .| . ... :.:.: :: ...::..
+ 185 : PNQPPTSPNQPPFYPNQQPPYPNQQPSYPNQQPSYPNQQPQYPNQVPYYPNQPPPYPNQQPGQQ : 248
+
+  75 : AAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEE : 138
+       :: :....::.:: .::|:|  :| :   |:  .| . :  . ::  .:    :|.. .|:: .
+ 249 : PPYPNQQPGQQPPYPNQLPGQQPPYPNQQPGQQPPYPNQLPGQQPPYPNQQPGQQPPYPNQQPG : 312
+
+ 139 : AEED-DDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASI : 201
+       .: .  : : : : .|. .  .|| .:||:..:|: :   :.  :      |:|..   .|.: 
+ 313 : QQPTYPNQQPGQQPPSQQPGQQPPYPNQQPGQQPPYPNQQPGQQPPYQQPSQQPPSQQPGQQPP : 376
+
+ 202 : FRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIV : 265
+       : | ||:.||.: .:. .. .  :::.:  .|.:: |.    . :.  .  :| . . | .   
+ 377 : Y-PNEAPPSQPSYQNQPINPTQPDLGNRFGDAESSKTDKPTTAIGASTTTAKPIDSNEITSPKN : 439
+
+ 266 : QSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASP : 329
+       :..  ..::::..|.| .|. :  : |.:::|| ..: .    .: .. | |  :  .|.|.:.
+ 440 : DESSTPKSGDSTTPNPTESTTPIIK-ETTPIGSESTTPESSKTTPKNDQTSPKSPQQDSDLENR : 502
+
+ 330 : PPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAV : 393
+        ..:::|.....::|:.:|:: |:...|:.|: ..: .:. ....:: .:|| :| :  . .:.
+ 503 : LGEPESSKTDKPTTVTVPSTTVSTPYESTESTSPKNEEPMTTEKENSSTPSSEKPTSPKNDETT : 566
+
+ 394 : SRDSGMESSDDTRSETGSTTTEGGKNE : 420
+       ::.:::.::.:. :.|......:.|||
+ 567 : PKSGDITTPKNDEPTTPKVDETSPKNE : 593
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 10 420 . GBUE000364-PA 184 593 . 111 M 132 132 G 0 1 M 60 60 G 1 0 M 87 87 G 1 0 M 129 129
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021210-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 443 -> 513
+  Target range: 20 -> 90
+
+ 444 : PKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRA : 507
+       .|.. : ... .| ||.::..||  |:  ::.|.  .. .::|| .  ||:   |::|||||| 
+  21 : RKAGGGGDGKPTRVRTVLNEKQLHTLRTCYSANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRC :  84
+
+ 508 : KIKKST : 513
+       | ||.:
+  85 : KDKKRA :  90
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 443 513 . GBUE021210-PA 20 90 . 113 M 70 70
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE013760-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 25 -> 422
+  Target range: 1062 -> 1461
+
+   26 : QQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHA-- :   86
+        :: :|::::::.: : :    :::. |  .:    : :   :.:: :.: :..:::|.:   
+ 1063 : RKSEQNDDNNRKETISDQSSKDEMKSQISESHSSCQKSEKNNDGTKTEGKSEQPSSHERKRQ : 1124
+
+   87 : -AALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID :  146
+         :.| :  :|:::  : :.|: ::|   : || :: : . : ::|:: .  . .| : .::.
+ 1125 : FTELSDEPPGTSPVIPVPPPSVTSPKRSRLEEVQNNV-KPGKRHQSQQILPKLTAPQCSNLT : 1185
+
+  147 : VDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNI-LSDRFGDVQKPGKSMENQASIFRPFEA :  207
+        : |::... : :....:   :.:||:|    |.|  |:  |: : ...| .|:.| :.  :.
+ 1186 : LIVGNKKQKADMQRTQQFSVNPTKPNLIVVGSTICNSNEVGNKNPTNSSSSNDQSNLSISDV : 1247
+
+  208 : SRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRL :  269
+        ::: ..:. :  .   |. . :::  .. .:|  : .:::: :| |  . |:| .. :::.:
+ 1248 : NKTFKDANVSNQPSFGLSKKGNKKKKNQINAAMYLSAQGKLKEC-NVLVEPKISSTEINTNV : 1308
+
+  270 : RRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPP :  331
+         ...||   .:  . . . .:::...:::| |  .:.. : ||  ...: :||... :|. .
+ 1309 : ISDNANISDTSEEKITPDRVSSDSKEVSGLTK--EKTPSSCAPCNIAGAQGSSEEKTPSNCG : 1368
+
+  332 : ASNASTISSTSSVATSSSSSSSGCSSAASSLNSSP---SSRLGASGSGVNASSPQPQPIPPP :  390
+        :|| :  ||....:|:.:||: | : ::|.::.:|   ||.|:.::.  :...| . : |. 
+ 1369 : SSNLAQGSSEEKTPTNCGSSNLGAAQGSSEVKKPPDFTSSNLAVASDVFEQEKPSGCASPNL : 1430
+
+  391 : SAVSRDSGMESSDDTRSETGSTTTEGGKNEMW :  422
+        :.|:|.|. |.:.: :...|:.|:.. :::.|
+ 1431 : AVVPRSSE-EKNTNCKEGEGTKTSGEVNKQFW : 1461
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 25 422 . GBUE013760-PA 1062 1461 . 108 M 60 60 G 0 3 M 36 36 G 1 0 M 58 58 G 0 1 M 71 71 G 1 0 M 49 49 G 2 0 M 63 63 G 0 3 M 32 32 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006430-PA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 445 -> 511
+  Target range: 4 -> 70
+
+ 446 : QPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKI : 509
+       :||  |: ::|.||:||:|||. |.. |:..:| .   |::::  ::|:||::::||||:||| 
+   5 : RPKFYTDFQRRNRTTFSPEQLQELESLFQKTHYPDVFLREEVALRISLSEARVQVWFQNRRAKW :  68
+
+ 510 : KK : 511
+       :|
+  69 : RK :  70
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 445 511 . GBUE006430-PA 4 70 . 146 M 66 66
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007861-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 332 -> 516
+  Target range: 993 -> 1179
+
+  333 : SNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVS :  394
+        .:.|::||||| ::||||:||:.||::|: :||:||. :.|:|: ::||  : : :::|: |
+  994 : DSESSVSSTSSSSSSSSSTSSSSSSSSSGSSSSSSSSSSDSSSSSSSSSDSSSSSSSSSTSS : 1055
+
+  395 : RDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKR :  456
+        .||: ||| :.:... .. ..: |:    . :  .  . : ..: : ::.. .|.  |:.|:
+ 1056 : SDSDSESSVGVKKGKKKKRPTSKKKRSSKNKIKAKDVKMKDRKSVKKKKREGNKKLCNEKKK : 1117
+
+  457 : PRTAFSSEQLARLKREFNE-NRYLTERRRQQL-SSELGLNEAQIKIWFQNKRAKIKKSTGSK :  516
+        ::.  ...   : . |::: :|: .::::::  .|: . ||.  |:  : |..|:| :.:.|
+ 1118 : SKNKNKDKIKKKKTIELKNRDRFEDNKKKKKRDKSNEESNEDSNKLKPKLKSNKVKPNIDKK : 1179
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 332 516 . GBUE007861-PA 993 1179 . 102 M 143 143 G 0 1 M 12 12 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007308-PA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 46 -> 420
+  Target range: 46 -> 417
+
+  47 : QQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQR-LSGSGSPASCSTPASSTP : 109
+       : : .. |::|  ::.: . .. ...:|::.:.::..::..:..|  || :.::: ::. | :|
+  47 : RSMSPAVLPSGGAQQQGSQQSQIQQQSAPPQSQPPPQQSVVMPPRPPSGQSDSGNGPSRLSHSP : 110
+
+ 110 : LTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSL : 173
+       :: :   :::  . |: ..:|. .: .: : .: . :   ::|::||  .|.: .|: .  |: 
+ 111 : MA-QPPVPQPGHTPMGQPGHTPMGQPGHPPMGQPSHGSIGQQTPPGGYQGPGPGPQHYKMGPNA : 173
+
+ 174 : AFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAA : 237
+       : : :.:|:      :.|: || .|:  :.|:.: .|: . | . .  :   ::.| | ::  :
+ 174 : PSGPGGMLG------HMPSPSMPPQSQQIPPYSPQPSHHQYPQQSNYRNSPYYPPQSQYPPHRP : 231
+
+ 238 : TAAMMLERANFLNCFNPAAYPRIHEEIVQSR-LRRSAANAVIPPPMSSK----MSDANPEKSAL : 296
+       : :  :: :.: :  : ::||. ...:  |: : .:: :: :||| ::.    |: :::..|.:
+ 232 : AIPNHVQYPPYPH--KVGGYPPSPGTFGGSQAMGPPSLHPGMPPPPPPHHDGPMPPPSSTTSDM : 293
+
+ 297 : -GSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAA : 359
+        .: ..:.||.|  :::: |::: :::.:|:.:..|.:: .. |  |:::.:|::|:.: : ::
+ 294 : HEPPSTTASQTGTVTSSSNTNSSGPPGVTSIVTTGPDASLDEASQQSTLSNASAASGDDTNVST : 357
+
+ 360 : SSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNE : 420
+       :| ..:||:: :    : ::::||: : |:|:|.| :|  |.   .:| | | |.::.|::
+ 358 : PSKARGPSGKESMVYQSSHPATPQSTA-PSPGAASINSMHEEYPPDHSPTWSRTPNSPKHD : 417
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 46 420 . GBUE007308-PA 46 417 . 129 M 45 45 G 0 1 M 20 20 G 1 0 M 70 70 G 6 0 M 62 62 G 2 0 M 16 16 G 0 1 M 17 17 G 0 4 M 11 11 G 0 1 M 90 90 G 1 0 M 33 33
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007308-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 58 -> 421
+  Target range: 3 -> 370
+
+  59 : FHHPAM-AFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEES--DS : 119
+       |:...: : ::..::::::::::::: :::|:.. |.:||::| | :::  | .  ::::  :|
+   4 : FQYHELTGQNSNDSSSGGGGGGTPNSGGGPLRPSPSPTGSSGSRSMSPAVLPSGGAQQQGSQQS :  67
+
+ 120 : VIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSD : 183
+        | : | ..|::...::. .      . : |..::.:||:.:: .|.:.::|: : ::::   .
+  68 : QIQQQSAPPQSQPPPQQSVVMPPRPPSGQSDSGNGPSRLSHSPMAQPPVPQPGHT-PMGQPGHT : 130
+
+ 184 : RFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERAN : 247
+       ..|:  .|..:  :::|| :.  ::  |.:.|::       : :. . :  :  .:: |  :::
+ 131 : PMGQPGHPPMGQPSHGSIGQQTPPGGYQGPGPGPQHYKMGPNAPSGPGGMLGHMPSPSMPPQSQ : 194
+
+ 248 : FLNCFNPAAYPRIHEEIVQSRLRR-SAANAVIPP--PMSSKMSDANPEKSALGSLCKAVSQIGQ : 308
+        :. ::|.: .: . :  : | ..  ::::  ||  |  ::  : .|    :|:   : : :| 
+ 195 : QIPPYSPQPSHHQYPQQSNYRNSPYYPPQSQYPPHRPAIPNHVQYPPYPHKVGGYPPSPGTFG- : 258
+
+ 309 : PAAPTMTQPPLSSSASSLASPPPASN-ASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLG : 371
+        ::.:|..|:| :: :: ::|...:. ::. |:||.: .::|:::|  ::.:|| |:::|:. |
+ 259 : -GSQAMGPPSLHPGMPPPPPPHHDGPMPPPSSTTSDMHEPPSTTASQTGTVTSSSNTNSSGPPG : 320
+
+ 372 : ASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEM : 421
+       .::  ..::.:  :  :..|::|..|: .:.|.. |..:.: . :||:.|
+ 321 : VTSIVTTGPDASLDEASQQSTLSNASAASGDDTNVSTPSKARGPSGKESM : 370
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 58 421 . GBUE007308-PA 3 370 . 111 M 6 6 G 0 1 M 53 53 G 0 2 M 57 57 G 1 0 M 96 96 G 0 1 M 9 9 G 0 2 M 27 27 G 2 0 M 25 25 G 0 1 M 87 87
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007308-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 61 -> 423
+  Target range: 39 -> 408
+
+  62 : PAMAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMS : 125
+       |: : :: : ::|. ::::|:.:::.  |    |::|.| :.|. |. :. :  .::|  |: :
+  40 : PTGSSGSRSMSPAVLPSGGAQQQGSQQSQIQQQSAPPQSQPPPQQSVVMPPRPPSGQSDSGNGP : 103
+
+ 126 : FHNQTHTTNEEEEAEEDDDIDVDVDDTSAG----GRLPPPAHQQQSTAKPSLAFSISNILSDRF : 185
+        :    . .:   :: ::.   : ::|: |    ..:..|:|   : ..|: ::  :.  ::::
+ 104 : SRLSHSPMAQPPVPQPGHTPMGQPGHTPMGQPGHPPMGQPSHGSIGQQTPPGGYQGPGPGPQHY : 167
+
+ 186 : GDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQ---QQAAAAAATAAMMLERA : 246
+          .::..: ..  : ..: . :.   ..|:  .: .  ::::|   ::::  :: :.   :|:
+ 168 : KMGPNAPSGPGGMLGHMPSPSMPPQSQQIPPYSPQPSHHQYPQQSNYRNSPYYPPQSQYPPHRP : 231
+
+ 247 : NFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANP--EKSALGSLCKAVSQIGQ : 308
+       .: |  : ::||:  ..  .|.   ::::|: ||:: : |: :.|  :.:::.: ..:.|:: :
+ 232 : AIPNHVQYPPYPHKVGGYPPSPGTFGGSQAMGPPSLHPGMPPPPPPHHDGPMPPPSSTTSDMHE : 295
+
+ 309 : PAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGA : 372
+       |::.| :|..  :|:|: .|:.|:: :|.:::.:..: ..:|  |. |:|:::  |: .:.:::
+ 296 : PPSTTASQTGTVTSSSNTNSSGPPGVTSIVTTGPDASLDEASQQSTLSNASAA--SGDDTNVST : 357
+
+ 373 : SGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWP : 423
+       ::.: .:|: ::   .:: :.:.:|.  |::.:. ::  ..  .:.:  |:
+ 358 : PSKARGPSGKESMVYQSSHPATPQSTAPSPGAASINSMHEEYPPDHSPTWS : 408
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 61 423 . GBUE007308-PA 39 408 . 100 M 94 94 G 0 4 M 74 74 G 0 3 M 62 62 G 0 2 M 70 70 G 2 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014222-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 0 -> 172
+  Target range: 461 -> 627
+
+   1 : MALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAM :  64
+       :.|::|  . .:  . .|: : |: ||:|||||||| |: :| || || :| |:  || ::.: 
+ 462 : LVLHER-QHMEPEQRSELKNRMLQMQQRQQQQQQQQQQQQQQQQQQQQQQQGQV--GVVQQQSQ : 522
+
+  65 : AFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHN : 128
+       :  ....::.:......::..:.:||: :.| :..  :::.:  .::: :::      : : ::
+ 523 : GV-VQQQGPVGVVQQQNQGPVGVVQQQQPPSVAQQQ-AAAVAQQQVAVAQQQQVQQAQQQAQQQ : 584
+
+ 129 : QTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPS : 172
+       | :  |:: .:: .:::.: : : . .:| .: :|  . .|:|:
+ 585 : QQQQQNQQMGGHLSNQVSL-MRHLEMTSRHHSVSHMLPHEAQPP : 627
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 0 172 . GBUE014222-PA 461 627 . 111 M 6 6 G 1 0 M 47 47 G 2 0 M 10 10 G 1 0 M 33 33 G 1 0 M 46 46 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014222-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 17 -> 167
+  Target range: 482 -> 629
+
+  18 : LQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQL-HQQQLAAGVFHHPAMAFDAAAAAAAAAAAAA :  80
+       ||||: ::||||||||||| |: :| ||  |:   || :.|| ::.: : :.......::.:..
+ 483 : LQMQQRQQQQQQQQQQQQQQQQQQQQQQQGQVGVVQQQSQGVVQQQG-PVGVVQQQNQGPVGVV : 545
+
+  81 : AHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDD : 144
+       .:.:::::.|: ::: :..     | : .  :::.: ::   :   :||  ..: .::..   :
+ 546 : QQQQPPSVAQQQAAAVAQQ---QVAVAQQQQVQQAQQQAQQQQQQQQNQQMGGHLSNQVSLMRH : 606
+
+ 145 : IDVDVDDTSAGGRLPPPAHQQQS : 167
+       :::.  : |.: .||. |:...:
+ 607 : LEMTSRHHSVSHMLPHEAQPPPP : 629
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 17 167 . GBUE014222-PA 482 629 . 107 M 32 32 G 0 1 M 14 14 G 1 0 M 35 35 G 3 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016428-PA
+         Model: affine:local:protein2protein
+     Raw score: 160
+   Query range: 445 -> 512
+  Target range: 17 -> 84
+
+ 446 : QPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKI : 509
+       :.:.  :. :|.||:|||.||| |.| |: .:| ..  |:||:. : |:||::::||||:|||:
+  18 : KTRSGRSKPRRNRTTFSSGQLAALERVFERTHYPDAFLREQLARRVCLSEARVQVWFQNRRAKF :  81
+
+ 510 : KKS : 512
+       :::
+  82 : RRN :  84
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 445 512 . GBUE016428-PA 17 84 . 160 M 67 67
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000692-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 275 -> 477
+  Target range: 77 -> 289
+
+ 276 : AVIPPPMSSKMSDANPEKSALG--SLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNAST : 337
+       .| .:: :..  .|.| |::|.  .|   .:.: .| :|. . || ::: :  :.|:||.:.::
+  78 : EVKTSAQADTAITAAPVKPPLEDVDLRVIATPVVPPLPPPPPIPPPAPPKNLTTEPSPAKKEPA : 141
+
+ 338 : ISSTSSVATSSSSSSSGCSSA---ASSLNSSPSSRLGASGSGVNASSP-QPQPIPPPSAVSRDS : 397
+        ::|::|:| | ::|::  ..   :| |:|. .:.:.  .. |::... :|.. .:..::|..:
+ 142 : NTTTTTVPTVSVTTSTSTQDNQTFGSLLHSRKENNVERHPKKVEPDDRVRPPRSRARRGMSMSP : 205
+
+ 398 : GMESSDDTRS--ETGSTTTEGGKNEMWPAW--VYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRP : 457
+       .||.|  :||     | : : :::  |..      .|| ||..| :: . .::::.::.  ||.
+ 206 : PMERSRRSRSYERRRSRSRDRDRSRAWRNKSPPMRPRYMDRRRSYSKSPIRRHSRSRSPPVKRG : 269
+
+ 458 : RTAFSSEQLARLKREFNENR : 477
+       |   .| .| . .|.:: :|
+ 270 : RYRNRSPPLRSHTRSLSPSR : 289
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 275 477 . GBUE000692-PA 77 289 . 102 M 22 22 G 0 2 M 61 61 G 0 3 M 24 24 G 0 1 M 25 25 G 0 2 M 18 18 G 0 2 M 52 52
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE020982-PA
+         Model: affine:local:protein2protein
+     Raw score: 172
+   Query range: 431 -> 516
+  Target range: 180 -> 266
+
+ 432 : SDRPSSGPRYRRPKQPKDKTN-DEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLN : 494
+       ::..:: |. ..|  |  ::: : ||.| :::. |   |.:||: ||||| ||| ::: .| |.
+ 181 : NNNNNNQPNLPSPLYPWMRSQFERKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLT : 244
+
+ 495 : EAQIKIWFQNKRAKIKKSTGSK : 516
+       | ||||||||:| | ||.. :|
+ 245 : ERQIKIWFQNRRMKWKKENKAK : 266
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 431 516 . GBUE020982-PA 180 266 . 172 M 21 21 G 0 1 M 64 64
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006523-PA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 2 -> 498
+  Target range: 120 -> 628
+
+   3 : LEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAG---VFHHPA :  63
+       ::::  .|:..:| .  .|::::|: ||::: |: :  :|  | |:|:.    :|    :: . 
+ 121 : MDEKGVQQGVGPPSDRLRQEMQRQEMQQRHEMQRAEMQRQEMQRQELRPSSYYPGQQASLQARK : 184
+
+  64 : MAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFH : 127
+       :.: ::|   ::: .. |:..  : .:.  .   .  .|.  |::.||: :: ...: ::: : 
+ 185 : VDYPPPAHHKPPGRQDKAQVPHLPKAEPNFNIYQGYHSSPYHSPATLTLAQQPKSELKSGLVIG : 248
+
+ 128 : NQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNI----LSDRFGD : 187
+       ::  ..:.:  . .:. |   |.:...  : :|::. :: :: |:|| | ::      |:.::.
+ 249 : SKQLEVQAHVPDLKNSVI---VKNDKNVVHPAPSPKLREYSSAPPLAKSPGDYRYMEASNNLAS : 309
+
+ 188 : VQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLE----FSRQQQAAAAAATAAMMLERAN : 247
+       : |   |  :|| : |. :   . :: | |  . : |.    ::.:.|::.|:.|:      ::
+ 310 : ISKVHPSAVHQAQVSRNNQHLARSSPLPQARQSPHRLSPQVVYPSKPQPPQATVTSYPYPVTTS : 373
+
+ 248 : FLN--CFNPAAYPR---IHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQI : 306
+       : .  | :|.: |:    .. :..|. :: :.:.: ||  ::   : .|   | :   ::.   
+ 374 : YRPRLCPSPQTKPKPPPSKAPLTPSPYQQLSQHNLPPPVSPAPAVGLAPPPVAHSHTVRPAFTP : 437
+
+ 307 : GQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRL : 370
+       .. :..  |||   : :||: . | ::: .::. ...:.... . .. | . ::|:.::| :  
+ 438 : PPDTQNFQTQPLDLNISSSIKEEPLSPKKRSLDVPEDLDVKKIKVEDFCQDRPPSVGTAPVAVT : 501
+
+ 371 : GASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDR : 434
+       .:  . |::::|.| | ||::: .| :.   .:.:.|  .| ..:  |:. | .:   .  :. 
+ 502 : PPVVERVSPAPPAPSPAPPAPSPDRPTTPLQDEKASSPRPSYPVHKLKKA-WLQRHSGEDTTTD : 564
+
+ 435 : PSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQI : 498
+       ..:  . .. ..|. .. ...:| .. | :::: :  :  .::  ..|:.::|::::. :.:::
+ 565 : TKPCVPPPPVTPPSPSPIKKEQPVVVNSLHNIGTMAVNSISKKPKVSRKSKELNGHVTSKTPDV : 628
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 2 498 . GBUE006523-PA 120 628 . 114 M 55 55 G 0 3 M 88 88 G 3 0 M 32 32 G 0 4 M 45 45 G 0 4 M 25 25 G 0 2 M 9 9 G 0 3 M 161 161 G 1 0 M 77 77
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003917-PA
+         Model: affine:local:protein2protein
+     Raw score: 150
+   Query range: 460 -> 511
+  Target range: 1 -> 52
+
+ 461 : FSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       :.|. :  |.| |:::|||:.. |.:|: .| |.|:|:||||||:| |.|:
+   2 : YRSSGVYELERRFSQQRYLSGPERADLAHSLKLTETQVKIWFQNRRYKTKR :  52
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 460 511 . GBUE003917-PA 1 52 . 150 M 51 51
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007548-PA
+         Model: affine:local:protein2protein
+     Raw score: 177
+   Query range: 453 -> 532
+  Target range: 20 -> 98
+
+ 454 : EKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKN : 517
+       ::..||.|::.||: |.:||: |:|||  || :::| | |||:|:||||||:| | ||.  ...
+  21 : NNSGRTNFTNKQLTELEKEFHFNKYLTRARRIEIASVLQLNETQVKIWFQNRRMKQKKRM-KEG :  83
+
+ 518 : PLALQLMAQGLYNHT : 532
+        |::: :.|:  .::
+  84 : LLPVDAIEQSHLAQS :  98
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 453 532 . GBUE007548-PA 20 98 . 177 M 60 60 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021016-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 165 -> 520
+  Target range: 178 -> 531
+
+ 166 : QSTAKPSLAFSISNILSDRFGDVQKPGKSMENQAS---IFRPFEASRSQTATPSAFTRVDLLEF : 226
+       :| : :| :|| |.. :.. |: .::|:| :| ..   :  :.: :|:|||. ..:     |..
+ 179 : DSMSPSSPSFSNSRTWASSEGESARSGRSSQNGVKTSLVEAAMDLARPQTAGEEELQLQLALAM : 242
+
+ 227 : SRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDAN : 290
+       ||:|......   :  : | ::  . : ..:   ::..::::: ||:.: .   |:|   .  :
+ 243 : SREQAEQEEQKRRSDDV-RLQLALSQSENEFKFENDATIRGHV-RSGQELTKKKPVSHIEELLD : 304
+
+ 291 : PEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSG : 354
+        : :  |::  :|:. |  .| .:..:.|::::::|:: :. :::::..: :    .: |.: :
+ 305 : VDLG--GPVVPSVAPGGLVNADGLGPSGLGATSGGLGALSGLASPPSTDPWGMPIQRPQSDPWS : 366
+
+ 355 : CSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVS-RDSGMESSDDTRSETGSTTTEGG : 417
+       . :::||:.:.| |.|  :...||: :.|||  .||:: : :|.::.: . :|| ..|::..:.
+ 367 : SVGSSSSITPDPWSPL--PPKPVNSVPTQPQLSRPPGGFPKKDDSVGPWTPSRSIPPSAAVAAP : 428
+
+ 418 : KNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTE : 481
+        .: |::    |. | . .:   :   .: :: .|:::.|. . |:.. :  .|.:.::  ::.
+ 429 : PADPWSPLSPPTPSSPPLDPLDDFDIITN-RNINNNNNNPMHNTSGSPNPFEMRGLGDSLNMAA : 491
+
+ 482 : RRRQQLSSELGLNEAQIKI-WFQNKRAKIKKSTGSKNPLA : 520
+        :|:   | || |.: :::  : .:.| ...:.: ..|||
+ 492 : AKRRSPHSFLGENSGLVNLDQLVTRPAPTTSNPAHTTPLA : 531
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 165 520 . GBUE021016-PA 178 531 . 109 M 35 35 G 0 3 M 43 43 G 1 0 M 25 25 G 1 0 M 24 24 G 2 0 M 74 74 G 2 0 M 22 22 G 0 1 M 52 52 G 1 0 M 53 53 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000034-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 1 -> 393
+  Target range: 109 -> 498
+
+   2 : ALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMA :  65
+       ||::: |:  ..:. .: ::: :  | ..: .  :::.:  :   |:|:||::.:|::  :: :
+ 110 : ALDQQHSALIQQGGKGVGLKQGQTLQSPPNVAVSKVDPI-MVSMHQHLQQQNINPGMIITSP-G : 171
+
+  66 : FDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQ : 129
+       ::: ::: ..:.:: |   .|:: :: : ::  ::   :: :..:.::. .|:| |   |   :
+ 172 : LNSIGGSLVVSNSGKATLSVATMMNQQGQGSQVGGGLMAGQNGQVNLRGLASQSHIRVQSPLIN : 235
+
+ 130 : THTTNEEEEAEEDDDIDVDVDDTS----AGGRLPPPAHQQQSTAKPSLAFSISNILSDRFG--D : 187
+       .:. ...   :... ::   :. :    :. |:.||..|.. .. .: :   ::  ::. |  :
+ 236 : IQGQAGGPRLQGASIVGYPSGTYPRMQLPPQRFQPPQPQPPQPQPQPQPPQQPQPQPQPVGVTG : 299
+
+ 188 : VQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNC : 251
+       ..:|: : ..||:  .| :::.:..:. . :.: :|: : :.:: .  .. |. || .:.  :|
+ 300 : AAQPAVADAAQANQPPPPQPTNTADPEKRKLIQQQLVLLLHAHKCQRRENQANGMLPNPP--DC : 361
+
+ 252 : FNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMT : 315
+         |.  |  :.:  ::| :::.|:.  :.| :   ::::|.  .: . ..|:: . .|:||. .
+ 362 : --PVCLPLKQAD--RNRPQQGQAQQPSATPQAQPAPQSQPSPVDMRRAYDALGITCPPGAPPAI : 421
+
+ 316 : QPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNA : 379
+       .|. .::|:.||:|..::.|   : : .: ::  :::   ::: ::|::: |:: |: |:: | 
+ 422 : APGQRGPAPRLAAPQQPPGAQQNNQSIRLISPQQGGGLVNAGSLGGLETN-SNQQGGQGASQNM : 484
+
+ 380 : SSPQPQPIPPPSAV : 393
+       ::...| :::.:::
+ 485 : AGQPQQVVSSTATL : 498
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 1 393 . GBUE000034-PA 109 498 . 102 M 39 39 G 1 0 M 22 22 G 1 0 M 89 89 G 0 4 M 33 33 G 0 2 M 61 61 G 2 0 M 2 2 G 2 0 M 10 10 G 2 0 M 100 100 G 1 0 M 27 27
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE004973-PA
+         Model: affine:local:protein2protein
+     Raw score: 172
+   Query range: 454 -> 527
+  Target range: 17 -> 90
+
+ 455 : KRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKNP : 518
+       || || |::|||.||. ||: ::|:... |  |: .| |.|||:|:||||:| | :|   . :.
+  18 : KRVRTIFTAEQLERLEAEFERQQYMVGPERLYLAHALRLTEAQVKVWFQNRRIKWRKQHLEVQH :  81
+
+ 519 : LALQLMAQG : 527
+         |. | :|
+  82 : QRLAAMKEG :  90
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 454 527 . GBUE004973-PA 17 90 . 172 M 73 73
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016555-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 441 -> 512
+  Target range: 2599 -> 2670
+
+  442 : RRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQ :  503
+        ....: .:. ..:|| ||:: :|||. | :.:: :.  : :. ::::||:||:.  :::|||
+ 2600 : SSHDEKEQDHPKDKRLRTTILPEQLEYLYQKYQIESNPSRKMLENIASEVGLKKRVVQVWFQ : 2661
+
+  504 : NKRAKIKKS :  512
+        |.||: :|:
+ 2662 : NTRARERKG : 2670
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 441 512 . GBUE016555-PA 2599 2670 . 118 M 71 71
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016555-PA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 442 -> 511
+  Target range: 1956 -> 2025
+
+  443 : RPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQN :  504
+        :.:|...:::::||:|| ::.|||  |: :|: |.  :| : :::::: ||.   || ||:|
+ 1957 : QQQQQMANASQQKRARTRITDEQLKILRAHFDINNSPSEEQIHEMAAQSGLPPKVIKHWFRN : 2018
+
+  505 : KRAKIKK :  511
+        .  | ::
+ 2019 : TLFKERQ : 2025
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 442 511 . GBUE016555-PA 1956 2025 . 116 M 69 69
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE004016-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 299 -> 425
+  Target range: 105 -> 234
+
+ 300 : CKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSL- : 363
+       |  ::::.: ::|. |||| ::::.: ::||. :.::|.::|:: :|:::::::. ::::::: 
+ 106 : CAIITNFTNVTPPPTTQPPTTTTTRPPTPPPTMPPTTTTPTTTTPTTTTPTTTTTRPTPPPTMP : 169
+
+ 364 : -NSSPSSRLGASGSGVNASSPQPQPIPPP-SAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPA : 424
+        .::.::. .::.:.:.:::. :.|.||| ::::..:. .::..||: |.:||........:|:
+ 170 : PTTTTAPPTPPPTTTLPPTTTTAPPTPPPTTTLPPTTTTTTTTTTRPPTPPTTPSTTTTTRRPT : 233
+
+ 425 : W : 425
+       :
+ 234 : R : 234
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 299 425 . GBUE004016-PA 105 234 . 128 M 63 63 G 0 2 M 28 28 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021126-PA
+         Model: affine:local:protein2protein
+     Raw score: 183
+   Query range: 443 -> 511
+  Target range: 138 -> 206
+
+ 444 : PKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRA : 507
+       .: | : . : ||.|||::.:|:  |.:||: ||||| ||| ::: .| |:| ||||||||:| 
+ 139 : TNGPYQPGMEPKRQRTAYTRHQILELEKEFHFNRYLTRRRRIEIAHTLCLSERQIKIWFQNRRM : 202
+
+ 508 : KIKK : 511
+       | ||
+ 203 : KWKK : 206
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 443 511 . GBUE021126-PA 138 206 . 183 M 68 68
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012989-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 24 -> 332
+  Target range: 1580 -> 1889
+
+   25 : HQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAA :   86
+        :: ::: :.::: :: .|    :  ::|: :   |::|::   |::::::  :.::::  . 
+ 1581 : EDSEHHTDPEEEEEETPQTTTTESARRQNNPLLRFRRPPILQRAPTTTTTKKPETTTRKSNL : 1642
+
+   87 : ALQQRLSGSGSPASCSTPASSTPLTIKEEE--SDSVIGDMS-FHNQTHTTNEEEEAEEDDD- :  145
+          :.  .||. .:: | |  :.::..|. :  :.:::. .: |::.: .. |:|||:|::: 
+ 1643 : LRRPDSRGSTFGGNTSRPKVTPAINTKARQRPGSNLFPPRGLFRKPSVDEVEQEEANENEEP : 1704
+
+  146 : IDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILS--DRFGDVQKPGKSMENQASIFRP :  204
+        :: ::.|.. .|.  .:. |  :|:.|: :|. :..::  :  . .::||:|. :..   |:
+ 1705 : VEEEIKDNEYEGS-ETSEIQSSTTTEPPKTFRGGRTFNPVQIRPFARRPGRSKRQAEYKSRS : 1765
+
+  205 : FEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQ :  266
+        |.:. .:.||.  :   |  ::. |.:..::|...: . . :.  .  :|:. .. ||: ||
+ 1766 : FTSRYRRPATR--YQGYDYYDYEEQPRVQPTAEPVTQKPKYTPRQRVTQPPVQQNRHEQPVQ : 1825
+
+  267 : SRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLAS :  328
+        ||:|.|:::.  .:..: : ..:...::: .:: ::.:  ..|  .| .:.:|:: ..| ::
+ 1826 : SRIRPSPSSNSPRAQFTLRERTPTTTNPPRPAFKRPTT--PAPRRRTSNENSLTPVQRSRGT : 1885
+
+  329 : PPPA :  332
+        .|.:
+ 1886 : RPGT : 1889
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 24 332 . GBUE012989-PA 1580 1889 . 113 M 92 92 G 0 2 M 9 9 G 0 1 M 19 19 G 0 1 M 13 13 G 1 0 M 24 24 G 0 2 M 33 33 G 2 0 M 87 87 G 2 0 M 26 26
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE020981-PA
+         Model: affine:local:protein2protein
+     Raw score: 193
+   Query range: 313 -> 511
+  Target range: 50 -> 248
+
+ 314 : MTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGV : 377
+       : |||: . |   : .: | .:: |:  ::|:.  :|.. .  ::: .|:: |:.  .||.:|:
+  51 : VQQPPVVEYAQLGSHQSLAQAGPRIGQLGPVPVQQPSCKFEGLGSPQDLSTQPAR--TASPAGL : 112
+
+ 378 : NASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSG-PR : 440
+         :||:: | |:.:: |..|. .:|.:. :.|.:.  :: :|:  :: . ...  :.|:   |:
+ 113 : --ASPRAGPAPSQASSSPASTASTSSQPAASTPAPQQQSQQNNNNSTSASSKSNQQNPPQIYPW : 174
+
+ 441 : YRRPKQPKDKTN---DEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIW : 501
+        :| . .:...|   :.||.||:::. |   |.:||: ||||| ||| ::: .| |.| |||||
+ 175 : MKRVHLGQSTVNANGETKRQRTSYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQIKIW : 238
+
+ 502 : FQNKRAKIKK : 511
+       |||:| | ||
+ 239 : FQNRRMKWKK : 248
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 313 511 . GBUE020981-PA 50 248 . 193 M 55 55 G 2 0 M 7 7 G 2 0 M 59 59 G 0 1 M 14 14 G 0 3 M 59 59
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005026-PA
+         Model: affine:local:protein2protein
+     Raw score: 200
+   Query range: 444 -> 534
+  Target range: 17 -> 103
+
+ 445 : KQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAK : 508
+       .: .::.: .|||||||::.|:  |.:||:.|:||:  :|.||:..|.|.|:||||||||:|:|
+  18 : DDEEERNERKKRPRTAFTAAQIKILEQEFESNKYLSVGKRAQLAKSLNLTETQIKIWFQNRRTK :  81
+
+ 509 : IKKSTGSKNPLALQLMAQGLYNHTTV : 534
+        |:    | . .|:::||  ||  .:
+  82 : WKR----KYTNDLEVLAQQYYNSLGI : 103
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 444 534 . GBUE005026-PA 17 103 . 200 M 67 67 G 4 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE020358-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 199 -> 424
+  Target range: 10 -> 236
+
+ 200 : SIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEE : 263
+       ::  :: ..:| |::|.| | ..  . :.:. :|||::|||   . :.  .  .|.| .  ...
+  11 : AVATSLVQCQSTTSAPDATTAAAGTTAAPDATTAAAGTTAAPDATTPAAGTTAAPDATTAAPGT :  74
+
+ 264 : IVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLA : 327
+        ..:  . :||.:. :|  ::  :::::. .| .:   : :. | .:||. | .: :|:::: .
+  75 : SAAPDASTTAAGTTAAPDATTAAPGTSAAPDATTTAPASSTAQGTTTAPDATTTAPASTTAAQD : 138
+
+ 328 : SPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPP-P : 390
+       :..|:|:::| :::|:.|::.:::::: :::::: :::::   .::.|:..:|:|.: .::| .
+ 139 : TTTPTSDTTTSAPASTTASPDTTTAASDTTTTAPASTTAAQDTTTPTSDTTTSAPASTTVSPDT : 202
+
+ 391 : SAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPA : 424
+       ::.:.|:. .::..|  .|::|||..:...  ||
+ 203 : TTAASDTTTSAPASTTVATDTTTTAPDTTTTAPA : 236
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 199 424 . GBUE020358-PA 10 236 . 100 M 190 190 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE010938-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 304 -> 483
+  Target range: 382 -> 556
+
+ 305 : QIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSS : 368
+       .:. | :|.. .|.: :: :  : .|| :. |. |  :  .. : ::::. ::.:|:|. |||:
+ 383 : PFPGPFPPNFMPPNFMPGHPFPPFQPPLPPFSPNSQQPQPQPQNLAPPPPPPPVPSPLGHSPSP : 446
+
+ 369 : RLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYS : 432
+        :.|:|: :  ::| |.|:|||::  .:: | :::   .:.: ....: :|:  |.|   .  .
+ 447 : -VPAPGPQM-LPAPVPAPVPPPAGGFPGPVMPPPQ---KQNSVNVPSDCRNDSSPDWRRNKIAR : 505
+
+ 433 : DRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNEN-RYLTERR : 483
+       : |.:.  |..|.: : ..:.|:  : .:...: .  . ::::| || .: |
+ 506 : EDPRANDDYNPPTD-RPSEKSENLLQHELKRKDHDDYDDDYKDNGRYRDDDR : 556
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 304 483 . GBUE010938-PA 382 556 . 101 M 64 64 G 1 0 M 8 8 G 1 0 M 25 25 G 3 0 M 40 40 G 1 0 M 29 29 G 0 1 M 7 7
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE020590-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 252 -> 455
+  Target range: 297 -> 496
+
+ 253 : NPAAY-PRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMT : 315
+       .| |: ::  .|  |.|::.   .:: .: ..:  .:.  :|: :..  .  .::.:.:::::.
+ 298 : PPRAFRSHSTSEDKQERFQPVHRASIDNSLFKTPPKEEFKQKAIMEREEERDKEFERHSPASLP : 361
+
+ 316 : QPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNA : 379
+        || |:|:|: : |||..:  :  : .|:: |.:||.::.::| :. .||..:|::|:.:   .
+ 362 : TPPHSASTSAYTIPPPVDKRLAKIGCESLPCSRPSSRAASPAAFGDKPSSHRPRMSAAEALGVV : 425
+
+ 380 : SSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRR : 443
+       :.| |:| |:..  . . .. . . :. ..:. : .:...::|::.  |    : ::::. |:|
+ 426 : AKPCPRPEPAQR-FKEALEFRRQSLSNLSDSKLSLGSTSRQLWSSFGEC----HGAGNAGEYKR : 484
+
+ 444 : PKQPKDKTNDEK : 455
+       ..::::::.|.:
+ 485 : HERARGQSADSR : 496
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 252 455 . GBUE020590-PA 297 496 . 109 M 5 5 G 0 1 M 134 134 G 1 0 M 36 36 G 4 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000021-PA
+         Model: affine:local:protein2protein
+     Raw score: 162
+   Query range: 450 -> 535
+  Target range: 41 -> 125
+
+ 451 : TNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTG : 514
+       ...::|:||:||:|||. |.|.|: .:| .   |::|: .  |.||::::|| |:||:::|  .
+  42 : KRKQRRSRTTFSGEQLEELERAFQRTQYPDVYTREELAQKTKLTEARVQVWFSNRRARLRKQLN : 105
+
+ 515 : SKNPLALQLMAQGLYNHTTVP : 535
+       |::  |:: : |: :...:.|
+ 106 : SQQLTAFNTL-QSAFPPPAAP : 125
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 450 535 . GBUE000021-PA 41 125 . 162 M 74 74 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005135-PA
+         Model: affine:local:protein2protein
+     Raw score: 163
+   Query range: 378 -> 440
+  Target range: 163 -> 223
+
+ 379 : ASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPR : 440
+       ::..|: | |||: :.| :: :::| :: :  :...::.|:::||||||||||||||||| :
+ 164 : GARRQSLPSPPPPRIRRPTDDNPPDPAKID--PKIPDDPKSQLWPAWVYCTRYSDRPSSGKH : 223
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 378 440 . GBUE005135-PA 163 223 . 163 M 30 30 G 2 0 M 30 30
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001290-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 24 -> 331
+  Target range: 291 -> 603
+
+  25 : HQQQQQQQQQQQMQHLHQLQ-QLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAA :  87
+       :. :: ::|: .|:|||: : .:::||:|::| : :|:. :..::   .   .::::.::.:::
+ 292 : QAMDHLHHQKIAMDHLHHQKIAMDHLHHQKIAMDHLHRQWIDMNPHLINHKIVTSPPENSYGPP : 355
+
+  88 : LQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDD : 151
+        ..  | :.:::: :: ::::| . . . : . :.. : ...| .  |.   . :|. :   . 
+ 356 : SPPENSYGPPSPPENSYGPPSPPENSYGPPYKPVNTYGAPPPTVDRYESPPYKPQDSYGPPPTP : 419
+
+ 152 : TSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATP : 215
+       .:  |. |||:::  :.:.|: . :||.  :|.:|  ||||.   ..::   ::.|:.:...: 
+ 420 : GNIYGP-PPPPENSYGPPSPPKDTNISPRPADNYGPPQKPGDIYRPPPPAV-SYGAPSPPVDSY : 481
+
+ 216 : SAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPA-AYPRIHEEIVQSRLRRSAANAVI : 278
+       :: ...|:  ::...|.: .:  :::  . :  |.  ||| .|.  ... : |. :. :::   
+ 482 : GPPPPADM--YGPPPQEPIDTYRPPLPPADSYGLPPSNPAENYGAPPSTSLSSNQWSFSTHYQS : 543
+
+ 279 : PPPMSSKMSDA-----NPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASS--LASPPP : 331
+       |:.:|.. :::     :.|.:: :.|.:: :: | |.   .. |: ::|...  |..|||
+ 544 : PSTVSDSYGNPINNGWSNESTPYDRLSQSSNHQGSPVYIHKDSPSAAASERDDVLVEPPP : 603
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 24 331 . GBUE001290-PA 291 603 . 105 M 20 20 G 0 1 M 113 113 G 1 0 M 44 44 G 1 0 M 20 20 G 2 0 M 30 30 G 0 1 M 34 34 G 0 5 M 36 36 G 0 2 M 6 6
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001290-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 12 -> 105
+  Target range: 286 -> 385
+
+  13 : PSPITLQMQHLHHQQ---QQQQQQQQQMQHLHQLQ-QLQQLHQQ--QLAAGVFHHPAMAFDAAA :  70
+       ||| . .|:|||||:   :: ::|: .|:|||: : .:::||:|  ::.: :::|  ::  :..
+ 287 : PSPPVQAMDHLHHQKIAMDHLHHQKIAMDHLHHQKIAMDHLHRQWIDMNPHLINHKIVTSPPEN : 350
+
+  71 : AAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPA : 105
+       : ::::::..:.:.::: ::. :.:::|.:. .|:
+ 351 : SYGPPSPPENSYGPPSPPENSYGPPSPPENSYGPP : 385
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 12 105 . GBUE001290-PA 286 385 . 102 M 15 15 G 0 3 M 17 17 G 0 1 M 8 8 G 0 2 M 53 53
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021125-PA
+         Model: affine:local:protein2protein
+     Raw score: 178
+   Query range: 444 -> 517
+  Target range: 102 -> 175
+
+ 445 : KQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAK : 508
+       | :::...  :| |||:::.||  |.:||: |:||  .|| ::::.|:|.| |:|:||||:| |
+ 103 : KSSQQENGLPRRLRTAYTNTQLLELEKEFHFNKYLCRPRRIEIAASLDLTERQVKVWFQNRRMK : 166
+
+ 509 : IKKSTGSKN : 517
+        |: | ||:
+ 167 : HKRQTLSKQ : 175
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 444 517 . GBUE021125-PA 102 175 . 178 M 73 73
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 18 -> 166
+  Target range: 358 -> 505
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | |: ::||||||||||| |: :||||  ||:| ||.... ::..:. :..:. .....:. .:
+ 359 : QQQQQQQQQQQQQQQQQQQQQQQQLQQQLQLQQVQLQQPTQQQTQLQ-QQQPQLQQQQQSQLQQ : 421
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+       .::.  | :|    |.     .:   .  .: :: :| : :   : | : .: ::::: ::: :
+ 422 : QQSQLQQSQLQQQQSQLQPQQQPQLQQQQTQLQQQQSQLQQQQSQLQQQQPQLQQQSQLQQQQQ : 485
+
+ 147 : VDVDDTSAGGRLPPPAHQQQ : 166
+        ::::.    :|. ..:|||
+ 486 : SQLQQPQLQQQLQLQQQQQQ : 505
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 166 . GBUE015102-PA 358 505 . 130 M 47 47 G 1 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 18 -> 268
+  Target range: 937 -> 1183
+
+   19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAA :   80
+        |::: | ||||||||||| |: :: || || :||||::.  :: |  :.:... :::|:.::
+  938 : QIRQQHIQQQQQQQQQQQQQQQQHQQQQQQQQQQQLTGN--QRLAAHYTTQVNLTPTASQPG :  997
+
+   81 : AHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEED :  142
+        .  |.:.  :  :..   ::.|..:   .|.::.....:: . :| : |. .....:.:..:
+  998 : V-LHQPDRSETPTNELLVGTSSPQTQQQGLVVNAKTKTALANMLSVRLQGGVVPGGDGTAAG : 1058
+
+  143 : DDIDVDVDDTSAGGRLPPPAHQQQSTAKPSL-AFSISNILSDRFGDVQKPGKSMENQASIFR :  203
+        :   :..:: :. .. |||..  .  .:|:: : :::| ::   .:|   .  . ..::::.
+ 1059 : QLRMMTAQHQAQLPPPPPPQPTVPYQQRPAINTVNVTNAINRTSEGVTGIPVVKPPASPVIP : 1120
+
+  204 : PFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANF-LNC-FNPAAYPRIHEE :  263
+        | .::| .:.  |: : |   .::| |     : .:.:.| .. | |.| |   .| |  |:
+ 1121 : PQTPNRVAAVLKSP-SGVPPTTLPRSQ---FFGHNPNLKLPPDMFLLGCVFLIMEYDRSGED : 1178
+
+  264 : IVQSR :  268
+        :.  |
+ 1179 : VTVWR : 1183
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 268 . GBUE015102-PA 937 1183 . 130 M 39 39 G 2 0 M 22 22 G 1 0 M 91 91 G 0 1 M 44 44 G 1 0 M 12 12 G 3 0 M 15 15 G 0 1 M 3 3 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 18 -> 225
+  Target range: 352 -> 562
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQ-QLAAGVFHHPAMAFDAAAAAAAAAAAAAA :  81
+       | .:|::||||||||||| |: :| || |||:|| ||..  :::|: . ::. ....:. ....
+ 353 : QQAQLQQQQQQQQQQQQQQQQQQQQQQQQQLQQQLQLQQVQLQQPTQQ-QTQLQQQQPQLQQQQ : 415
+
+  82 : HAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSF-HNQTHTTNEEEEAEEDDD : 144
+       ::: .. | :|  |  ..  |  .:  .  :::::::    :  : ::|::  ::: : :::.:
+ 416 : QSQLQQQQSQLQQSQLQQQQSQLQPQQQPQLQQQQTQLQQQQSQLQQQQSQLQQQQPQLQQQSQ : 479
+
+ 145 : IDVDVDDTSAGGRLPPPAH-QQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFE- : 207
+       :: : :.  . .:|... : |||  .:   .:   ::| ::  : | . : :::|..|  | : 
+ 480 : LQQQQQSQLQQPQLQQQLQLQQQQQQQLQQQLQQQQLLQQQQQQQQLQQQQLQQQQRIQIPVQR : 543
+
+ 208 : ASRSQTATPSAFTRVDLLE : 225
+        :: :|. . :: : :|::
+ 544 : MPQWRTQQQQGLQQSHLVH : 562
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 225 . GBUE015102-PA 352 562 . 129 M 34 34 G 0 1 M 13 13 G 1 0 M 60 60 G 0 1 M 37 37 G 0 1 M 43 43 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 18 -> 165
+  Target range: 361 -> 506
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | |: ::||||||||||| |:|:|  ||||:: || :.   : .. . : .....:. ....::
+ 362 : QQQQQQQQQQQQQQQQQQQQQLQQQLQLQQVQLQQPTQQQTQLQQQQPQLQQQQQSQLQQQQSQ : 425
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+        :.:.|||: |   :..    ..  |.|  ::::|:    :  :::| .  :::.: ::::: :
+ 426 : LQQSQLQQQQSQLQPQQQPQLQQQQTQL--QQQQSQLQQQQSQLQQQQPQLQQQSQLQQQQQSQ : 487
+
+ 147 : VDVDDTSAGGRLPPPAHQQ : 165
+       ::  :  .  :|....:||
+ 488 : LQQPQLQQQLQLQQQQQQQ : 506
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 165 . GBUE015102-PA 361 506 . 126 M 92 92 G 2 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 1 -> 231
+  Target range: 478 -> 709
+
+   2 : ALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMA :  65
+       .|:::  :| ..:.:  |:|  ::|||| ||| || | |:| || |||:||||.    ::. :.
+ 479 : QLQQQQQSQLQQPQLQQQLQLQQQQQQQLQQQLQQQQLLQQQQQQQQLQQQQLQ----QQQRIQ : 538
+
+  66 : FDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQ : 129
+       : ..  :.  :....: .::  ::|:::.|| ..: : .:: |. .|. ::: |  |.:  :. 
+ 539 : IPVQRMPQWRTQQQQGLQQSHLVHQQITNSGQQQTLGQTTNITTAGITLQQNLSQQGSIIVQGI : 602
+
+ 130 : THTTN-EEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISN--ILSDRFGDVQK : 190
+       ::.:  .::.: .: .| .: .: :.  :|...  || ::.  : :   ::  |:|::  .:|:
+ 603 : SQPSVLSQQSSLSQPTIITQQSNLTQQVQLQQQFSQQSNSVLMAQGQQENQQFIVSQQGQTLQR : 666
+
+ 191 : PGKSMENQASIFRPFE-ASRSQTATPSAFTRVD-LLEFSRQQQ : 231
+       | : :::| ::::. :   |...:.. ||:  .   :|::|||
+ 667 : PQQIIHQQKPVLQQQQFIVREAGGVTQAFSESKPQSQFTWQQQ : 709
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 1 231 . GBUE015102-PA 478 709 . 126 M 54 54 G 4 0 M 75 75 G 0 1 M 45 45 G 0 2 M 27 27 G 0 1 M 16 16 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 12 -> 366
+  Target range: 811 -> 1158
+
+   13 : PSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAA :   74
+        |:.|  | . :: |  | |:.|:|:| ::| |:   |:|:: .  | |::. .:.::: . |
+  812 : PGQIQTQTAVIRGQMIQTQNPQHQLQWIQQRQNQIILQQNRQQLLVQHQAQQQLATPTIVRA :  873
+
+   75 : AAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEE :  136
+        :::.|..|.: :.     :::.:.:   | .|..:::.  ..: :   :  . |  |   : 
+  874 : PGSQAVQHQRLPVNVVAQAANTPHTVLQTWQSDGSIATVPSGTITPNQQQQMANLRHQQLQR :  935
+
+  137 : EEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQ :  198
+         :.  :::|: : ::  .  : ....||||  .:.  .:: :: |:.:: ..| . .: .:|
+  936 : LQQIRQQHIQ-QQQQQQQQQQQQQQQHQQQQQQQQQQQLTGNQRLAAHY-TTQVNLTPTASQ :  995
+
+  199 : ASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRI :  260
+        :::::  ::.||:|:|.. :  |:  .   |||: ...|.:   |..   :. ::.:. |  
+  996 : PGVLH--QPDRSETPTNELL--VGTSSPQTQQQGLVVNAKTKTALANMLSVR-LQGGVVPGG : 1052
+
+  261 : HEEIV-QSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSS :  321
+        :.. . | |:. :. :| :||| ::: : : .:::|:.:: :..:.|.:.:... . | :.:
+ 1053 : DGTAAGQLRMMTAQHQAQLPPPPPPQPTVPYQQRPAINTV-NVTNAINRTSEGVTGIPVVKP : 1113
+
+  322 : SASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSP :  366
+        :||:: :|..::..::: .::| ..::: :.|   : .::|: :|
+ 1114 : PASPVIPPQTPNRVAAVLKSPSGVPPTTLPRSQFFGHNPNLKLPP : 1158
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 12 366 . GBUE015102-PA 811 1158 . 125 M 134 134 G 1 0 M 38 38 G 1 0 M 17 17 G 2 0 M 13 13 G 2 0 M 30 30 G 1 0 M 14 14 G 0 1 M 34 34 G 1 0 M 66 66
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 7 -> 53
+  Target range: 317 -> 364
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQ-QLQQLHQQQ :  53
+       :.| ..:.:.|| ::|::|| ||||||||:|:|:| | |||| :|||
+ 318 : PNQVQRNNLILQQHQLQQQQLQQQQQQQQLQQLQQQQAQLQQQQQQQ : 364
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 53 . GBUE015102-PA 317 364 . 117 M 37 37 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 0 -> 173
+  Target range: 386 -> 560
+
+   1 : MALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQ-QLQQLHQQQLAAGVFHHPA :  63
+       :.|::   .|::. .. || |: : ||||| | |||  :|:| | | || : |. ... :::..
+ 387 : LQLQQVQLQQPTQQQTQLQQQQPQLQQQQQSQLQQQQSQLQQSQLQQQQSQLQPQQQPQLQQQQ : 450
+
+  64 : MAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFH : 127
+        .::...:. ....:. .:.::.  ||.      .:    |.   .| ::::: : :  ::  :
+ 451 : TQLQQQQSQLQQQQSQLQQQQPQLQQQSQLQQQQQSQLQQPQLQQQLQLQQQQQQQLQQQLQ-Q : 513
+
+ 128 : NQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPP-PAHQQQSTAKPSL : 173
+       :|    :::::. :::::: :     :  |:|. .::|||: .:: |
+ 514 : QQLLQQQQQQQQLQQQQLQQQQRIQIPVQRMPQWRTQQQQGLQQSHL : 560
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 0 173 . GBUE015102-PA 386 560 . 114 M 44 44 G 0 1 M 81 81 G 1 0 M 34 34 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 18 -> 90
+  Target range: 355 -> 428
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQL-QQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAA :  81
+       |:|: ::||||||||||| |: :| ||| |||: ||:.     :.. .::...:. .....:. 
+ 356 : QLQQQQQQQQQQQQQQQQQQQQQQQQQLQQQLQLQQVQLQQPTQQQTQLQQQQPQLQQQQQSQL : 419
+
+  82 : HAHAAALQQ :  90
+       :.:.:.|||
+ 420 : QQQQSQLQQ : 428
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 90 . GBUE015102-PA 355 428 . 113 M 28 28 G 0 1 M 44 44
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 18 -> 166
+  Target range: 364 -> 515
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | |: ::|||||||||||:|:  ||||:|  :. | .: : ::.:   :...:. ....:. .:
+ 365 : QQQQQQQQQQQQQQQQQQLQQQLQLQQVQLQQPTQQQTQLQQQQPQLQQQQQSQLQQQQSQLQQ : 428
+
+  83 : AHAAALQQRLSGSGSP--ASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDD : 144
+       :: .. | :| .   |  .   |.    .  :::::|:    :  :::|::  ::::.. :: :
+ 429 : SQLQQQQSQLQPQQQPQLQQQQTQLQQQQSQLQQQQSQLQQQQPQLQQQSQLQQQQQSQLQQPQ : 492
+
+ 145 : IDVDVD-DTSAGGRLPPPAHQQQ : 166
+       :: ::: :  .  :|... :|||
+ 493 : LQQQLQLQQQQQQQLQQQLQQQQ : 515
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 166 . GBUE015102-PA 364 515 . 109 M 80 80 G 0 2 M 52 52 G 0 1 M 16 16
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015102-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 18 -> 339
+  Target range: 319 -> 627
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       |:|: :   ||:| ||||:|: :| ||||||:|||  | : ::.. . :..............:
+ 320 : QVQRNNLILQQHQLQQQQLQQQQQQQQLQQLQQQQ--AQLQQQQQQQQQQQQQQQQQQQQQQQQ : 381
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+       . ...|| :      |:   |.    .  ::::: . :  : |  :|::  :::.: : ::: :
+ 382 : QLQQQLQLQQVQLQQPTQQQTQLQQQQPQLQQQQQSQLQQQQSQLQQSQLQQQQSQLQPQQQPQ : 445
+
+ 147 : VDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRS : 210
+       :: ::|    : :. .:||   .:.  .:   : | ::  : | .   :::|  :     . : 
+ 446 : LQQQQTQLQQQQSQLQQQQSQLQQQQPQLQQQSQLQQQ-QQSQLQQPQLQQQLQL-----QQQQ : 503
+
+ 211 : QTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAA : 274
+       | . . .: : :||:  :|||... .. .    :| ::     |.  .: ::.: ||:| :   
+ 504 : QQQLQQQLQQQQLLQ--QQQQQQQLQQQQLQQQQRIQIPVQRMPQWRTQQQQGLQQSHLVH--- : 563
+
+ 275 : NAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTI : 338
+       :.:..:.   .::::.. .:|  :| :.:|| |   ...::||:: | .|||: |.  ::.|.:
+ 564 : QQITNSGQQQTLGQTTNITTAGITLQQNLSQQGSIIVQGISQPSVLSQQSSLSQPTIITQQSNL : 626
+
+ 339 : S : 339
+       :
+ 627 : T : 627
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 339 . GBUE015102-PA 319 627 . 107 M 35 35 G 2 0 M 129 129 G 1 0 M 16 16 G 5 0 M 19 19 G 2 0 M 44 44 G 3 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003577-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 427 -> 499
+  Target range: 51 -> 122
+
+ 428 : CTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSEL : 491
+       |.  :  :|:| :   ..: .:|... :|:||:|:: || :|.|.|:..:| .   |::|:  |
+  52 : CKDEGVGSSAGVK-EETSEEENKPRKVRRSRTTFTTFQLHQLERAFDKTQYPDVFTREELAMRL : 114
+
+ 492 : GLNEAQIK : 499
+       :|:||:::
+ 115 : DLSEARVQ : 122
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 427 499 . GBUE003577-PA 51 122 . 106 M 13 13 G 1 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000630-PA
+         Model: affine:local:protein2protein
+     Raw score: 163
+   Query range: 440 -> 512
+  Target range: 2 -> 74
+
+ 441 : YRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQN : 504
+       | :|.   : .:  :: ||||:. ||  |..||:::.||:  || ::: .|:|:| |||:||||
+   3 : YFQPSSYVEAKQCLRKERTAFTKLQLLYLESEFQHSNYLSRLRRYEMAISLSLSERQIKVWFQN :  66
+
+ 505 : KRAKIKKS : 512
+       :| | |::
+  67 : RRMKSKRT :  74
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 440 512 . GBUE000630-PA 2 74 . 163 M 72 72
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003918-PA
+         Model: affine:local:protein2protein
+     Raw score: 166
+   Query range: 448 -> 511
+  Target range: 72 -> 135
+
+ 449 : DKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       : :: .|:.||.||..|: :|...|: :|||:.. |. |::.| |.|:|:||||||:|.| |:
+  73 : NVSKRKKKTRTVFSRSQVFQLESTFDMKRYLSSSERAGLAASLHLTETQVKIWFQNRRNKWKR : 135
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 448 511 . GBUE003918-PA 72 135 . 166 M 63 63
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002654-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 7 -> 421
+  Target range: 235 -> 644
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQ--LHQQQLAAGVFHHPAMAFDAA :  69
+       :||::|:| ||. .. .|:|: ::| :: :|: :|::|  :  :    : :|| ::..:   .:
+ 236 : PPQPSPAP-TLPPPPPPHDQDMNRQLRDLLQRHNQVKQTGEGNVMSSVVMPGVGNQHVVRHVVG : 298
+
+  70 : AAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMS-FHNQTHT : 132
+       :  :::::...::| .:| :.|::   :... ..:  : | | :   :::| : :. : : .:.
+ 299 : PRLPGSGPQQQSNAIQTA-DARIGVLLAQQR-RGAFVTQPGTGQIRIANAVRSPLEQYTSVVQK : 360
+
+ 133 : TNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSME : 196
+        : : :: .:..    |...|.  ::.|| :|: :..| :   .::: ::. :..::: |::|.
+ 361 : HQPQPHPLTQASHVRPVAAPSEQLKIQPPLEQKLTGNKEGE--ELPDSVTAELEKLEQEGNNMA : 422
+
+ 197 : NQASIFRPFE--ASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYP : 258
+       :..::   :.  |. .:.  :.  |  ::|.:: .: ...:::. : :|: .  |:  :    .
+ 423 : EADAVSAILGDLAEDDDELLAEMGTDFNILAYADPELENVTGGEKTNILDVE--LEDEDDKKKN : 484
+
+ 259 : RIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMT-QPPLSS : 321
+       . :: : |.  :...:..::..  .:. |:...:||.:.:   :.:| .||::|| | : |   
+ 485 : SERDRVKQEEKKSDEGGNILRN--ETDTSQNRTNKSVVEPKKPPTPQPPQPPPPTPTMEVPPQV : 546
+
+ 322 : SASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQ : 385
+       : .. ... .. :.| :. ::: :.::|.::.  ::: :::.:  :: :  .: || .::|.| 
+ 547 : TLRETNEGVHVIQESRVEFSPPFPPPPSKPPRQTPTPLPPVGGVVGAVV--RAQGVMQAPPPPY : 608
+
+ 386 : PIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEM : 421
+       | |||:  ::: .:  .|   .|. . ..:|: . |
+ 609 : PGPPPPYPGQEQPLLLEDLLEEEKREQEKQGAPPLM : 644
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 421 . GBUE002654-PA 235 644 . 100 M 8 8 G 1 0 M 32 32 G 0 2 M 39 39 G 1 0 M 12 12 G 1 0 M 24 24 G 0 1 M 48 48 G 2 0 M 31 31 G 0 2 M 40 40 G 2 0 M 32 32 G 2 0 M 33 33 G 0 1 M 55 55 G 2 0 M 49 49
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005073-PA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 422 -> 503
+  Target range: 14 -> 99
+
+ 423 : PAWVYCTRYSDRPSSGP----RYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTER : 482
+       |||    |.| ..::|.     |. ..   .....::| ||:|:|.||  |.|.|:|.:| .  
+  15 : PAWPRVLRHSLSQTTGGLGYKVYPGHDGVLTEKRKQRRIRTTFTSAQLKELERAFQETHYPDIY :  78
+
+ 483 : RRQQLSSELGLNEAQIKIWFQ : 503
+        |:::: .::|.||:::| |:
+  79 : TREEIAMKIDLTEARVQISFE :  99
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 422 503 . GBUE005073-PA 14 99 . 116 M 17 17 G 0 4 M 64 64
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000081-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 101 -> 421
+  Target range: 858 -> 1173
+
+  102 : STPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAH :  163
+        :||||:.. . .. ::|.. ::.:::... ....|.:..  :. . . .:..|:..|:.: .
+  859 : NTPASNPNKPAETLNNDKTPSNKAINTPNVKNTAEKNVSILNAQTPKPTNPEASPNLSGSRK :  920
+
+  164 : QQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLE :  225
+        :::.: |.: |.: |. |::. .:..:  |: ..:..  .   : :::. ||.::::..   
+  921 : KRRKSLKNADAMTPSTNLPENKTHTPQ-VKTATPKVKSNSVTPSQKPDNKTPDSLSKAARRR :  981
+
+  226 : FSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMS :  287
+        :.| |  : :.:::: : :.:.  |  ::.:     ..:. :::.::.:.: :...:.:.  
+  982 : LRRSQLKSLSESSSPNLNQSPTVSNVNKSNT---SSAKVATPKVNKNESTPSVQTNLKNTPL : 1040
+
+  288 : DANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSS :  349
+        ..:: |:: ..| ..:: |: .:....|...: || ..  ..| :::.::||.:::.:. :.
+ 1041 : TNKSVKTPKNKLVSEMNSISVTPVNNKTPGGVQSSKKKNKKTPKSNQNNSISESTNATDMNK : 1102
+
+  350 : SSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGS :  411
+        ::: .  : ::| :......|.:|  ..:::.::. | ::|. :..:.::: .. .::.|. 
+ 1103 : TPNVNNQNLTGSQKKKGKKSLNTSQVNTQSPKADGSP-SSPKKMKMNESVQVKTPGKNTTPF : 1163
+
+  412 : TTTEGGKNEM :  421
+        .::.  ::.|
+ 1164 : GSAKKRRQSM : 1173
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 101 421 . GBUE000081-PA 858 1173 . 109 M 89 89 G 1 0 M 65 65 G 3 0 M 127 127 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000081-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 134 -> 413
+  Target range: 610 -> 892
+
+ 135 : EEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKP-SLAFSISNILSDRFGDVQKPGKSMEN : 197
+       : .|:|||:::::. ||..:::. .::.:::.:|: | |:  :  .  .:|::.: ..::: ..
+ 611 : DVSESEEDEEMEITPDDGESDDSETSANENNPPTSLPRSMRAPKHGRGKNRLAKLLENAQPTSA : 674
+
+ 198 : QASIFRPFEASRSQTATPSAFTRVDLLEFSRQQ-QAAAAAATAAMMLERANFLNCFNPAAYPRI : 260
+       ::     : ::.::.:. :...: :  . :. . ::::..|:....: ::. |:  ..:. .. 
+ 675 : KSVSNGDIITTSNEDTGEGNMDKSGKKGKTPLPFKGTPQVASVNKKMVKTPALSPKGTPQVTSS : 738
+
+ 261 : HEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQ-IGQPAAPTMTQPPLSSSA : 323
+       :|: |::. . : :.: :::: ..|:.. .|. .:   : .| .| :  ||:.:.. |.::|:.
+ 739 : NENEVKTPAPAAKGTPQVASANKKKVKTLAPTAKGTQQVASANEQKVKTPAPTAKGTPQVASAN : 802
+
+ 324 : SSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPI : 387
+       .. ...|::|. :|   .|: ... .:::.| : .. :  :|::.:  :.  : .|::|.::| 
+ 803 : EKKVKTPAPSPKGTPQVVSANEKDVKTPAKGTTQENVGTMNSSGKKKRSRKHSNRANTPASNPN : 866
+
+ 388 : PPPSAVSRDSGMESSDDTRSETGSTT : 413
+        |:.:::.|.. .:.. . ::. :|:
+ 867 : KPAETLNNDKTPSNKAINTPNVKNTA : 892
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 134 413 . GBUE000081-PA 610 892 . 102 M 37 37 G 0 1 M 59 59 G 0 1 M 75 75 G 0 1 M 108 108
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005132-PA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 399 -> 438
+  Target range: 26 -> 65
+
+ 400 : ESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSG : 438
+       | :...  ||:..:.:|:.:: |||||||||||||||||
+  27 : EFGSKKDQETDKESEQGSSQDPWPAWVYCTRYSDRPSSG :  65
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 399 438 . GBUE005132-PA 26 65 . 133 M 39 39
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001061-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 8 -> 178
+  Target range: 476 -> 640
+
+   9 : PQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAA :  72
+       :. :| .|.:| || : |||:.| |||: |  :| .|:||  |||||.   :|:.|. .. : .
+ 477 : APVPPQHIVVQQQHAQMQQQHAQMQQQHAQVQQQHAQVQQ--QQQLAQVQQQHAQMQQSQHTHV : 538
+
+  73 : AAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEE : 136
+       :|.:.:.  ||: :|:||. .    |.   ..| : | .: |: .:    :.. :::.. .:..
+ 539 : SAQPVPVLRHANIPAVQQSPEHHVQPVQPQVQAQPQPKPLLEQPKQ----QRRPRDDKKQVSTK : 598
+
+ 137 : EEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSIS : 178
+         .: ::. :   . ||:|:| ..|. :::.|: :: :::.|
+ 599 : PPVQVEEKEEGPRSRTSSGARQQTPVSKDEETTVAPSPLTTS : 640
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 8 178 . GBUE001061-PA 476 640 . 120 M 40 40 G 2 0 M 68 68 G 4 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005466-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 431 -> 536
+  Target range: 376 -> 476
+
+ 432 : SDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNE : 495
+       :.: |.: |   ..:  |..: . | |:.::.|||. ||.::. |.  .    |::|..:|:. 
+ 377 : AAKESDDERSIITDDDADHEERKVRVRSQIADEQLQVLKSHYAINPRPKRDELQRISEKVGFPV : 440
+
+ 496 : AQIKIWFQNKRAKIKKSTGSKNPLALQLMAQGLYNHTTVPL : 536
+         :::||||:||: ::    ...|:|   ::. |::|.:||
+ 441 : RVVQVWFQNNRARDRR----EGRLPLVPYTHN-YQETELPL : 476
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 431 536 . GBUE005466-PA 376 476 . 110 M 80 80 G 4 0 M 12 12 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001483-PA
+         Model: affine:local:protein2protein
+     Raw score: 152
+   Query range: 450 -> 516
+  Target range: 32 -> 98
+
+ 451 : TNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTG : 514
+       ...::|:||:|:::||. |.|.|: .:| .   |::|:    |.||:|::|| |:||:::|  :
+  33 : KRKQRRSRTTFTAQQLDELERAFERTQYPDIYTREELAQRTKLTEARIQVWFSNRRARLRKQLA :  96
+
+ 515 : SK : 516
+       |:
+  97 : SN :  98
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 450 516 . GBUE001483-PA 32 98 . 152 M 66 66
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012227-PA
+         Model: affine:local:protein2protein
+     Raw score: 170
+   Query range: 432 -> 511
+  Target range: 3 -> 78
+
+ 433 : DRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEA : 496
+       :..::| .:...:|||.|    :::||||:::|:  |.: |  ::||:   |::::::|||.:|
+   4 : ENGGNGLMFSSRQQPKKK----RKSRTAFTNHQIFELEKRFLYQKYLSPADRDEIAAQLGLTNA :  63
+
+ 497 : QIKIWFQNKRAKIKK : 511
+       |: .||||:|||:|:
+  64 : QVITWFQNRRAKLKR :  78
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 432 511 . GBUE012227-PA 3 78 . 170 M 18 18 G 4 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012020-PA
+         Model: affine:local:protein2protein
+     Raw score: 169
+   Query range: 442 -> 543
+  Target range: 121 -> 222
+
+ 443 : RPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKR : 506
+       .| .::|:....::.|. ||..|   |.| |.::|||:.. |::|:| : |. :|:||||||.|
+ 122 : PPPPSNDQPPKKRKRRVLFSKSQTFELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQNHR : 185
+
+ 507 : AKIKKSTGSKNPLALQLMAQGLYNHTTVPLTKEEEEL : 543
+        |.|::  .|.  :    | .  .:.:||: . :..|
+ 186 : YKTKRAQQDKGMHPESSGAMPSPRRVAVPVLMRDGKL : 222
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 442 543 . GBUE012020-PA 121 222 . 169 M 101 101
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012948-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 202 -> 391
+  Target range: 1889 -> 2079
+
+  203 : RPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEI :  264
+        ||  |: :..:.|:: .::  |||: .|.  . :.| ::  . ::  .. :::: .. .: :
+ 1890 : RPRPAPAPPVTGPPP-PKIPHLEFNVAQAIRNLGNTITITTSTGETSRSKSSGSVQPPPHPL : 1950
+
+  265 : VQSRLRRSAANAVIPPPMSSKMSDANPEKSALG-SLCKAVSQIGQPAAPTMTQPPLSSSASS :  325
+         :: :.::|::|.:: | |. : . . .|:|:: ::.|:|  :: ::: :::::::|:: |:
+ 1951 : SKPGVPQPAPKAAVSLPTSKPLVSLPITKPAVSLPMSKPVVTLSGSSSKSVSKSSMSGTKSP : 2012
+
+  326 : LASPPPASNASTISST-SSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQP :  386
+        :.| :.  .. ::||| ::|.: |::.:  . ||:.|| |.|  .|.:| : |: :|::|  
+ 2013 : VVSLSGKVPVVSLSSTKAPVVSLSGTKPMVSLSASKSLVSKPVVSLPSSKPVVSLPSSKPVV : 2074
+
+  387 : IPPPS :  391
+          |:|
+ 2075 : SLPSS : 2079
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 202 391 . GBUE012948-PA 1889 2079 . 110 M 15 15 G 1 0 M 79 79 G 0 1 M 44 44 G 0 1 M 50 50
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016828-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 6 -> 291
+  Target range: 857 -> 1142
+
+    7 : CSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDA :   68
+        | |: .| :.  : .   ::::|.   |::   : ||:| .  :::| .|:  |:|| : : 
+  858 : CVPHLQPVATQHHQPVTVQHHNQPVTTQHHQSVVTQLHQPAGAQHNQPVAAQPHQPAASQHH :  919
+
+   69 : AAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQT :  130
+        ..||:  .::...| ::..|||   .  :..   . |  |.  : ..: :  :.:   |::.
+  920 : QNAASHHQPTVVQHHQPVVLQQIHQPLITQQHQQVIAVQTQQQVPSSQHHQQVPNQH-HQHV :  980
+
+  131 : HTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPG :  192
+         | :::: :::::: . ::::. .:.: | .::|| ::.|.: : :  ::  ::  . ::.|
+  981 : GTQHHQQVTQHHHQPSSQLQQV-VSNHHPVTSQQQLTSQKHAHTATHHQVSHHQQVANHQQG : 1041
+
+  193 : KSMENQ-ASIFRPFEASRSQTATPSAFTRVDLLEFSRQ-QQAAAAAATAAMMLERANF-LNC :  251
+        ..:::| ||   . .:::||.||| : ..:.  : | |  :.::. : .:  |.:.:  |: 
+ 1042 : TCLQHQVASQSVQVSSPHSQGATPHSHVSLSHPHVSTQLSHVSTQLSHVSTQLSHVSTQLSQ : 1103
+
+  252 : FNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANP :  291
+         :.....::::  | :: :: ::..: ||. :: :.::.|
+ 1104 : VSHQNCRQVNQPAVVPQ-HQVSSTNLHPPQQPTIVRQPPP : 1142
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 6 291 . GBUE016828-PA 857 1142 . 128 M 119 119 G 1 0 M 26 26 G 1 0 M 45 45 G 0 1 M 31 31 G 0 1 M 19 19 G 0 1 M 20 20 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016828-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 7 -> 386
+  Target range: 281 -> 664
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAA :  71
+       :.| .: . | | .::   :| ::|||||::: |:  | ||::| |  .    ..::: :  ::
+ 282 : NHQQNSHHQTSQQARVICSKQSHHQQQQQIHQQHHQIQHQQVQQVQQIQQSHSKQPLTHHIITS : 345
+
+  72 : AAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTN- : 135
+       ::.:.::.:::  :|:|: .::..|: .   : .::.  . ::: |:||: . : :...:..: 
+ 346 : SPQPQPPQSPQLSGAGLRLSVGEDGTMVVHQAEQAGNMYGHRNQRSGSVVVTPGQNGAVRVVET : 409
+
+ 136 : EEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQ : 198
+       .:..:. :| : :. .   . :||  ..   :.. .   : : .. |  . :| : .  : .: 
+ 410 : SQASPSPNDRLILSPAPMIDHSRLILTVIVVKKEHMVVSSGGAEGRLVVSPADGKLHLVTQAET : 473
+
+ 199 : ASIFRPFEASR-SQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIH : 261
+       ::   | :  | ::...::| .|::|:: ... .::::|:.. :|:..::    : .:. |: .
+ 474 : PPPSTPEQRVREGRIVVSPADGRLHLVQADPPTPPTPGASDNRLMVSPSDGKIHLVQGDSPQQP : 537
+
+ 262 : EEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQ-IGQ--PAAPTMTQPPLSSS : 322
+       :: ::  : .:|.: :: :| .:::  .:.| :: ::  ..  | :|:  :. |.:|  | .::
+ 538 : DQRIRV-VTSAAESRLVMSPSDGRLHLVQNEPPPPDPPPSDRIQYVGKEFANRPDLTVLPGKPP : 600
+
+ 323 : ASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQP : 386
+       ::: .:|.||| .:.: .: : | :|   :.:.  |.:  :| |:.:| .  : :.: :.:.|:
+ 601 : PPAPQPPRPASFDNPVMESIAQAHPSLVINKSSMQAEAQTQSQPTRQLKDIQTQITSLNHNNQS : 664
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 386 . GBUE016828-PA 281 664 . 122 M 127 127 G 0 1 M 75 75 G 0 1 M 58 58 G 1 0 M 37 37 G 0 1 M 3 3 G 0 2 M 78 78
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE009815-PA
+         Model: affine:local:protein2protein
+     Raw score: 195
+   Query range: 442 -> 515
+  Target range: 107 -> 180
+
+ 443 : RPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKR : 506
+       | .:.:..:...:|.||||:||||  |.|||:.::||:   | |:::.| |:|.|:||||||:|
+ 108 : REEEGRTSSGKTRRRRTAFTSEQLLELEREFHAKKYLSLTERSQIAAALKLSEVQVKIWFQNRR : 171
+
+ 507 : AKIKKSTGS : 515
+       || |: .::
+ 172 : AKWKRVKAG : 180
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 442 515 . GBUE009815-PA 107 180 . 195 M 73 73
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE019754-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 110 -> 492
+  Target range: 188 -> 575
+
+ 111 : TIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQST-AKPSL : 173
+       :: ..|.:|  :.   :: . . .....  .:..:.:: .:::::  :| |.:..:|| :| ||
+ 189 : SVPAKEDNSGSSSSIVEEVISVRASSSTIVGETSVALQRTESPSSKEIPLPQRPPRSTRSKKSL : 252
+
+ 174 : AFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLL-EFSRQQQAAAAA : 236
+       :|  .:. |. |   : :.   .: :::  :  :.:  :|:::: . ..|:   ||:    :::
+ 253 : PFIEDDTGSSCFILEEVAPVQASSSTNVGESSVSRQVMAASSTSHNVTSLMPPPSRKSTRKTST : 316
+
+ 237 : ATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLC : 300
+       . .: : |.:: |:.   .:   ::     | :  ..|.. :..:.:.:...::.:::|| .: 
+ 317 : NQESPLRESSDSLSSVVEDTVVLVEPLPSSSTFEVEDATVPLRRSKTKNKKTPSTHQPALRKVG : 380
+
+ 301 : KAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNS : 364
+       .:  . :: : ||:.::. |:|:|::. |:|: . || .:.| . .:|::::   :.  :. ::
+ 381 : ETSFPDAEEGRPTVVEAGPSTSSSGVVVPSPSLRRSTRRGKSVTKPPSPATPHRAPKRRGKPSP : 444
+
+ 365 : SPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYC : 428
+         :|.: :: .  ::::: |   |. ..| |.:.. : .  .|....   |.... : |.:|  
+ 445 : QLTSSIIGGRDQSDGATSGPSIPPRVEVVQRTPPRRPMSVQSSSEEDLCQETNTTIVSPQRVTK : 508
+
+ 429 : T--RYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFN-ENRYLTERRRQQLSS : 489
+       :  : .:|  ..|  |  : :||:..: . . :  ::::  ||. : : ::|  .  |.: ||:
+ 509 : AKQKAKQRELETPESREVRLSKDRERHRSARESLTTPDRTLRLSLDRDRHSRNRGVERNRSLSA : 572
+
+ 490 : ELG : 492
+       .|:
+ 573 : GLD : 575
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 110 492 . GBUE019754-PA 188 575 . 112 M 58 58 G 0 1 M 56 56 G 0 1 M 205 205 G 0 2 M 45 45 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021017-PA
+         Model: affine:local:protein2protein
+     Raw score: 186
+   Query range: 247 -> 511
+  Target range: 4 -> 259
+
+ 248 : FLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAA : 311
+       :::.. |  ..: : :::.: |..|::.:. ..: |:. |.:::..:: |  |::      |::
+   5 : IIDSMLPKYHQQYQPQMLPGGLSSSGTASTEQTSYSTTSSSGSASSGTAGLSCNS------PPP :  62
+
+ 312 : PTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGS : 375
+       |.:   |   :: : | | .|:: :::|| ::|..::..|..  :|:|.|:.: :  : .: : 
+  63 : PPVRMYPYVHGPQTPALPFGAPSMTAFSSMAAVVDAADKSCRYNASSAESMAGYSLHHQNGVSV : 126
+
+ 376 : GVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGP : 439
+       :..::| .:.:   . |.: .:: :: ..  ::.:|::::.  :  : :|:   . :|: |:  
+ 127 : SAASASMAAAAQFYHQAAAASAATDPLTSCATQVASASSQPMPDIPRYPWM---SITDWMSPFD : 187
+
+ 440 : RYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQ : 503
+       |   .. |  :.   :|.| :::. |   |.:||: |:||| ||| ::: .| |.| |||||||
+ 188 : RVVCGMLPGPNGCPRRRGRQTYTRFQTLELEKEFHFNHYLTRRRRIEIAHALCLTERQIKIWFQ : 251
+
+ 504 : NKRAKIKK : 511
+       |:| |:||
+ 252 : NRRMKLKK : 259
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 247 511 . GBUE021017-PA 4 259 . 186 M 55 55 G 6 0 M 118 118 G 3 0 M 82 82
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003292-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 53 -> 399
+  Target range: 786 -> 1125
+
+   54 : LAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQRLS-GSGSPASCSTPASSTPLTIKE :  114
+        :::::   |:.:|::::::: :|.:..: : ::|::.  | : |: :|  .|| :.|||  .
+  787 : VTPSIAASPSFSFNPSSTSSITAVSQQTTTVSTAIKPLSSFSFGTVSSNLKPALTVPLTAAS :  848
+
+  115 : EESDSVIGDMSFHNQTHTTNEEEEAEEDDDI---DVDVDDTSAGGRLPPPAHQQQSTAKPSL :  173
+        :.:.|   : | .. :::.:. : |  | .:   :| :|..::  .  |||  | ||..:: 
+  849 : QTTSSFSFGGSAPPTSEAVETVDPAVMDPSVVATEVVIDSETPVVSSVPPASTQSSTVMSAP :  910
+
+  174 : AFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAA :  235
+        |  | :. |.: :.| .:  : .:.|:. .:  :: : |:|.|.||. : :.|..|   :::
+  911 : APVIVSTPSTK-STVTSAFGAPTSAAPTVSSAVSTTASTSTTSVFTSPQ-VSFDSQSFKPPS :  970
+
+  236 : AATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALG :  297
+        :|.:|  :..:.| ..|.||:  .  . :  : :: |:|.:  :| .: .:|.|:|  ::| 
+  971 : TAVPAPAFGSSAF-GSFTPAT--SASGLFGTAAMKFSTATTSAAPVFGLSISTASP--APL- : 1027
+
+  298 : SLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAA :  359
+         :.::.:  : | :..:| .. :||: | :||..::|:|:  | ::.:|:|| ::||  :::
+ 1028 : -FSQTTTTSASPFGQGITSTQAPSSPFSQTSPTQSTNPSSPFSQPPTTTTSSFGASG-FGSG : 1086
+
+  360 : SSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGM :  399
+        | ::| ::|.:| :||. .||:. .  :.:|::.: .|:|
+ 1087 : SVFSSLSNSSFG-GGSTFGASTTTQSVFGSPATTTTASSM : 1125
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 53 399 . GBUE003292-PA 786 1125 . 118 M 40 40 G 0 1 M 52 52 G 0 3 M 39 39 G 1 0 M 37 37 G 1 0 M 25 25 G 1 0 M 7 7 G 2 0 M 33 33 G 2 0 M 3 3 G 2 0 M 56 56 G 1 0 M 16 16 G 1 0 M 27 27
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003292-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 125 -> 402
+  Target range: 709 -> 981
+
+ 126 : FHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQ : 189
+       | . |:|.::  ::|:.:::. : :. |.: : .:| ::::::  |.:. |::. | :.|:   
+ 710 : FGGLTQTVDNIPQSEDTGGLSFNFGSLSNSLK-GSPLNNEKPSMPPKVDTSVTASLVHPFS--- : 770
+
+ 190 : KPGKSMENQASIFRPFEASRSQTATPS-AFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCF : 252
+        .| |:.. :|   . ..:.| :|:|| :|.. .  .::   |.:::.:|| . |.. :| .  
+ 771 : FGGLSISTTSSATTTTSVTPSIAASPSFSFNPSSTSSITAVSQQTTTVSTAIKPLSSFSFGTVS : 833
+
+ 253 : NPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQ : 316
+       :.   : .   ...|:  .| : :  :|| |. :...:|.  . : : ..|  |:  :: . : 
+ 834 : SNLKPALTVPLTAASQTTSSFSFGGSAPPTSEAVETVDPAVMDPSVVATEVV-IDSETPVVSSV : 896
+
+ 317 : PPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNAS : 380
+       || |: :|:: |:|::  .|| |:.|:|::: ::::|: ::.:|::::::|:. .:|  . .. 
+ 897 : PPASTQSSTVMSAPAPVIVSTPSTKSTVTSAFGAPTSAAPTVSSAVSTTASTS-TTSVFTSPQV : 959
+
+ 381 : SPQPQPIPPPSAVSRDSGMESS : 402
+       | ::|:: |||:. ..::..||
+ 960 : SFDSQSFKPPSTAVPAPAFGSS : 981
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 125 402 . GBUE003292-PA 709 981 . 104 M 32 32 G 1 0 M 28 28 G 3 0 M 27 27 G 0 1 M 88 88 G 1 0 M 64 64 G 1 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007243-PA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 9 -> 421
+  Target range: 51 -> 463
+
+  10 : QSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLH-QQQLAAGVF-HHPAMAFDAAAA :  71
+       :.: :| . ::|   .::::.  :  : :::..|:: |  | :: ::: .| :| |   :. : 
+  52 : NKPKPPSPKKVQSRWKEKHEALVKTIRAEQVKPLDHSQCPHCDRCFGPKAFDRHEAWCREQHSK : 115
+
+  72 : AAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNE : 135
+         ........    . |:.| . : |.::.:.:: .:| ::| ::| |  .:.. ::::   .:
+ 116 : IHVQNQNQDVSKAKERLHARTKVGVSGSGYGVAGQKSP-ALKRQNSLSRSNNKKTEEESIRRPQ : 178
+
+ 136 : EEEAEEDDDIDVDV---DDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSME : 196
+       :.. .:|| :: .:   . || .|.|::.: : :|.|.|: ::  |:  .:..|....:.   |
+ 179 : DTAKKHDDPLNSSIPTLARTSRTGSLSSQGSDSKSVASPNHSYVASE--RGSMGSAATATPLHE : 240
+
+ 197 : NQASIFRPFEASRS-QTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPR : 259
+       ::::| .::.::|. :  .| . : :::||: | ::.|:::.: :    ..:. :. :  | | 
+ 241 : SKPTIKNSYSTNRDLERYDPFVTAELQMLELLRSDEEATSPVSKPQQNINDKMTQSASDIAAPG : 304
+
+ 260 : IHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSA : 323
+         |.:|: ::..|.:::   ::..: |:...: |.||:: |:: : | :.|:.::|.| :::. 
+ 305 : SGEKMVD-KMSSSVGSS-RKSSFDNIMPSVTS-KRALSAGCRPDNIIVNRATRAVTAPIVTADR : 365
+
+ 324 : SSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPI : 387
+        .  :::. :::|.  . ...  ..| .: : .:: :. .|||||.: :|.::.  :  : |  
+ 366 : IKEMGASNKTQSSDGIKLKETLRKRSLEPLSTEPTRGKGASSPSSPFRTSPTSAFFPVLNDQKE : 429
+
+ 388 : PPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEM : 421
+       ..|:. :.::.::::....::..:...:... .|
+ 430 : TNPTNNNNNNNLNNNTSINNNKNNNNNNENEFKM : 463
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 9 421 . GBUE007243-PA 51 463 . 127 M 41 41 G 0 1 M 9 9 G 0 1 M 50 50 G 1 0 M 39 39 G 0 3 M 30 30 G 2 0 M 29 29 G 0 1 M 56 56 G 1 0 M 9 9 G 1 0 M 14 14 G 1 0 M 129 129
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002421-PA
+         Model: affine:local:protein2protein
+     Raw score: 174
+   Query range: 446 -> 511
+  Target range: 191 -> 256
+
+ 447 : PKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIK : 510
+       :.. :...||.| ::|. |   |.:||: |:||: :|| ::|:|| |.| ||||||||:| |:|
+ 192 : SSSPSGSGKRTRQTYSRYQTLELEKEFHYNKYLSRKRRIEISNELCLTERQIKIWFQNRRMKLK : 255
+
+ 511 : K : 511
+       |
+ 256 : K : 256
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 446 511 . GBUE002421-PA 191 256 . 174 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE013293-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 325 -> 511
+  Target range: 731 -> 918
+
+ 326 : LASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGV--NASSPQPQPI : 387
+       | :.| .|..| : .. .:::.||||||: ||..|| :|.:||  ::::.|   :... : :. 
+ 732 : LKTQPKQSAVSQLVDKLDMSSDSSSSSSSDSSDDSSSDSDSSSDSSSNSEGGKRKNRKKKVDNA : 795
+
+ 388 : PPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKT : 451
+         ... .:.:| |:....:::. . :.. ||: . |.  :..: :..... :| .| .:...:.
+ 796 : KKRKQDKKKGGEEPRSKEKPHNKDRSDKVGKDLKVPDKKFSDKRTKSNDDVSRKNRDEEGDKRE : 859
+
+ 452 : NDE-KRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       :|  |:... :.: : .: .:|:: : | :.| ::: |.|   :: : :  ::.||.| ||
+ 860 : HDRFKKNSDKYRNREEEK-SKEYKRDDYDAGRDKEK-SKEYKRDDYDERDEIERKREKCKK : 918
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 325 511 . GBUE013293-PA 731 918 . 101 M 52 52 G 0 2 M 77 77 G 0 1 M 14 14 G 1 0 M 17 17 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000629-PA
+         Model: affine:local:protein2protein
+     Raw score: 167
+   Query range: 444 -> 526
+  Target range: 100 -> 182
+
+ 445 : KQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAK : 508
+       .: :::....|:.||:|:: ||.:|.|.|::..| .   |::|: .|.|:|:::::||||:|||
+ 101 : SKKNENGTKKKKTRTTFTAYQLEQLERAFENAPYPDVFAREELAIKLNLSESRVQVWFQNRRAK : 164
+
+ 509 : IKKSTGSKNPLALQLMAQ : 526
+        :|...:::.  |. :::
+ 165 : WRKREPPRKTGYLPPLPH : 182
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 444 526 . GBUE000629-PA 100 182 . 167 M 82 82
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006123-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 257 -> 444
+  Target range: 430 -> 614
+
+ 258 : PRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALG-SLCKAVSQIGQPAAPTMTQPPLS : 320
+       ..|:||:::|::   : :.:. . :.   :.:: :.|::: :: ..|:.:.: :::.:::   .
+ 431 : TSIEEEMINSKIEDHGMEEITKTEICVVSTSPKVDESSVSVTIPEVVNPVERVTSSIVSEVVSE : 494
+
+ 321 : SSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQP : 384
+        :.:.  | ::. .:.  :|:.:.:: .||:. : .||..||:.:.::   |... ::.:|. |
+ 495 : VNVNEARSEAAVQTSDREASAEGTSSMDSSPCLDKRSAVRSLHRGHAAFARAREKRISETSNFP : 558
+
+ 385 : QPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRP : 444
+       ..: :|.::.|. ::|.::| |    |:.:|:: :|   .| |   :..:| :|:  .:|
+ 559 : PGV-SPEGLRRSMSLEEGEDLRLVFISSDSESDGSEQLLEWDY---FESKPLGGAVLSQP : 614
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 257 444 . GBUE006123-PA 430 614 . 104 M 40 40 G 0 1 M 90 90 G 1 0 M 39 39 G 3 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE008733-PA
+         Model: affine:local:protein2protein
+     Raw score: 180
+   Query range: 450 -> 527
+  Target range: 34 -> 107
+
+ 451 : TNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTG : 514
+       |:.::::||||:.:||. |.:.|: ::||: : | :|::.|:|:::|:|.|:||:|:| |: | 
+  35 : TKKQRKARTAFTDHQLQTLEKSFERQKYLSVQDRMELAAKLSLSDTQVKTWYQNRRTKWKRQT- :  98
+
+ 515 : SKNPLALQLMAQG : 527
+          :::|:|:|::
+  99 : ---AVGLELLAEA : 107
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 450 527 . GBUE008733-PA 34 107 . 180 M 63 63 G 4 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000856-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 273 -> 416
+  Target range: 45 -> 186
+
+ 274 : ANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNAST : 337
+       .::|:::| .: : ||:.: :|::::  : |. : :.|:: : ..::::::  ::|||: :.|:
+  46 : VSSVVAAPHKAILYDADQNINAIDGVLASGSASASADASASASGHVAPPPP--PPPPPSHSQSS : 107
+
+ 338 : ISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMES : 401
+        |::||..:.|:::: | ||:::| .|::::  |: |:|..::|:.: : ::::: | ::| .:
+ 108 : ASASSSANADSAGNGFGGSSSGASAASNANAAGGSFGGGAAGGSAASSAAASAAGGSGGAGAAG : 171
+
+ 402 : SDDTRSETGSTTTEG : 416
+       :: : | .||:: .|
+ 172 : GGLSFSLGGSSAHSG : 186
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 273 416 . GBUE000856-PA 45 186 . 100 M 51 51 G 2 0 M 90 90
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014661-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 44 -> 397
+  Target range: 36 -> 390
+
+  45 : QLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHA-AALQQRLSGSGSPASCSTPASS : 107
+       :|: |.:::||..::: .| ::.:.:.::.:.::: .: .:   |:.| |..:...|...::..
+  37 : RLESLKRRELAVELLRLRA-SYSSESESSEPETSSKVRKKGWRLLNARRSEDSDTDSSRNSSKE :  99
+
+ 108 : TPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKP : 171
+        . . .|::  :  .| .  . .::::|  .  ..::: |: ... ....:::|:   .:.:.:
+ 100 : MTWNSHENNQLPKPTDSRSAGGEESSSEYVAIWAAQGV-VNGTANLVTPSIASPSIGSAANPSS : 162
+
+ 172 : SLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPS-AFTRVDLLEFSRQQQAAA : 234
+       :|  :: .  : .:.    . :::|.  :: || |. |.:.: .: . |    :| |   : ..
+ 163 : TLYETLYPEQPPPLPPRGYRHRPLERTRAVGRPPEVQRKNKPLRALERTTGRAVEESFGFEIVD : 226
+
+ 235 : AAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALG- : 298
+       :.. :.: ::.::: . :. .. :.  . :    |. |:: . :.||  : : ..  | ::|: 
+ 227 : TDELSNLDMNNSSLRGLLPCDDLSNSTSLLGSHELSTSSTLVQLGPPHQALLHSNLDEPAPLAT : 290
+
+ 299 : SLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASS : 361
+       :  .:.|:  :..::: .:.: . ::|:|.|.  ::::: ::||:: :..::|.|::|:|::|.
+ 291 : PEHDSTSDSQRTNSASDNNTSQDVPSSALQSTLIPTSSPLVNSTPGGSGEGASRSTDCASSSSD : 354
+
+ 362 : LNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDS : 397
+        :::.||. |  ::  . |.|| .|.|.. | ||::
+ 355 : EDAPTSSSTGLVSGHRPLSRPQCPPTPTHHARSRQA : 390
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 44 397 . GBUE014661-PA 36 390 . 104 M 19 19 G 1 0 M 21 21 G 0 1 M 60 60 G 1 0 M 70 70 G 0 1 M 81 81 G 0 1 M 100 100
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE018007-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 269 -> 476
+  Target range: 173 -> 376
+
+ 270 : RRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPAS : 333
+       :||::||  .:. .| .|: .:|:.: .|  ::..: .:.:..: .|.: .|. .| :|:|   
+ 174 : KRSGSNASERSGEESPRSQKRSERRSNTSSPQTAKRSERRSNTSSPQTAKRSERRSNTSSP--- : 235
+
+ 334 : NASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDS : 397
+       :::. |. .| ::|:.|..||.: :  | ::|..|| ::|.:: :::|: |:: .:.|.||::|
+ 236 : HTAKRSERRSNTASPRSRRSGSNVSKHSDDGSQKSRRSGSNTSKHSPSASPRSRRSGSNVSKHS : 298
+
+ 398 : GMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPR-YRRPKQPKDKTNDEKRPRTA : 460
+       | .|  . ||  || .:.|::...::: . .:| .. :.||:.   .|.:.|.|:...... ..
+ 299 : GSGSHRSRRS--GSRESAGSRASKRSGSAKSARSKSGSRSGSSGSASPSERKSKSRSKTPGGDE : 360
+
+ 461 : FSSEQLARLKREFNEN : 476
+        |. :::| |: ::::
+ 361 : GSDVEVSRKKKVLSDS : 376
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 269 476 . GBUE018007-PA 173 376 . 101 M 61 61 G 3 0 M 74 74 G 2 0 M 31 31 G 0 1 M 36 36
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE009238-PA
+         Model: affine:local:protein2protein
+     Raw score: 184
+   Query range: 446 -> 511
+  Target range: 8 -> 73
+
+ 447 : PKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIK : 510
+       .:: .:: :| ||||:.||||||.:|| .:.|:: .|| :|:::|:|.|: ||:||||:| | |
+   9 : QQQGGDNIRRYRTAFTREQLARLEKEFYKENYVSRPRRCELAAQLSLPESTIKVWFQNRRMKDK :  72
+
+ 511 : K : 511
+       :
+  73 : R :  73
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 446 511 . GBUE009238-PA 8 73 . 184 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE010125-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 270 -> 464
+  Target range: 133 -> 327
+
+ 271 : RSAANAVIPPPMSSKMSDANPEKSALG-SLCKAVSQIGQPAAPTMTQPPLSSSASSLASPP-PA : 332
+       .||| : :||  :     :.|.. :|| ::| .|  :. | :|:::.| ::::::: .:|: |:
+ 134 : SSAAVGDVPPVEAQPCVPPTPATVPLGEPMCPEV-LVPVPLPPAVAAPLVAAPSPAPEAPAQPP : 196
+
+ 333 : SNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRD : 396
+       :. :.: | ::.:..:|::::: ::| :::.::::::|:::.|  ||.:::::    .:. : :
+ 197 : APIPPVQSLPPAPVEASPPPPSVPAALPPVTPPAPPQLAPAPSQENAKPSRSHKRKLQPVDGEG : 260
+
+ 397 : SGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTA : 460
+       | .. . :..|..|... .: :. : |:  | :. :: .  : . . ||.:|...:.  .|...
+ 261 : SKKTQKVEEPSSPGDDGRKSKRARL-PTQPYQSPIPELNMIAKMNNTPKASKASEEKLISPNDV : 323
+
+ 461 : FSSE : 464
+       |:::
+ 324 : FTPD : 327
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 270 464 . GBUE010125-PA 133 327 . 118 M 27 27 G 0 1 M 6 6 G 1 0 M 26 26 G 0 1 M 91 91 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006328-PA
+         Model: affine:local:protein2protein
+     Raw score: 156
+   Query range: 442 -> 519
+  Target range: 5 -> 81
+
+ 443 : RPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKR : 506
+       | |:| :| :  :.||.:||:.|:| |. .::.:.||..    :|:| | |:::::||||||:|
+   6 : RKKEP-GKRKLCRNPRIPFSASQIAILEEKYDTSPYLNSTDLSRLASLLHLSHSRVKIWFQNRR :  68
+
+ 507 : AKIKKSTGSKNPL : 519
+       |: ::...:|. |
+  69 : ARERRENNTKGCL :  81
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 442 519 . GBUE006328-PA 5 81 . 156 M 5 5 G 1 0 M 71 71
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007417-PA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 17 -> 151
+  Target range: 175 -> 307
+
+  18 : LQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAA :  81
+       :| |::::||| |||||||:::|:|  | ||::|||  .  :::.| . :|......|.....|
+ 176 : IQQQQMQQQQQMQQQQQQQLHQLQQQLQQQQIQQQQHLQQQLQQQAQQQQAQQQQQQAQQQQQA : 239
+
+  82 : HAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEED-DD : 144
+       :.:|.. ||:      .|    ..  |:  .:::: .|:|.  .: : .:..: :|: :|| ::
+ 240 : QQQAQQQQQQQQQQQQQA---QQQQQTAQQTQQQQIASLITRSRLVELVREVDPNEQLDEDVEE : 300
+
+ 145 : IDVDVDD : 151
+       : :::.|
+ 301 : LLLQLAD : 307
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 17 151 . GBUE007417-PA 175 307 . 132 M 82 82 G 3 0 M 40 40 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007417-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 18 -> 91
+  Target range: 170 -> 244
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQL-QQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAA :  81
+       |:|:  :||| ||||| | |: :||:|| |||:|||:..    :..:. :|....|......|.
+ 171 : QLQQQIQQQQMQQQQQMQQQQQQQLHQLQQQLQQQQIQQQQHLQQQLQQQAQQQQAQQQQQQAQ : 234
+
+  82 : HAHAAALQQR :  91
+       :.:.|. |.:
+ 235 : QQQQAQQQAQ : 244
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 91 . GBUE007417-PA 170 244 . 111 M 28 28 G 0 1 M 45 45
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007417-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 16 -> 151
+  Target range: 165 -> 300
+
+  17 : TLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAA :  80
+       .|  ::|::| |||| ||||  : :| |||:||:||  .. : ::. :. : ...|....|...
+ 166 : GLTQHQLQQQIQQQQMQQQQQMQQQQQQQLHQLQQQLQQQQIQQQQHLQQQLQQQAQQQQAQQQ : 229
+
+  81 : AHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDD : 144
+       .:. ... |.:  :   ..    ..  :.   :..: .      |: .::: .:   |.: :::
+ 230 : QQQAQQQQQAQQQAQQQQQQQQQQQQQAQQQQQTAQQTQQQQIASLITRSRLVELVREVDPNEQ : 293
+
+ 145 : IDVDVDD : 151
+       :| ||::
+ 294 : LDEDVEE : 300
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 16 151 . GBUE007417-PA 165 300 . 108 M 135 135
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007417-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 18 -> 136
+  Target range: 182 -> 300
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | |::::||||| :| ||  : :|:|| |:|:||  ..:  :::. . :.|.....|...|..:
+ 183 : QQQQMQQQQQQQLHQLQQQLQQQQIQQQQHLQQQLQQQAQQQQAQQQQQQAQQQQQAQQQAQQQ : 246
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEE : 136
+       .:... ||: :    .::  |..  .:  |. .   .:: ::. ::| :.. ||
+ 247 : QQQQQQQQQQAQQQQQTAQQTQQQQIASLITRSRLVELVREVDPNEQLDEDVEE : 300
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 136 . GBUE007417-PA 182 300 . 101 M 118 118
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001995-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 440 -> 500
+  Target range: 59 -> 119
+
+ 441 : YRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKI : 500
+       :.::  .::|.. ....|:.||. |   |.: |: ::|::.. |::|:..|||:::|:::
+  60 : FPWAGSQRGKPRRGMMRRAVFSDLQRKGLEKRFQIQKYISKPDRKKLAEKLGLKDSQLRL : 119
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 440 500 . GBUE001995-PA 59 119 . 107 M 60 60
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 27 -> 417
+  Target range: 1079 -> 1469
+
+   28 : QQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAA-AAAAAAAAAAAHAHAAAL :   88
+        :: : :: :: :| :    ::: ::  :.: |: .| |:.||| ::.| :||.||.: .:  
+ 1080 : ENTEMKETELTNLIEETISNEVSKDSDSNSNFDVTATALSAAAITSVAIGAAVAAKTLVSKE : 1141
+
+   89 : QQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVD :  150
+        :::::|: .. . |:  ..:  .::|. :.::...:|  :.  ..:|. .: ....  |...
+ 1142 : NEKITGNKETLEISSKLEESIEPLNESINSAMTPKVSAVKPLSPVSEKPKTPTTSKSPVAAK : 1203
+
+  151 : DTSAG-GRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQ :  211
+        ..||: ..: |::. .:|.|.|: | : .. :.   :.. ||: : ...||: .: .:..:.
+ 1204 : SNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKP--AAATKPAAAAKPAASVKSAAASKPAA : 1263
+
+  212 : TATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSA :  273
+        :|.|:: : ..  . : .:.||| : .||   .:::  .. :||| :  . . . ::   :|
+ 1264 : AAKPASAATAKPASAATAKPAAAISKPAAAATAKPS-AASAKPAAAATAKPSAASTKPAAAA : 1324
+
+  274 : ANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNA :  335
+        |::. ::  ::  . |.:.|:| :.  ...:: :.:::|. :..|  :.::| |:: |||.|
+ 1325 : AKPAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPASAA : 1386
+
+  336 : STISSTSS-VATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRD :  396
+        :: .:|::  ||::::.::. .::::: :::.::  :::|:  .||.|.| :  |.:|.|..
+ 1387 : TSPKPTGAKPATTTTTKATPLKPGTPTAKPGTPTTKSPAGTKPAASKPAPTASKPTTATSPK : 1448
+
+  397 : SGMESSDDTRSETGSTTTEGG :  417
+        :|  |:..: ::.::.:. ::
+ 1449 : PGTPSAKAAATDKSAVAKPAA : 1469
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 27 417 . GBUE016220-PA 1079 1469 . 134 M 43 43 G 0 1 M 85 85 G 0 1 M 28 28 G 2 0 M 62 62 G 1 0 M 95 95 G 0 1 M 74 74
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 30 -> 420
+  Target range: 1139 -> 1529
+
+   31 : QQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQRL :   92
+        :::::   : : |:   :|::   : .   ::||: ..:|. : ::.:. :.:.::: : .:
+ 1140 : KENEKITGNKETLEISSKLEESIEPLNESINSAMTPKVSAVKPLSPVSEKPKTPTTS-KSPV : 1200
+
+   93 : SGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSA :  154
+        ::.:::|| :.  :||| : . ..:...:|..:  :.: :|: ...|. ...:. .....:|
+ 1201 : AAKSNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKPAAATKPAAAAKPAASVKSAAASKPA : 1262
+
+  155 : GGRLPPPA--HQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTAT :  214
+        ::  |::|   :..|:|.:. | :||:  :.  :.   :: . ...|:  .: .::::.:|:
+ 1263 : AAAKPASAATAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATAKPSAASTKPAAAA : 1324
+
+  215 : PSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANA :  276
+        :.: : ..  . ::...:| :||: :  :.  .  .  . .| ...:.. . :   ::|:.|
+ 1325 : AKPAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPASAA : 1386
+
+  277 : VIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTI :  338
+        . | | ::| :.:...|::  :| |: :..::|::|| . |: :.:|:| ::|.::..:::.
+ 1387 : TSPKPTGAKPATTTTTKAT--PL-KPGTPTAKPGTPTTKSPAGTKPAASKPAPTASKPTTAT : 1445
+
+  339 : SSTSSVATSSSSSS--SGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSG :  398
+        |:.::.:::.::::  |: :.:|:: .|:|::: ::::.. :|:: .:|.|  |:: :::|:
+ 1446 : SPKPGTPSAKAAATDKSAVAKPAAPKPSTPTAKASSPAKPPSATPKASQQIKKPGTPTKQSA : 1507
+
+  399 : MESSDDTRSETGSTTTEGGKNE :  420
+        :.|| . .:.::|..: .:|.:
+ 1508 : VTSSVSRPTSSASEKSPTAKAN : 1529
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 30 420 . GBUE016220-PA 1139 1529 . 125 M 57 57 G 1 0 M 74 74 G 0 2 M 133 133 G 2 0 M 2 2 G 1 0 M 52 52 G 0 2 M 68 68
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 18 -> 460
+  Target range: 1043 -> 1488
+
+   19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAA :   80
+        | ::: ::|  :: |: ::. |:: :  :: .::  ... ..:..::   ..: :...: .:
+ 1044 : QTNDVSQDQIIEKSQKIDVPILNEEKTPEDNKKELSENTEMKETELTNLIEETISNEVSKDS : 1105
+
+   81 : AHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEED :  142
+        . . . .: .   :::: :| :..|: :: |: ..|::.:.|:..  : : . :|. |: ::
+ 1106 : DSNSNFDVTATALSAAAITSVAIGAAVAAKTLVSKENEKITGNKETLEISSKLEESIEPLNE : 1167
+
+  143 : DDIDVDVDDTSAGGRLPPPAHQQQ--STAKPSLAFSISNILSDRFGDVQKPGKSMENQASIF :  202
+        .  .. . ..||  .|:| :::.:  :|:|:::| . ::  ...      .:|| ...|.  
+ 1168 : SINSAMTPKVSAVKPLSPVSEKPKTPTTSKSPVAAKSNSASKTPVKPSTPTAKSPATPAKAV : 1229
+
+  203 : RPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEI :  264
+         : .| ::.:|| :| :     . .....: :|||: :   . |:  :  .: : : | .  
+ 1230 : GAKTAVKPAAATKPAAAAKPAASVKSAAASKPAAAAKPASAATAKPASAATAKPAAAISKPA : 1291
+
+  265 : VQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSL :  326
+        ..:  :.|||:|  ::: ::| |.|:.. :| ::   |.:: :.:| |: :. | ::.::::
+ 1292 : AAATAKPSAASAKPAAAATAKPSAASTKPAAAAAKPAAAAKPAAAAKPAASAKPAAAKPATV : 1353
+
+  327 : ASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSP-QPQPI :  387
+        |: |:|:.::. ::|:: :.|:|::::  :|||:| :::.:.. .::.: ..: .|  | : 
+ 1354 : ATKPAAAGTPKQAATPTQTKSASTAAAKPASAATSPKPTGAKPATTTTTKATPLKPGTPTAK : 1415
+
+  388 : PPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKD :  449
+        |..::... :| .::....: |:|..|.:....  .: .  :  ...: : |  .:|. |..
+ 1416 : PGTPTTKSPAGTKPAASKPAPTASKPTTATSPKPGTPSAKAAATDKSAVAKPAAPKPSTPTA : 1477
+
+  450 : KTNDEKRPRTA :  460
+        |::.  :|.:|
+ 1478 : KASSPAKPPSA : 1488
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 460 . GBUE016220-PA 1043 1488 . 123 M 148 148 G 0 2 M 216 216 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 61 -> 398
+  Target range: 1224 -> 1557
+
+   62 : PAMAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGD :  123
+        ||.| :| :|. :|||: :| |  :|   : ::::.||: :.|||::. .  ...:..  :.
+ 1225 : PAKAVGAKTAVKPAAATKPAAAAKPAASVKSAAASKPAAAAKPASAATAKPASAATAKPAAA : 1286
+
+  124 : MSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRF :  185
+        :| ...: :|.. ..|... . ..... ::|:.: :::| :..::|||: | . :.  .   
+ 1287 : IS-KPAAAATAKPSAASAKPAAAATAKPSAASTKPAAAAAKPAAAAKPAAAAKPAASAK--- : 1345
+
+  186 : GDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERAN :  247
+        ....||:.  .:.|:   | :|: :.|.| || | ..  . :   . :::| .|:   .:|.
+ 1346 : PAAAKPATVATKPAAAGTPKQAA-TPTQTKSASTAAAKPASAATSPKPTGAKPATTTTTKAT : 1405
+
+  248 : FLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQP :  309
+         |:  .|:| | ....  .:  :.:|:::. .::.::. :.::|..::  :  .. |.:::|
+ 1406 : PLKPGTPTAKPGTPTTKSPAGTKPAASKPAPTASKPTTATSPKPGTPSAKAAATDKSAVAKP : 1467
+
+  310 : AAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRL- :  371
+        |||. : |. .:|::: ::::.:..:  |...:: :. |: :|| ..:::|: :.||:::  
+ 1468 : AAPKPSTPTAKASSPAKPPSATPKASQQIKKPGTPTKQSAVTSSVSRPTSSASEKSPTAKAN : 1529
+
+  372 : GASGSGVNASSPQPQPIPPPSAVSRDSG :  398
+        |::.:  :|:.:.|:: .|..|.:::|:
+ 1530 : GPTPTKPSATKAAPKAGTPTKAAGKGSD : 1557
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 61 398 . GBUE016220-PA 1224 1557 . 122 M 64 64 G 1 0 M 56 56 G 3 0 M 23 23 G 1 0 M 161 161 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 68 -> 417
+  Target range: 1260 -> 1610
+
+   69 : AAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQT :  130
+        :|||| :|:||:|.: :|| .:. :: :.||: :|: :|:: :  ...:.:  :. | ...:
+ 1261 : PAAAAKPASAATAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATAKPSAASTKPAA : 1322
+
+  131 : HTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPG :  192
+         ::: ...|. ... . .....:|::: :. | :..:::.|. | : ::. |.. :..: ::
+ 1323 : AAAKPAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPAS : 1384
+
+  193 : KSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNP :  254
+         : ..:::  :| .:: ::::. .: |...  . :.  :::|:: .|| . ..:.  .  ..
+ 1385 : AATSPKPTGAKPATTTTTKATPLKPGTPTAKPG-TPTTKSPAGTKPAASKPAPTASKPTTAT : 1445
+
+  255 : AAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEK--SALGSLCKAVSQIGQPAAPTM :  314
+        :: | .... ..:  :.:.|::. | | ::. ..::|.|  || .. .:.:.: | |: .: 
+ 1446 : SPKPGTPSAKAAATDKSAVAKPAAPKPSTPTAKASSPAKPPSATPKASQQIKKPGTPTKQSA : 1507
+
+  315 : TQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSG :  376
+        . :::|.::|| :. :|:::|:. ::|.: ||.:::.::. :.||:. :.:| .:| |::: 
+ 1508 : VTSSVSRPTSSASEKSPTAKANGPTPTKPSATKAAPKAGTPTKAAGKGSDAPVDKLKAASNK : 1569
+
+  377 : VNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGG :  417
+         .|.|. |   ::::| .....:..|:.. .|:. |..:.:
+ 1570 : PPAKSQTPVKKSSATADKNAKNLAKSGTKDKEAPITNDHEA : 1610
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 68 417 . GBUE016220-PA 1260 1610 . 120 M 157 157 G 1 0 M 67 67 G 0 2 M 124 124
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 101 -> 413
+  Target range: 1080 -> 1394
+
+  102 : STPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAH :  163
+        :|  ..| ||   ||: |   ... ::::: . .... .... ..|.::.: |:  | : .:
+ 1081 : NTEMKETELTNLIEETISNEVSKDSDSNSNFDVTATALSAAAITSVAIGAAVAAKTLVSKEN : 1142
+
+  164 : QQQSTAKPSLAFSISNILSDRFGDVQKP-GKSMENQASIFRPFEASRSQTATPSAFTRVDLL :  224
+        :: :..| :|  .||: |.:.:. ::.: ..:|..:.|  :|:.: ..:. ||:: ..    
+ 1143 : EKITGNKETL--EISSKLEESIEPLNESINSAMTPKVSAVKPLSPVSEKPKTPTTSKSPVAA : 1202
+
+  225 : EFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSA---ANAVIPPPMS :  283
+        . :.. :::. ::|:: .   :.  .  . :|  .  ..  .:  :.:|   :.|.  |: :
+ 1203 : KSNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKPAAATKPAAAAKPAASVKSAAASKPAAA : 1264
+
+  284 : SKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVA :  345
+        :| :.|...|:| ::  |:.:.|::|||:: ::|: :|: :: |:.: :|.||| :::::. 
+ 1265 : AKPASAATAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATAKPSAASTKPAAAAAK : 1326
+
+  346 : TSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRS :  407
+        .::::.::: :.:|:| :::::.. ..:.....|::|:..:.|..:  :..:: .::..: |
+ 1327 : PAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPASAATS : 1388
+
+  408 : ETGSTT :  413
+         ..:.:
+ 1389 : PKPTGA : 1394
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 101 413 . GBUE016220-PA 1080 1394 . 114 M 72 72 G 2 0 M 16 16 G 0 1 M 82 82 G 0 3 M 140 140
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 77 -> 418
+  Target range: 991 -> 1338
+
+   78 : AAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSF-HNQTHTTNEEEE :  138
+        .|.. .:.|.::: :: : ::: ...  :..::  .|:|::.: .. .. ::||:..:::: 
+  992 : EAQEIEEEAQFDEEVTQGKNSGISEPLINENAFLEEENEGNKIQPTEEMTQKQTNDVSQDQI : 1053
+
+  139 : AEEDDDIDVDV-DDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQA :  199
+         |..:.||| : ::..:..       :: .  ...|:  |.:.:|:  :.  .:..:.:  |
+ 1054 : IEKSQKIDVPILNEEKTPEDNKKELSENTEMKETELTNLIEETISNEVSKDSDSNSNFDVTA : 1115
+
+  200 : SIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLN-CFNPAAYPRI :  260
+        : :.: . :. ..::: | . :   | .:   . .: ..::.: |. : || .:|:|  |::
+ 1116 : TALSAAAITSVAIGAAVAAKTLVSKENEKITGNKETLEISSKLEESIEPLNESINSAMTPKV : 1177
+
+  261 : HEEIVQSRLR-RSAANAVIPPPMSSKMSDAN--PEKSALGSLCKAVSQIGQPAAPTMTQPPL :  319
+         .    |.:. :: :.:.  :|:::| :.|:  | |:: .:  .:.:.  . :| | .:|: 
+ 1178 : SAVKPLSPVSEKPKTPTTSKSPVAAKSNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKPAA : 1239
+
+  320 : SSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASS :  381
+        ::.::: |.|::: :::: |..::.|.::|::::  :|||:: .::: |: :|:::: .:::
+ 1240 : ATKPAAAAKPAASVKSAAASKPAAAAKPASAATAKPASAATAKPAAAISKPAAAATAKPSAA : 1301
+
+  382 : PQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGK :  418
+        :. .: ::.:  | .|.. ::..:::.:::..:.::|
+ 1302 : SAKPAAAATAKPSAASTKPAAAAAKPAAAAKPAAAAK : 1338
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 77 418 . GBUE016220-PA 991 1338 . 111 M 49 49 G 0 1 M 23 23 G 0 1 M 101 101 G 0 1 M 20 20 G 0 1 M 20 20 G 0 2 M 128 128
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 68 -> 417
+  Target range: 1197 -> 1546
+
+   69 : AAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQT :  130
+        ::.|| :.:|: :...:::  .: :::.: |  :..| ..: :.| ..:..  :.:.  ..:
+ 1198 : SPVAAKSNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKPAAATKPAAAAKPAASVKSAAAS : 1259
+
+  131 : HTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPG :  192
+        ..:.... |.....  .....:.::: :: || .. :.:.:: | : :.  :.. :.  ||:
+ 1260 : KPAAAAKPASAATAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATAKPSAASTKPA : 1321
+
+  193 : KSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNP :  254
+         : .:.|:  :| .|:::.::: :| :: . :. .....::: .|:::   ..|:  .  .:
+ 1322 : AAAAKPAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPA : 1383
+
+  255 : AAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQ :  316
+        :| .. . . .::    :: .: : |. :: .:::...||: |:   | .. . :: || : 
+ 1384 : SAATSPKPTGAKPATTTTTKATPLKPGTPTAKPGTPTTKSPAGTKPAASKPAPTASKPTTAT : 1445
+
+  317 : PPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVN :  378
+        :| ::::|: |::.  |..:. ::..: :.::.:||:: :::|:: .| . .: |::..  .
+ 1446 : SPKPGTPSAKAAATDKSAVAKPAAPKPSTPTAKASSPAKPPSATPKASQQIKKPGTPTKQSA : 1507
+
+  379 : ASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGG :  417
+        .:|: ::|.:::|. |..:  :::. |::.:..::..:|
+ 1508 : VTSSVSRPTSSASEKSPTAKANGPTPTKPSATKAAPKAG : 1546
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 68 417 . GBUE016220-PA 1197 1546 . 110 M 349 349
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 68 -> 418
+  Target range: 1209 -> 1554
+
+   69 : AAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIK-EEESDSVIGDMSFHNQ :  129
+        ::. :::::| :: :.| |: .: : ..::|: :::|:..: ::| ...|.:. :..:  ..
+ 1210 : TPVKPSTPTAKSPATPAKAVGAKTAVKPAAATKPAAAAKPAASVKSAAASKPAAAAKPASAA : 1271
+
+  130 : THTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKP :  191
+        | .......|. ...|.  ...::| .. ::: ....:||||| | : :.  :.: :...||
+ 1272 : TAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATAKPSAASTKPAAAAAKPAAAAKP : 1333
+
+  192 : GKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFN :  253
+        : : ...||  :| .|:::.|.:..: :  .  : : . |: :|:::||.  . |.  :  .
+ 1334 : AAAAKPAASA-KP-AAAKPATVATKPAAAGTPKQAATPTQTKSASTAAAKPASAATSPK--P : 1391
+
+  254 : PAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMT :  315
+        .:| | . ... .:.|:.:::.|  ..| :.. ::::|. |  ::  .  :  . | :.| :
+ 1392 : TGAKPATTTTTKATPLKPGTPTAKPGTPTTKSPAGTKPAASKPAPTASKPTTATSPKPGTPS : 1453
+
+  316 : QPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGV :  377
+        . : ::. |::|.|:::..::..:.:|| |.::|:::.  :|.. . .::|:.: :.::|  
+ 1454 : AKAAATDKSAVAKPAAPKPSTPTAKASSPAKPPSATPK--ASQQIKKPGTPTKQSAVTSSVS : 1513
+
+  378 : NASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGK :  418
+        .::|:.::  |.:.| :..:.. |:..: :.:|:.|..:||
+ 1514 : RPTSSASEKSPTAKANGPTPTKPSATKAAPKAGTPTKAAGK : 1554
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 68 418 . GBUE016220-PA 1209 1554 . 110 M 45 45 G 0 1 M 88 88 G 1 0 M 2 2 G 1 0 M 45 45 G 2 0 M 101 101 G 2 0 M 63 63
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 3 -> 457
+  Target range: 1003 -> 1462
+
+    4 : EDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLA-AGVFHHPAM :   64
+        |:   .:::. : .|  ::   ::::: :: |. ::: | |  :  ::| :. :  :: | :
+ 1004 : EEVTQGKNSGISEPLINENAFLEEENEGNKIQPTEEMTQKQTNDVSQDQIIEKSQKIDVPIL : 1065
+
+   65 : AFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEE-SDSVIGDMS :  125
+        . : ::...  . :..:: ..:.| : :..: |.. ...:.|::.:.:.... |.:.|..::
+ 1066 : NEEKTPEDNKKELSENTEMKETELTNLIEETISNEVSKDSDSNSNFDVTATALSAAAITSVA : 1127
+
+  126 : FHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNI--LSDRF :  185
+        :   : .:...  :.|::.|. : :. . :::|  : :. :.: ::::: .:|.:  ||   
+ 1128 : I--GAAVAAKTLVSKENEKITGNKETLEISSKLEESIEPLNESINSAMTPKVSAVKPLSPVS : 1187
+
+  186 : GDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEF--SRQQQAAAAAATAAMMLER :  245
+        .. :.|..|... |:  .: . :. :.:||:| :...  .   :: .  :|||:.:|   ..
+ 1188 : EKPKTPTTSKSPVAAKSNSASKTPVKPSTPTAKSPATPAKAVGAKTAVKPAAATKPAAAAKP : 1249
+
+  246 : ANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIG :  307
+        |. ::. .::  :   .   .:  :.::|.:. |::  || :.|...|:: :|   |.:..:
+ 1250 : AASVKSAAASKPAAAAKPASAATAKPASAATAKPAAAISKPAAAATAKPSAASAKPAAAATA : 1311
+
+  308 : QPAAPTMTQPPLSSSASSLASPPPASNASTI---SSTSSVATSSSSSSSGCSSAASSLNSSP :  366
+        :|:|:: ..:: ::.::: |.|::|:::::    :::.:.:.::.::::| :..|:: . : 
+ 1312 : KPSAASTKPAAAAAKPAAAAKPAAAAKPAASAKPAAAKPATVATKPAAAGTPKQAATPTQTK : 1373
+
+  367 : SSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYC :  428
+        |:. :|: :: .|:||:| .  |:::.: .:.  .::.. :..|:.||.:. ... ||    
+ 1374 : SASTAAAKPASAATSPKPTGAKPATTTTTKATPLKPGTPTAKPGTPTTKSPAGTK-PAASKP : 1434
+
+  429 : TRYSDRPSSGPRYRRPKQPKDKTNDEKRP :  457
+        :. :.:|:::.. .:|  |..|:....::
+ 1435 : APTASKPTTATS-PKPGTPSAKAAATDKS : 1462
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 3 457 . GBUE016220-PA 1003 1462 . 107 M 52 52 G 0 1 M 61 61 G 0 1 M 10 10 G 2 0 M 52 52 G 0 2 M 46 46 G 0 2 M 112 112 G 0 3 M 83 83 G 1 0 M 18 18 G 1 0 M 16 16
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016220-PA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 64 -> 421
+  Target range: 1233 -> 1592
+
+   65 : AFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSF :  126
+        | .:|||: :|||| :| :  :| . : ::::.||| :|: :::: | | ..: |  :. : 
+ 1234 : AVKPAAATKPAAAAKPAASVKSAAASKPAAAAKPASAATAKPASAATAKPAAAISKPAAAAT : 1295
+
+  127 : HNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFG-D :  187
+         :.: ::.. ..|....  ..... ::|::: |::| :..::|||: : . :.  :.  : .
+ 1296 : AKPSAASAKPAAAATAKPSAASTKPAAAAAK-PAAAAKPAAAAKPAASAKPAAAKPATVATK : 1356
+
+  188 : VQKPGKSMENQASI-FRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANF :  248
+         . :|.:.:..::.  :: .:: ::.|:::: .: .  . :    : |:: .::   .::. 
+ 1357 : PAAAGTPKQAATPTQTKSASTAAAKPASAATSPKPTGAKPATTTTTKATPLKPGTPTAKPGT : 1418
+
+  249 : LNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPA :  310
+         .  :||:  .  .. ..:  :.::|.:  |.. |:| :.:: .  | .:  |: :..::::
+ 1419 : PTTKSPAGTKPAASKPAPTASKPTTATSPKPGTPSAKAAATDKSAVAKPAAPKPSTPTAKAS : 1480
+
+  311 : APTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGA :  372
+        :|:...:: :.::  : .|..:::.|:::|: | :|||:|..|. :.|.:: .:.||:  :|
+ 1481 : SPAKPPSATPKASQQIKKPGTPTKQSAVTSSVSRPTSSASEKSPTAKANGPTPTKPSATKAA : 1542
+
+  373 : SGSGVNASSPQPQPIPPPSAVSRDSGMESS-DDTRSETGSTTTEGGKNEM :  421
+        : :|..:.::   : :| . :. .|.. :: .:|. ..:|:|:: . :::
+ 1543 : PKAGTPTKAAGKGSDAPVDKLKAASNKPPAKSQTPVKKSSATADKNAKNL : 1592
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 64 421 . GBUE016220-PA 1233 1592 . 105 M 93 93 G 1 0 M 28 28 G 0 1 M 15 15 G 0 1 M 201 201 G 0 1 M 19 19
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006000-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 40 -> 462
+  Target range: 709 -> 1121
+
+   41 : HQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCS :  102
+        : :::: :: : :| :|| .:   .|::::. ::. :.::: : :.::    .  ::..|.|
+  710 : ESFEDILDFIDVRL-GGVTPQKIEDFEGSGDMSTVFTESGTMSSTDSVTGATDIVSGTESSS :  770
+
+  103 : TPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQ :  164
+        .::| .: ||. .|. | |..:|  . . |.:. ..:: | .  :  |:||.| .  :|:::
+  771 : ESSSVDSSTITVSEDVSSITSVSSGGTDATESSVGSTDIDLTSIMMSDGTSVGVSDVSPSEK :  832
+
+  165 : QQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEF :  226
+          ..: .::: . |:|  |. : .:.: .: .:..|  .: ..:.|:|:| :: |  .  |:
+  833 : TSKDGVTTVSVESSSI--DMTSPTEESVSTSSEAQSSSSSVTETSSETSTDATSTESS-TEL :  891
+
+  227 : SRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSD :  288
+        |  :.::::.:|:.   ..:: |:. ::.: :.  ...  .  ..::::.| . . : . ..
+  892 : STTDASPTSDSTTES--SSGSTLSS-ESNTISSDSTATSSDGTSSGSTEEVSTDGTTMSSES :  950
+
+  289 : ANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSS :  350
+        :.  .|: ::| .: |..:. :.::::::: |:|.|| ||.  :| .| |..:||  . |||
+  951 : STLLSSSSDGL-TSSSATSPVSDSSVSESSESTSESSWASTMLSSIVSLIKESSSERPVSSS : 1011
+
+  351 : SSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGST :  412
+        |.| .:. ||: ::|. |  ..|::..:.||::  | :  . :: ::: |||.: .| |.:.
+ 1012 : SESVSTELASTYSTSGVSDTTDSSTETSVSSSDVTPDSDLKRIG-EGATESSTELSSMTETD : 1072
+
+  413 : TTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFS :  462
+         .|:.... |:. |: .  :.  |: .| : :|: |.:.: .|  ::.|:
+ 1073 : MEESEDTTSWAQTVFGVT-TSVESAVTREQASKKCKKRPKIKKCVKSEFG : 1121
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 40 462 . GBUE006000-PA 709 1121 . 112 M 14 14 G 1 0 M 125 125 G 2 0 M 40 40 G 1 0 M 18 18 G 2 0 M 8 8 G 1 0 M 47 47 G 1 0 M 94 94 G 1 0 M 35 35 G 1 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014368-PA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 451 -> 498
+  Target range: 9 -> 56
+
+ 452 : NDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQI : 498
+       ...:||||||:|:||  |.::|.:|:||: .:| ::::.| |.|:|:
+  10 : GKTRRPRTAFTSQQLLELEKHFRQNKYLSRPKRFEVATSLMLTETQM :  56
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 451 498 . GBUE014368-PA 9 56 . 119 M 47 47
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005362-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 170 -> 426
+  Target range: 83 -> 341
+
+ 171 : PSLAFSISNILSDRFGDVQKPGKSMEN--QASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQA : 232
+       .:||::: ::|. : |::.. .. |::  |: :::  ..:|.:.:. :| .:..  ::   :  
+  84 : NTLAYNFLQLLDLQSGQLAEMESQMNHIAQTVMIHKEKVARREIGVLTA-NKTSTRQY---KII : 143
+
+ 233 : AAAAATAAMMLERANF-LNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSA : 295
+       |:|.:. ::. || .: :| :: .:..   :.. : :|.|:::.. :.|: ::| :.:.:  .:
+ 144 : APANPEKPIKYERKPIDFNALDDVGHGARSQSTSRVKLNRTGSTVGVGPAPTTKPPTPPSVIRS : 207
+
+ 296 : LGSLCKAVSQIGQPAAPTMTQ-PPLSSSASSLASPPPASNAS-TISSTSSVATSSSSSSSGCSS : 357
+        |||.|: .:   |:| : .| |:  ::. :|: |..|: :: .:::| : ..:|  : |  |:
+ 208 : TGSLSKGSREYRTPPAVAPPQVPSHYAPNYPLGHPRRAGYSTLPLNATMTQQPPSQQPISQHSN : 271
+
+ 358 : AASSLNSSPSSRLGAS-GSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNE : 420
+       .:  :.. | :. .:| ..::: .::.| | ||:::|:. .   :|  ..:.|.:  |  ..: 
+ 272 : NSVHFADQPMPPPPPSMTDDLSRCNSPPLPPPPAPTVASLEQDLASRYPPTTTPPLHTIVTDEI : 335
+
+ 421 : MWPAWV : 426
+         |:||
+ 336 : DLPGWV : 341
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 170 426 . GBUE005362-PA 83 341 . 100 M 27 27 G 0 2 M 20 20 G 1 0 M 8 8 G 3 0 M 19 19 G 0 1 M 68 68 G 0 1 M 20 20 G 0 1 M 37 37 G 0 1 M 53 53
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014935-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 448 -> 501
+  Target range: 21 -> 74
+
+ 449 : DKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIW : 501
+       :|...::|.||:|:: ||  |.|.|:.::| .  .|::|: .:.|.|.:::::
+  22 : EKKAKHRRNRTTFTTYQLHELERAFEKSHYPDVYSREELAMKVNLPEVRVQVR :  74
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 448 501 . GBUE014935-PA 21 74 . 108 M 53 53
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021038-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 186 -> 417
+  Target range: 150 -> 382
+
+ 187 : DVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLN : 250
+       :||:|     :|. : ...:::  |.  | .  .::  :.:  || :.:.. :: :   :::: 
+ 151 : QVQQPRPQQMHQVVVQPQMNPPLHQIHQPLNQQMLQQQQMGGYQQIGQPQQRTPDLSPTPQIIY : 214
+
+ 251 : CFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTM : 314
+         :: : .| : .::|.| |.|..:.:::.. ||  |.:..  ::: ::  :  :.: ::::.:
+ 215 : NQQSRTMTREDVALMQER-RMSQQSQMMSGNGSSPGSTGGGMVGGVCNMTGGHHRTSSAPPAPV : 277
+
+ 315 : TQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVN : 378
+       ..|: ::::::|::||:::.:: :::.:: :.:::::::: :::::: ::: |.. ::.| :|:
+ 278 : PPPAPAPPPPPLGGPPAPPPPPMMGPPAPPPPAAPAPAAAPPPPPPPPQPNMSRSSSSDGQDVS : 341
+
+ 379 : ASSPQ--PQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGG : 417
+       : ::|  :. :  :|.  .:. :.::.:..:.:.|:::.||
+ 342 : SFAAQLAAAKLKKSSQPQPNRQVGAATENSGSSTSSSSSGG : 382
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 186 417 . GBUE021038-PA 150 382 . 102 M 82 82 G 1 0 M 114 114 G 0 2 M 34 34
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE021094-PA
+         Model: affine:local:protein2protein
+     Raw score: 179
+   Query range: 454 -> 511
+  Target range: 130 -> 187
+
+ 455 : KRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       || |||||:.|| :|.:.|:.|:|:..  |:||: .|:|.|:|:|:||||:|:| |:
+ 131 : KRIRTAFSPSQLLKLEHAFEKNHYVVGAERKQLAQSLSLTETQVKVWFQNRRTKHKR : 187
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 454 511 . GBUE021094-PA 130 187 . 179 M 57 57
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE008650-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 163 -> 403
+  Target range: 80 -> 319
+
+ 164 : QQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFS : 227
+       :: |.||:  .::: |   :  | .::.| :  . : : .. :: .: . .|: |.. .:   :
+  81 : EHSSEAKAFHDYGFVNSGYGVNGIAHNTGPGPIPLGQMPPGGDGLPGGPMPPGFFPNSTMRPSP : 144
+
+ 228 : RQQQAAAAAATAAMMLERANFLNC--FNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDA : 289
+       . :.::.::: :.    :::.:..  | .: ||  .   |  |:.: |.:   ||. : . :. 
+ 145 : PTHPSSQPSPHPQPPPPHGEMMASQPFMGPRYPAGPRPSV--RMPQMANDYSGPPGQPMMPNSM : 206
+
+ 290 : NPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSS : 353
+       :|.: : .:: .  :::..| :|.|.. . || :::| :||||| ::. ::.::: . | ::::
+ 207 : DPGRQGPPGMASMNPRMNPPRGPGMGPMGPSSYGPGLRGPPPASMGPGGPGGPGMHPMSMGGPG : 270
+
+ 354 : GCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSD : 403
+       | :.:.   |:|.: . ::|::|  :::: : . |.|::  .:|. :||:
+ 271 : G-GRPQWQPNTSTPMNYSSSSPGSYGGPAGSSGPPGPGTPIMQSPQDSSN : 319
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 163 403 . GBUE008650-PA 80 319 . 106 M 88 88 G 0 2 M 14 14 G 2 0 M 87 87 G 1 0 M 48 48
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006957-PA
+         Model: affine:local:protein2protein
+     Raw score: 165
+   Query range: 418 -> 511
+  Target range: 46 -> 139
+
+ 419 : NEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTER : 482
+       .::||  |  ..  ::::|:.  |. .: ... .. :|.||:||:|||. |.:||:.::|   .
+  47 : PHVWPHPVPTDPNHHHSTSDGEGRPKDDDSSEQPKFRRNRTTFSPEQLDELEKEFDKSHYPCVS : 110
+
+ 483 : RRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+        |::|: .  |:||::::|| |:||| ::
+ 111 : TRERLAQKTCLSEARVQVWFSNRRAKWRR : 139
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 418 511 . GBUE006957-PA 46 139 . 165 M 93 93
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007923-PA
+         Model: affine:local:protein2protein
+     Raw score: 195
+   Query range: 451 -> 516
+  Target range: 105 -> 170
+
+ 452 : NDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGS : 515
+       :: ||:|||::|.||. |.:||: ||||  .|| |:: :| |:| ||||||||:| | ||.  :
+ 106 : SNPKRARTAYTSAQLVELEKEFHINRYLCRPRRIQMAQHLKLSERQIKIWFQNRRMKYKKDQKA : 169
+
+ 516 : K : 516
+       |
+ 170 : K : 170
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 451 516 . GBUE007923-PA 105 170 . 195 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005949-PA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 448 -> 511
+  Target range: 33 -> 96
+
+ 449 : DKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       : .: :|||||::::.||. ||..:|::.  : : |:||| : ||:   :::||||:||| |:
+  34 : EGDQPNKRPRTTITAKQLETLKMAYNNSPKPARHVREQLSQDTGLDMRVVQVWFQNRRAKEKR :  96
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 448 511 . GBUE005949-PA 33 96 . 146 M 63 63
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005345-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 207 -> 533
+  Target range: 30 -> 366
+
+ 208 : SRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANF--LNCFNPAAYPRIHEEIVQSRL : 269
+       :.|::::.:::: ..  . : ...|||| .|::|.: ::.:  :: ::.:: :. |.. ::   
+  31 : PSSHASSTTSYAAAAAAAAAAAAAAAAAYNTTPMRFMQPPYHAFSRYHRPP-SNEHGGQIHVEY :  93
+
+ 270 : RRSAANAVIPPPMSSKMSDANPEKSA--LGSLCKAVSQIGQPAAP------TMTQPPLSSSASS : 325
+       .||.:.:: :.| .|::|  .|::||  :.  .:: |   :.:..      :::.|. :| ::|
+  94 : SRSEPPPIPSGPTRSRISLLPPNNSAEYIPQHSRSSSSRHHQSENFREPMVAVAAPHSGSHSGS : 157
+
+ 326 : LASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASS-PQPQPIP : 388
+        ::|.::::::. |:. | : ||| |:| . | ::| ::|.|:. ::: || :::| || ..: 
+ 158 : HSGPHSGPHSGPHSGPHSGSHSSSHSGSHSVSHSGSHSGSHSGSHSGAHSGSHSGSQPQIPQLD : 221
+
+ 389 : PPSAVSRDSGMESSDDTRSETGSTT--TEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQP--- : 448
+        |:|  :.  :..|:...::..:.|  .|.  :.: |:    :: |:   .::.:|..|:    
+ 222 : VPPAPIKKMRLGDSQKPPADPPPPTLRVENRVDAVSPG----SQASEILQEDANFRSTKDELLL : 281
+
+ 449 : KDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+          . |:| ::|.:  .:| : ::|::|.   .|.::|: .   . :::  :  :.::| | ..
+ 282 : GIAKIDQKISKTELQISKLKKRQQELEEAAKQPEMKKQEEEQPQPKHQSLAQKIYAENRKKASE : 345
+
+ 512 : STGSKNPLALQLMAQGLYNHTT : 533
+       : :: |:|: : :. .|||:.:
+ 346 : AHAALNSLGPR-IDLPLYNQPS : 366
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 207 533 . GBUE005345-PA 30 366 . 107 M 41 41 G 0 2 M 8 8 G 1 0 M 38 38 G 0 2 M 17 17 G 0 6 M 69 69 G 0 1 M 32 32 G 0 2 M 11 11 G 4 0 M 19 19 G 0 3 M 75 75 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011449-PA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 20 -> 422
+  Target range: 797 -> 1197
+
+   21 : QHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLA-AGVFHHPAMAFDAAAAAAAAAAAAAA :   81
+        ::::    :...:::.: .:::|.:|. |   |   : | :   .| : :  .. .:  ...
+  798 : EEMDFLMTEPPPDEDPLSKFRRLAKLAVLSSTQQKWGQVVRGVCKASQIGRCNNKVSFKNQQ :  859
+
+   82 : HAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMS-FHNQT-HTTNEEEEAEE :  141
+        : : | ::.|  :: || : | . |::|:.: :..::|::. :: |:::| ::.  .....:
+  860 : NLQKAMVEARKIAARSPRPESRTCSPSPIKLPDTTGHSLMELLNDFNQETGRSPYRGSGDSD :  921
+
+  142 : DDDIDVD-VDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIF :  202
+          .:: | :.:.|::|  :.:. .: .. .|: . :| .|::|:  :   |.:| :.:||  
+  922 : VIALQPDKMSQISPSGLRARSVSPNLRGHSPGPQNGILAIVNDKKLQNSVPPRSQQGKASKN :  983
+
+  203 : RPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEI :  264
+         |  :. : .... : .  :  | .|:: .::::.|:: : |. :  .  :|   |.   ::
+  984 : IP-RTCITMDEDTITVKTEENTEPDRNKLVSPPPQTGPTLTEPRSRQR--SPMRSPPPAPDM : 1042
+
+  265 : VQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSL :  326
+         .:: | ::::.| . |:: ..| .:...:: ..  |:.:  :. ::.:::..| .: :|. 
+ 1043 : SPPKSRDGSPENVNTKPLPLDKSRNKTASAPPPEK-KPAPVPAAKSSQSLSAQPKKTLPSRP : 1103
+
+  327 : ASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSP-QPQPI :  387
+        :|| .|:.::.  :|.|:: :::::.|:.|.:.|: .|: |..:.::.: :::||: :|  .
+ 1104 : SSPVRAPPPPV--PTESMTQPTPAARSSSSDTVSPKPSAVSDPINSNNPKIKSSSSTEPLIT : 1163
+
+  388 : PPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMW :  422
+          ::.. |.: :| :. .: : |. ..  .|.. |
+ 1164 : VDSPDTLRSTRLEIPSPKKVDQGKLIKRQPKTG-W : 1197
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 20 422 . GBUE011449-PA 797 1197 . 113 M 35 35 G 0 1 M 70 70 G 0 1 M 5 5 G 0 1 M 18 18 G 0 1 M 56 56 G 1 0 M 45 45 G 2 0 M 47 47 G 1 0 M 37 37 G 2 0 M 43 43 G 0 1 M 38 38 G 1 0 M 1 1
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002655-PA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 8 -> 64
+  Target range: 1319 -> 1375
+
+    9 : PQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAM :   64
+        .: .. .| :| | |::||||||:|||| |: :| || || :||| .|   ::||:
+ 1320 : QHHQQMQIQMQQQLLQQQQQQQQHQQQQQQQQQQQQQQQQQQQQQQQAQQVQQPAL : 1375
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 8 64 . GBUE002655-PA 1319 1375 . 118 M 56 56
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002655-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 18 -> 115
+  Target range: 1339 -> 1434
+
+   19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAA :   80
+        | || ::||||||||||| |: :| || ||::|..| :. :::  :: . ... . ... . 
+ 1340 : QQQHQQQQQQQQQQQQQQQQQQQQQQQAQQVQQPALRPTSLDR-LLSPSHQQQHQMQQQLQL : 1400
+
+   81 : AHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEE :  115
+        .:.:...|||:|     .     |::  |: :| |
+ 1401 : QQQQQQQLQQQL-QQQHQLHIQQPSPQQPVMVKRE : 1434
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 115 . GBUE002655-PA 1339 1434 . 110 M 43 43 G 1 0 M 30 30 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002655-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 17 -> 64
+  Target range: 1333 -> 1380
+
+   18 : LQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAM :   64
+        || |: ::|:||||||||| |: :| || || :.||:....::..::
+ 1334 : LQQQQQQQQHQQQQQQQQQQQQQQQQQQQQQQQAQQVQQPALRPTSL : 1380
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 17 64 . GBUE002655-PA 1333 1380 . 106 M 47 47
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE002655-PA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 22 -> 175
+  Target range: 1300 -> 1451
+
+   23 : LHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAH :   84
+        ::|:| ||||:|.: |||:| :|  |:: ||    ::::.. . : .............:.:
+ 1301 : MQHHQLQQQQHQANQQHLQQHHQQMQIQMQQ---QLLQQQQQQQQHQQQQQQQQQQQQQQQQ : 1359
+
+   85 : AAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDD-DI :  145
+        ... ||:      ||  :|: ..  |: .::: : :  :: :::| :   ::: .:::: :|
+ 1360 : QQQQQQQAQQVQQPALRPTSLDRL-LSPSHQQQHQMQQQLQLQQQQQQQLQQQLQQQHQLHI : 1420
+
+  146 : -DVDVDDTSAGGRLPPPAHQQQSTAKPSLAF :  175
+         : . ::.    | |..:| |: ::.| : :
+ 1421 : QQPSPQQPVMVKREPQTPHSQHYATSPVVIL : 1451
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 22 175 . GBUE002655-PA 1300 1451 . 102 M 31 31 G 3 0 M 52 52 G 1 0 M 34 34 G 0 1 M 2 2 G 0 1 M 30 30
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE009905-PA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 453 -> 547
+  Target range: 29 -> 121
+
+ 454 : EKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKN : 517
+       .: .|.::..:| : |..||  |:| .  || .::..| |.| |:||||||:| | ||.   :.
+  30 : KRGHRVPYKRHQTTELENEFILNQYPERGRRLAIAKSLRLTERQVKIWFQNRRMKWKKDR-MRA :  92
+
+ 518 : PLALQLMAQGLYNHTTVPLTKEEEELEMRM : 547
+       .|::. ::.: .| ::.|:|.....:. ::
+  93 : GLSIPTLSPS-HNASSTPVTSSSTTVSSQL : 121
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 453 547 . GBUE009905-PA 29 121 . 137 M 60 60 G 1 0 M 13 13 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE004698-PA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 182 -> 398
+  Target range: 92 -> 300
+
+ 183 : DRFGDVQKPGKSMENQASIFRPF-EASRS-QTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLE : 244
+       |:|:. :|:: :. : :. |  | |.|||  .:.::::|.    :|  :::.|:: : .:| | 
+  93 : DKFDSPKKSDFGKIDISKDFDDFMEDSRSGGVGESPPLTPRPDYDFMAHEREASPMPREPMPLP : 156
+
+ 245 : RANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQ : 308
+       :       :|:: |: ..   .|. :.|:|:. .|||..:. :  :|. :: .:   : .....
+ 157 : K-------DPTPPPKQPSPSPPSPRQPSPAKEPTPPPKEPTPPPKEPTPPPKEPTPPPKEPTPP : 213
+
+ 309 : PAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGA : 372
+       | .||   || ..::::  .|.|:::.:| ::..:.:.:..::::. .:::|: :::|::: .:
+ 214 : PKEPT---PPPKEPTPPPKEPTPPPKEPTPPPKEPTPPPREPTPPPREPTPSPKEPTPPPKTPT : 274
+
+ 373 : SGSGVNASSPQPQPIPPPSAVSRDSG : 398
+       :... :: :.:| |.|||::| :|::
+ 275 : PPREPSPLPREPTPTPPPTPVVKDPS : 300
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 182 398 . GBUE004698-PA 92 300 . 132 M 23 23 G 0 1 M 5 5 G 0 1 M 35 35 G 7 0 M 61 61 G 3 0 M 82 82
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE004698-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 184 -> 415
+  Target range: 74 -> 304
+
+ 185 : FGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANF : 248
+       |.:.:. :|  ..: | |  |::::. . .  .::: |: :|  : ::::.:.::::   |:::
+  75 : FEETDDFDKFDSPKKSDFDKFDSPKKSDFGKIDISK-DFDDFMEDSRSGGVGESPPLT-PRPDY : 136
+
+ 249 : -LNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAA : 311
+        :   :..| |. :| :  :: . ::::.  |:| |:: :.:. | :: ..  .: :: . |::
+ 137 : DFMAHEREASPMPREPMPLPKDPTPPPKQPSPSPPSPRQPSPAKEPTPPPKEPTPPPKEPTPPP : 200
+
+ 312 : PTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGS : 375
+        . |.|| .::::: .:.||:.:::. :..:: :...:::::  :::::. .::|:.  .:|..
+ 201 : KEPTPPPKEPTPPPKEPTPPPKEPTPPPKEPTPPPKEPTPPPKEPTPPPREPTPPPREPTPSPK : 264
+
+ 376 : GVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTE : 415
+       . .:::  | | . ||:::|::. .:: ..  ...|...|
+ 265 : EPTPPPKTPTPPREPSPLPREPTPTPPPTPVVKDPSPVKE : 304
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 184 415 . GBUE004698-PA 74 304 . 128 M 36 36 G 1 0 M 21 21 G 1 0 M 5 5 G 0 1 M 167 167
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE016934-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 111 -> 392
+  Target range: 61 -> 342
+
+ 112 : IKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAF : 175
+       : ||::| .|  |:.  :.|...   : ...:: ::||:..   |.| : .:::   .. | ||
+  62 : LGEEDADYAIKIMNM-IKVHGKPIRVNKASAHQKNLDVGANIFIGNLDAEVDEKLLYDTFS-AF : 123
+
+ 176 : SISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQ-TATPSAF---TRVDL-LEFSRQQQAAA : 234
+       ::  : : ::   ...|:|.. .   : :|||| :. .| .:.|    .:.:  .:.:: ::. 
+ 124 : GVI-LQTPKIMRDPDTGNSKGFAFINYASFEASDAAIDAMNGQFLCNRPISVSYAYKKESKGER : 186
+
+ 235 : AAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGS : 298
+        :::|..:|. .| |:  ::.  .:: .:  .   .. :|..|  |||:: .|...|   : .:
+ 187 : HGSAAERLLAAQNPLS--QADRPHHMFADAPPVAPPPQTATNVNMPPMPPPFSSQPPPVVPPPP : 248
+
+ 299 : LCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSL : 362
+       :..: :.:.|.:: .:  . ::::::   :|||::.::. : .::::.:  : ::|  ::::: 
+ 249 : MSMPPPPLPQRPPVPLMGGMMPPPPPMPMGPPPPGPPPGGPQGPGMPPGMMGHPGGPMPPPPGG : 312
+
+ 363 : NSSPSSRLGASGSGVNASSPQPQPIPPPSA : 392
+       . :|::.:.::  |  :::|.|.| :|.::
+ 313 : PMPPGGMMPGPWMGPFPPPPPPPPGAPGGP : 342
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 111 392 . GBUE016934-PA 61 342 . 100 M 15 15 G 1 0 M 45 45 G 1 0 M 5 5 G 1 0 M 32 32 G 0 1 M 7 7 G 0 3 M 5 5 G 0 1 M 27 27 G 2 0 M 140 140
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 7 -> 176
+  Target range: 364 -> 531
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAA :  71
+       .|:: |::   | :| ::||||::|||||::: || || :: :||| ..   ||..   :.|. 
+ 365 : KPHPIPGASFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQ--HHQQQHHQQAQH : 426
+
+  72 : AAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNE : 135
+       ...|.  ..|:.:.   |.:      .|    .   ||   .::: :    :   |:| :  ::
+ 427 : QQQAQHHQQAQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQ : 490
+
+ 136 : EEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFS : 176
+       :::.::::: : : ::  .  : ....|:||  .|.  .:|
+ 491 : HQQQQQQQHQQQQQQQHQQQQHHQQQQHHQQQQQKQQQQYS : 531
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 176 . GBUE012840-PA 364 531 . 141 M 50 50 G 2 0 M 117 117
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 17 -> 202
+  Target range: 393 -> 580
+
+  18 : LQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAA :  81
+       |: :| ::||::||||||| || :| :: |. |||| .     :..   :.|....  ..|...
+ 394 : LHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHHQQAQQQQHHQQAQQQQHHQQAQQQ : 457
+
+  82 : HAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDI : 145
+       :.| .: ||:      ..    ..   .   :::: :    :   ::| |  :::::.::::: 
+ 458 : QQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQQHQQQQHHQQQQHHQQ : 521
+
+ 146 : DVDVDDTSAGGRLPP-PAHQQQSTAKPSLAFSISNILSDRFGDVQKPGK-SMENQASIF : 202
+       : : ::   :.| |: |: | : :.:  |:    ::  .: ::::.:|. |:.:|.:|:
+ 522 : QQQKQQQQYSPRPPSQPSIQLNQSQQLHLSPHQIQVSMSQTAQIKTSGSLSVASQQGIY : 580
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 17 202 . GBUE012840-PA 393 580 . 126 M 143 143 G 0 1 M 33 33 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 18 -> 166
+  Target range: 381 -> 526
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | |: ||||||| :|::| |: |: || || :|:: ..   ||.. . :..|.  ..|.... |
+ 382 : QQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQ---HHQQAQHQQQAQHHQQAQQQQHH : 442
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+       .:|.. |::  :   ..   ||.   .   .::: :    :   |:| |  ::::: ::::: :
+ 443 : QQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQQ : 506
+
+ 147 : VDVDDTSAGGRLPPPAHQQQ : 166
+        : ::  .  : ....:|:|
+ 507 : HQQQQHHQQQQHHQQQQQKQ : 526
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 166 . GBUE012840-PA 381 526 . 124 M 38 38 G 3 0 M 107 107
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 18 -> 271
+  Target range: 471 -> 724
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | :: |||||:||||:|| :: :| || || :||| ..   |:..   :.... .... :: :.
+ 472 : QHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQQHQQQQHHQQQQHHQQQQQKQQQQYSPRPP : 535
+
+  83 : AHAA-ALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDI : 145
+       :::: .|:|.     ||    .: | |:  ||...| || :: ::.  ::..  . :::.::  
+ 536 : SQPSIQLNQSQQLHLSPHQIQVSMSQTA-QIKTSGSLSVASQQGIYVTSDGGFCSPNSQGQNVG : 598
+
+ 146 : DVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFE-AS : 208
+       .   ::.::|  |  | ||..:::. . :   :::  :|    ::  :  .:|:  :||   .:
+ 599 : SSVPQNNGPGFTLLKPRHQAPGASHMR-PRQPTKMEMNRGVIPHRIINQNSQQSVGIRPTPLDN : 661
+
+ 209 : RSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRR : 271
+       ::|:. .   |.:    ||:.:  :. :: .::   . :  | | .|  ||: ..: ::||.|
+ 662 : KTQSQQNILNTMIPQQRFSQPRMISVRPTQQSVEPMMRSQSNQFIGAIPPRLATTVNRARLPR : 724
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 271 . GBUE012840-PA 471 724 . 123 M 68 68 G 0 1 M 23 23 G 1 0 M 62 62 G 1 0 M 33 33 G 0 1 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 18 -> 181
+  Target range: 384 -> 548
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | :| ::|| :|::|||| :| :| || || ||||  . . |:.. . :..|....  ..|..:
+ 385 : QQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHHQQAQQQQHHQQAQQQ : 448
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+       .| .. ||:     :|.    ..   .   :::: :    :   ::| :  :::::.::::: :
+ 449 : QHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQQHQQQQH : 512
+
+ 147 : VDVDDTSAGGRLPPPAH-QQQSTAKPSLAFSISNIL : 181
+        : ::  .  :  ...:  .::.::||:.:: |: |
+ 513 : HQQQQHHQQQQQKQQQQYSPRPPSQPSIQLNQSQQL : 548
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 181 . GBUE012840-PA 384 548 . 122 M 145 145 G 0 1 M 18 18
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 12 -> 166
+  Target range: 365 -> 517
+
+  13 : PSPI-TLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAA :  75
+       | || .  .:: |||||||||::|| |:||| :| || |:|| ..   :|..   :.  ..|. 
+ 366 : PHPIPGASFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQ---QQHHQQAQH : 426
+
+  76 : AAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEA : 139
+       ...|. |.:|.. |::  :   .    :..   .  . ::: :    :   |:| |  :::::.
+ 427 : QQQAQHHQQAQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQ : 490
+
+ 140 : EEDDDIDVDVDDTSAGGRLPPPAHQQQ : 166
+       ::::: : : ::  .  : ... :|||
+ 491 : HQQQQQQQHQQQQQQQHQQQQHHQQQQ : 517
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 12 166 . GBUE012840-PA 365 517 . 121 M 4 4 G 0 1 M 47 47 G 3 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 13 -> 166
+  Target range: 369 -> 522
+
+  14 : SPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAA :  77
+       :. ::: || ::|||||::||||  | |: || |: :||| ..   |:..   :|. ...|.  
+ 370 : PGASFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHH : 433
+
+  78 : AAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEE : 141
+       ..|.:.:  . .|:      :.    .  :..   .::: :    :   ::| |  :::::.::
+ 434 : QQAQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQ : 497
+
+ 142 : DDDIDVDVDDTSAGGRLPPPAHQQQ : 166
+       ::: : : ::  .  : ... ||||
+ 498 : QHQQQQQQQHQQQQHHQQQQHHQQQ : 522
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 13 166 . GBUE012840-PA 369 522 . 117 M 153 153
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 13 -> 166
+  Target range: 364 -> 516
+
+  14 : SPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAA :  77
+       .| .:. . :::|::|||||||: |: :||:| :| :||: ..   ::..   :..  ..|. .
+ 365 : KPHPIPGASFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQ-QQQQQHHQQQHHQQAQHQ : 427
+
+  78 : AAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEE : 141
+       ..|.| :.|. ||:   :  ..    :.   .   . :: :    :   |:| :  :::::.::
+ 428 : QQAQHHQQAQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQH : 491
+
+ 142 : DDDIDVDVDDTSAGGRLPPPAHQQQ : 166
+       ::: : : ::  .  : ... ||||
+ 492 : QQQQQQQHQQQQQQQHQQQQHHQQQ : 516
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 13 166 . GBUE012840-PA 364 516 . 111 M 45 45 G 1 0 M 107 107
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 1 -> 167
+  Target range: 372 -> 539
+
+   2 : ALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMA :  65
+       ::|::  .| .. .   | |:||:::|||||::|| |: :| :: || |||.  .   :|.. |
+ 373 : SFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHHQQA : 436
+
+  66 : FDAAAAAAAAAAAAAAHAHAAALQQRLS-GSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHN : 128
+        :..  ..|....  .:|:... ::: :     ..    .    .   :::: :    :   |:
+ 437 : QQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQ : 500
+
+ 129 : QTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQS : 167
+       | :  :::::.::::: : : :: ..  : :|.:. |.|
+ 501 : QQQQQQHQQQQHHQQQQHHQQQQQKQQQQYSPRPPSQPS : 539
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 1 167 . GBUE012840-PA 372 539 . 111 M 92 92 G 0 1 M 74 74
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 18 -> 189
+  Target range: 478 -> 655
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       | || ::|:|||:||||| || :| || :| :|:: ..   ::..   :.. :: :::.:: . 
+ 479 : QQQHQQQQHQQQHQQQQQQQHQQQQQQQHQQQQHHQQQQHHQQQQQKQQQQYSPRPPSQPSIQL : 542
+
+  83 : AHAAALQQRLSGSGSPASCSTP-ASSTPLTIKEEESDSVIGDMSF---HNQTHTTNEEEEAEED : 142
+       .::..|: .      : | ::.  :|.:|:: .:::  |.:| :|   ::|.:.....  .:::
+ 543 : NQSQQLHLSPHQIQVSMSQTAQIKTSGSLSVASQQGIYVTSDGGFCSPNSQGQNVGSSVPQNNG : 606
+
+ 143 : DDIDV--DVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQ : 189
+        ::.:    :::::::::.|... : . .:. :: .| |  |::  :::
+ 607 : PGFTLLKPRHQAPGASHMRPRQPTKMEMNRGVIPHRIINQNSQQSVGIR : 655
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 189 . GBUE012840-PA 478 655 . 110 M 86 86 G 0 1 M 22 22 G 0 3 M 21 21 G 0 2 M 42 42
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 7 -> 166
+  Target range: 365 -> 524
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAA :  71
+       :.. :.:::. | :: ::|||::|||||  || :| || :| :||| ..   ::.  . : ...
+ 366 : PHPIPGASFEQQHHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQ : 429
+
+  72 : AAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNE : 135
+       |.  ..|...: |..| ||:    : ..    .::  .   :::: :    :   ::: :  ::
+ 430 : AQHHQQAQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQ : 493
+
+ 136 : EEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQ : 166
+       :::.::::: : : ::     : ....:|||
+ 494 : QQQQQHQQQQQQQHQQQQHHQQQQHHQQQQQ : 524
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 166 . GBUE012840-PA 365 524 . 108 M 159 159
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 1 -> 182
+  Target range: 392 -> 572
+
+   2 : ALEDRCSPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMA :  65
+       .|:::  .| .. .   | |: |||||::||.|:| |  |: |. || |:|| ..   |:.| .
+ 393 : QLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHHQQAQQQQHHQQAQQQQHHQQAQQ : 456
+
+  66 : FDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQ : 129
+        :.  .::..   ...| :.   ||:      ..    ..   .   :::: :    :   |:|
+ 457 : QQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQQHQQQQHHQQQQHHQ : 520
+
+ 130 : THTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILS : 182
+        :  ::::: .     : .: : :.: :|. ::|| | : ..: .:..|. ||
+ 521 : QQQQKQQQQYSPRPPSQPSI-QLNQSQQLHLSPHQIQVSMSQTAQIKTSGSLS : 572
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 1 182 . GBUE012840-PA 392 572 . 108 M 148 148 G 1 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 18 -> 166
+  Target range: 377 -> 525
+
+  19 : QMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAH :  82
+       : |: ::||::||||| : :| :| |: || :||| .    :|.. | :...|.  ..|....|
+ 378 : HHQQQQQQQHHQQQQQLHQHHQQQQQHHQQQQQQQQQHHQQQHHQQAQHQQQAQHHQQAQQQQH : 441
+
+  83 : AHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDID : 146
+        :.|. ||:   :  ..    .:   .   :::: :    :   ::| :  :::::.::::: :
+ 442 : HQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQHQQQQQQ : 505
+
+ 147 : VDVDDTSAGGRLPPPAHQQQ : 166
+        : ::     : ....:||:
+ 506 : QHQQQQHHQQQQHHQQQQQK : 525
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 18 166 . GBUE012840-PA 377 525 . 107 M 148 148
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012840-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 7 -> 352
+  Target range: 435 -> 782
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQQLAAGVF--HHPAMAFDAA :  69
+       :.| .. . : | || ::.|||||::| . || || |: || |||| ..     :|.. . :. 
+ 436 : AQQQQHHQQAQQQQHHQQAQQQQQHHQTPQQHHHQQQHHQQHHQQQHQQQQHQQQHQQQQQQQH : 499
+
+  70 : AAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTT : 133
+       ....... ....| :... :|:   .  .. .: |:| .:: :::.:   : .:    : ::|:
+ 500 : QQQQQQQHQQQQHHQQQQHHQQQQQKQQQQYSPRPPSQPSIQLNQSQQLHLSPHQIQVSMSQTA : 563
+
+ 134 : NEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSIS-NILSDRFGDVQKPGKSME : 196
+       : ...:. . . : ::  ||.||  :|.:: |: .:. : . : : .:|. |  .   : ..  
+ 564 : QIKTSGSLSVASQQGIYVTSDGGFCSPNSQGQNVGSSVPQNNGPGFTLLKPRHQAPGASHMRPR : 627
+
+ 197 : NQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRI : 260
+       :.:.: .. .. . :. ..::  .|::   : ::::.:.... . |: :..| :  ..    | 
+ 628 : QPTKMEMNRGVIPHRIINQNSQQSVGIRPTPLDNKTQSQQNILNTMIPQQRFSQ--PRMISVRP : 689
+
+ 261 : HEEIVQSRLRRSAAN--AVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSS : 322
+        :: |::.:|. :.:  :.|||.:::.:: |.  : . ..  :.::|: ||:| . .|.   :|
+ 690 : TQQSVEPMMRSQSNQFIGAIPPRLATTVNRARLPRLE-NDWRNNMAQLRQPTAFVQGQGITFNS : 752
+
+ 323 : ASSLASPPPASNASTISSTSSVATSSSSSS : 352
+       .:|  |:... : . ::   |:|   |:::
+ 753 : NGSHISAGQVQHMDRMAQQQSLAMHHSNPN : 782
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 352 . GBUE012840-PA 435 782 . 107 M 52 52 G 0 2 M 119 119 G 0 1 M 72 72 G 2 0 M 23 23 G 0 2 M 20 20 G 1 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005467-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 268 -> 416
+  Target range: 841 -> 988
+
+ 269 : LRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPA : 332
+       |: ..:::  .. :::  : :.|...:|.:|  :.:.:|..: .. .  | .:: :: .: |.|
+ 842 : LKGEQGSPGQTGKVGPFGPPGPPGDRGLPGLPGPTGPLGARGLRGAPGEPGEAGKPGNEGLPGA : 905
+
+ 333 : SNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRD : 396
+        .: .:::.:::...:::.::. .:::|:|.:.|:.: |: | : .:: . |..:|.| :.: .
+ 906 : QGPLGLTGPPGLQGDPGPEGNPGKPGPSGLTGRPGDK-GPIGQSGPPGQTGPPGLPGPQGTAGS : 968
+
+ 397 : SGMESSDDTRSETGSTTTEG : 416
+       :| .:. :.|:|||: ..:|
+ 969 : PGPSGERGPRGETGPRGVDG : 988
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 268 416 . GBUE005467-PA 841 988 . 107 M 101 101 G 1 0 M 46 46
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007864-PA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 454 -> 518
+  Target range: 164 -> 228
+
+ 455 : KRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKNP : 518
+       :: |.::|. |   |.:||  | |::.::| :|:.:| |.| |:||||||:| | ||:: .:.:
+ 165 : RKKRKPYSKFQTLELEKEFLFNAYVSKQKRWELAKNLHLTERQVKIWFQNRRMKNKKNSQRQAA : 228
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 454 518 . GBUE007864-PA 164 228 . 143 M 64 64
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE014967-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 7 -> 52
+  Target range: 84 -> 129
+
+   8 : SPQSAPSPITLQMQHLHHQQQQQQQQQQQMQHLHQLQQLQQLHQQ :  52
+       :||:.| :  :| |:|: || ||| ||||||: :| || || :||
+  85 : PPQGNPQAQQMQQQQLQMQQMQQQMQQQQMQQQQQQQQQQQQQQQ : 129
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 7 52 . GBUE014967-PA 84 129 . 109 M 45 45
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE010720-PA
+         Model: affine:local:protein2protein
+     Raw score: 163
+   Query range: 443 -> 511
+  Target range: 49 -> 117
+
+ 444 : PKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRA : 507
+       .|: .: :.. :|.||||: .||| |.|.|. ::||:   | :::..|.|:|:|:|.|:||:|:
+  50 : RKDESGGSRKPRRRRTAFTHAQLAYLERKFRCQKYLSVADRSDVADALNLSETQVKTWYQNRRT : 113
+
+ 508 : KIKK : 511
+       | |:
+ 114 : KWKR : 117
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 443 511 . GBUE010720-PA 49 117 . 163 M 68 68
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE008593-PA
+         Model: affine:local:protein2protein
+     Raw score: 164
+   Query range: 437 -> 519
+  Target range: 1 -> 82
+
+ 438 : GPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIW : 501
+       :.|  :| |.: .... |:|||:|:. |:| |.: |:.::||:.  |..|:..| :.:||:|.|
+   2 : ARRIGHPYQNR-TPPKRKKPRTSFTRLQIAELEKRFHKQKYLASAERAALAKSLKMTDAQVKTW :  64
+
+ 502 : FQNKRAKIKKSTGSKNPL : 519
+       |||:|:| .:. .:|..:
+  65 : FQNRRTKWSQRLEPKRQV :  82
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 437 519 . GBUE008593-PA 1 82 . 164 M 11 11 G 1 0 M 70 70
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE012376-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 54 -> 373
+  Target range: 156 -> 468
+
+  55 : AAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESD : 118
+       :. ::::: ::: .::: : .::::.::.|:.:| . ||  :: :  |.||:...    : ||:
+ 157 : PNQIIQEALLSLPETSGLTKDPSPTEPNVHSVSLLPELSVISAVTL-SPPATRKRKREANVESQ : 219
+
+ 119 : SVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPAHQQQSTAKPSLAFSISNILS : 182
+       |. :.::: :..   . .: :.  ::|  :.: .|    ||.|:  :: .:. ||:      |:
+ 220 : SASSSVPISDPVTLQAPSNLTSPPNQIVQEANLIS----LPGPSCLDR-DPSCSLSNVDQVSLP : 278
+
+ 183 : DRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERA : 246
+       :. |    |::  ..:|: :.. . .:||. ... :.| :    :.. |:   : :||.  :.:
+ 279 : GPSGLFICPSQISGGEAAPLSQPAKDKSQPKKTKKINRRNWSIVTPPLQTRYKTRSAAKSTDNS : 342
+
+ 247 : NFLNCFNP-AAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQP : 309
+       |  |. :| :: || :| | ::  .. :.. :| |:. :: |::|:  :.|::| .. |:|  .
+ 343 : NVANSPQPETSMPRPREPISDPVAMPHPNRLLIKPSRIPQESEPNS-VPNLSGLATNQSHIVTN : 405
+
+ 310 : AAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGAS : 373
+        .| :: |. |: : . :..|. | : ::|:||| :||:|:|::...:.  : :|.|:: |:.:
+ 406 : LNP-VALPGPSGLTIEPSRTPQLSVSISVSNTSSCTTSPSPSTTNSDPVILPSSSDPTTDLSQT : 468
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 54 373 . GBUE012376-PA 156 468 . 103 M 46 46 G 1 0 M 52 52 G 4 0 M 9 9 G 1 0 M 87 87 G 0 1 M 37 37 G 1 0 M 20 20 G 1 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE003216-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 190 -> 414
+  Target range: 309 -> 532
+
+ 191 : PGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNP : 254
+       .:::: :::|  |.: :::...: |:  .:|. ||  . ::|    :| :. :  :.:|:.::.
+ 310 : GDQGVFKRSSQARTYPPPKEPGSQPNKVVQVAALEVQNVRKAIHRYGTLPKGVRIGAYLESLKQ : 373
+
+ 255 : AAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSL-CKAVSQIGQPAAPTMTQP : 317
+       :: :   ..  .:.   :: :   .:.:::: ::.   .:: |::  .:||. . .  ..  ||
+ 374 : SGMSEGGSSPPPPPSETPPCQRSPRSRVAAQQPGQMIRSNSSGGFQHHPVSPRTGRLHRGHQQP : 437
+
+ 318 : PLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASS : 381
+       | | :. .:::|||:.: .. :|  ::: ....:|::.:|:|.| ::.:.::  ::::. ::::
+ 438 : PPSLADLEFPPPPPPEELDPAPSRFGISLRKREPSTDSTSSAKS-EPRSRPKEKPPSPPPSPPP : 500
+
+ 382 : PQPQPIPPPSAVSRDSGMESSDDTRSETGSTTT : 414
+       |.| :.:|| |: :: .:. :|.:.::|::.|:
+ 501 : PPPSSTAPP-ALIKEMELKLNDKSPPQTDNDTS : 532
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 190 414 . GBUE003216-PA 309 532 . 104 M 109 109 G 0 1 M 62 62 G 1 0 M 28 28 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005500-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 66 -> 417
+  Target range: 403 -> 748
+
+  67 : DAAAAAAAAAAAAAAHAHAAALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQT : 130
+       ::..:..:::.::.| . :.  .:. :|:. .. ... :::   .: .:::  |..: | ::.:
+ 404 : ETNESNNTSTEGTDASVVGVIPPDSHPGAEIRNLSENEGATLETELPSNQNIQVTTEQSSNSPS : 467
+
+ 131 : HTTNEEEEAEEDDDIDVDVD---DTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKP : 191
+       ::.:|.|:...: ..:::.|   :. |. .::..:::  :  :. |::. :|:|||  :|:   
+ 468 : QSNQESENQTSQISTHMETDIHFEPIATCSVATQSERITPCKQHQLSYDSTNLLSDDDDDIMPV : 531
+
+ 192 : GKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPA : 255
+        ::.::::|   ||:..| .:  .:| .|  ::::::   : :.::: ::  : ::: :. ||:
+ 532 : KRAKDDRSS---PFDDDRYAALQGNARVR-RIVNLAHGVGPYGEGSSRGIASQGSSYSQSGNPS : 591
+
+ 256 : AYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPL : 319
+       : ..  .. |:..|.. ::.:  .   ..:: : :|..|.|..| ..:| : :.  .. .: |:
+ 592 : TSTSAGSTSVDDPLNPMPSTSRYH---EDRIYE-SPSSSNLTDLTDELSTMFNGFKQKYGKKPM : 651
+
+ 320 : SSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQ : 383
+        : . |: ::.::: : |:...:: |.:|.:|.:. :.: :. ::|.|:  .. .   .:..  
+ 652 : VNLVYSVRGSTASTISMTVEDPNNRAPNSEGSEPTVPETIPEASGSGSGDREQVNVVEPSERVT : 715
+
+ 384 : PQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGG : 417
+       | || |:.::..::: .:|..:.: .:::|:.::
+ 716 : PTPI-PSEPIEPEPSASTSSAAPAPPAPSTSAAS : 748
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 66 417 . GBUE005500-PA 403 748 . 112 M 84 84 G 0 3 M 50 50 G 3 0 M 17 17 G 1 0 M 58 58 G 3 0 M 6 6 G 1 0 M 98 98 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE009884-PA
+         Model: affine:local:protein2protein
+     Raw score: 136
+   Query range: 455 -> 511
+  Target range: 0 -> 56
+
+ 456 : RPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK : 511
+       ..:|:||: ||. |.|.|:..:| .   |::|:  ::|.||::::||||:||| :|
+   1 : MRKTTFSNYQLEELERAFHKTHYPDVFFREELAMRIDLTEARVQVWFQNRRAKWRK :  56
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 455 511 . GBUE009884-PA 0 56 . 136 M 56 56
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011537-PA
+         Model: affine:local:protein2protein
+     Raw score: 186
+   Query range: 435 -> 517
+  Target range: 40 -> 123
+
+ 436 : SSGPRYRRPK-QPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQI : 498
+       ..| | :::| ::|:.... :|:||||: |||. |...|:..|||:   | :|: .|:|.|:|:
+  41 : REGKRSKKSKGDSKGTGGKPRRARTAFTYEQLVALENKFKSTRYLSVCERLNLALSLSLTETQV : 104
+
+ 499 : KIWFQNKRAKIKKSTGSKN : 517
+       ||||||:|:| || ..:.:
+ 105 : KIWFQNRRTKWKKQNPGMD : 123
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 435 517 . GBUE011537-PA 40 123 . 186 M 10 10 G 0 1 M 72 72
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE008085-PA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 40 -> 393
+  Target range: 263 -> 621
+
+  41 : HQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHA---AALQQRLSGSGSPASC : 101
+       |::  :: ::  . . | |..|: : :.:| .  .. ::.:|..:   .. :: :.:|.: |  
+ 264 : HDFVVVETVDYMPGEMGNFPPPTTPDEVGARVLMQERGTVGHNKSDIEDDDEDEVEDSEGEAML : 327
+
+ 102 : STPASSTPLTIKEEESD-SVIGDMSFHN-QTHTTNEEEEAEEDDDIDVDVDDTSAGGRLPPPA- : 163
+       |.|....||. | . :: :.|:|   :: :.:::.|:||.|||.  :  | :.| . .||||: 
+ 328 : SEPEEEPPLPSKPSLPEKPTIDDNQVQDMEEESSTEDEEEEEDKPGQPPVPGISKNLPLPPPPA : 391
+
+ 164 : ---HQQQSTAKPSLAFSISNILSDRFGDVQKPGKSM-ENQASIFRPFEASRSQTATPSAFTRVD : 222
+          .|::.. :|:|: : ..:: .:  | : |:|:  .::. ::.|:::.| .::.  .  |::
+ 392 : PVVPQEKKPMQPPLPPAPDRVIIKKDYDPKAPAKAASKSDDYLISPINGERIPASKVQEHMRIG : 455
+
+ 223 : LLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKM : 286
+       ||: .: :|   . :....: : . : .  . .|  :  .|   . :  :..::.|.  ::.. 
+ 456 : LLDPRWVEQ--RDKTIQDRINQENVYAPGSAIEASLKQLAERRTDIFGVGDEETAIGKKIGEE- : 517
+
+ 287 : SDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSS : 350
+       .. : :| : ::  .:|.. .::| :.:|         .: :  |..: ..|::.:  :.::::
+ 518 : DKKKDDKVTWDGYTSSVEAATRAARANITIEEQIHQIHKVKGLLPDEEKEKIGPKPVQGKGNPP : 580
+
+ 351 : SSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAV : 393
+        :|  |.:|:: .::|::.|.: .:: .: :| |.::|||:::
+ 581 : VPS--SKPAPPPPPPPAPSLPPLPPSKPPQPPLPPSLPPPPGI : 621
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 40 393 . GBUE008085-PA 263 621 . 122 M 45 45 G 0 3 M 33 33 G 0 1 M 10 10 G 0 1 M 34 34 G 0 4 M 33 33 G 0 1 M 36 36 G 2 0 M 52 52 G 1 0 M 67 67 G 2 0 M 38 38
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006713-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 278 -> 389
+  Target range: 181 -> 296
+
+ 279 : PPPMSSKMSDANPEKSALGSLC--KAVSQIGQPAAPTMTQPPLSSSASSLASPPPA--SNASTI : 338
+       |:.:::: | ::  .:|||:|.  :  : :| .::..:..|: : ::::|::||||  ::.:.:
+ 182 : PSQLPTQTSVGDDVTNALGGLSLENHPAMVGGTTTTGVPPPSSGITTTPLGPPPPAGVASVPGL : 245
+
+ 339 : SSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPP : 389
+       :: ::|:. : : ::. ::::|:|.:: ::.| :|:|.:.:::| |..:.|
+ 246 : PPLPGVPPIPVGIPPTTGPPPSNLPPPLPTPLHTSASTLPSAPPLPPNVTP : 296
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 278 389 . GBUE006713-PA 181 296 . 109 M 22 22 G 0 2 M 32 32 G 0 2 M 57 57
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE010841-PA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 450 -> 536
+  Target range: 156 -> 244
+
+ 451 : TNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKK--S : 512
+       ...::| ||:||:|||. |.|.|: .:| .   |::|:. :||.|:::::|| |:||: :|  :
+ 157 : KRKQRRCRTTFSGEQLEELERAFQRTQYPDVYTREDLARRFGLTETRVQVWFSNRRARWRKQST : 220
+
+ 513 : TGSKNPLALQLMAQGLYNHTTVPL : 536
+       .:: .. : .|:: : |::   .|
+ 221 : VDPIAGPGSPLIPTSSYQQHLPNL : 244
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 450 536 . GBUE010841-PA 156 244 . 155 M 61 61 G 0 2 M 25 25
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE001341-PA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 31 -> 491
+  Target range: 295 -> 734
+
+  32 : QQQQQMQHLHQLQQLQQLHQQQLAAGVFHHPAMAFDAAAAAAAAAAAAAAHAHAAALQQRLSGS :  95
+       |.|| :|  .|: . :|::: |||.  ::::  |::.  |..   |: :. ||.  :||:::|:
+ 296 : QAQQTLQFAKQILAQKQIQDSQLAQQKINES--AYQQLLAQQKLFASHSEAAHQLLVQQKMPGG : 357
+
+  96 : GSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQTHTTNEEEEAEEDDDIDVDVDDTSAGGRLP : 159
+       ||        |:  :: : : |. : :::: |: :: ..:::.:.. ..:  :  : :: ::: 
+ 358 : GS--------SALLFSQRPDLSAVLQAQVPSHKSADQPTQQHKPASPSTLPQQPPQLPSHSKV- : 413
+
+ 160 : PPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGK-SMENQASIFRPFEASRSQTATPSAFTRVD : 222
+       . :: |::.:.:: .:. .:: |:: |:  :|.. |:..:..:::|    | ::|: ::: .::
+ 414 : TLTRSQEGGSMAA-QYR-DSVASQQAGQPTQPESLSLTPDNRLYQP----RHESAALPPILPIN : 470
+
+ 223 : LLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKM : 286
+       : .  :  . :|:::.::   : |.  :|::. :        |.:|| .|:.::.:|..  :.:
+ 471 : IPSSLQVIPHPAGTSVSGSSKDDAR-QSCLDQRPDIGSLPPQVAARL-PSGESSALPGGSIGSL : 532
+
+ 287 : SDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSS : 350
+       ::|.:  ::|.| |.  :: ::: :| :. :.|:::.:::.: .:::. : :::  : |.||| 
+ 533 : PEAAARLPTLES-CSLPPRSSDALPPQVG-ARLPATEPPVVPLGSTGTLPQVAARLPSAESSSL : 594
+
+ 351 : SSSGCSSAA-SSLNS-SPSSRLGA--SGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETG : 410
+       :|.:. ::: :::.:  |||::|.  :|.::.| :.::.:.|..   ...::.:||.  |  .|
+ 595 : PSEASQPPTLPTIPTQQPSSQIGEAKTGESLPAQGGEAPSTPQTLKERPSTDKHSSSPHRHLPG : 658
+
+ 411 : STTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFN : 474
+       |:|.|: .:    . :  ..: :  |:.|  ....||...... .|...|::.:::.:: :: :
+ 659 : SSTVEDVDH---VESMLENMFQQEMSPPP--MPGTQPSATGAALTRRSPALTEDKVVQILQDRD : 717
+
+ 475 : ENRYLTERRRQQLSSEL : 491
+       |:: :  ::. ::.:|:
+ 718 : EEQPMQLKQPSEIKTEI : 734
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 31 491 . GBUE001341-PA 295 734 . 116 M 31 31 G 2 0 M 33 33 G 8 0 M 53 53 G 1 0 M 13 13 G 1 0 M 3 3 G 1 0 M 16 16 G 0 1 M 11 11 G 4 0 M 39 39 G 1 0 M 21 21 G 1 0 M 28 28 G 1 0 M 16 16 G 1 0 M 43 43 G 0 1 M 5 5 G 0 1 M 8 8 G 0 2 M 47 47 G 3 0 M 17 17 G 2 0 M 50 50
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE008731-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 85 -> 471
+  Target range: 702 -> 1091
+
+   86 : AALQQRLSGSGSPASCSTPASSTPLTIKEEESDSVIGDMSFHNQT--HTTNEEEEAEEDDDI :  145
+        || : |:|.:|::::.|..    | . ...:|||  :: :|:: |  :.|:.:|. . :...
+  703 : AANKTRVSTPGASPTSSPTRVQRPRKRSTSDSDSDHSNATFNKTTALRKTETDETKKYGSTT :  764
+
+  146 : DV-----DVDDTSAGGR-LPPPAHQQQSTAKPSLAFSISNILSDRFGDV--QKPGKSMENQA :  199
+         :     .|: |.|.|| |::|:. :::: ..: .:| .. ::  : .:  :||:::.:: :
+  765 : RIRGSSTSVNFTDAEGRPLSSPSPVRHPARENTPDYSSEGSITRELRTLRTEKPSNNFDSSP :  826
+
+  200 : SIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCFNPAAYPRIH :  261
+        .  .:|.: :|  ::|.   : : |:. .:::    .|.::  :: :: :.  :.:: : :.
+  827 : ER-SAFAPIKSFRTSPE--RKDQSLNMINEERRHILQAKTSSNVDISETVT--ERTTNSDVK :  883
+
+  262 : EEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSA :  323
+        :. . :   |  ..:  .| ..|  . ::  .:.  .: ...|  .:|  .| : :| ..  
+  884 : DTRTSTIETRHLQTPDSRPERDSPDRISDVVDTERVKFTDQTSSDNKPRHTTPASSPERKVK :  945
+
+  324 : SSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNA--SSPQ :  383
+        .. :.:..: : :  |:... :|: ||:.. ..|: .||:..|.:.:|:::. .::  |||:
+  946 : KDKPESNHPQSYGRPSPDRKFTTPVSSPDRKSKSPLRSLDRKPKTPVGSPDRKTKTPISSPD : 1007
+
+  384 : PQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYCTRYSDRPSSGPRYRRPK :  445
+        .:| .| |: .|.:    |. .|.  .:.:: : ::   ..:. ..|   :::: |||:.| 
+ 1008 : RKPKTPISSPDRKPKTPISSPDRKPRTPISSPDRRSPTKQDRTSSER---QSPTKPRYQSP- : 1066
+
+  446 : QPKDKTNDEKRPRTAFSSEQLARLKR :  471
+         ..:|..|  ||:|:   .: |.: |
+ 1067 : VTTQKVPDYARPKTSSVVTEKASVVR : 1091
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 85 471 . GBUE008731-PA 702 1091 . 101 M 45 45 G 0 2 M 17 17 G 0 5 M 10 10 G 0 1 M 31 31 G 0 2 M 13 13 G 1 0 M 14 14 G 2 0 M 32 32 G 2 0 M 127 127 G 0 2 M 51 51 G 3 0 M 11 11 G 1 0 M 26 26
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007023-PA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 442 -> 500
+  Target range: 2 -> 60
+
+ 443 : RPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKI : 500
+       | .......:..|:.|.:||::|:  |.:.|::.:||:.. |.:|: .||:.|:|:|:
+   3 : RVSAGEKDGSKKKHTRPTFSGQQIFALEKTFEQTKYLAGPERAKLAYALGMTESQVKV :  60
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 442 500 . GBUE007023-PA 2 60 . 123 M 58 58
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007061-PA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 431 -> 511
+  Target range: 110 -> 190
+
+ 432 : SDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNE : 495
+       |..||..     ..:|:|  .: ||||| ::|.|  ::| .|: :.    : |:.|:.| ||: 
+ 111 : SSSPSDEMLLDENSRPRDGRRGPKRPRTILTSAQRRQFKASFEVSPKPCRKVREALAKETGLSV : 174
+
+ 496 : AQIKIWFQNKRAKIKK : 511
+         :::||||:|||:||
+ 175 : RVVQVWFQNQRAKMKK : 190
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 431 511 . GBUE007061-PA 110 190 . 138 M 80 80
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE007522-PA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 149 -> 386
+  Target range: 39 -> 275
+
+ 150 : DDTSAGGRLPPPAHQQQSTAKPSLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTA : 213
+       .:.::: .||. ::| :|.: .::  :||:  |.:  :  | :|.| .|:  ||.:.    :..
+  40 : AEITPSVPLPGVGNQTKSPSVGGIR-NISSYASSKSKQKVKLSKDMIGQPQDFRHISHVGWDPD : 102
+
+ 214 : TPSAFTRVDLLEFSRQQQAAAAAATAAMMLERANFLNCF--NPAAYPRIHEEIVQSRLRRSAAN : 275
+       :. .:.:|:  ::.     |:.:.:. .  :  .|:  |  :.::   :..::..:   || .:
+ 103 : SGFNLDQVNDKHLEEFFIKAGVSESQLKDPDTRGFIYQFIEEHGGMEAVKTDLAPPVPARSKQQ : 166
+
+ 276 : AVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTIS : 339
+       |    || :  : :.| ::  ..   : |    |::|. ..|.:::::::|:: ||::.:|. :
+ 167 : APAIVPMQP--PPPPPMRTLPPRAPPPPSSQHTPPPPPPPPPTVPPPPAPLSNIPPPPPPSIAP : 228
+
+ 340 : STSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQP : 386
+       :::: :..|.|:     .:::||:: ::|. .:|.|: .:|.|.:|:
+ 229 : PAPAPPVDSRSALMQAIRSGTSLKPVSTSSSTSSNSSSGGSRPPAQS : 275
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 149 386 . GBUE007522-PA 39 275 . 103 M 25 25 G 1 0 M 77 77 G 0 2 M 32 32 G 2 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE006477-PA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 228 -> 418
+  Target range: 77 -> 266
+
+ 229 : QQQAAAAAATAAMMLERANFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPE : 292
+       :::::::  .::   :::::|: ::: ..:.   : ::. |..|::::  : . :|:.  |:  
+  78 : DDESPPTYKPPPPPDDKSDILSIISSRDWSPSTPQKIDRVLSSSTPSTPQSLHQTSRRVPAEVY : 141
+
+ 293 : KSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCS : 356
+       . : || . |.|: : :  ::::: ::|::::| :| .:: : .::||.:: :: .|| |... 
+ 142 : SVGSGSSSPATSRPSSSMRSSVSRESMSTPPPS-SSLRSSVSRESVSSPPPSSSLRSSVSRESV : 204
+
+ 357 : SAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGK : 418
+       |:::: :.|::|.::::..: . ::|.  | :||:. :| .: |. ::: .||:|.:.|. :
+ 205 : STPPTSHRSSASSVSTPPRDSGLPTPPLSPESPPPVPPRRKSSEKINNSYKETASESKENKR : 266
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 228 418 . GBUE006477-PA 77 266 . 106 M 97 97 G 1 0 M 92 92
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015682-PA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 446 -> 511
+  Target range: 169 -> 234
+
+ 447 : PKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIK : 510
+       .||  :: ||||| ::::|   :| .|: :.    : |: |:.: ||:   :::||||:|||:|
+ 170 : RKDGRKGPKRPRTILTTQQRRAFKASFEISPKPCRKVREGLAKDTGLSVRIVQVWFQNQRAKMK : 233
+
+ 511 : K : 511
+       |
+ 234 : K : 234
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 446 511 . GBUE015682-PA 169 234 . 128 M 65 65
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE017223-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 280 -> 458
+  Target range: 1 -> 180
+
+ 281 : PMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSV : 344
+       ::.:|::  :: .|: :. ..  :: .:. ...... : |||:|| :|::::.::|. ||:.| 
+   2 : AVDNKVARKKSRSSSESDASDKENKKERGRDRKRKADSSSSSSSSRSSSSSSRSSSGSSSSRSS :  65
+
+ 345 : ATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSE : 408
+       ::||.||||:.||::|| :||:.|: :   . .::::| ::|   ::. .:.::..|....:.:
+  66 : SSSSRSSSSSSSSGSSSDSSSARSKSAKQRKVTDSTAPGAKPSDKSADDKKKADKASKTKPKDD : 129
+
+ 409 : TGSTTTEGGK-NEMWPAWVYCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPR : 458
+       . ....: :| ::.:::    :| :..:.||:: |: : |. |..  . .|
+ 130 : KKKDDKDKSKTKDKRSPKRDRSRTGSPSKSGSKKRKERSPTPKPTRIHVGR : 180
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 280 458 . GBUE017223-PA 1 180 . 101 M 138 138 G 0 1 M 40 40
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 273 -> 396
+  Target range: 78 -> 201
+
+ 274 : ANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNAST : 337
+       :.:: ||| ::  : :.|  ::  .   :.:. ..|::|. ..|| |::::: ::|||: : :.
+  79 : GPPIPPPPPPPPPPPPPPPPPPSYEYGPPTTPPPPPPTPPPPPPPPSTPPPPPPPPPPSHEYGP : 142
+
+ 338 : ISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRD : 396
+        ::.:: :.:::::::. :::::| : :|::. .::.:. .:::|.|.| |||:: :::
+ 143 : PTPPPPPPPPPPPPPPPPPPPPPSHEYGPPTPPPPPPPPPPPPPPPPPPPPPPPPPPHH : 201
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 273 396 . GBUE011343-PA 78 201 . 116 M 123 123
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 251 -> 400
+  Target range: 17 -> 168
+
+ 252 : FNPAAYPRIHEEI-VQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPA-APT : 313
+       :. ..||. ::|  ..:  ..::::   .|| :: :: :.|. :: . :  : :. .|.. :|.
+  18 : YPIDEYPPPQHEYGAPPDPPPPPPHYEYGPPTPPPLPPPPPTLPPQEYVQLTPPPPPQNVYGPP :  81
+
+ 314 : MTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGV : 377
+       :..|| :::::: ::|||:| . . ::|:: :.:::::::. :|:::: .::|::. . :.:. 
+  82 : IPPPPPPPPPPPPPPPPPPSYEYGPPTTPPPPPPTPPPPPPPPSTPPPPPPPPPPSHEYGPPTP : 145
+
+ 378 : NASSPQPQPIPPPSAVSRDSGME : 400
+       .:::|.|.| |||:: :. :: |
+ 146 : PPPPPPPPPPPPPPPPPPPPSHE : 168
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 251 400 . GBUE011343-PA 17 168 . 112 M 13 13 G 0 1 M 46 46 G 0 1 M 90 90
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 248 -> 392
+  Target range: 7 -> 155
+
+ 249 : LNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPE--KSALGSL-CKAVSQIGQP : 309
+       |.|:. :||:   :|  .::   :|:..  |||   . : :.|    :: .:|  :.  |:..|
+   8 : LACLAISAYAYPIDEYPPPQHEYGAPPDPPPPPPHYEYGPPTPPPLPPPPPTLPPQEYVQLTPP :  71
+
+ 310 : AAP-TMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGA : 372
+       ::| .:  ||::::::: ::|||::.::.  . :: :|:::::::. :::::: .::|::. .:
+  72 : PPPQNVYGPPIPPPPPPPPPPPPPPPPPPSYEYGPPTTPPPPPPTPPPPPPPPSTPPPPPPPPP : 135
+
+ 373 : SGSGVNASSPQPQPIPPPSA : 392
+       :: . .:::|.|.| |||::
+ 136 : PSHEYGPPTPPPPPPPPPPP : 155
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 248 392 . GBUE011343-PA 7 155 . 111 M 44 44 G 0 2 M 7 7 G 0 1 M 13 13 G 0 1 M 80 80
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 251 -> 421
+  Target range: 59 -> 227
+
+ 252 : FNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMT : 315
+       :.|..| ::     . .:  :: .:  ||| ::  : :.| . . |:   :.:. ..|::|. .
+  60 : LPPQEYVQLTPPPPPQNVYGPPIPPPPPPPPPPPPPPPPPPSYEYGP--PTTPPPPPPTPPPPP : 121
+
+ 316 : QPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNA : 379
+       .|| :::::: ::||: . ::..::.:: :.:::::::. ::::|   ::|::. .::.:. .:
+ 122 : PPPSTPPPPPPPPPPSHEYGPPTPPPPPPPPPPPPPPPPPPPPPSHEYGPPTPPPPPPPPPPPP : 185
+
+ 380 : SSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEM : 421
+       ::|.|.| |||::  :  |  ::.    | | ..:| | ..:
+ 186 : PPPPPPPPPPPPPPHHVYGPPTPSPLLHEYGLPPSEYGPPSL : 227
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 251 421 . GBUE011343-PA 59 227 . 110 M 47 47 G 2 0 M 121 121
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 304 -> 473
+  Target range: 43 -> 215
+
+ 305 : QIGQPAAPTMTQPP--LSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSP : 366
+       : |.|::|.:..||  |:: .    :|||:::.   ::.:: :.:::::::. ::::|   ::|
+  44 : EYGPPTPPPLPPPPPTLPPQEYVQLTPPPPPQNVYGPPIPPPPPPPPPPPPPPPPPPSYEYGPP : 107
+
+ 367 : SSRLGASGSGVNASSPQ--PQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWVYC : 428
+       ::. .::.:. .:::|.  |.| |||:: |:: |  ::  ..: ..:... .. .   |:  | 
+ 108 : TTPPPPPPTPPPPPPPPSTPPPPPPPPPPSHEYGPPTPPPPPPPPPPPPPPPPPPPP-PSHEYG : 170
+
+ 429 : TRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREF : 473
+       .. : .|::.|. ..| .|   ..   .|: .:::   :.| :|:
+ 171 : PPTPPPPPPPPPPPPPPPPPPPPPPPPPPHHVYGPPTPSPLLHEY : 215
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 304 473 . GBUE011343-PA 43 215 . 109 M 14 14 G 0 2 M 65 65 G 0 2 M 38 38 G 1 0 M 51 51
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 252 -> 396
+  Target range: 56 -> 200
+
+ 253 : NPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGSLCKAVSQIGQPAAPTMTQ : 316
+       .|:  |: . ::..:. .::. .: |||| ::  : :.|  :: :  . : :  ..|::.. ..
+  57 : PPTLPPQEYVQLTPPPPPQNVYGPPIPPPPPPPPPPPPPPPPPPSYEYGPPTTPPPPPPTPPPP : 120
+
+ 317 : PPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNAS : 380
+       || :|:::: ::|||:|:. . ::.:: :.:::::::. :::::: :. .::  .::.:. .::
+ 121 : PPPPSTPPPPPPPPPPSHEYGPPTPPPPPPPPPPPPPPPPPPPPPSHEYGPPTPPPPPPPPPPP : 184
+
+ 381 : SPQPQPIPPPSAVSRD : 396
+       :|.|.| |||:: :.:
+ 185 : PPPPPPPPPPPPPPPH : 200
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 252 396 . GBUE011343-PA 56 200 . 108 M 144 144
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE011343-PA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 274 -> 392
+  Target range: 45 -> 162
+
+ 275 : NAVIPPPMSSKMSDANPEK-SALGSLCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNAST : 337
+       .: .|||:::  :. .|:.  .|.:   : :  |.| :|  ..|| :::::: ::||: . ::.
+  46 : GPPTPPPLPPPPPTLPPQEYVQLTPPPPPQNVYGPPIPP--PPPPPPPPPPPPPPPPSYEYGPP : 107
+
+ 338 : ISSTSSVATSSSSSSSGCSSAASSLNSSPSSRLGASGSGVNASSPQPQPIPPPSA : 392
+       .::.:: :|:::::::..:::::: .::||   |::.:. .:::|.|.| |||::
+ 108 : TTPPPPPPTPPPPPPPPSTPPPPPPPPPPSHEYGPPTPPPPPPPPPPPPPPPPPP : 162
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 274 392 . GBUE011343-PA 45 162 . 107 M 19 19 G 0 1 M 19 19 G 2 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE009004-PA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 171 -> 463
+  Target range: 185 -> 477
+
+ 172 : SLAFSISNILSDRFGDVQKPGKSMENQASIFRPFEASRSQTATPSAFTRVDLLEFSRQQQAAAA : 235
+       ::  ::::: .|:: |: |. :  : :..:  .|. : | . .|::  . ::|. :.||:..|:
+ 186 : PMLAPMAHLAEDQLIDIVKTKNYSNCDQRMAYHFGITGSTDWEPASSQMGNMLSRTSQQRVVAS : 249
+
+ 236 : AATAAMMLERA-NFLNCFNPAAYPRIHEEIVQSRLRRSAANAVIPPPMSSKMSDANPEKSALGS : 298
+       :: .   ::.: .  : : ::  .. :..|| ||:. : ..:..::. :  ::.:.  |: |  
+ 250 : GSLDRYTIQSSVTTNKIIIAPHLHNAQKGIVVSRMNLTLETTATASGSPHPLTTPRVFKN-LVY : 312
+
+ 299 : LCKAVSQIGQPAAPTMTQPPLSSSASSLASPPPASNASTISSTSSVATSSSSSSSGCSSAASSL : 362
+        .:|.|| .::.. ...: . |||:|| :|::::|::|: .|.|| :||.||:.|:.|:: || 
+ 313 : NYNAASQDEKAENYPKGNEGSSSSSSSSSSSSSSSSSSSSESDSSSGTSESSNDSSSSGSKSSG : 376
+
+ 363 : NSSPSSRLGASGSGVNASSPQPQPIPPPSAVSRDSGMESSDDTRSETGSTTTEGGKNEMWPAWV : 426
+       :.|:.|. ::| |. :: ..:. . :  :: . ::. :.|..:.|.:||.:|.::.:.  ::  
+ 377 : SKSSDSSSSSSQSENKPQRQNRSRRSVINSRKVEGESDDSSSSSSSSGSNSTSSSSSSSSSSSS : 440
+
+ 427 : YCTRYSDRPSSGPRYRRPKQPKDKTNDEKRPRTAFSS : 463
+        .:. |..:||::. ..:. :...::|...:.:: ||
+ 441 : SSSSSSSSSSSSSSSSSSSSSSSSSSDSDSSSSSSSS : 477
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 171 463 . GBUE009004-PA 185 477 . 101 M 75 75 G 0 1 M 48 48 G 1 0 M 168 168
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE019850-PA
+         Model: affine:local:protein2protein
+     Raw score: 170
+   Query range: 437 -> 511
+  Target range: 65 -> 139
+
+ 438 : GPRYRRPKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKIW : 501
+       |: :. :    .|    :::||.||. ||: |.: |:.:|||:.. | :|: .| |:|:|:|.|
+  66 : GALFSGAAGEVAKHYRRRKARTVFSDLQLTGLEKRFEAQRYLSTPERVELAHSLHLSETQVKTW : 129
+
+ 502 : FQNKRAKIKK : 511
+       |||:| | ||
+ 130 : FQNRRMKHKK : 139
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 437 511 . GBUE019850-PA 65 139 . 170 M 74 74
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE000042-PA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 443 -> 497
+  Target range: 23 -> 77
+
+ 444 : PKQPKDKTNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQ : 497
+       :.::.| ... |::||:|:: |:  |.|:|: ::||:.. |.:::. |::.|:|
+  24 : SDNSSDGERKRKKARTTFTGRQIFELERQFELKKYLSSSERAEMAKLLSVTETQ :  77
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 443 497 . GBUE000042-PA 23 77 . 104 M 54 54
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005133-PA
+         Model: affine:local:protein2protein
+     Raw score: 259
+   Query range: 477 -> 534
+  Target range: 11 -> 68
+
+ 478 : YLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKNPLALQLMAQGLYNHTTV : 534
+       ||||||||.|::||||||||||||||||||||||::||:|||||||||||||||:||
+  12 : YLTERRRQALAAELGLNEAQIKIWFQNKRAKIKKASGSRNPLALQLMAQGLYNHSTV :  68
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 477 534 . GBUE005133-PA 11 68 . 259 M 57 57
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE005134-PA
+         Model: affine:local:protein2protein
+     Raw score: 284
+   Query range: 475 -> 550
+  Target range: 3 -> 78
+
+ 476 : NRYLTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKSTGSKNPLALQLMAQGLYNHTTVPLTKE : 539
+       .:||||||||.|::||||||||||||||||||||||::||:|||||||||||||||:|||::.:
+   4 : TWYLTERRRQALAAELGLNEAQIKIWFQNKRAKIKKASGSRNPLALQLMAQGLYNHSTVPMSDD :  67
+
+ 540 : EEELEMRMNGQ : 550
+       ||  ::: :::
+  68 : EEMENVHGDDK :  78
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 475 550 . GBUE005134-PA 3 78 . 284 M 75 75
+
+C4 Alignment:
+------------
+         Query: en-PA_FBpp0087198_FBgn0000577_engrailed (en)
+        Target: GBUE015703-PA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 450 -> 500
+  Target range: 84 -> 134
+
+ 451 : TNDEKRPRTAFSSEQLARLKREFNENRYLTERRRQQLSSELGLNEAQIKI : 500
+       |: .:|.|| |:.|||.:|. .|:..:| .   |:||:  ::|:|.::.:
+  85 : TKRKRRHRTIFTEEQLEQLEATFDKTHYPDVVLREQLALRVDLKEERVEV : 134
+
+vulgar: en-PA_FBpp0087198_FBgn0000577_engrailed 450 500 . GBUE015703-PA 84 134 . 100 M 50 50
+-- completed exonerate analysis

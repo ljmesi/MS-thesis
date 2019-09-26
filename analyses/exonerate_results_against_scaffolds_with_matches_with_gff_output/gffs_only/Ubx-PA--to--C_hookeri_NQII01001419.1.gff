@@ -1,0 +1,52 @@
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2019-09-18
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+NQII01001419.1	exonerate:protein2genome:local	gene	498	163512	354	+	.	gene_id 1 ; sequence Ubx-PA_FBpp0082793_FBgn0003944_Ultrabithorax ; gene_orientation + ; identity 29.53 ; similarity 54.32
+NQII01001419.1	exonerate:protein2genome:local	cds	498	669	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	498	669	.	+	.	insertions 0 ; deletions 0 ; identity 8.77 ; similarity 47.37
+NQII01001419.1	exonerate:protein2genome:local	splice5	670	671	.	+	.	intron_id 1 ; splice_site "TT"
+NQII01001419.1	exonerate:protein2genome:local	intron	670	1434	.	+	.	intron_id 1
+NQII01001419.1	exonerate:protein2genome:local	splice3	1433	1434	.	+	.	intron_id 0 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	1435	1479	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	1435	1479	.	+	.	insertions 0 ; deletions 0 ; identity 28.57 ; similarity 71.43
+NQII01001419.1	exonerate:protein2genome:local	splice5	1480	1481	.	+	.	intron_id 2 ; splice_site "GG"
+NQII01001419.1	exonerate:protein2genome:local	intron	1480	85537	.	+	.	intron_id 2
+NQII01001419.1	exonerate:protein2genome:local	splice3	85536	85537	.	+	.	intron_id 1 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	85538	85594	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	85538	85594	.	+	.	insertions 0 ; deletions 0 ; identity 27.78 ; similarity 55.56
+NQII01001419.1	exonerate:protein2genome:local	splice5	85595	85596	.	+	.	intron_id 3 ; splice_site "AT"
+NQII01001419.1	exonerate:protein2genome:local	intron	85595	101350	.	+	.	intron_id 3
+NQII01001419.1	exonerate:protein2genome:local	splice3	101349	101350	.	+	.	intron_id 2 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	101351	101449	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	101351	101449	.	+	.	insertions 0 ; deletions 0 ; identity 40.62 ; similarity 43.75
+NQII01001419.1	exonerate:protein2genome:local	splice5	101450	101451	.	+	.	intron_id 4 ; splice_site "GA"
+NQII01001419.1	exonerate:protein2genome:local	intron	101450	145023	.	+	.	intron_id 4
+NQII01001419.1	exonerate:protein2genome:local	splice3	145022	145023	.	+	.	intron_id 3 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	145024	145312	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	145024	145312	.	+	.	insertions 0 ; deletions 1 ; identity 15.79 ; similarity 48.42
+NQII01001419.1	exonerate:protein2genome:local	splice5	145313	145314	.	+	.	intron_id 5 ; splice_site "GA"
+NQII01001419.1	exonerate:protein2genome:local	intron	145313	145352	.	+	.	intron_id 5
+NQII01001419.1	exonerate:protein2genome:local	splice3	145351	145352	.	+	.	intron_id 4 ; splice_site "AT"
+NQII01001419.1	exonerate:protein2genome:local	cds	145353	145381	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	145353	145381	.	+	.	insertions 0 ; deletions 0 ; identity 55.56 ; similarity 55.56
+NQII01001419.1	exonerate:protein2genome:local	splice5	145382	145383	.	+	.	intron_id 6 ; splice_site "GT"
+NQII01001419.1	exonerate:protein2genome:local	intron	145382	156814	.	+	.	intron_id 6
+NQII01001419.1	exonerate:protein2genome:local	splice3	156813	156814	.	+	.	intron_id 5 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	156815	156946	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	156815	156946	.	+	.	insertions 0 ; deletions 0 ; identity 20.93 ; similarity 37.21
+NQII01001419.1	exonerate:protein2genome:local	splice5	156947	156948	.	+	.	intron_id 7 ; splice_site "CT"
+NQII01001419.1	exonerate:protein2genome:local	intron	156947	163237	.	+	.	intron_id 7
+NQII01001419.1	exonerate:protein2genome:local	splice3	163236	163237	.	+	.	intron_id 6 ; splice_site "AG"
+NQII01001419.1	exonerate:protein2genome:local	cds	163238	163512	.	+	.	
+NQII01001419.1	exonerate:protein2genome:local	exon	163238	163512	.	+	.	insertions 0 ; deletions 0 ; identity 54.95 ; similarity 73.63
+NQII01001419.1	exonerate:protein2genome:local	similarity	498	163512	354	+	.	alignment_id 1 ; Query Ubx-PA_FBpp0082793_FBgn0003944_Ultrabithorax ; Align 498 15 171 ; Align 1437 73 42 ; Align 85540 88 54 ; Align 101353 107 96 ; Align 145026 140 195 ; Align 145221 206 90 ; Align 145354 237 27 ; Align 156817 247 129 ; Align 163240 291 273
+# --- END OF GFF DUMP ---
+#

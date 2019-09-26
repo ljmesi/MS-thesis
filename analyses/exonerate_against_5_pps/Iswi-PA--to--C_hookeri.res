@@ -1,0 +1,449 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/Iswi-PA.fas analyses/2019-09-02/polypeptides/C_hookeri_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold1781-size696304-augustus-gene-4.1-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 425 -> 464
+  Target range: 165 -> 204
+
+ 426 : LVYNSGKMAILDKLLPKLQEQGSRVLIFSQMTRMLDILE : 464
+       || ::||: :|| || :|:||| ||||:||||||:|:||
+ 166 : LVTDAGKLYVLDGLLKRLKEQGHRVLIYSQMTRMIDLLE : 204
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 425 464 . maker-scaffold1781-size696304-augustus-gene-4.1-mRNA-1 165 204 . 139 M 39 39
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold651-size734778-augustus-gene-6.8-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 223
+   Query range: 501 -> 605
+  Target range: 6 -> 107
+
+ 502 : LFMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRVFRLITESTVEEKI : 565
+       :|:||:||||:|:||:.|. :::||.||||. | |||.|. | ||.:.|:::||:|.:|:||||
+   7 : VFLLSARAGGVGLNLTGASRLVLYDCDWNPATDRQAMARVWRDGQTRPVHLYRLLTTGTIEEKI :  70
+
+ 566 : VERAEVKLRLDKMVIQGGRLVDNRSNQLNKDEMLNIIRFG : 605
+        :|.  |  | . |::.   .:: : :|:.:|: :::.:|
+  71 : FQRQMSKTGLRESVVDP---TGSGTVRLSDEELKDLFSLG : 107
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 501 605 . maker-scaffold651-size734778-augustus-gene-6.8-mRNA-1 6 107 . 223 M 81 81 G 3 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold651-size734778-augustus-gene-6.9-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 178
+   Query range: 338 -> 494
+  Target range: 522 -> 675
+
+ 339 : FLLRRLKAEVEKRLKPKKEMKIFVGLSKMQRDWYTKVLLKDIDVVNGAGKVEKMRLQNILMQLR : 402
+       |:||| :. |.: || |.|  :| : | :|:  | .|    ::: :. :. .. :|: :: .||
+ 523 : FILRRSQDVVSRYLKEKHEAVLFCAASPLQKRLYQEV----VELWENRAEGATPHLE-VITALR : 581
+
+ 403 : KCTNHPYLF---DGAEPGPPYTTDTHLVYNSGKMAILDKLLPKLQEQGSRVLIFSQMTRMLDIL : 463
+       |  ||| |:   ||:::.|  ..  : | .:|: |: ::  .|||   : :  :.|:. .| ::
+ 582 : KICNHPALLQRSDGPDSPPWQDPVRQSVAPAGRSAVEERHSGKLQVVVGLLRELRQVGEKLVLV : 645
+
+ 464 : EDYCHWRNYNYCRLDGQTPHEDRNRQIQEFN : 494
+       .:| :  . .:||||| || ::| : ::|||
+ 646 : SGYTQ-ERLPFCRLDGSTPSDQRLHVVEEFN : 675
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 338 494 . maker-scaffold651-size734778-augustus-gene-6.9-mRNA-1 522 675 . 178 M 37 37 G 4 0 M 16 16 G 1 0 M 15 15 G 0 3 M 57 57 G 1 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold651-size734778-augustus-gene-6.9-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 168
+   Query range: 147 -> 263
+  Target range: 276 -> 393
+
+ 148 : NGILADEMGLGKTLQTISL-LGYLKH--FKNQAGPHIVIV-PKSTLQNWVNEFKKWCPSLRAVC : 207
+       .::|||:||||||||:|:|    ||:  : ... .::::| |.| :.|| :||::| |. ::: 
+ 277 : GAVLADDMGLGKTLQAITLAWMLLKQGPYGRAEVRRVLVVTPSSLVANWQQEFQRWLPRPQPIA : 340
+
+ 208 : L-IGDQDTRNTFIRDVLMPGEWDVCVTSYEMCIREKSVFKKFNWRYLVIDEAHRIKN : 263
+       : |::::. :.| :   ||    | :.|||. :|  .  ::::.  || ||:||:||
+ 341 : FAIDQKHKVEDFAKLPHMP----VMIISYEKFVRCYEEVRNIQFDLLVCDEGHRLKN : 393
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 147 263 . maker-scaffold651-size734778-augustus-gene-6.9-mRNA-1 276 393 . 168 M 19 19 G 0 1 M 6 6 G 0 2 M 12 12 G 0 1 M 24 24 G 0 1 M 17 17 G 4 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold5416-size163431-augustus-gene-0.2-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 627
+   Query range: 126 -> 592
+  Target range: 379 -> 897
+
+ 127 : EMRDYQIRGLNWMISLYENGINGILADEMGLGKTLQTISLLGYLKHFKNQAGPHIVIVPKSTL- : 190
+       .: :||: ||||:  :.|: :|||||||||||||:|.||:|:|| : |. :|||::|||.||| 
+ 380 : KLAGYQLVGLNWLAVMHEQQVNGILADEMGLGKTVQVISFLAYLYE-KGITGPHLIIVPSSTLR : 442
+
+ 191 : ----QNWVNEFKKWCPSLRAVCLIGDQDTRNTFIRDVLMPG--EWDVCVTSYEMCIR---EKSV : 244
+           :|| ||:.:|.||||.|   |.||.|:::  : :. |  : || :|:|::  .   ||.:
+ 443 : SDFADNWKNELSRWSPSLRVVLYHGAQDERKALRVQWVREGLDDVDVILTTYNIVSSLPEEKKL : 506
+
+ 245 : FKKFNWRYLVIDEAHRIKNEKSKLSEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFN : 308
+       || :. :|||:||||.:||  ::  : |..::: :|:::||||||||| || :||||::||:|:
+ 507 : FKILPLQYLVLDEAHMLKNMATQRYDNLMKINAKQRIMLTGTPLQNNLVELMSLLNFIMPDMFD : 570
+
+ 309 : SS-EDFDEWFNTNTCLG----------DDALITRLHAVLKPFLLRRLKAEVEKRLKPKKEMKIF : 361
+       .. |::.. |:. .  |          ::. ::: :.::|||:||||| :| | | .|.| .: 
+ 571 : KKQEHLKSMFSKVPKQGGDKDDEISQFEQDQVAQAREIMKPFVLRRLKRDVLKDLPTKTEQTLV : 634
+
+ 362 : VGLSKMQRDWYTKVLL------KDID---VVNGAGKVEKMR-----------------LQNILM : 399
+        .||. |   | :::       ::::    .:| : :..:|                 |::|  
+ 635 : CPLSTTQEMLYHNLINVYTKRDREVEERVGTSGISVITDLRKAANHPALLRHHYKEGDLEDIAA : 698
+
+ 400 : QLR-----KCTNHPYL---------FDGAEPG------PPYTTDTHLVYNSGKMAILDKLLPKL : 443
+       :|      | ||..|:         ||  : :      :.||  .::| :|||.: ||.:|| :
+ 699 : RLAAEPQYKETNPQYVLEDLCLMSDFDVHQLACTYRRLSGYTLPDEVVLESGKFSKLDEFLPVF : 762
+
+ 444 : QEQGSRVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTPHEDRNRQIQEFNMDNSAKFLFMLST : 507
+       :.:| |||||||.. ||||:|        .| |: |: .:      |:||| :|:. ::|:|||
+ 763 : KADGHRVLIFSQFVIMLDIME--------AYLRIRGHLQE-----LIDEFN-NNPEILVFLLST : 812
+
+ 508 : RAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRVFRLITESTVEEKIVERAEV : 571
+       |||||||||::||.|||.| |.||  | || || ||:||.::|.|:|||:|:|:|| | . |  
+ 813 : RAGGLGINLTAADTVIIHDVDFNPYNDKQAEDRCHRVGQTRDVSVIRLISEGTIEEVIHKIALD : 876
+
+ 572 : KLRLDKMVIQGGRLVDNRSNQ : 592
+       ||||:| : :.| :.:.|. |
+ 877 : KLRLEKEINNPGGMAGGRDVQ : 897
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 126 592 . maker-scaffold5416-size163431-augustus-gene-0.2-mRNA-1 379 897 . 627 M 46 46 G 1 0 M 16 16 G 0 5 M 37 37 G 0 2 M 14 14 G 0 3 M 70 70 G 0 1 M 14 14 G 0 10 M 53 53 G 0 6 M 4 4 G 0 3 M 12 12 G 0 17 M 9 9 G 0 5 M 8 8 G 0 9 M 7 7 G 0 6 M 47 47 G 8 0 M 11 11 G 5 0 M 6 6 G 1 0 M 97 97
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold22-size1954011-augustus-gene-15.5-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 258 -> 362
+  Target range: 1 -> 110
+
+ 259 : HRIKNEKSKL-SEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDFDEWF--NT : 319
+       ..:|:|:::: :|||   |: . ||::|||  :. :||.: :. : |..|:: ::|. ::  . 
+   2 : KNFKSERTRVGTEILA--KAKRVLLLSGTPALSRPNELYTQIAAIEPKAFKTFHEFAVRYCDAQ :  63
+
+ 320 : NTCLG----DDALITRLHAVL-KPFLLRRLKAEVEKRLKPKKEMKIFV : 362
+       :  :|    :.: :. || :| :.|::||||:||  :| | | ..:||
+  64 : KRAFGWDYSGSSHMEELHLLLERRFMIRRLKSEVLAQL-PAKRREVFV : 110
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 258 362 . maker-scaffold22-size1954011-augustus-gene-15.5-mRNA-1 1 110 . 113 M 10 10 G 0 1 M 5 5 G 2 0 M 42 42 G 0 2 M 7 7 G 0 4 M 12 12 G 0 1 M 16 16 G 1 0 M 9 9
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold6488-size120108-augustus-gene-0.2-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 401
+   Query range: 310 -> 602
+  Target range: 79 -> 368
+
+ 311 : EDFDEWFNTNTCLGDDALITRLHAVL-KPFLL---RRLKAEVEKRLKPKKEMKIFVGLS-KMQR : 369
+       : |.  :.| .. |::   .||:: | :.:::   :|  . :..   |..: |:: |:. || |
+  80 : HRFAPELPTLVYYGNEKERVRLQSQLRRRYVVKGEKRYPVVLTSYQIPMSDSKFLSGFRWKMMR : 143
+
+ 370 : DWYT--KVLLKDIDVVNGAGKVEKMRLQNILMQL-RKCTNHPYLFDGAEPGPPYTTDTHLVYNS : 430
+       :  :  ::||.:. : |: ..: .: |: :: :| ....    |||  |  . ...:.  : : 
+ 144 : ELKSDNRLLLTGTPLQNDLTELWSL-LNFLMPELFNDSGLFEVLFDVRELQNDCNNEK--IVEQ : 204
+
+ 431 : GKMAILDKLLPKLQEQGSRVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTPHEDRNRQIQEFN : 494
+       .|    :.:|:.|:|    ||:|| ...:||::|:  : |..:||||||  : :.|: :|| ||
+ 205 : EKS---QHVLSTLHE----VLLFSTFVMVLDLVEEMLDIRGWKYCRLDGGHSLDSREDNIQLFN : 261
+
+ 495 : MDNSAKFLFMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRVFRLITE : 558
+        :::. ::|::||||||||:||::||.|||:|||||||:|||| || |||||.|.|.|:||:| 
+ 262 : -NDPDILVFLISTRAGGLGLNLTSADTVIIFDSDWNPQVDLQAQDRCHRIGQTKPVMVYRLMTR : 324
+
+ 559 : STVEEKIVERAEVKLRLDKMVIQGGRLVDNRSNQLNKDEMLNII : 602
+       :|:::||||||..| :|:||||:.. |:. :..  . | |:.::
+ 325 : GTIDQKIVERATAKRKLEKMVIHNECLITCWEAFGGADFMVGLV : 368
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 310 602 . maker-scaffold6488-size120108-augustus-gene-0.2-mRNA-1 79 368 . 401 M 26 26 G 0 1 M 5 5 G 0 3 M 24 24 G 0 1 M 8 8 G 0 2 M 19 19 G 1 0 M 8 8 G 0 1 M 23 23 G 2 0 M 7 7 G 3 0 M 9 9 G 4 0 M 45 45 G 1 0 M 107 107
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold6488-size120108-augustus-gene-0.2-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 306
+   Query range: 127 -> 318
+  Target range: 11 -> 188
+
+ 128 : MRDYQIRGLNWMISLYENGINGILADEMGLGKTLQTISLLGYLKHFKNQAGPHIVIVPKSTLQN : 191
+       : :| |       :|||||:|||||||||||||:|.|::| .| .  . ||| :|| | ||| |
+  12 : LFGYVIVVTVSPPALYENGVNGILADEMGLGKTVQVIAMLCHL-YSVGCAGPFLVICPLSTLCN :  74
+
+ 192 : WVNEFKKWCPSLRAVCLIGDQDTRNTFIRDVLMPGEWDVCVTSYEMCIREKSVFKKFNWRYLVI : 255
+       | .||.:. |.|.::   |::..|   :|  | :  :  .|.. |.  |   |:..::   : :
+  75 : WKREFHRFAPELPTLVYYGNEKER---VR--LQSQLRRRYVVKGEK--RYPVVLTSYQ---IPM : 128
+
+ 256 : DEAHRIKNEKSKLSEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDFDEWFN : 318
+       .::. :.. : |:   :||:|:.||||:|||||||:| |||:|||||:|::||.|. |:  |:
+ 129 : SDSKFLSGFRWKM---MRELKSDNRLLLTGTPLQNDLTELWSLLNFLMPELFNDSGLFEVLFD : 188
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 127 318 . maker-scaffold6488-size120108-augustus-gene-0.2-mRNA-1 11 188 . 306 M 43 43 G 1 0 M 44 44 G 3 0 M 2 2 G 2 0 M 15 15 G 2 0 M 10 10 G 3 0 M 16 16 G 3 0 M 47 47
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold154-size1292224-augustus-gene-11.5-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 586
+   Query range: 254 -> 584
+  Target range: 0 -> 346
+
+ 255 : IDEAHRIKNEKSKLSEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDFDEWFN : 318
+       :||:|:|:| .:|:: .:::|:|::|::::|:|:||:|.|||:|::|::|: :.:   | . :.
+   1 : MDEGHKIRNPDAKVTLTVKQFRTPHRIILSGSPMQNSLKELWSLFDFIFPGKLGTLPVFLAQLA :  64
+
+ 319 : ---TNTCLGDDALI---------TRLHAVLKPFLLRRLKAEV--EKRLKPKKEMKIFVGLSKMQ : 368
+          |:.  ::.: :         | |:..:.|:||||:||:|  : .| :|.|  :|  |:. |
+  65 : VPITQGGYANASQVEVATAYKCATVLRDTISPYLLRRMKADVKLHINLPAKSEQVLFCKLTEEQ : 128
+
+ 369 : RDWYTKVLLKDIDVVNGAGKVEKMRLQNILMQLRKCTNHPYLFDGA----EPGPPYTTDTHLVY : 428
+       |: | |. |.. :| .     .|: |   |::|||  ||| |:.|:    ..:.  ..:.   |
+ 129 : RHHY-KAYLESGEVDRILQGHAKIFLG--LINLRKLCNHPDLYSGGTKLFAGDHDLPEEESYGY : 189
+
+ 429 : --NSGKMAILDKLLPKLQEQGSRVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTPHEDRNRQI : 490
+         ::||| :::.||   :.|| |||:|:|  :|| |:|.: : :.|:| :||| |: ..|:. |
+ 190 : WKKAGKMIVVESLLKIWKKQGHRVLLFTQSRQMLCIMESFVQKQGYSYLKLDGGTSISARQPLI : 253
+
+ 491 : QEFNMDNSAKFLFMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRVFR : 554
+       :.|| ::|: |:|:|:||.||||:||:.|| |:|||:||||. | ||.:|| ||||:::| |:|
+ 254 : NKFN-EDSTYFVFLLTTRVGGLGVNLTGADRVVIYDPDWNPATDTQARERAWRIGQQNRVTVYR : 316
+
+ 555 : LITESTVEEKIVERAEVKLRLDKMVIQGGR : 584
+       |||.:|:|||: :|.  |  |.:.|:::.:
+ 317 : LITAGTIEEKVYHRQIFKQFLTNRVLDDPK : 346
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 254 584 . maker-scaffold154-size1292224-augustus-gene-11.5-mRNA-1 0 346 . 586 M 64 64 G 0 3 M 11 11 G 0 9 M 19 19 G 0 2 M 24 24 G 1 0 M 22 22 G 2 0 M 17 17 G 0 4 M 14 14 G 0 2 M 66 66 G 1 0 M 89 89
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold2589-size337636-augustus-gene-2.5-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 553 -> 826
+  Target range: 378 -> 653
+
+ 554 : RLITESTVEEKIVERAEVKL-RLDKMVIQ-GGRLVDNRSNQLNKDEMLNIIRFGANQVFSSKET : 615
+       :| .:..: .. : |.:. | :|..  |:    : :::  . ||. :|:    .  :  ..:  
+ 379 : KLKNDEELRKDKIRRVQTVLPKLSEQDIDFIVDVYHQQFYPKNKSPLLKDELREKFNFVKKRFQ : 442
+
+ 616 : DITDEDIDVILE--RGEAKTAEQKAALDSLGESSLRT-FTMDTNGEAGTSSVYQFEGEDWREKQ : 676
+       :::||||::||.  .:|. ..: .:. :.: . .|.. |.::.:: ...  :|     : ...|
+ 443 : NLSDEDINLILSEFNSENLKNNSTPEYGDFKKHKLMEYFGLNEDDIDEVLHIYGVIRPNVSSDQ : 506
+
+ 677 : KLNALGNWIEPPKRERKANYAV--DAYFREALRVSEPKAPKAPRPPKQPIVQDFQFFPPRLFEL : 738
+        : ::.| .|. . :.||.|::  :: :.: |.  |   |..  ... :  :::::: ..  .:
+ 507 : PM-TVTNSTENKTDNMKAPYTLLPESDINDILSRYELYIPTEEDGTSIS-KENIRIIKGNHPTV : 568
+
+ 739 : LDQEIYYFRKTVGYKVPKNTELGSDATKVQREEQRKIDEAEPLTEEEIQEKENLLSQGF-TAWT : 801
+        |:::||: |.  || |...:  .....||:  :|  .   :|::.|| : .:|:...: .. .
+ 569 : SDRDVYYIIKI--YKRPHPEN--ETDPEVQKIMHRIGKLYPSLSDKEIYNITSLFDAPYPEDLK : 628
+
+ 802 : KRDFNQFIKANEKYGRDDIDNIAKD : 826
+       .:|| ::|: : || .|   :::.:
+ 629 : EKDFLNYINRKIKYISDIYPSVTDQ : 653
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 553 826 . maker-scaffold2589-size337636-augustus-gene-2.5-mRNA-1 378 653 . 114 M 20 20 G 0 1 M 8 8 G 0 1 M 46 46 G 0 2 M 23 23 G 0 1 M 28 28 G 1 0 M 19 19 G 0 2 M 25 25 G 1 0 M 25 25 G 2 0 M 8 8 G 2 0 M 36 36 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold6812-size190004-augustus-gene-0.5-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 3924
+   Query range: 23 -> 933
+  Target range: 1 -> 919
+
+  24 : ATSSSGEKEAEFDNKIEADRSRRFDFLLKQTEIFTHFMTNSAK----SPTKPK-GRPKKIKDKD :  82
+       : :..: ..|: ::: |:|||:|||:||||||||||||:|:.:    || | : |||:|  |: 
+   2 : SRPEDSMDTADTGENSETDRSKRFDYLLKQTEIFTHFMSNNQNKQSASPLKVRPGRPRKNPDQP :  65
+
+  83 : K-----EKDVADHRHRKTEQEEDEELLAE-DSATKEIFRFDASPAYIKSGEMRDYQIRGLNWMI : 140
+       |     . |.:|||||||||||||||||| :|: |.|:.||.||:|:|:|||||||:|||||||
+  66 : KLTAQSSGDTGDHRHRKTEQEEDEELLAETNSSRKTIISFDQSPPYVKNGEMRDYQVRGLNWMI : 129
+
+ 141 : SLYENGINGILADEMGLGKTLQTISLLGYLKHFKNQAGPHIVIVPKSTLQNWVNEFKKWCPSLR : 204
+       |||||||||||||||||||||||||||||:||::: :||||||||||||.||:|||||| ||||
+ 130 : SLYENGINGILADEMGLGKTLQTISLLGYMKHYRSIPGPHIVIVPKSTLANWMNEFKKWVPSLR : 193
+
+ 205 : AVCLIGDQDTRNTFIRDVLMPGEWDVCVTSYEMCIREKSVFKKFNWRYLVIDEAHRIKNEKSKL : 268
+       ||||||||::||.||||.||||:|||||||||| |:||||||||||||:|||||||||||||||
+ 194 : AVCLIGDQESRNVFIRDTLMPGNWDVCVTSYEMVIKEKSVFKKFNWRYMVIDEAHRIKNEKSKL : 257
+
+ 269 : SEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDFDEWFNTNTCLGDDALITRL : 332
+       |||:|||||:||||:|||||||||||||:|||||||:||:||:|||.|||||: :||::|:.||
+ 258 : SEIVREFKTTNRLLLTGTPLQNNLHELWSLLNFLLPEVFSSSDDFDAWFNTNSFMGDNSLVERL : 321
+
+ 333 : HAVLKPFLLRRLKAEVEKRLKPKKEMKIFVGLSKMQRDWYTKVLLKDIDVVNGAGKVEKMRLQN : 396
+       ||||:||||||||:||||:||||||||:::|||||||:||||||:||||:||||||:|||||||
+ 322 : HAVLRPFLLRRLKSEVEKKLKPKKEMKVYIGLSKMQREWYTKVLMKDIDIVNGAGKIEKMRLQN : 385
+
+ 397 : ILMQLRKCTNHPYLFDGAEPGPPYTTDTHLVYNSGKMAILDKLLPKLQEQGSRVLIFSQMTRML : 460
+       ||||||||:||||||||||||||||||.|||||.|||.:|||:||:||||.|||||||||||||
+ 386 : ILMQLRKCSNHPYLFDGAEPGPPYTTDEHLVYNCGKMVLLDKFLPRLQEQESRVLIFSQMTRML : 449
+
+ 461 : DILEDYCHWRNYNYCRLDGQTPHEDRNRQIQEFNMDNSAKFLFMLSTRAGGLGINLATADVVII : 524
+       |||||||||| |||||||||||||||:|||:|||  .|.||:||||||||||||||||||||||
+ 450 : DILEDYCHWRCYNYCRLDGQTPHEDRQRQINEFNEPGSEKFIFMLSTRAGGLGINLATADVVII : 513
+
+ 525 : YDSDWNPQMDLQAMDRAHRIGQKKQVRVFRLITESTVEEKIVERAEVKLRLDKMVIQGGRLVDN : 588
+       ||||||||||||||||||||||.|||||||:|||:||||||||||||||||||:||| |||||:
+ 514 : YDSDWNPQMDLQAMDRAHRIGQMKQVRVFRFITENTVEEKIVERAEVKLRLDKIVIQQGRLVDS : 577
+
+ 589 : RSNQLNKDEMLNIIRFGANQVFSSKETDITDEDIDVILERGEAKTAEQKAALDSLGESSLRTFT : 652
+       : ||||||||||:|| |||:||:||:::||:|||| || :|||||.| |. |:::|||||:.||
+ 578 : KQNQLNKDEMLNMIRHGANHVFASKDSEITEEDIDSILMKGEAKTEELKQKLETMGESSLQNFT : 641
+
+ 653 : MDTNGEAGTSSVYQFEGEDWREKQKLNALGNWIEPPKRERKANYAVDAYFREALRVSEPKAPKA : 716
+       :||   :.|.|||||||||.|||||: ::|||||||||||||||||||||||||||||||||||
+ 642 : LDT---GPTESVYQFEGEDYREKQKVLGIGNWIEPPKRERKANYAVDAYFREALRVSEPKAPKA : 702
+
+ 717 : PRPPKQPIVQDFQFFPPRLFELLDQEIYYFRKTVGYKVPKNTELGSDATKVQREEQRKIDEAEP : 780
+       ||||||||||||||||||||||||||||:||||||||||||.||||||:::|:||||||||| |
+ 703 : PRPPKQPIVQDFQFFPPRLFELLDQEIYFFRKTVGYKVPKNPELGSDAARIQKEEQRKIDEARP : 766
+
+ 781 : LTEEEIQEKENLLSQGFTAWTKRDFNQFIKANEKYGRDDIDNIAKDVEGKTPEEVIEYNAVFWE : 844
+       |||:|::|||:||:||||:|:|||||||||||||||||||:||||:|||||||||:||::|||:
+ 767 : LTEDEMDEKEKLLTQGFTTWSKRDFNQFIKANEKYGRDDIENIAKEVEGKTPEEVMEYSTVFWD : 830
+
+ 845 : RCTELQDIERIMGQIERGEGKIQRRLSIKKALDQKMSRYRAPFHQLRLQYGNNKGKNYTEIEDR : 908
+       ||:|||||:|||:||||||:||||| |||||||.||:||||||||||:.||.|||||||| |||
+ 831 : RCSELQDIDRIMAQIERGEAKIQRRASIKKALDAKMARYRAPFHQLRIAYGTNKGKNYTEEEDR : 894
+
+ 909 : FLVCMLHKLGFDKENVYEELRAAIR : 933
+       |||||||||||||||||||||||:|
+ 895 : FLVCMLHKLGFDKENVYEELRAAVR : 919
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 23 933 . maker-scaffold6812-size190004-augustus-gene-0.5-mRNA-1 1 919 . 3924 M 43 43 G 0 4 M 6 6 G 0 1 M 11 11 G 0 5 M 23 23 G 0 1 M 549 549 G 3 0 M 275 275
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold3038-size297107-augustus-gene-1.4-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 518
+   Query range: 143 -> 556
+  Target range: 110 -> 562
+
+ 144 : ENGINGILADEMGLGKTLQTISLL-GYLKH---FKNQAGPHIVIVPKSTLQNWVNEFKKW-CPS : 202
+       |:: . |:||||||||||| |:|: . |::    |.  :  ||:.|.| ::|| ||::||  ..
+ 111 : EDAYGCIMADEMGLGKTLQCITLMWTLLRQGPDCKPIIDKAIVVAPSSLVKNWYNEINKWLGGR : 174
+
+ 203 : LRAVCLIG---DQDTRN--TFIRDVLMPGEWDVCVTSYEMCIREKSVFKKFNWRYLVIDEAHRI : 261
+       :.:: : |   || .|.  :|::. |...   : :.|||    :  |:.: :   :: ||:||:
+ 175 : VNSLAIDGGAKDQIDRTLISFMQTFLRRPVNPILIISYETFRLHAQVLHRGEVGLVLCDEGHRL : 238
+
+ 262 : KNEKSKLSEILREFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDFDEWFNTNTCLGD : 325
+       || .::  : |..:|: .|:|::|||:||:| | .:|::|: .:::.::::|   |: ..  |:
+ 239 : KNCENQTYQALMGLKAKRRVLLSGTPIQNDLLEYFSLVQFVNQGILGTAQEFRRKFELPILRGQ : 302
+
+ 326 : DAL------------ITRLHAVLKPFLLRRLKAEVEKRLKPKKEMKIFVGLSKMQRDWYTKVL- : 377
+       ||             :. | ::::. |:|| .: :.| |  | |  : | :| :||| |.: : 
+ 303 : DADAADEDRKRGQACLEELASIVNRCLIRRTSSLLSKYLPVKVEQVVCVRMSALQRDLYKQFIS : 366
+
+ 378 : ---LKDIDVVNGAGKVEKMRLQNILMQLRKCTNHPYLFDGAE-PGPPYTTDTHLV---YN---- : 430
+          ||.. . :..|||.   | :|    : |.:.  ::|  | .: .:... :|:   |:    
+ 367 : SDALKKTVTGQNEGKVSLSALSSITSLKKLCNHPDLVYDKIETRSEGFEKALELLPQKYDVKKV : 430
+
+ 431 : ----SGKMAILDKLLPKLQEQGS-RVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTPHEDRNR : 488
+           |||: :|| ||: ::. .: :|:: |: |: ||::|  |: |||:| ||||  . ..|.:
+ 431 : MPELSGKLMVLDCLLAIVKTTTTDKVVLVSNYTQTLDLFERLCRMRNYQYVRLDGTMTIKKRAK : 494
+
+ 489 : QIQEFNMDNSAKFLFMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRV : 552
+        :: ||  :|..::||||::||| |:|| .|: ::::|:||||. | |||.|. | ||:||  :
+ 495 : VVERFNDPSSQDYVFMLSSKAGGCGLNLIGANRLVMFDPDWNPANDDQAMARVWRDGQRKQCFI : 558
+
+ 553 : FRLI : 556
+       :||:
+ 559 : YRLL : 562
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 143 556 . maker-scaffold3038-size297107-augustus-gene-1.4-mRNA-1 110 562 . 518 M 24 24 G 0 1 M 5 5 G 0 3 M 27 27 G 0 1 M 11 11 G 0 3 M 6 6 G 0 2 M 112 112 G 0 12 M 48 48 G 0 4 M 39 39 G 0 1 M 12 12 G 0 3 M 2 2 G 0 8 M 19 19 G 0 1 M 108 108
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold2093-size481608-augustus-gene-3.8-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 438 -> 553
+  Target range: 309 -> 421
+
+ 439 : LLPKLQEQGSRVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTPHEDRNRQIQEFNMDNSAKFL : 502
+       ||  ||. .:.||||::..: :| :::|   :. :   ::| . :|:|:| ::.|..::..   
+ 310 : LLECLQKTPPPVLIFAEKKQDVDAIHEYLLLKGVEAVAIHGGKDQEERSRSVDAFRKGHKD--- : 371
+
+ 503 : FMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQKKQVRVF : 553
+        :::| .:: |:::.... || ||   : :  :: ::|: | |::  . .|
+ 372 : VLVATDVASKGLDFENVKHVINYDMPDDVENYVHRIGRTGRSGKNGIATTF : 421
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 438 553 . maker-scaffold2093-size481608-augustus-gene-3.8-mRNA-1 309 421 . 124 M 61 61 G 3 0 M 51 51
+
+C4 Alignment:
+------------
+         Query: Iswi-PA_FBpp0086954_FBgn0011604_Imitation SWI (Iswi)
+        Target: maker-scaffold2185-size384366-augustus-gene-2.5-mRNA-1
+         Model: affine:local:protein2protein
+     Raw score: 1211
+   Query range: 61 -> 631
+  Target range: 368 -> 957
+
+  62 : TNSAKSPTKPKGRPKKIKDKDKE---KDVADHRHRKTEQEEDEELLAEDSATKEIFRFDASPAY : 122
+       .:|...|:.::|.: . .:|.::   |. .:: : ||. .|::.  : . :.:||   .. :: 
+ 369 : PDSNSKPSTSNGSAASDEEKTRDIMQKAKVEDDEYKTS-TEEQTYYSIAHTINEI--VTEQSTI : 429
+
+ 123 : IKSGEMRDYQIRGLNWMISLYENGINGILADEMGLGKTLQTISLLGYLKHFKNQAGPHIVIVPK : 186
+       : :|::::||::   |::||::|.:|||||||||||||:|||:|:.||.: |: .|| ::||| 
+ 430 : LINGNLKEYQVK---WLVSLFNNNLNGILADEMGLGKTIQTIALITYLMEKKKVNGPFLIIVPL : 490
+
+ 187 : STLQNWVNEFKKWCPSLRAVCLIGDQDTRNTFIRDVLMPGEWDVCVTSYEMCIREKSVFKKFNW : 250
+       ||| ||| ||.|| ||: .|   |... |.  ::. :.:...:| :|:||  |::|::: |::|
+ 491 : STLSNWVLEFDKWAPSVVVVAYKGSPAMRRQ-MQSQMRSTKFNVLLTTYEYVIKDKGMLAKLHW : 553
+
+ 251 : RYLVIDEAHRIKNEKSKLSEILR-EFKTANRLLITGTPLQNNLHELWALLNFLLPDVFNSSEDF : 313
+       :|::|||:||:||:..||:::|. ::::::|||:|||||||:|.|||||||||||.:|:|...|
+ 554 : KYMIIDEGHRMKNHHCKLTQVLNTHYNATHRLLLTGTPLQNKLPELWALLNFLLPSIFKSCSTF : 617
+
+ 314 : DEWFNT-------NTCLGDDA---LITRLHAVLKPFLLRRLKAEVEKRLKPKKEMKIFVGLSKM : 367
+       ::|||:       :. |.::.   :| ||| ||:|||||||| |||.:|  | |  :  ::| :
+ 618 : EQWFNAPFATTGEKVELNEEETILIIRRLHKVLRPFLLRRLKKEVESQLPDKVEYIVKCDMSGL : 681
+
+ 368 : QRDWYTKVLLKDIDVVNGA-----GKVEKMRLQNILMQLRKCTNHPYLFDGAE--------PGP : 418
+       |:  |..:  |:: :.:|:     || . . | |.::||||  |||::|:. |        :..
+ 682 : QKVLYKHMQSKGVLLTDGSEKGKQGKGGAKALMNTIVQLRKLCNHPFMFQNIEEKYCEHISSNT : 745
+
+ 419 : PYTTDTHLVYNSGKMAILDKLLPKLQEQGSRVLIFSQMTRMLDILEDYCHWRNYNYCRLDGQTP : 482
+       : .::.:|  .|||..:||::||||:. . |||:|.|||:::.|:|||  ||.:|| |||| | 
+ 746 : SVVSGPDLFRASGKFELLDRILPKLKATNHRVLLFCQMTQLMTIMEDYLSWRGFNYMRLDGTTK : 809
+
+ 483 : HEDRNRQIQEFNMDNSAKFLFMLSTRAGGLGINLATADVVIIYDSDWNPQMDLQAMDRAHRIGQ : 546
+        |||.  :: ||  :|. |||:|||||||||:||.:||.|:|:||||||: |||| ||||||||
+ 810 : AEDRGDLLRRFNSPDSDYFLFLLSTRAGGLGLNLQAADTVVIFDSDWNPHQDLQAQDRAHRIGQ : 873
+
+ 547 : KKQVRVFRLITESTVEEKIVERAEVKLRLDKMVIQGGRLVDNRSNQLNKDEMLNIIRFGANQVF : 610
+       :::|||:||:| ::|||:|:. |  ||.:|..|||:| : |::|.  ::::.|: | : .::. 
+ 874 : QNEVRVLRLMTVNSVEERILAAARYKLNMDEKVIQAG-MFDQKSTGSERQQFLQSI-LHQDDAD : 935
+
+ 611 : SSKETDITDED-IDVILERGEA : 631
+       ...|.::.|:| :: ::.|:|:
+ 936 : EEEENEVPDDDTVNQMIARSEG : 957
+
+vulgar: Iswi-PA_FBpp0086954_FBgn0011604_Imitation 61 631 . maker-scaffold2185-size384366-augustus-gene-2.5-mRNA-1 368 957 . 1211 M 23 23 G 0 3 M 12 12 G 1 0 M 16 16 G 2 0 M 19 19 G 3 0 M 80 80 G 1 0 M 55 55 G 0 1 M 46 46 G 0 7 M 8 8 G 0 3 M 59 59 G 0 5 M 29 29 G 0 8 M 168 168 G 1 0 M 18 18 G 1 0 M 18 18 G 0 1 M 10 10
+-- completed exonerate analysis

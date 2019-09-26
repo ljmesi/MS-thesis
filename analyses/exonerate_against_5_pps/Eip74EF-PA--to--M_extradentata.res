@@ -1,0 +1,5004 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/Eip74EF-PA.fas analyses/2019-09-02/polypeptides/M_extradentata_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00077260-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 84 -> 259
+  Target range: 209 -> 389
+
+  85 : EPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITD-----DDFASVAAAV : 143
+       | :|| .::.. :: |::|::: .  | |  . .  .:::::..| :.|     :::||:::.:
+ 210 : ECVCGRSPPATQYHQFPQSQLDSSLWLQDHFGQAPAAQHDNSAANFFGDGGHQYEGLASLGGDL : 273
+
+ 144 : VANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLI : 207
+        ..::::. ::: |.|.| .::  :  :..|.| :.  ||.:||::  ..: :::|  | .:: 
+ 274 : FQPEEIFQLDQP-LKAPGYAQTSFSQGTADGAARSPTMLLDLGSGGVIQRGPPPPAIKLEPNVA : 336
+
+ 208 : NN-NNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAE : 259
+       |    :::.:.::|:::::: :.:: :.::.:.:|. : :: |:: |::.:::
+ 337 : NYWMLSQPPAADESDSSSSRFAPDDVGDPSPATPGKLGQQFFYGVDGDRRIPD : 389
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 84 259 . Medex_00077260-RA 209 389 . 101 M 49 49 G 0 5 M 22 22 G 1 0 M 53 53 G 0 1 M 50 50
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00076639-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 3 -> 458
+  Target range: 565 -> 1012
+
+    4 : IDDALLWCPDNDGRLVGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSV :   65
+        :|   | ..:::.||..|: |:.|::.. .:....: :.: .::.| .|  .:|:|   ::|
+  566 : VDVIALGSTNENTRLATGV-LDECVTAKVDGANIGS-ENGKANGENLGNKTANVDG---ANV :  622
+
+   66 : ESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENN :  127
+        .|....||||.  . ::. . : . ||...   : :.::  :.. :::::: :.|.: | | 
+  623 : GSETTKLNGANL-GSEIAKAEVENLDSETSEVDGANAGSVVVKEYVANVGSENAKAD-EYNL :  682
+
+  128 : NNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSS :  189
+        . | ...| .:|::..|   :::: : :: :|::  ::::.    ||::|| :|: .:|.: 
+  683 : TCVSVKADGENVGSEAV---EVIGANVGNENAKADENTISEIALVSGETGGSEAVNVYGENV :  741
+
+  190 : SAASAIAAAAAALCGDLINNNNNNSNSNNNSNGN--GNHGGGGGGASSGGGVAGDCATKLEY :  249
+        ::.::::.::..  .:  .: :| :|.: :::|:  |::.: :..|: |.: . :..:  . 
+  742 : GSENTMTDGTNVSNENTKGDWENLGNEDVKADGKIVGSETAQAEEANVGTDDVKESDAVRGS :  803
+
+  250 : ALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQL :  311
+        .: :    |:  .:::..:: .   .::    |:|||   .| |::|   | :.||:. :: 
+  804 : DMEACVEAANRENILADVTSVGNEKGRVDLAALEIEKDTVDLVDSDIKPCKGNVSPSNSKHD :  865
+
+  312 : QQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSS :  373
+        :.:   .: : :::::.:: :...| | . ..:|.  .  .:: :  :   | :: ||: :.
+  866 : KAESTSAESEIDKANSTTANSENKADLTTADSENDGKEMTAVEIDTGEVSVLTASCGNDVTD :  927
+
+  374 : NGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSS :  435
+           :.  :.:  |..     .|   .:: ::    .|..:.||.  .:|.:|. :...  :.
+  928 : MIFSNICKANLAATGSEDEKKNGSVTDSENDMVSVAYVGSETGKGVRTPVGSENGKTTVFTE :  989
+
+  436 : GGQPCADELKARLGMPPATSASA :  458
+        .|:: .|.: : :.: .|.:|.:
+  990 : NGEAGVDTVGSDIEVVGAGAADS : 1012
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 3 458 . Medex_00076639-RA 565 1012 . 108 M 19 19 G 1 0 M 16 16 G 1 0 M 19 19 G 3 0 M 15 15 G 1 0 M 44 44 G 1 0 M 21 21 G 3 0 M 76 76 G 0 2 M 235 235
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 43 -> 241
+  Target range: 696 -> 899
+
+  44 : IQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSE----- : 103
+       : |:|:..:. |: :|.  || . :|:. :|::: : .  |:. .||:::.: : :|:.     
+ 697 : VISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSV : 760
+
+ 104 : SNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSV : 166
+       :: .:.:  :: .  |: .:: .|::.|:.|:: :: .:.. :::::::::.:   : :  :: 
+ 761 : GQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGGSGSQGG : 824
+
+ 167 : AASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGG : 230
+       : |  :||: |||::  : |:||:..:: :.::::: |:|  :.. .:::.:.::|.:.  ||:
+ 825 : TFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGS : 888
+
+ 231 : GGASSGGGVAG : 241
+       ||.:::|| :|
+ 889 : GGQGGSGGQGG : 899
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 43 241 . Medex_00021391-RA 696 899 . 120 M 59 59 G 0 5 M 139 139
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00050387-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 338 -> 694
+  Target range: 195 -> 556
+
+ 339 : HIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHN-LLSGGA : 401
+       ::.: :..| .|  :  :::::::: ..: .:|  ::::.  :  .|: .: .| :.  |   :
+ 196 : ELMARERVLSPPAVIIMEEKEHNSMSTQTHPSGLLEDSSDAIEMGRLSSRHLTLQEACSLHKRT : 259
+
+ 402 : IHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAA : 465
+         : .:..    .. . :::.:.: :..|::  ::..  ::.:|   . |:... :: :. ::.
+ 260 : SCEDKQNASQQCEVVDVSSGNTTPRLDSVEAVQPATPINPGSVKHTPPTPSQPEIPSMGVYTPD : 323
+
+ 466 : AAAAAHLHTGTFLHPNLYQ--NNAANSLRNIWNRSVGVPDNYYGSSGAGSGG--TQPGGPGNPQ : 525
+       :::.:     .: : :| |  .:::.| ::: :: |::::.. |: .  :    : |:.  :|:
+ 324 : STTNSVHSLHGYGQCDLDQGTGSSSGSQQQLLQHQVAMAHTHQGGYPHHPHHQLASPAPMQHPH : 387
+
+ 526 : TPGYLTTSYFNAPTAATAAASQRGTTING-YHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQ : 588
+        :    :||::.|  :.::.: .: | .| | |:.     |:: .  |..   |||:|:  .. 
+ 388 : HAHISQSSYISVPQMSVSSQAFSAQTGGGTYVSVPMTTVIQHRMAGQQAALGSAHQRLAASPAC : 451
+
+ 589 : ALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVV : 652
+       |:  . : . :   | ..  ||:: :.| | : | : | : | :.. .: .:|::::::.:: .
+ 452 : AVSSATNFATNFYIQTAASVPHPHSHTPVPIPTPTPTPTPTPAPTPTPQQVVASTGGGSQGG-A : 514
+
+ 653 : SSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       :::||:.:: :: .  . :.: . .::...:::..|:. :::
+ 515 : GGGSSGTSSCSLAKLQQLTNGLEMVPPTPCNTMTPPPPMNIT : 556
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 338 694 . Medex_00050387-RA 195 556 . 101 M 57 57 G 0 1 M 89 89 G 0 2 M 31 31 G 0 2 M 39 39 G 0 1 M 96 96 G 1 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00085657-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 269 -> 361
+  Target range: 4 -> 92
+
+ 270 : NPLLVEKLM-SKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFA : 332
+       :.|::. |: :.  : ..:  ||.|.|   :| |...: .||:|     |||||||| . :. |
+   5 : HGLVLSVLVFGTATQAADKQIKLEDIERDNLKGSKETGKPQQFQ----YQQQQQQQPVGVAGVA :  64
+
+ 333 : GATALLHIKTEQNTLLTPLQLQQQQQQQQ : 361
+       :: .:|::...|: ||.. |||||||:||
+  65 : DGQQFLQLSPAQQQLLVQ-QLQQQQQHQQ :  92
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 269 361 . Medex_00085657-RA 4 92 . 106 M 9 9 G 0 1 M 34 34 G 4 0 M 34 34 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00085657-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 558 -> 607
+  Target range: 48 -> 97
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQ : 607
+       .|||||||.   :  .:  .  |||..||| | ||| :|||:|||||||
+  49 : YQQQQQQQPVGVAGVADGQQFLQLSPAQQQLLVQQLQQQQQHQQQQQQQ :  97
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 607 . Medex_00085657-RA 48 97 . 102 M 49 49
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00043237-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 45 -> 673
+  Target range: 294 -> 919
+
+  46 : SAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSESNFEIES : 109
+       |.: |  |  :  |.|:|||: ..:: || :. .: : :||  : | |. : :. : :: . | 
+ 295 : SQSLPLVPLIGGIGSIIGSVNVNPQDGNGFSVTPL-IKLEPGTAKDQSSPVSQDVP-TSVASEI : 356
+
+ 110 : LLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADS : 173
+        |:. ..::::   ..:..: ||. .|   :. . :: :  :..:::: : |     :: : ::
+ 357 : ALTATNVIQMQPLLTTSATSNITAISFRHSGERTPPSLGHSSSSHGHMQSSG----CSTIVCQT : 416
+
+ 174 : GDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGG : 237
+       :|.  . .  | . .| ..: : :.  . . |: :.::.| :| : .:.:| : :::  |  :.
+ 417 : SDVRQAMDTCASEVRSQVDTRLISELRQPSLDVRKGSDGNQHSIEICHPSGLRQSSDVRAMLSE : 480
+
+ 238 : GVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIE-KRMDKLSDTEIPIVK : 300
+       .|.:: .   . .|..:   :.:|  ::::. |    .  :  .|:.| .| :|    :.  :.
+ 481 : NVQANDVHPHALELRTDVCQSSDPLQMSPTVINLEKSAAKVQVSLSTEGDREQKHVIQQTLQLT : 544
+
+ 301 : QSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLH : 364
+       .|| ::::. : |. ||  :    .:.| :   . : |   : |: |  :| |::  ::   :|
+ 545 : PSTVSSSHAVMGQPTHL--HSFSSGQTGVSTHQNYSYLTGPSYQQRLSQSLGLEKSINK---IH : 603
+
+ 365 : GAAGNGGSSNGNNAHQQQQPLAIPQR--PLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSG : 426
+        ::||.::|.| :::::.|.| : |   :| ::::::::::: .: : .. :..| ::|.: :|
+ 604 : IGTGNPSNSGGIHPQNEPQNLKVKQEVISLHEQVVPSDPLQSLKDVKIPGCSGTSSSASQSLTG : 667
+
+ 427 : VSDVDSSSSG---GQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNA : 487
+       |:.: : :|.   .:|.:::|.|.  :.||...   .:..   :::: |.: :   | |  :::
+ 668 : VNSLLTIPSNMELTRPSPQNLSASNFLGPAIENIKKEPDNYLITSSGVLPSKS---PVLQISKT : 728
+
+ 488 : ANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQ--TPGYLTTSYFNAPTAATAAASQRG : 549
+        .||.:  . :::| ::. .: :.| :.|.|  | :::  ||   ::.  .:||:  :::| ::
+ 729 : HGSLPSSDTLNISV-GSCTPPLSQGLANTPPVVPISSHHVTPQNASSCVSASPTSRLTPSSLQS : 791
+
+ 550 : TTINGYHSLHQQQQQ--QQQSQQSQQQQQLAH-QQLSHQQQQALHQQLSHQQ-QQQQQQQQQHP : 609
+       ::..  ::: |  ||  . :.| : :.:. :| :. :|.:  ::  . :|.  ::.::   :||
+ 792 : SSTTVSQPVMQTSQQVSPLNRQSPGHPHPTPHPHPTPHPHSSPFIGPPGHPTLHHPHHSIIHHP : 855
+
+ 610 : HSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAA : 673
+         . .: |: : .  ||. ||.|:   . : : ::: :.:  |:::  :.::|: |:.::::::
+ 856 : LFAAAAVHAAAATVHHPYHHPYAAYGYPFAYPYGPPMPQPHPVPPPHHSTPPATALTVPSTSST : 919
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 45 673 . Medex_00043237-RA 294 919 . 117 M 35 35 G 1 0 M 20 20 G 1 0 M 59 59 G 4 0 M 120 120 G 0 1 M 32 32 G 2 0 M 40 40 G 3 0 M 28 28 G 0 2 M 46 46 G 0 3 M 40 40 G 3 0 M 22 22 G 1 0 M 23 23 G 0 2 M 39 39 G 0 2 M 15 15 G 0 1 M 19 19 G 0 1 M 75 75
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00065919-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 519 -> 694
+  Target range: 301 -> 484
+
+ 520 : GPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLS : 583
+       |.:. | ::   .| :::.. : .|: |  ::::|   |::  ||:. |  :|.| | .:|||:
+ 302 : GQSPLQHSSQQHVSTLSGQPHSQNASQQALSALSGQSQLQHTSQQHASSSGGQPQLQQVQQQLP : 365
+
+ 584 : HQQQQALHQQLSHQQQQ--QQQQQQQHPHSQLNGPHPHSHPHSH-PHSHPHAGQHTHSTIAAAA : 644
+         ::|:  |: |:|| .    |.: |||.:  : |: :. :: | |  |.::  :  :|:::.:
+ 366 : TFNEQSQLQHASQQQLPSFSGQPHLQHPPTGSEQPQLQKASQQHLPVLHGQSQLQHATTMSGQS : 429
+
+ 645 : AAAAASVVSS-----SSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       .:. ||.||.      :|:|::.::|  :: .:: :. |:. |: .  . :|::|
+ 430 : QSQHASTVSRQLQLQHASTVSGQSLLQHTSIVSGQPQHASTVSEQTQLQHASAIS : 484
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 519 694 . Medex_00065919-RA 301 484 . 103 M 81 81 G 0 2 M 25 25 G 0 1 M 29 29 G 0 5 M 40 40
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00031255-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 559 -> 694
+  Target range: 12 -> 148
+
+ 560 : QQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPH : 623
+       :::::|.: :: ::| :  |::  |:|.|:|:|. |. : ....::|..: :  . |:| : |:
+  13 : NHHHHQPHHHHHHHQSHHHHHHHQHHQPQPLQQPSSPYDYPAAAHHQPYS-PYYPQPQPAPLPQ :  75
+
+ 624 : -SHPHSH-PHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSV : 685
+        |.: :| | |:.: ::. :| .  |: :: .|.|:: :.::.|.::| ::|:::|:::.: :.
+  76 : DSYSLPHFPSASPELQGPGSARQRRASLPLQRSESTSSSESPKLRPGALPSASSSASSSPGGGA : 139
+
+ 686 : IQPATSSVS : 694
+          :| :.|
+ 140 : STETTITAS : 148
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 559 694 . Medex_00031255-RA 12 148 . 105 M 50 50 G 1 0 M 13 13 G 0 1 M 6 6 G 0 1 M 65 65
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00031255-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 578 -> 694
+  Target range: 15 -> 132
+
+ 579 : HQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLN-GPHPHSHPHSHPHSHPHAGQHTHSTIA : 641
+       |:|  |::::   ::  |::|::|.|. |:| |. : .: :| :|.|. .::|:::. .:.: :
+  16 : HHQPHHHHHHHQSHHHHHHHQHHQPQPLQQPSSPYDYPAAAHHQPYSPYYPQPQPAPLPQDSYS :  79
+
+ 642 : AAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+        :  ::|:: : :::|| .  | |:   :.:::::.::  ..:.:.:|:||.|
+  80 : LPHFPSASPELQGPGSARQRRASLPLQRSESTSSSESPKLRPGALPSASSSAS : 132
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 578 694 . Medex_00031255-RA 15 132 . 104 M 36 36 G 0 1 M 80 80
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00031255-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 550 -> 691
+  Target range: 6 -> 150
+
+ 551 : TINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQ---QHPHS : 611
+       .::.| : |::|.:::: ::  ::::  ||:  .|. |.   . ......::|.     .:|::
+   7 : NMSPYANHHHHQPHHHHHHHQSHHHHHHHQHHQPQPLQQPSSPYDYPAAAHHQPYSPYYPQPQP :  70
+
+ 612 : QLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATA : 675
+       .  ..::.| || .: |.  .|. : .   |: : . :. .|||.|:   :: |::::::|:::
+  71 : APLPQDSYSLPHFPSASPELQGPGSARQRRASLPLQRSESTSSSESPKLRPGALPSASSSASSS : 134
+
+ 676 : AAAAGGSQSVIQPATS : 691
+       :::::::::.| ::|:
+ 135 : PGGGASTETTITASTP : 150
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 550 691 . Medex_00031255-RA 6 150 . 100 M 56 56 G 0 3 M 85 85
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00035171-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 535 -> 650
+  Target range: 7 -> 121
+
+ 536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQ : 599
+       .::::.::..:: .:. .: :. ::::|: . . .||| :| . :||: :: : :.::|.  .:
+   8 : TSAAPDSPENTDGESPATSSDEGEDHDQKLAGEGPSQQVHQQDGKQLPLRHIH-FPRELELSAK :  70
+
+ 600 : QQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAAS : 650
+       :: | :::|.:  ::|| ||:|.| |.| |::. :| |:. :::: :::::
+  71 : DRLQSHHRHRRLLMQGPTPHPHHHHHHHHHSNNHHHHHGKRSSPTCGTPGN : 121
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 535 650 . Medex_00035171-RA 7 121 . 124 M 53 53 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00035171-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 535 -> 647
+  Target range: 9 -> 120
+
+ 536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQ : 599
+       .||.::..:.::..:| ::  . |:|: . : : |  :||:  : .|.|  : : : :|| :::
+  10 : AAPDSPENTDGESPATSSDEGEDHDQKLAGEGPSQQVHQQDGKQLPLRH-IHFPRELELSAKDR :  72
+
+ 600 : QQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAA : 647
+        | ::::::   | ..|||| |.| |.||:.|  :|...: :: ::::
+  73 : LQSHHRHRRLLMQGPTPHPHHHHHHHHHSNNHHHHHGKRSSPTCGTPG : 120
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 535 647 . Medex_00035171-RA 9 120 . 109 M 49 49 G 1 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00017035-RA
+         Model: affine:local:protein2protein
+     Raw score: 286
+   Query range: 721 -> 814
+  Target range: 125 -> 219
+
+ 722 : GVKRRSREGSTTYLWEFLLKLLQDREYCPRFIKWTNREKGVFKLVDSKAVSRLWGMHKNKPDMN : 785
+       |  : :|.:| ..||:|| .||...:  .. |:| :|:|||||: ||  |:||||.:||:|.||
+ 126 : GGGKVTRGASHIHLWQFLKELLASPQVHGSCIRWLERNKGVFKIEDSVRVARLWGKRKNRPAMN : 189
+
+ 786 : YETMGRALRYYYQRGILAKVD-GQRLVYQF : 814
+       |:.::|::| ||::||: |.: :|||||||
+ 190 : YDKLSRSIRQYYKKGIMKKTERSQRLVYQF : 219
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 721 814 . Medex_00017035-RA 125 219 . 286 M 85 85 G 0 1 M 8 8
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00074763-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 528 -> 721
+  Target range: 9 -> 204
+
+ 529 : YLTTSYFNAPTAATAAASQRGTTINGYH-SLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQ-QAL : 590
+       :::  :| :  :.. ..:.   | :: : :: || || ||   .||||:|| |: |.: : :  
+  10 : FMSMLFFCGVRGEVLVQTPVQMTAQSVDANIIQQLQQLQQLLLKQQQQDLAAQHESPKVKFDKK :  73
+
+ 591 : HQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSS : 654
+         ::..  ::::::  ... ::|::::.|| :|| :|| :|: |::.:. :|||::||:  : :
+  74 : LLDFDYGSEEDDDNTSPKQAGHLSASQQHSSSHSTSHSVSHTVQQSPAPAPAAATPAAGLEIHP : 137
+
+ 655 : SSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPK : 718
+       .  :. ||  :: .    : ..     : ||  . .|:.::  .:::.:::::   .::::| :
+ 138 : EHLSTCAAINVAYEIYMYTFDVCLCYINCSVAFRLPSATGFPKCFIVKVADIKITVNNRSHKDR : 201
+
+ 719 : LEM : 721
+       |:|
+ 202 : LDM : 204
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 528 721 . Medex_00074763-RA 9 204 . 123 M 28 28 G 0 1 M 31 31 G 0 1 M 134 134
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 150 -> 254
+  Target range: 266 -> 371
+
+ 151 : AKENAQLSAQGLVDSVAASLADSGDAGG-QQALLAFGSSSSAASAIAAAAAALCGDLINNNNNN : 213
+       .|: :   : |:.::::::|:|:| :||   : |.:|::: ::::|:::::   |. |...:..
+ 267 : QKQVSGGVGGGIAGGIGGGLGDGGIGGGIGGGGLDIGGTGIGGTGIGGGSGIGGGSGIGGGHGG : 330
+
+ 214 : SNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGG : 254
+       : :. .:. .|.|||| ||: :|:| :|: :|  . :  ||
+ 331 : GIGGIGGGIGGGHGGGIGGGHGGSGGSGGVSTAYGVPGAGG : 371
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 150 254 . Medex_00070654-RA 266 371 . 104 M 28 28 G 0 1 M 76 76
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00033485-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 539 -> 724
+  Target range: 20 -> 204
+
+ 540 : AATAAASQRGTTINGYHSLHQQ-QQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQ : 602
+       .|: .:::|..  .:| |  :  |: . .| .: :: |::.  |     :|:: :  |::.:::
+  21 : QAAIDGNRREGRRTSYGSYTDMIQRSPLPSLPPSHHSQMSPLSLV-TGSRAVNGNSHHHHPHHH :  83
+
+ 603 : QQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLS : 666
+       :.:::||| : : | || .:|::|||:| :. ...: :|:. ..  |. |.   ..  ::|  :
+  84 : HPHHHHPH-HPHHPSPHHPSHPQPHSQPLGTGPIPGLVASELENRMAEYVKMIHKEFRTSAATP : 146
+
+ 667 : ASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGVK : 724
+       ::.  ::.:::::.::|..  .| .  . .|  : . |:  .. : .|:|  |::.|:
+ 147 : PNNRHSSNSPPTSTSPQETALNALEMSRLTLWNLYSNGAPMAPPPLEPQKEALNLEVR : 204
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 539 724 . Medex_00033485-RA 20 204 . 131 M 22 22 G 0 1 M 22 22 G 1 0 M 26 26 G 1 0 M 113 113
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00098561-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 500 -> 696
+  Target range: 0 -> 194
+
+ 501 : VPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQ : 564
+       ::.. | ::::| :..  |::|:  . . :.::  . .:::. :::: |:.   | :  |::::
+   1 : MATTTYMPASTGISPELDGSAGSVVGMNIVNAAVGGYHSSSPRSTAEAGSGEMKYMPPTQHHHH :  64
+
+ 565 : QQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHS : 628
+       ::: :| .  .  . :.::    .| |:.    |.   .:. . : :|:::. .|:|.| ||| 
+  65 : HHHHHQVPSSPSPNGHAVPVSLSAAAHNPWVSLQPGSGADPWAASMAQMHSHSHHAHHHHHPHQ : 128
+
+ 629 : HPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSS : 692
+        |:   ...:.::|   : ||:    :: | : :   :. ::|  .:|::.||: :: ..|:::
+ 129 : GPDI--KPPADVSAMHHPRAAPPHQQPGMASPHSWHAPVVSSAHYIPASGNGGGSPLQPHASPA : 190
+
+ 693 : VSYD : 696
+       .:|:
+ 191 : AAYH : 194
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 500 696 . Medex_00098561-RA 0 194 . 105 M 132 132 G 2 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00014867-RA
+         Model: affine:local:protein2protein
+     Raw score: 330
+   Query range: 652 -> 820
+  Target range: 144 -> 314
+
+ 653 : SSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRK : 716
+       :|:|| ::  :| :.  .: :. .. | .  : ::. .|| ::::.   | . :.|:   .. :
+ 145 : NSASSLITLKTMTADQYVPFPVKEELAYPQLNGLHQKGSSSTFGFDSDSEKNVLPQQPMGTTER : 208
+
+ 717 : PKLEMGVKRRSREGSTTY--LWEFLLKLLQDREYCPRFIKWTNREKGVFKLVDSKAVSRLWGMH : 778
+       . :... .:..| ::..:  ||||: .:|:|.:|||.:|:|.:::||:||:  |.||:|:|| :
+ 209 : RPVGRPKSQNRRRSAKKFGRLWEFIRDMLHDPQYCPSIIRWVDHDKGLFKFERSDAVARVWGSR : 272
+
+ 779 : KNKPDMNYETMGRALRYYYQRGILAKVDGQRLVYQFVDVPKD : 820
+       |::|.||||.::||:||||:. ::  |: |||||:|   :|:
+ 273 : KKNPKMNYEKLSRAMRYYYKSKVFMAVEHQRLVYRFGPNAKG : 314
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 652 820 . Medex_00014867-RA 144 314 . 330 M 82 82 G 0 2 M 86 86
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00082960-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 537 -> 637
+  Target range: 126 -> 224
+
+ 538 : PTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQ : 601
+       |..   . . .|  :...|   :|||::: : :.|:::||: ::|:::: .: ||| :|: . :
+ 127 : PGDKQHEHKLPGHRLPEHHLPGHQQQEHKLPGHEQHEHQLPGHRLPEHHFPG-HQQQGHKLPGH : 189
+
+ 602 : QQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTH : 637
+       :|:::| |  :|...| .:|.: :.|. |  .|| |
+ 190 : EQHEHQLPGHRLPEHHLPGHQQ-QGHKLPSHEQHQH : 224
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 537 637 . Medex_00082960-RA 126 224 . 121 M 52 52 G 1 0 M 33 33 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00082960-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 547 -> 637
+  Target range: 166 -> 253
+
+ 548 : RGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHS : 611
+       .|  :...|   :||| :: : :.|:::||: ::|:::: .: ||| :|: . ::|:|:|::  
+ 167 : PGHRLPEHHFPGHQQQGHKLPGHEQHEHQLPGHRLPEHHLPG-HQQQGHKLPSHEQHQHQQSGH : 229
+
+ 612 : QLNGPHPHSHPHSHPHSHPHAGQHTH : 637
+       :|.. |.::|.: :.|. |  .||.|
+ 230 : KLPE-HQQGHQQ-QGHKLPSHEQHEH : 253
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 547 637 . Medex_00082960-RA 166 253 . 118 M 42 42 G 1 0 M 25 25 G 1 0 M 7 7 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00082960-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 551 -> 634
+  Target range: 145 -> 229
+
+ 552 : INGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNG : 615
+       :.|.:  ::: . ::| ::  . ::|:::::: :|||: |:  :|:|:::| . :: |: :|.|
+ 146 : LPGHQQQEHKLPGHEQHEHQLPGHRLPEHHFPGHQQQG-HKLPGHEQHEHQLPGHRLPEHHLPG : 208
+
+ 616 : PHPHSH--PHSHPHSHPHAGQ : 634
+       .:.::|  |  :.| |.::|:
+ 209 : HQQQGHKLPSHEQHQHQQSGH : 229
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 551 634 . Medex_00082960-RA 145 229 . 112 M 38 38 G 1 0 M 31 31 G 0 2 M 13 13
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00082960-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 551 -> 634
+  Target range: 175 -> 258
+
+ 552 : INGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHP-HSQLN : 614
+       :.|.:   :: . ::| ::  . ::|::::|: :|||: |:  ||:|:|:||  :: | | | :
+ 176 : FPGHQQQGHKLPGHEQHEHQLPGHRLPEHHLPGHQQQG-HKLPSHEQHQHQQSGHKLPEHQQGH : 238
+
+ 615 : GPHPHSHPHSHPHSHPHAGQ : 634
+        .:.|. |  :.|.|.::|:
+ 239 : QQQGHKLPSHEQHEHQQSGH : 258
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 551 634 . Medex_00082960-RA 175 258 . 111 M 38 38 G 1 0 M 19 19 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 159 -> 696
+  Target range: 426 -> 962
+
+ 160 : QGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAA-AAALCGDLINNNNNNSNSNNNSNG : 222
+       :||:::: .  :|:|   :. :||  : |||::.: :.: : : . :|:. :.. |:|::|:::
+ 427 : RGLIGNLLN--GDAGRLIDPLGLLHNSQSSSGSRSESDSFSIGGSLGLLGISGGLSHSSSNAQS : 488
+
+ 223 : NGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEK : 286
+       .:: .|||||:||:|: |:..|.. .|: :|: : ::... ..:::::       .:.  . . 
+ 489 : GSSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSSA : 552
+
+ 287 : RMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTP : 350
+       : :  |::: .  : :.:| .           :.:  .. ::: |::::       .|..  :.
+ 553 : QSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQSGHFGSGSHSGSSAQSQAGGGAG : 616
+
+ 351 : LQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTAT : 414
+            .:  | | |:.: :.::: :|.: .:..||. |: |::.:  .:  :::||..:.:::.
+ 617 : GGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPHGPDAILFEEPHPPHHSSPP : 680
+
+ 415 : TGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFL : 478
+       . : |: .. .. :   :::  | |. :   :.  : |..:::  : ::::::: .| :.| |:
+ 681 : IHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQLEPVGPPNYIGLPPPSPPTLEHGNPG-FV : 743
+
+ 479 : HPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAG--SGGTQPGGPGNPQTPGYLTTSYFNAPTA : 540
+       .|:  .:.: .: |.: :.| : :..  || ::|  :||  .||. .:::.:  ::|  :.:.:
+ 744 : KPHHPPSPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSESSASSGSQSEG : 807
+
+ 541 : ATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQ : 604
+       : ::.||.|:  ::  | . : :  | : :|| :   :    |:    :  |  |  |     :
+ 808 : GWGGNSQSGSQSSSSSSSKGRGHGGQFGSNSQSESSASSGSQSEGGWGGGSQ--SGSQSSSSSN : 869
+
+ 605 : QQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAM-LSA : 667
+        : :.|:   |::::|:: | : |: ::|  . :  :: ::::: |  .: :.| ::::.  |.
+ 870 : SKGRGHGGQFGSNSQSESSSSSGSQFQGGWGGGAQSGSKSSSSSFSEGRGHGEASGSSSKSQSE : 933
+
+ 668 : SAAAAATAAAAAGGSQSVIQPATSSVSYD : 696
+       |:::: .:: :::|| |. ::.:|| |::
+ 934 : SSSSSFGGGFGGSGSSSASKSESSSSSFG : 962
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 159 696 . Medex_00046275-RA 426 962 . 109 M 9 9 G 2 0 M 28 28 G 0 1 M 277 277 G 1 0 M 36 36 G 0 2 M 80 80 G 2 0 M 70 70 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00024368-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 348 -> 700
+  Target range: 23 -> 372
+
+ 349 : TPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSG--GAIHNPHHRNY : 410
+       ::|  |:.::. ::| :.  . :.:.:|.:|:.. : .|.::. :::  :|  |... .: ::|
+  24 : SSLSRQRPENALDALLDELQTFARPPSNPTHNPPMA-EIGRKGSIDSAHPGTAGNTYLRRLHSY :  86
+
+ 411 : TTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHT : 474
+       .:::.|: :.||:. ::| :: |:|:|:  ::.  |  ..||... ::.  :  ::  .:. ..
+  87 : PSSSDGG-SNSPPTIALSRLQVSGSSGD--TGKSPATSPKPPVPERNSELLSHLSGRRVPPPPP : 147
+
+ 475 : GTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAP : 538
+       .    .:  .:.::.||..  :. :||.:.   .||:|.|: : .  .  :.|: :. :.||: 
+ 148 : PRTSSRSPLASPTSPSLPPRGQPQMGVGGGTLRRSGPGRGSLREPKLPVEEPPASVPQGHFNPL : 211
+
+ 539 : TAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQ : 602
+       :|:.:::.:. .: :|  :  :. .:.:|.  .|::|:| ::| : |:| |  ||| ::     
+ 212 : SASNSSSCESINSQEG-AAQGKPSAKARQEVLEQRHQELLRKQRALQEQYARLQQL-QRSGGGG : 273
+
+ 603 : QQQQQHPHSQLNGPHPHSHPHSH-PHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAML : 665
+           ..|:  |: . ::|:  :. . : . ::. . |.  :  ||.||:  ::||  ::||:  
+ 274 : LTVVPPPDLLLKKTGSESNLLAKMGLGSGLSAAAPMSGSLTHLAAVAAASSAPSSLLMTAAPAS : 337
+
+ 666 : SASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYM : 700
+       |:::|::.::::::::: :...::|:|  |: . :
+ 338 : STTTATPNSTTTTTSANTTTTPATTTSKIYETDIL : 372
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 348 700 . Medex_00024368-RA 23 372 . 103 M 36 36 G 1 0 M 14 14 G 0 2 M 18 18 G 1 0 M 20 20 G 2 0 M 114 114 G 1 0 M 39 39 G 1 0 M 30 30 G 0 1 M 75 75
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00057971-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 364 -> 699
+  Target range: 292 -> 627
+
+ 365 : GAAGNGGSSNGNNAHQQQQPL-AIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGV : 427
+       |.::. |||:|...: : . | ::|. .   . || .:|...|.:. ::|. :: :|.:.::. 
+ 293 : GQTSPQGSSHGAGNNSNLAELKPLPPFTGYTGHLSINGIPGHHYHAIAAAPQSPASPEAVEANN : 356
+
+ 428 : SDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSL : 491
+       ::.: :::.. . ::.|    : ..||   :.::::|:..|..   |:. :.:: : : |.   
+ 357 : NNTQVANNNNGGGGGALYKTSSATGATLYYTVTTTSASDQAVVSSSTADGIKSE-FVDYAQLLP : 419
+
+ 492 : RNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGY : 555
+       .:| : :. :...  ::: :. .| ...:|:.::.:    .:.::.: ::..:||| |.:: : 
+ 420 : PDIEDIAAIIGSAIADTTVSTVEGMPGEDPSGSRDSWMDLGAWIDNACGSGEGASQGGKAVISA : 483
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       ::| |:  .:.|  :: .:: :|   |     |: |::  :||| . ||. |:  .: .|: ..
+ 484 : ETL-QEFVANAQFVNAGAEHGIASSTLHGLLTQSHHHHHQQQQQSAFQQPMQQMVKREGGSAHP : 546
+
+ 620 : SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAA--AAATAAAAAGG : 681
+         :  ::|  |   :: ::. :.::. :..| :|..:|: :::: ||:||.   : |:::::.|
+ 547 : VFSVQQSH-MPLLQRRLQNGPPNGPVKPEQSYMSECTSPSSSTSYLSGSAELIMPHTTTGSPPG : 609
+
+ 682 : SQSVIQPATSSVSYDLSY : 699
+        : |  ...|::  : .|
+ 610 : QHVVSTTDNSALLMNGRY : 627
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 364 699 . Medex_00057971-RA 292 627 . 111 M 21 21 G 0 1 M 96 96 G 1 0 M 76 76 G 1 0 M 68 68 G 1 0 M 42 42 G 0 2 M 29 29
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00057971-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 8 -> 444
+  Target range: 169 -> 612
+
+   9 : LWCP-DNDGRLVGGLDLGTCIADDSTANGTENLNPS---IQSAGNPNNPQQSVGGEILGSVESA :  68
+       :|.| ::.  |.: :: :: ::. |..:...:|:|:    ::|..|.:|:.:.:.   :: .:.
+ 170 : VWSPLGSALVLAAVVEEDSAVGKRSEVKTGGQLDPPWLLPDAAPPPRSPDAGAANMKYSTGGGE : 233
+
+  69 : GNELNGAAARNVNV---VVEPLCGGDSSDELFRSF-SESNFEIESLLSDLATVEVKVENEENNN : 128
+       :: | |:... :       |:  ||::||. | .. ::.: ...: :..|.:: :. ...:.:.
+ 234 : AEVLCGPVDSLLLSSCWGGEAAGGGGGSDGHFLDMEPDDDSSTKATMDALDSLLLTCGGGQTSP : 297
+
+ 129 : NVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAA : 192
+       :  :::. .: . | : .   ::  .::|| :|: :    ::|.:.::.: .. :. .::::..
+ 298 : QGSSHGAGNNSNLAELKPLPPFTGYTGHLSINGIPGHHYHAIAAAPQSPASPEAVEANNNNTQV : 361
+
+ 193 : SAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQP : 256
+       :. ..::::  |.| :.::..:.:   : ...  :::: :. |::...|  :. ::|| : .. 
+ 362 : ANNNNGGGG--GALYKTSSATGATLYYTVTTT--SASDQAVVSSSTADGIKSEFVDYAQLLPPD : 421
+
+ 257 : LAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQ : 320
+       :.: : ::.|| |:. : .       : . ..|.  | .  | :...|.... |   :  : .:
+ 422 : IEDIAAIIGSAIADTTVSTVEGMPGEDPSGSRDSWMDLGAWIDNACGSGEGASQ-GGKAVISAE : 484
+
+ 321 : QQQQPHNGSTFAGATALLHI-KTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQ : 383
+         |:  ..: |..|.|   | .:. :.|||. : :::|||||:   .: :   .....: :.  
+ 485 : TLQEFVANAQFVNAGAEHGIASSTLHGLLTQSHHHHHQQQQQSAFQQPMQQMVKREGGSAHPVF : 548
+
+ 384 : PLAIPQRPLLHNLLSGGAIHNP--HHRNYTTATTGSFPPSPADSGVSD-VDSSSSGGQPCADEL : 444
+       ::. ::.|||:. | .|: :.|  .:::| :. |:: ::::  || :: : : ::.| | ::::
+ 549 : SVQQSHMPLLQRRLQNGPPNGPVKPEQSYMSECTSPSSSTSYLSGSAELIMPHTTTGSPPGQHV : 612
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 8 444 . Medex_00057971-RA 169 612 . 100 M 4 4 G 0 1 M 31 31 G 0 3 M 39 39 G 0 3 M 18 18 G 0 1 M 101 101 G 2 0 M 21 21 G 2 0 M 84 84 G 1 0 M 29 29 G 0 1 M 65 65 G 0 2 M 24 24 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00051064-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 506 -> 638
+  Target range: 94 -> 231
+
+ 507 : GSSGAGSGGTQPGGPGNP--QTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQS : 568
+       .: | |:.| |..|. :|  | ||. ..:. ... .:..: : .|   .|.:.  :||.::|::
+  95 : PGHGHGPNGRQNPGHQDPGHQQPGHQDPGHQGQGQNPGQGHGSNGRQNPGHQDPGHQQPDHQEP : 158
+
+ 569 : QQSQQQQQLAHQQLSHQQQQALHQQLSHQ---QQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSH : 629
+        :  | |: :: : :: :|:: ||| :||   :|:. :| | :..:| :||:.: :|  : .:|
+ 159 : GHQGQGQNPGQGHGPNGRQNPGHQQPGHQEPGHQEPGHQGQGQNPGQGHGPNGRQNPGHQDPGH : 222
+
+ 630 : PHAGQHTHS : 638
+       .::|::..:
+ 223 : QQPGHQEPG : 231
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 506 638 . Medex_00051064-RA 94 231 . 130 M 18 18 G 0 2 M 73 73 G 0 3 M 41 41
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00061145-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 418 -> 694
+  Target range: 45 -> 316
+
+ 419 : PPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNL : 482
+       .:.:.:|| |: ::: :::    .. |:  ||::: :.|.. |: : .:  ::    .  :  |
+  46 : QAESQNSGKSGKHNGITSSGVNHTSAKGGDGMSSTRAESVNKAGCSYEGYLTRAGRQGKREDVL : 109
+
+ 483 : YQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAAS : 546
+       | :|    ::: | | :    .|.. :: ||:  :     :.|.|.| |.|  ::||: .: . 
+ 110 : YSKNIRIVMKKGW-RVMRWELGYCEVGSMGSALMH-----HHQPPPYGTISTTHPPTPRPPINH : 167
+
+ 547 : QR-GTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHP : 609
+       :: :.:... :  ...|.... :. |  ::. .|:| ::....: .   :|  ::::. .....
+ 168 : HHTAPSTTTIQHYKPPQPAPPTTPTSTTNHPNQHHQPPQPAPPTTPSTTNHSIHHHHPSPPPYN : 231
+
+ 610 : HSQLNGPHPHSHPHSHPHSHPHAGQHT-HSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAA : 672
+        ::   .| | :| :|| :.. : ||| |:|::. ::::: :  ::||:: :: :  :::|: :
+ 232 : TTNHYHHHKHHQP-PHPFTPTTTIQHTIHATVTNHPSPPSHPPPPPSSPPYSTITTSTPNATIT : 294
+
+ 673 : ATAAAAAGGSQSVIQPATSSVS : 694
+       :|..    .:.:  .|:| :::
+ 295 : TTNQYHHHTPPPPRPPPTLPLP : 316
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 418 694 . Medex_00061145-RA 45 316 . 101 M 77 77 G 1 0 M 21 21 G 5 0 M 26 26 G 0 1 M 74 74 G 1 0 M 13 13 G 0 1 M 58 58
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00048235-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 541 -> 736
+  Target range: 64 -> 257
+
+ 542 : TAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQ : 605
+       ::::::.:.: .:  :||:   :.:::.: :  . |.   |:...: : : |  :|||||||||
+  65 : SGSGGHSSKAAAAAAGLHRSSSNPHEAAHQNGVASLEVVGLPPAAHVSSRSQ-QQQQQQQQQQQ : 127
+
+ 606 : QQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASA : 669
+       ||.|.|:  :: |||::   ::  : : ..:...  : |.|. .|.:: |.|.  ::| |:|:|
+ 128 : QQPPPSHGYASMPHSRSGLLAEYAAVPQPPAPRGSMSRAEADHESAMGLSRSVRLSTAHLAAAA : 191
+
+ 670 : AAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGVKRRSREGSTT : 733
+       ||  . .:.  |:::.   :. ::. ::|   | :: ::: . .   :|  |:|. :| .|...
+ 192 : AAHHNMQSQHHGARPTAGMPPQGLKRGMS-ASEDDDHHHHVNGDVAAAKRMMSVEEHSASGRPP : 254
+
+ 734 : YLW : 736
+        ::
+ 255 : LVR : 257
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 541 736 . Medex_00048235-RA 64 257 . 112 M 52 52 G 1 0 M 104 104 G 1 0 M 37 37
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00025606-RA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 570 -> 735
+  Target range: 17 -> 176
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQ : 634
+       :: |.: .:| |:|.|||. :||  : ||..::||.|.|.:.|:  :  : |:.  |:.:.:  
+  18 : PHYQPEEDQQILPHAQQQQQQQQ--QTQQPPHHQQPQPPPPPLH--QLLASPQKTMHTYSPGFT :  77
+
+ 635 : HTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLS : 698
+        .|| :.:.::..  | ::::||.: .:| |:::::|: |::::..|  :.:|. .|:|  :|:
+  78 : TPHSLMQPQTPQNMMSPMAAPSSQILQSASLGPATPAPMTPSSTDPGIVPTLQNIVSTV--NLG : 139
+
+ 699 : YMLELGGFQQRKAKKPRKPKLEMGVKRRSREGSTTYL : 735
+       ..|:|  :. :  :   :||   :| .| ||..|| |
+ 140 : CKLDLKKIALHARNAEYNPKRFAAVIMRIREPRTTAL : 176
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 570 735 . Medex_00025606-RA 17 176 . 143 M 23 23 G 2 0 M 19 19 G 2 0 M 77 77 G 2 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00044946-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 243 -> 596
+  Target range: 249 -> 595
+
+ 244 : ATKLEYALMGGQPLAEEPRFVTSAAANPL----LVEKLMSKCLNIEKRMDKLSDTEIPIVKQST : 303
+       .|:: |. ::  .:..:. :::|::|:|:    : ::|::   . ::. .|| . :.|:.  :.
+ 250 : DTRVVYDTLSRTRVNAQRLYISSTSASPVELAGMDDQLLPFLPTNNNSETKLIALNTPVTVVPG : 313
+
+ 304 : SPAPQQQLQQQHHLQQQQQQQPHNGSTFAGA-TALLHIKTEQNTLLTPLQLQQQQQQQQGLHGA : 366
+       ||:. : |::  |:::  :: |:: .| .|. |:|:.    |:|| .: ::: :   |:.:  :
+ 314 : SPGTGDGLNE--HIRHITKETPQKVETHVGELTSLVPEPWPQSTLPGSGEIKSKTSGQHTV--S : 373
+
+ 367 : AGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDV : 430
+         : .: :.|:   |..||.:.: : ::.: .: .::..|     ::...::||:   .  : :
+ 374 : RQHITNLHPNKLALQPPPLDVQEFSDIDPIQRSQEFNTRH-----SSPPTTLPPPVRIKLDPRI : 432
+
+ 431 : DSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNI : 494
+       .| ..  |   :.|::.||:. :.|: ...:   : : ::.|.|.: :::.    ::.::::. 
+ 433 : KSIEELIQKTRQSLQPSLGIHVPNSTHEDEPMKKTIPLSTPLPTTSTFNSTKELVEGEEPMKPQ : 496
+
+ 495 : WNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSL : 558
+        ::| :  ::   |   .   |: .:|:..| |:  |..  : |.:..:|: |   . :.  .|
+ 497 : PHHSQDKIQELLQS---EHRQTKMTAPSTTQ-PATTTVKVREHPDGEESAGLQLQQPRDEILEL : 556
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQ-LSHQQQQALHQQLSH : 596
+        : ::  :: .:  | :::: :: |:|::: : :|:||:
+ 557 : LRSEDGSNRLARILQSRNMTLEELLAHRERGSSQQHLSD : 595
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 243 596 . Medex_00044946-RA 249 595 . 103 M 29 29 G 0 4 M 41 41 G 2 0 M 19 19 G 0 1 M 29 29 G 2 0 M 41 41 G 5 0 M 97 97 G 3 0 M 14 14 G 1 0 M 55 55 G 0 1 M 15 15
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00024805-RA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 61 -> 695
+  Target range: 999 -> 1638
+
+   62 : LGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSESN--FEIESLLSDLATV--EV :  119
+        | |:||.::::..: :|  : : :: . ::.:: |  : ::.:   : | | :| :.   : 
+ 1000 : LISLESESDHIGNGLSRVKKFIGHADSVDEEPEVLTVNVTDEKEVPDHEHLETDSGESDEDD : 1061
+
+  120 : KVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLAD-SGDAGGQQ :  180
+        .:||||:::.  .   : : :|.:: .|: |...:.. ::|.  .:| :.  .  :: ::::
+ 1062 : DMENEESHKGPGKPRIIKPSSAEIMKRDESLESTSDAATTQNNPKPVRGRRKALYSNLSSKR : 1123
+
+  181 : ALLAFGSSSSAASAIAAAAAALCGDLINNNNNNS--NSNNNSNGNGNHGGGGGGASSGGGVA :  240
+        .: : ...|.:: ::.::.:  .|: :.....::  ::...|.. :::: : ..:||:|: :
+ 1124 : VVQSHTDKSRSSIPVVSGNTKNSGGEVRPTRASTLRQTGRGSATVSHRSVSRTPPSSSGSGS : 1185
+
+  241 : GDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQS :  302
+        .  ::  .| |  :|. .:.|: :|:|| .|:  :.  ||  ::...  || |..::: . .
+ 1186 : PRNSSPKSYKLQKSQHREQKPK-MTAAAKPPVARNSSASKNTSLKHNSVKL-DEAVAVSTGE : 1245
+
+  303 : TSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLH :  364
+        |.|  :.. ::|  : :::.  |:... | .:.:  ..||  ..  :  .: |::: | . .
+ 1246 : TDPLFRPP-ERQGTFTKDEPSTPNTPKLFIPSPSSSPTKTRIPVPSAEKPIIQKKKVQTTAK : 1306
+
+  365 : GAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSG :  426
+        :|:.  ..:: ...  :| | .  |..: ..|  : :  .  :|. |.:. .: ..|  .|.
+ 1307 : SAPPVMNKPQLRRDLTRQSPRVSVQNRMTKALSQDCTSTGKGNRPATVPGRNANRRSLYSSE : 1368
+
+  427 : VSD-VDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNA :  487
+        |.: :.: | .:::  :. |: || :. :|:: : .:|::.:::   :| . : :::     
+ 1369 : VKQSLSNQSLNSDSGKGSRKSTLGASQKSSSNCSLNSASSVSGGKSSNTKKEVTSKIASLWK : 1430
+
+  488 : ANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRG :  549
+          . .:  :.:|    :. .:. :.|..:  :|:  | .|  : :| |::..:::.|..:  
+ 1431 : RVEESKAKQNAVKDKREWIPAECGTSTPSVVDGSLIPSPPKLVRSSTFEGNVPGSNAVCNGI : 1492
+
+  550 : TTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQ-QALHQQLSHQQQQQQQQQQQHPH :  610
+        :.::: . : :::    :.| ::    :..   ||::. ::  : : ::.:: :. ::: .:
+ 1493 : SKVSS-KQMSRNRGSSGDKQVAEVTGIVQPSSRSHHEASKSATEVVYRRPRDVKPGDKDIQE : 1553
+
+  611 : SQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAA :  672
+        :: : :.. |:  :  : :|..|  .::.| :  :|:|.    : :::  :|: | ::  ::
+ 1554 : TEEEKAKRLSRLGTFIRIEPPDGGVEDGKIMTKIPASAVVPPFNYNPPPLTAGSLIPTHFSS : 1615
+
+  673 : ATAAAAAGGSQSVIQPATSSVSY :  695
+        :| :  :||::|   :..|. .:
+ 1616 : TTLTKRGGGGDSQDSSEISDQDF : 1638
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 61 695 . Medex_00024805-RA 999 1638 . 133 M 43 43 G 0 2 M 13 13 G 0 2 M 55 55 G 0 1 M 42 42 G 0 2 M 48 48 G 1 0 M 28 28 G 1 0 M 18 18 G 1 0 M 118 118 G 0 1 M 125 125 G 1 0 M 32 32 G 0 1 M 108 108
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00008293-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 347 -> 748
+  Target range: 166 -> 577
+
+ 348 : LTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYT : 411
+       :..|: :| :.:  . :..: :::| :.|:. : :.| : ..    ::: . ...:.: .:. .
+ 167 : INGLKYHQSHAHGSTEDEDTKDAASMSENDESNVEAPSPATPVKSPEKVPEQPQTQPSTPQAMV : 230
+
+ 412 : TA-TTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHT : 474
+       .. ..:: ||:|::: |:.. |::  .   .: | .:|  ||  :.:::::::.:|: :.::.|
+ 231 : PQHKEDATPPPPSQPVVAAAPSPPLVPVVVQQPLPEQL--PPCRPVTPSPPPPQPAPLPVQVPT : 292
+
+ 475 : GTFLHPNLYQN-NAANSLRNIWNRSVGVPDNY-YGSSGAGSGGTQPGGPGNPQTPGYLTTSYFN : 536
+       .| |.|.  .:  .:.:|.:  .::|  |:   ||:: .: :::    :::|  :.  ::   :
+ 293 : PTSLPPPTPPEVVQPGPLPSPETKTVVKPGVLRYGPPVDDYSASSVYCASKPVLAPLPAAVVSS : 356
+
+ 537 : APTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLS----HQQQQALHQQLSH : 596
+        :..:|  : : : : |  :    .|. . . |. .   ||.. .|:    .| .:| ..|:. 
+ 357 : CSPVSTIRTVNVAMASNQSQQQLSPQPSPVPVQPVPTVSQLQPMPLPLIQMPQTAKAPPPQFKV : 420
+
+ 597 : QQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHT---HSTIAAAAAAAAASVVSSSSS : 657
+       :. ..  .:::. :|:|::.. .|:  : . :||::.|.|   ::|  ....::| | :|..::
+ 421 : KPTAALMPDDKKERSKLSSHKKKSRKSPAGSPHPQPEQPTFGLDTTGREDVQSPAYSDISDDAA : 484
+
+ 658 : AVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLE--LGGFQQRKAKKPRKPKL : 719
+       :: .:.| .:.: |::..  :. |  :  :. .    | : |     | .  |:.. ||:..  
+ 485 : PILDTEMGDGKGKAPGVDKKSEVGQGPSPHTMPHYGMYPFHYGQPPYLVPSVQQHDGKPKETCE : 548
+
+ 720 : EMGVKRRSREGSTTYLWEFLLKLLQDREY : 748
+       .::  : : .....   |:  ||||:: |
+ 549 : KVSDGKLGDKEKKDTSGEYSQKLLQQHYY : 577
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 347 748 . Medex_00008293-RA 166 577 . 102 M 66 66 G 0 1 M 35 35 G 2 0 M 35 35 G 0 1 M 20 20 G 0 1 M 78 78 G 0 4 M 53 53 G 0 3 M 66 66 G 0 2 M 46 46
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 499 -> 729
+  Target range: 12 -> 250
+
+ 500 : GVPDNYYGSSGAGSGGTQPGGPGNPQTPG-YLTTSYFNAPTAATAAASQRG------TTINGYH : 556
+       ::..: |.:.:: ..:..|..  .||:|: | ... :.:|:::|: : | .      || : |:
+  13 : SLNTEKYPPRSTYCPSPPPPPIQAPQSPSVYTEPETYTSPSPPTPLPHQDPQHEQPLTTPQQYQ :  76
+
+ 557 : SLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHS : 620
+       : ||: .:|.  |::.:||.|:  |  ..:|:: ||.| ::..|||.   .:.|   : |.|  
+  77 : PPHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPQQPPPTL : 140
+
+ 621 : HPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQS : 684
+       :.::..: .||.. | |:. ..:  ::..  ::   :: .:    ::  :: . : :::   | 
+ 141 : QHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQHPPHQPLHQHPPQHPSHQQPLPTPQQYQQ : 204
+
+ 685 : VIQPATSSVSYDL-SYMLELGGFQQRKAKKPRKPKLEMGVKRRSRE : 729
+         ..:.   :|:  :..  |:: ||::: ..: |. ::. .:::.:
+ 205 : SHPHPPHQPPYQHPPHRQPLAAPQQHQPPHHHPPHQQLPPHQHPPH : 250
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 499 729 . Medex_00022200-RA 12 250 . 153 M 29 29 G 0 1 M 21 21 G 0 6 M 148 148 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 142
+   Query range: 555 -> 650
+  Target range: 137 -> 233
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQ-LNGPHP : 618
+       .:|::|..:|:.::|: :|:. .:|.|  .||:.|.:| :.:|. :|:..|:.:| | |..|:.
+ 138 : PTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQHPPHQPLHQHPPQHPSHQQPLPTPQQ : 201
+
+ 619 : HSHPHSHPHSHPHAGQHTHSTIAAAAAAAAAS : 650
+       . ::|:||. :|.  :..|.   ||:.. .::
+ 202 : YQQSHPHPPHQPPYQHPPHRQPLAAPQQHQPP : 233
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 650 . Medex_00022200-RA 137 233 . 142 M 57 57 G 0 1 M 38 38
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 471 -> 637
+  Target range: 13 -> 188
+
+ 472 : LHTGTFLHPNLY-QNNAANSLRNIWNRSV-GVPDNYYGSSGAGSGGTQPGGPGNPQTPG--YLT : 531
+       |:|..: ..: | .:.::.:::.  :.|| . |:.| ::|.:.: . | . ..:| |..  | .
+  14 : LNTEKYPPRSTYCPSPPPPPIQAPQSPSVYTEPETYTSPSPPTPLPHQDPQHEQPLTTPQQYQP :  77
+
+ 532 : T-SYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQL---AHQQLSHQQQQALH : 591
+       .  .:. ..    :: |:. ..  .:: :|:..:|.  |::.|||.|   .::||::|...:|:
+  78 : PHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPQQPPPTLQ : 141
+
+ 592 : QQLSHQQQQQQQQQQQHPHSQ-LNGPHPHSHPHSHPHSHPHAGQHTH : 637
+       :| ::|:..:|. :|:.|: | | .|:.|  || ||. :|   :..:
+ 142 : HQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQHPPHQPLHQHPPQ : 188
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 471 637 . Medex_00022200-RA 13 188 . 138 M 12 12 G 0 1 M 16 16 G 0 1 M 29 29 G 0 2 M 4 4 G 0 1 M 45 45 G 0 3 M 35 35 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 516 -> 637
+  Target range: 111 -> 234
+
+ 517 : QPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQ : 580
+       ||  . .|| .. ||.   : | .:.::  ::..  :. |   :|:..|||:  :.||:||:||
+ 112 : QPLHQHPPQQQPLLTPQQHQLPQQPPPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQ : 175
+
+ 581 : QLSHQQ-QQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSH-PHSHPHSHPHAGQHTH : 637
+       : :||. :|  .|: ||||. . .|| |::|:: . ..|. | ||.:| : |:. |..|
+ 176 : HPPHQPLHQHPPQHPSHQQPLPTPQQYQQSHPHPPHQPPYQHPPHRQPLAAPQQHQPPH : 234
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 516 637 . Medex_00022200-RA 111 234 . 137 M 70 70 G 0 1 M 35 35 G 0 1 M 16 16
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 510 -> 635
+  Target range: 49 -> 176
+
+ 511 : AGSGGTQPGGPGNPQTPGYLTTS-YFNAPTA--ATAAASQRGTTINGYHSLHQQQQQQQQSQQS : 571
+       ::::.. | .. :||    |||:  :::| .  : .:  |:..  :. .:|::|..:|:.::|:
+  50 : TSPSPPTPLPHQDPQHEQPLTTPQQYQPPHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQP : 113
+
+ 572 : QQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQH : 635
+        :|:. .:|.|  .||:.|.|| :..  |:|..:|:.|| .|: ..|: :|   |: |. : ||
+ 114 : LHQHPPQQQPLLTPQQHQLPQQ-PPPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQH : 176
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 510 635 . Medex_00022200-RA 49 176 . 132 M 23 23 G 0 1 M 7 7 G 0 2 M 53 53 G 1 0 M 41 41
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 129
+   Query range: 556 -> 727
+  Target range: 56 -> 223
+
+ 557 : SLHQQQQQQQQSQQSQQQQQLAHQQLSHQQ-QQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       :|.:|:.|::|:  :.|| | :||:|:||. :|  .:| : .  |:|..:|:.|| .|: ..|:
+  57 : PLPHQDPQHEQPLTTPQQYQPPHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQPLHQHPPQ : 120
+
+ 620 : SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQ : 683
+        :|   |: | : .|:..:|:. .:: . ::  :    : ...::|:: . . : . ::    |
+ 121 : QQPLLTPQQH-QLPQQPPPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQHPP---HQ : 180
+
+ 684 : SVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGVKRRS : 727
+       :: |.:.   |.: : : .   :||..:. |::|  : . .|::
+ 181 : PLHQHPPQHPSHQQP-LPTPQQYQQSHPHPPHQPPYQHPPHRQP : 223
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 556 727 . Medex_00022200-RA 56 223 . 129 M 30 30 G 0 1 M 43 43 G 1 0 M 48 48 G 3 0 M 17 17 G 1 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 391 -> 694
+  Target range: 0 -> 304
+
+ 392 : LLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCA-DELKARLGMPPAT : 454
+       :: .: ::| ::: :  :|  :. ::: |||: :.: . :|:|  .:| : .. .:. .:|...
+   1 : MMSAIRNAGLLESLNTEKY--PPRSTYCPSPPPPPIQAPQSPSVYTEPETYTSPSPPTPLPHQD :  62
+
+ 455 : SASAAAAAAAAAAAAAHLH-TGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQ : 517
+       :. ..: :::.. .::| | .   ||.:  :::: .:|::  .|  . .:. .  :..  .   
+  63 : PQHEQPLTTPQQYQPPHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQPLHQHPPQQQPLLT : 126
+
+ 518 : PGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQ : 581
+       |  .  || |.       . . :: .:  |:..  :.  : :|:| .:|::.: . :|: :::.
+ 127 : PQQHQLPQQPPPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLPHQHPPHQPLHQHPPQHP : 190
+
+ 582 : LSHQQQQALHQ-QLSHQQQQQQQQQQQHPHSQ-LNGPHPHSHPHSHPHSHPHAGQHTHSTIAAA : 643
+         :|. .: :| | ||.:..:|.. |:.||.| |.:|:.| .|| || :|.: ..| |:. .  
+ 191 : SHQQPLPTPQQYQQSHPHPPHQPPYQHPPHRQPLAAPQQHQPPHHHP-PHQQLPPHQHPPHQRL : 253
+
+ 644 : AAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       ::.::.   .  :|. .. :| :. .:: :..  ::|  :|:: . |::::
+ 254 : PPQPPQQGYDHHGSNYQNMGMSNNMNGGWGPVRYPTGKVRSLFLQLTANIG : 304
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 391 694 . Medex_00022200-RA 0 304 . 128 M 19 19 G 2 0 M 29 29 G 0 1 M 32 32 G 0 1 M 119 119 G 0 1 M 20 20 G 0 1 M 14 14 G 1 0 M 67 67
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 496 -> 638
+  Target range: 5 -> 149
+
+ 497 : RSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQ : 560
+       |:.|: ::  ... :..:.  |:.|..|  :.  .: | :: | :::::: . .  :. |. . 
+   6 : RNAGLLESLNTEKYPPRSTYCPSPPPPPIQAPQSPSVYTEPETYTSPSPPTPLPHQDPQHEQPL :  69
+
+ 561 : QQQQQQQSQQSQQQQQLAHQQLSHQQQ-QALHQQLSHQQQQQQQQQQQHPHSQ-LNGPHPHSHP : 622
+         .|| |:.: : .:|  ||: :|||. .:|::| ::|:..:|. :|:.|: | | .|:.|  |
+  70 : TTPQQYQPPHQHLPHQPLHQHPPHQQPLPTLQHQPPRQHPPHQPLHQHPPQQQPLLTPQQHQLP : 133
+
+ 623 : HSHPHSHPHAGQHTHS : 638
+       : .|.: .|...: |:
+ 134 : QQPPPTLQHQPPRQHP : 149
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 496 638 . Medex_00022200-RA 5 149 . 123 M 91 91 G 0 1 M 25 25 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00022200-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 546 -> 637
+  Target range: 102 -> 192
+
+ 547 : QRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPH : 610
+       |..   ...::|| |:..|||:  :.||:||::|. :  |:|: :|: :||. :|:..|||.  
+ 103 : QPPRQHPPHQPLH-QHPPQQQPLLTPQQHQLPQQPPPTLQHQPPRQHPPHQPLHQHPPQQQPLL : 165
+
+ 611 : SQLNGPHPHSHPHSHPHSHPHAGQHTH : 637
+       :. : . || ||. :|  :..: :.:|
+ 166 : TPQQHQLPHQHPPHQPLHQHPPQHPSH : 192
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 546 637 . Medex_00022200-RA 102 192 . 123 M 13 13 G 1 0 M 77 77
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 166 -> 694
+  Target range: 11 -> 527
+
+ 167 : AASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGG : 230
+       : .|.: :.:::  :|  : .  |: |  ::: :: . |  .|.:.::. ..:| |: :.: .|
+  12 : SKELQNMSSTADSSTLNHLVDQVSGMSISGPSRSSHSQDYSGNPSAKAGHTTHSYGDMQPAVNG :  75
+
+ 231 : -GGASSGGGVAGD-CATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLS : 292
+         ::| . :|.|.  .|   .::.|:.. :.:|  :|:.:.:::  .|| .: |. ::::. ||
+  76 : IMSPSHEQSVNGSLNQTPPPWPFRGSATQSSQP--MTPVGEHAF--SKLPEQ-LPSNQQLTGLS : 134
+
+ 293 : DTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQ : 356
+       :|. .: :|  :.:.|     |:  :.   . .: |:: :|: . :   .. .:   . .  ::
+ 135 : HTS-GLPQQIRGQPQQMGGTSQQVGDPSGGPMQQVGGSPGGPMQQVGGPPGGPSQQMGGPPGNH : 197
+
+ 357 : QQQQQGLHGAA--GNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSF : 418
+        :|  ||.|::    ||::.|.::   ||.:: .. . |:: :||.:   | ::: .....|::
+ 198 : SHQMGGLPGGPLKQMGGPPGGPSSGSSQQQMGGQPGGPLQQQMSGPP-GVPSQQQMGGQPGGPL : 260
+
+ 419 : PPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNL : 482
+       ..     | ::  |   ||:| |: |:.::  ||  ::::.  :: :|:::.:| .   |:.::
+ 261 : QQQML--GPPGGPSQHMGGRP-AGPLQQQMLGPP--GGPSQHMGGRPAGPSQQLSG---LQQHM : 316
+
+ 483 : YQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAAS : 546
+         ..::.||::: ..::: |::  |:: .:.|.. . |..:.| .|  . ||:.:: .  ::::
+ 317 : -GGPPSGSLQQMGGPAISPPQQMSGPPQQAKGPPSQVGGPSQQLGG--PHSYLGGSQQMRGPPP : 377
+
+ 547 : QRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPH : 610
+       |.|.. .   : .  |   | || : .  |:: .. ::   .: :   :..|   ...|   |.
+ 378 : QMGGPPPQIGG-PSSQMGGQSSQMGSPSSQMGGPP-PQMGGPPPQMGGPPPQMGGPPPQMGGPP : 439
+
+ 611 : SQLNGPHPH--SHPHSHPHSHPHAGQHTH--STIAAAAAAAAASVVSSSSSAVAAAAMLSASAA : 670
+       :|:.||.|:  :.|.  . :.|: | ...  :.:::. ::::: : ::::   :::: ::::::
+ 440 : PQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGLPPQMGGPPPQMGGPPPQMGGPPPQMGGPPP : 503
+
+ 671 : AAATAAAAAGGSQSVIQPATSSVS : 694
+       . :.:::. ||:.: : .:.: ::
+ 504 : QMGGPPPQMGGPPPQMGGPPPQMG : 527
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 166 694 . Medex_00014916-RA 11 527 . 123 M 64 64 G 0 1 M 12 12 G 0 1 M 19 19 G 2 0 M 9 9 G 2 0 M 6 6 G 1 0 M 14 14 G 1 0 M 71 71 G 0 2 M 34 34 G 1 0 M 21 21 G 2 0 M 14 14 G 1 0 M 12 12 G 2 0 M 20 20 G 3 0 M 5 5 G 1 0 M 45 45 G 2 0 M 27 27 G 1 0 M 23 23 G 1 0 M 37 37 G 0 2 M 18 18 G 0 2 M 57 57
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 26 -> 467
+  Target range: 3 -> 454
+
+  27 : CIAD-DSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESA-GNELNGAAARNVNVVVEPLC :  88
+       |::.  ..::. :|:::: :|:. .:  :|  | .| |:  |: ::: :|.:: :.. ..::  
+   4 : CVGAFPRNSKELQNMSSTADSSTLNHLVDQVSGMSISGPSRSSHSQDYSGNPSAKAGHTTHSYG :  67
+
+  89 : GGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNV--ITDDDFASVAAAVVANDDLL : 150
+       : ::: : :.| |:.:   .||  . :.   : ...::::.:  :.::.|:.::..: :|::| 
+  68 : DMQPAVNGIMSPSHEQSVNGSLNQTPPPWPFRGSATQSSQPMTPVGEHAFSKLPEQLPSNQQLT : 131
+
+ 151 : A-KENAQLSAQ--GLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNN : 211
+       : .:.: |:.|  |  : :::: .: ||::| .   . ||::::  .::::::: . :: ....
+ 132 : GLSHTSGLPQQIRGQPQQMGGTSQQVGDPSGGPMQQVGGSPGGPMQQVGGPPGGPSQQMGGPPG : 195
+
+ 212 : NNSNSNNNSNGNG--NHGGGGGGASSGGG---VAGDCATKLEYALMGGQPLAEEPRFVTSAAAN : 270
+       |:|:  .. .|..  : ||..||:|||::   ::|: :. |: .: |...::.:.: :.:.::.
+ 196 : NHSHQMGGLPGGPLKQMGGPPGGPSSGSSQQQMGGQPGGPLQQQMSGPPGVPSQQQ-MGGQPGG : 258
+
+ 271 : PLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQL--QQQHHLQQQQQQQPHNGSTFA : 332
+       | | :::::   . .::|:  :.. :.  . :.:.:| |::  :.. . ||    |.| |:. :
+ 259 : P-LQQQMLGPPGGPSQHMGGRPAGPLQQQMLGPPGGPSQHMGGRPAGPSQQLSGLQQHMGGPPS : 321
+
+ 333 : GATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNL : 396
+       |: . :   :  ..   : . ||.: ..  : |:: : |::::  :  || . : ||..  .. 
+ 322 : GSLQQMGGPAISPPQQMSGPPQQAKGPPSQVGGPSQQLGGPHSYLGGSQQMRGPPPQMGGPPPQ : 385
+
+ 397 : LSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAA : 460
+       ::|.: : . :.:  .:.:: ...:|:: | :  :   :|..|  :.  :::| ||:  :::::
+ 386 : IGGPSSQMGGQSSQMGSPSSQMGGPPPQMGGPPPQ--MGGPPPQMGGPPPQMGGPPPQMGGPPP : 447
+
+ 461 : AAAAAAA : 467
+       . :::::
+ 448 : QMGGPPP : 454
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 26 467 . Medex_00014916-RA 3 454 . 116 M 4 4 G 0 1 M 38 38 G 0 1 M 62 62 G 0 2 M 21 21 G 0 1 M 9 9 G 0 2 M 64 64 G 0 2 M 14 14 G 0 3 M 24 24 G 1 0 M 8 8 G 1 0 M 39 39 G 0 2 M 120 120 G 2 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 392 -> 688
+  Target range: 33 -> 335
+
+ 393 : LHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLG-MPPATS : 455
+       : .:  :|: :::| ::|:...::. ..:. . |  : . ::  :.: .:.:::.|.  ||: :
+  34 : VSGMSISGPSRSSHSQDYSGNPSAKAGHTTHSYGDMQPAVNGIMSPSHEQSVNGSLNQTPPPWP :  97
+
+ 456 : ASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPG : 519
+        .::|:.::.: ::.  |: : |. :|  |:. .:|.:. . :  :.::    :|::   .:|:
+  98 : FRGSATQSSQPMTPVGEHAFSKLPEQLPSNQQLTGLSHTSGLPQQIRGQPQQMGGTSQQVGDPS : 161
+
+ 520 : GPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYH----SLHQQQQQQQQSQQSQQQQQLAH : 579
+       |.. .|..|  ..:  :...::.::: |.|.. ...     :|.  . :|  :..: .    ::
+ 162 : GGPMQQVGGSPGGPMQQVGGPPGGPSQQMGGPPGNHSHQMGGLPGGPLKQMGGPPGGPSSGSSQ : 225
+
+ 580 : QQLSHQQQQALHQQLS-HQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAA : 642
+       ||:: |.  :|:||:| ..  . |||   :| :.|: .   :.. : .|  .::: . :  : :
+ 226 : QQMGGQPGGPLQQQMSGPPGVPSQQQMGGQPGGPLQQQMLGPPGGPSQHMGGRPAGPLQQQMLG : 289
+
+ 643 : AAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQP : 688
+       ::::::. : :.:::: .. : | .  ::::::: .. |:.:: .|
+ 290 : PPGGPSQHMGGRPAGPSQQLSGLQQHMGGPPSGSLQQMGGPAISPP : 335
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 392 688 . Medex_00014916-RA 33 335 . 108 M 57 57 G 0 1 M 107 107 G 0 4 M 39 39 G 0 1 M 93 93
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 317 -> 694
+  Target range: 103 -> 471
+
+ 318 : QQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQ-QQQQQGLHGAAGNGGSSNGNNAHQ : 380
+       |  |.  | .. :|:  .. |. : : ..|  .  |.|| : |.| : |:: : |.::|.. :|
+ 104 : QSSQPMTPVGEHAFSKLPEQLPSNQQLTGLSHTSGLPQQIRGQPQQMGGTSQQVGDPSGGPMQQ : 167
+
+ 381 : QQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADEL : 444
+          : : | :. : .  :|.: : . ...  :   |::|.:|    :.:::::::|  |.::. 
+ 168 : VGGSPGGPMQQ-VGGPPGGPSQQMGGPPGNHSHQMGGLPGGP----LKQMGGPPGG--PSSGSS : 224
+
+ 445 : KARLGMPPATSASAAAAAAAAAAAAAHL--HTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYY : 506
+       :.::| .|:.:  .. :::::.::..::  :.|. |:.::  ..::.| :   ..: .:.::  
+ 225 : QQQMGGQPGGPLQQQMSGPPGVPSQQQMGGQPGGPLQQQMLGPPGGPSQHMGGRPAGPLQQQML : 288
+
+ 507 : GSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQ : 570
+       |::|:.|    . .:|.:|  : |     .:|::: .. : .:.: .   | ..||.: ..|| 
+ 289 : GPPGGPSQHMGGRPAGPSQQLSGLQQHMGGPPSGSLQQMGGPAISPPQQMSGPPQQAKGPPSQV : 352
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQ : 634
+       : . |||: .:      |.::   :..|   ...|   | ||:.|   :| . : | |:  :..
+ 353 : GGPSQQLGGPHSYLGGSQQMRG--PPPQMGGPPPQIGGPSSQMGG---QSSQMGSPSSQMGGPP : 411
+
+ 635 : HTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       .  :. ::. ::::: : ::::   :::: ::::::. :.:::. ||:.: : .:.: ::
+ 412 : PQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMG : 471
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 317 694 . Medex_00014916-RA 103 471 . 105 M 39 39 G 0 1 M 35 35 G 1 0 M 30 30 G 4 0 M 10 10 G 2 0 M 34 34 G 0 2 M 120 120 G 2 0 M 21 21 G 3 0 M 76 76
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103451-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 529 -> 626
+  Target range: 316 -> 415
+
+ 530 : LTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQ--ALH : 591
+       | ::  :::.: ::   | |:.: :  : |:|.::|.: |: ||||| .:::|:    :   | 
+ 317 : LHAPKVEGSDPMAGLLQQAGAELFAGVPHHHQPHHQPHHQHHQQQQQQQQEELAAMVGRCAHLS : 380
+
+ 592 : QQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHP : 626
+       . ||:::|.  |:::::.| : ::| |   : |||
+ 381 : ASLSDHHQAMLQHHHHQHHLKQEAPAPGYAAASHP : 415
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 529 626 . Medex_00103451-RA 316 415 . 106 M 59 59 G 0 2 M 38 38
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103451-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 465 -> 657
+  Target range: 240 -> 427
+
+ 466 : AAAAAHLHTGTFL-HPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPG : 528
+       :.::. ::.| :| :.: ::::  :::|:  : : ..|:    ::|:|:||::.|:||: :|| 
+ 241 : PDSGNMFENGCYLRRQKRFKDEKKEAVRQAHKTTPTAPH---VGGGGGGGGSDGGSPGK-KTPQ : 300
+
+ 529 : YLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQ : 592
+       .  ... .. :. .:  | ::..::| :::    ||. ..  :  .:: ..:: :|:|::. :|
+ 301 : H--DDHKADKAELGTMLSLHAPKVEGSDPMAGLLQQAGAELFAGVPHHHQPHHQPHHQHHQQQQ : 362
+
+ 593 : QLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSS : 656
+       |  ::: ..   : .|  : |::.|.   .| |.: | .....:.:  ||: : : :.:::::.
+ 363 : QQQQEELAAMVGRCAHLSASLSDHHQAMLQHHHHQHHLKQEAPAPGYAAASHPFSITRLLPAAD : 426
+
+ 657 : S : 657
+       |
+ 427 : S : 427
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 465 657 . Medex_00103451-RA 240 427 . 103 M 13 13 G 0 1 M 25 25 G 3 0 M 17 17 G 1 0 M 5 5 G 2 0 M 126 126
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103451-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 554 -> 663
+  Target range: 350 -> 460
+
+ 555 : YHSLHQQQQQQQQSQQSQQQQQLAH-QQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPH : 617
+       .:: ||::||||| ||.: .. ::: .:||    :  :. | |:::|:: :|:..:.:  .::|
+ 351 : HQPHHQHHQQQQQQQQEELAAMVGRCAHLSASLSDHHQAMLQHHHHQHHLKQEAPAPGYAAASH : 414
+
+ 618 : PHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAA : 663
+       | | .:  | :::.:: . .|.:  |: :: :::.:::  : |.||
+ 415 : PFSITRLLPAADSKSDMKMYSDMYHAGYGPLSPLANPAVHTHAEAA : 460
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 554 663 . Medex_00103451-RA 350 460 . 102 M 25 25 G 0 1 M 84 84
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 514 -> 653
+  Target range: 61 -> 199
+
+ 515 : GTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLA : 578
+       .::|  | .|..|  :|.:  :: :: ::::: .::. :  :: |   : :.:: :|:|:|:  
+  62 : PSHPQQPQPPPPPLLVTPPGHHSLASLSSSGPGPDSKKSQPNTTHYSLHGHAHP-HSHQHQHHH : 124
+
+ 579 : HQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAA : 642
+       |::  |:|||. :||  :|||||||||||:: : |.: :.|  |  .  :   .: :|:|..: 
+ 125 : HHHHHHHQQQQQQQQQQQQQQQQQQQQQQQSTAVLRAFQQHMSPSVYEMAALTQDLDTQSITTK : 188
+
+ 643 : AAAAAAASVVS : 653
+         .|  |: ::
+ 189 : IKEALLANNIG : 199
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 514 653 . Medex_00003450-RA 61 199 . 134 M 54 54 G 1 0 M 84 84
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 537 -> 603
+  Target range: 88 -> 154
+
+ 538 : PTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQ : 601
+       ::::.::.|::: . ....||| :.:.: : :| :::::  |:|  :||||. :||  :|||||
+  89 : SSSGPGPDSKKSQPNTTHYSLHGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQ : 152
+
+ 602 : QQ : 603
+       ||
+ 153 : QQ : 154
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 537 603 . Medex_00003450-RA 88 154 . 117 M 66 66
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 445 -> 595
+  Target range: 22 -> 167
+
+ 446 : ARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSS : 509
+       :.|:.||::|   .:.:|:. . ::: : |.:|.|:| |  :::: :   .:: . |    .::
+  23 : PPLSKPPSASKHHQSESASNKNIGGE-NQGPILPPSL-QMMPSHPQQ---PQPPPPPLLVTPPG :  81
+
+ 510 : GAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQ : 573
+         : ::  ::|||.  . :  .|:.:: .. | : : |:    : .|  ||||||||| || ||
+  82 : HHSLASLSSSGPGPDSKKSQPNTTHYSLHGHAHPHSHQHQHHHHHHHHHHQQQQQQQQQQQQQQ : 145
+
+ 574 : QQQLAHQQLSHQQQQALHQQLS : 595
+       ||| .:|| | .  :|::|::|
+ 146 : QQQQQQQQQSTAVLRAFQQHMS : 167
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 445 595 . Medex_00003450-RA 22 167 . 115 M 26 26 G 1 0 M 10 10 G 1 0 M 9 9 G 3 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00003450-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 520 -> 612
+  Target range: 61 -> 152
+
+ 521 : PGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSH : 584
+       |::|| |   ..: : :|.:  : || .::. .| :| . |.:  : | :::.:.:  ::|  |
+  62 : PSHPQQPQPPPPPLLVTPPGHHSLASLSSSG-PGPDSKKSQPNTTHYSLHGHAHPHSHQHQHHH : 124
+
+ 585 : QQQQALHQQLSHQQQQQQQQQQQHPHSQ : 612
+       ::::  |||  :|||||||||||:.: |
+ 125 : HHHHHHHQQQQQQQQQQQQQQQQQQQQQ : 152
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 520 612 . Medex_00003450-RA 61 152 . 111 M 31 31 G 1 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053225-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 304 -> 647
+  Target range: 86 -> 428
+
+ 305 : PAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLL-TPLQLQQQQQQQQGLHGAA : 367
+       |:|.   : :  ::  || :  .::: .:|.: : .:.. :|:  :.:: :. . ...: . |:
+  87 : PTPPSTENLKFSVEIVQQLEFSTSAANQAAPPHISTNVTVKTMTNATVKSDATPSPAAATPQAP : 150
+
+ 368 : GNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVD : 431
+       ...:::...::..:  .|.  :|    :::. ..  .: :::  ....:|||. |.  | .||:
+ 151 : PAPAPAPPPQPPPDLSNLVECKREPDSEFVDLEQCAAALEKDAQVNGGASFPGLPDLYG-DDVG : 213
+
+ 432 : SSSSGGQPCADELKARL--GMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRN : 493
+       ::|::. | |.::.:|:  |:  |.:. ::||.:  . |..| |..  | .  : . ::.: |.
+ 214 : PNSGSPGPMASQFSPRFPSGLDFAKAEMSPAAQTLKQMAEQHQHKTQQL-GMAFGGVPTTGARG : 276
+
+ 494 : IWNRSVGVPDNYYGSSGAGSG-GTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYH : 556
+         .||    ::: |::|||:.  . ||::..:.|:.||::   :.:. |...|   ::  : : 
+ 277 : --ARSPYEYQQFPGGGGAGGEFLGSPGAAPAAATSPYLSS---KQAELAKQEAMFTAAQQSVFA : 335
+
+ 557 : SLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALH--QQLSHQQQQQQQQQQQHPHSQLNGPHP : 618
+       . :|||||||| || |||.| : .| |.|. :.       :.||....|||.|:..|. .:| .
+ 336 : RQQQQQQQQQQQQQQQQQAQHSTPQSSPQPGKNYSTGGSTPKQQAPPPQQQAQQQYSPYGSPGG : 399
+
+ 619 : HSHPHSHPHSHPHAGQHTHSTIAAAAAAA : 647
+        : |: :: ::  :: ..::.  ::|:::
+ 400 : GGSPQYRAVGQFGSSTPPRPPSCPGAGPG : 428
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 304 647 . Medex_00053225-RA 86 428 . 128 M 44 44 G 0 1 M 78 78 G 1 0 M 21 21 G 0 2 M 30 30 G 1 0 M 14 14 G 2 0 M 19 19 G 0 1 M 18 18 G 3 0 M 56 56 G 0 2 M 56 56
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053225-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 519 -> 722
+  Target range: 286 -> 488
+
+ 520 : GPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLS : 583
+       ..|......:|.::  .:::|:::  | : :.:.  :::  ..||   ::| ||||| .:||  
+ 287 : PGGGGAGGEFLGSPGAAPAAATSPYLSSKQAELAKQEAMFTAAQQSVFARQQQQQQQQQQQQQQ : 350
+
+ 584 : HQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAA : 647
+       :||.|   .| |.|. ::       |. | ..|:.:::.:  |.: | :|  .:   .:. :::
+ 351 : QQQAQHSTPQSSPQPGKNYSTGGSTPKQQAPPPQQQAQQQYSPYGSPGGGGSPQYRAVGQFGSS : 414
+
+ 648 : AASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYM-LELGG-FQQR : 709
+       :::  :|.::| ::   |  :.|..  .:.:: | || :      ::  ::|: | |   :.:.
+ 415 : TPPRPPSCPGAGPG---LQMNQAQQIHVGQPGQGVQSSVCDKLFVITIIIAYVGLRLVQWLAHS : 475
+
+ 710 : KAKKPRKPKLEMG : 722
+        : || : ::  |
+ 476 : PPIKPVRVRFPAG : 488
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 519 722 . Medex_00053225-RA 286 488 . 111 M 142 142 G 3 0 M 36 36 G 0 1 M 5 5 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053225-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 507 -> 650
+  Target range: 286 -> 426
+
+ 508 : SSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQS : 571
+       ::|:|:||.  |:||.:.:::  |::|:::  |. | .... |: :     :|||||||| || 
+ 287 : PGGGGAGGEFLGSPGAAPAAA--TSPYLSSKQAELAKQEAMFTAAQQSVFARQQQQQQQQQQQQ : 348
+
+ 572 : QQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQH : 635
+       ||||| .|      .|.: :   :   .:||....|:.  |  :|.. : . : |: :: .|| 
+ 349 : QQQQQAQHSTPQSSPQPGKNYSTGGSTPKQQAPPPQQQAQQQYSPYGSPGGGGSPQYRA-VGQF : 411
+
+ 636 : THSTIAAAAAAAAAS : 650
+       . || : ::: ::|:
+ 412 : GSSTPPRPPSCPGAG : 426
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 507 650 . Medex_00053225-RA 286 426 . 105 M 21 21 G 2 0 M 100 100 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053225-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 448 -> 689
+  Target range: 202 -> 443
+
+ 449 : GMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAG : 512
+       |:|   :...::.:::::: |::: :. |  .  :.:.. ::  :. :: .. .::     | :
+ 203 : GLPDLYGDDVGPNSGSPGPMASQF-SPRFPSGLDFAKAEMSPAAQTLKQMAEQHQHKTQQLGMA : 265
+
+ 513 : SGGTQPGGPGNPQTPGYLTTSYFNAPTAA----TAAASQRGTTINGYHSLHQQQQQQQQSQQSQ : 572
+        ||....|: .:::| |    : .:..|:    .::::..:::.:.| | .|.: .:|::  :.
+ 266 : FGGVPTTGARGARSP-YEYQQFPGGGGAGGEFLGSPGAAPAAATSPYLSSKQAELAKQEAMFTA : 328
+
+ 573 : QQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHT : 636
+       .|| :  :|  :||||. :||  :|||.|:  .|  |::  | : . | |. ::.:..:.:|: 
+ 329 : AQQSVFARQ--QQQQQQQQQQQQQQQQAQHSTPQSSPQPGKNYSTGGSTPKQQAPPPQQQAQQQ : 390
+
+ 637 : HSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPA : 689
+       .|. :::::::::   : :  : ::::. ::.::|::. . ..:    | ||:
+ 391 : YSPYGSPGGGGSPQYRAVGQFGSSTPPRPPSCPGAGPGLQMNQAQQIHVGQPG : 443
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 448 689 . Medex_00053225-RA 202 443 . 102 M 24 24 G 1 0 M 54 54 G 1 0 M 13 13 G 0 4 M 40 40 G 2 0 M 106 106
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00063904-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 9 -> 238
+  Target range: 192 -> 426
+
+  10 : WCPDNDGRLVGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELN :  73
+       |  .:.::: ::|| ..  |: :.   .|| .   :..:| :: : | . .:  .|.|  :|::
+ 193 : WFCKEKDWFPADLDANVTEANVNGILVKENDGLVKEKEDNDEEVDCSKERKVALEVTSIVSEMK : 256
+
+  74 : -GAAARNVNVVVEPLCGGDSSDE--LFRSFSESNFEIESLLSDLATVEVKVENEENNNNV---I : 131
+        ::::.: ::  ..|. :::| |    ||  :|::| :::  : . |.|.|::.|::|:|    
+ 257 : YSSPTSDHKLENKRLSLSEPSVECIKVRSKWDSDYEEDAVSVENVHVAVSVDKAEKENDVPFMK : 320
+
+ 132 : TDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAI : 195
+       .::: .. ..: : :::| : || ::||:: .::|.: :.|::::..: | :. :....|...:
+ 321 : EEEEVVERQETPMLENELKTPENMDMSAESDTETVESHVVDNSEGNTETATVNNAEEDKADDDL : 384
+
+ 196 : AAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGG : 238
+        .....:.. ::.::::::..:.:.::: : :.: :::::.::
+ 385 : -QVENNISEPIVTSESEKTAESPKCEADVSLSNSVASPAANSS : 426
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 9 238 . Medex_00063904-RA 192 426 . 101 M 64 64 G 0 1 M 22 22 G 0 2 M 35 35 G 0 3 M 65 65 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 5 -> 254
+  Target range: 54 -> 298
+
+   6 : DALLWCPDNDGRLVGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAG :  69
+       |. :| .|.:.:  :||. |.. :.. :::::.: : :: ::|:::::  | ::.  |  .|::
+  55 : DNGIWFGDGGPK-SAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGS : 117
+
+  70 : NELNGAAARNVNVVVE-PLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVIT : 132
+       :. :::::.: :   . .  ||:: :. : :::.|: .:.:  :: :. .   ......|.   
+ 118 : SSQSSSSSSSGSFGGGFGGIGGGGFGGKYGGYGGSHGGLGG--GNAGGFGGGYGGTGGGNAGGF : 179
+
+ 133 : DDDFASV-AAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAI : 195
+       |::|::  |::: :::: :: .||   : |  :  ::: :: |: || :|  :|||::::::: 
+ 180 : DGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNA--GFGSGGGSSGGS : 241
+
+ 196 : AAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGG : 254
+       |::  .  |:  :::::.|:|...::|.:. ||| ||: :|:| : : :|  :|: :||
+ 242 : AGGKYVAGGG--SSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGG : 298
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 5 254 . Medex_00089660-RA 54 298 . 104 M 12 12 G 1 0 M 67 67 G 0 1 M 24 24 G 2 0 M 28 28 G 0 1 M 42 42 G 2 0 M 22 22 G 2 0 M 47 47
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 365 -> 661
+  Target range: 188 -> 480
+
+ 366 : AAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSD : 429
+       :. .:::.:.::::: ::. : .: :| . : |:.: :.:.::: |..|: : : :|:|:: : 
+ 189 : PQQTSSTEQEQSTRNGKNGASRHHTALPYVVASSNSSEPSPEKETTVQTSVGGSVNPTDASGGP : 252
+
+ 430 : VDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRN : 493
+       :. ... : : :. |..: : ...   .::  .::::.::::   :.   |    ::::::  .
+ 253 : LKVEEKKDLALGAMLDEKQSSHHQRVLRSSHRNGSSSNGSGNGTQSGTATPVQSSSSSSSGSTG : 316
+
+ 494 : IWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHS : 557
+         :.:. || .  :.:|:.:    |:..:.|..:  :.::  .  :::.| ..::..: .  ::
+ 317 : AASPPAVVPVP--AEGGSPPRRQTPSPQAAPPPAVDVPSPSSTKVATPPAIQDEKPESPPQVQA : 378
+
+ 558 : LHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSH : 621
+        .|.. |.|. |  | ...|. ||||.|.||   || : ||.||.  ||. |: .|:.:: :::
+ 379 : QPQPASQPQPQQSQQSPPPLQTQQLSPQPQQ---QQSPSQQPQQPLSQQPSPQQALSPSQVQGQ : 439
+
+ 622 : PHSHP-HSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAA : 661
+       :  .: : ||:  : .:|. |.||:::|:|. ::.:||::|
+ 440 : SSVPAVELHPRKRKMKQSKEAQAASSTAPSTEPAETSALPA : 480
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 365 661 . Medex_00056952-RA 188 480 . 125 M 139 139 G 2 0 M 82 82 G 3 0 M 35 35 G 0 1 M 35 35
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 357 -> 689
+  Target range: 148 -> 480
+
+ 358 : QQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPS : 421
+       ::::| :..:  ...|:.::.  :   :| |: | |. :::  :  . :::   :: .|. .:|
+ 149 : NDEDGENEESKVTPKSETSSNSSNSSWVAGPKVPPLKIVIPQQTSSTEQEQ---STRNGKNGAS : 209
+
+ 422 : PADSGVSDVDSSSSGGQPCAD-ELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQ : 484
+       . ::::: | :||::::|.:: | ..: ::..:.:::.|::::  ...  :|  |:.|: :   
+ 210 : RHHTALPYVVASSNSSEPSPEKETTVQTSVGGSVNPTDASGGPLKVEEKKDLALGAMLDEKQ-S : 272
+
+ 485 : NNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQR : 548
+       :: .. ||:  ..: : .::  |: ::.:...|::::::: :.|  :.:   : .|..:::::|
+ 273 : SHHQRVLRSSHRNGSSSNGSGNGTQSGTATPVQSSSSSSSGSTGAASPPAVVPVPAEGGSPPRR : 336
+
+ 549 : GTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHP-HS : 611
+        |. .   : .. : . . | : . ...:.::: . ..| . :.| : |.|.|| || ..| ::
+ 337 : QTPSPQAAPPPAVDVPSPSSTKVATPPAIQDEKPESPPQVQAQPQPASQPQPQQSQQSPPPLQT : 400
+
+ 612 : QLNGPHPHSHPHSHPHSHPHAGQH--THSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAA : 673
+       |  :|:|: :. : .:::.. :|:  .: :::::...:.:|| : .  :     . | .|.||:
+ 401 : QQLSPQPQQQQSPSQQPQQPLSQQPSPQQALSPSQVQGQSSVPAVELHPRKRKMKQSKEAQAAS : 464
+
+ 674 : TAAAAAGGSQSVIQPA : 689
+       ::|:::..:::   ||
+ 465 : STAPSTEPAETSALPA : 480
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 357 689 . Medex_00056952-RA 148 480 . 122 M 51 51 G 3 0 M 31 31 G 0 1 M 40 40 G 1 0 M 126 126 G 0 1 M 26 26 G 0 2 M 54 54
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 397 -> 704
+  Target range: 204 -> 504
+
+ 398 : SGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAA : 461
+       ..|| ::.   .|..|::.|  |||...  :.|::| :|: . :|.  :.| :   .. : :| 
+ 205 : KNGASRHHTALPYVVASSNSSEPSPEKE--TTVQTSVGGSVNPTDASGGPLKVEEKKDLALGAM : 266
+
+ 462 : AAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQ : 525
+        .. .::    |    |:::  :.:::|:  |  :.:.:.| :  :||::||.|:.:..:  | 
+ 267 : LDEKQSS----HHQRVLRSSHRNGSSSNGSGNGTQSGTATPVQSSSSSSSGSTGAASPPAVVPV : 326
+
+ 526 : TPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQA : 589
+       .:.  :.:  ::|::.:|:::. :.. .:  .:  ... |::..:|..| | ..|. |:.|.|.
+ 327 : PAEGGSPPRRQTPSPQAAPPPAVDVPSPSSTKVATPPAIQDEKPESPPQVQAQPQPASQPQPQQ : 390
+
+ 590 : LHQQLSHQQQQQQQQQQQHPHSQLNGP-HPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVV : 652
+        :|  :. | ||  .|.|:.:|. : | :| |:..|..:: :.:  :.:|:::|..  :  . :
+ 391 : SQQSPPPLQTQQLSPQPQQQQSPSQQPQQPLSQQPSPQQALSPSQVQGQSSVPAVELHPRKRKM : 454
+
+ 653 : SSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELG : 704
+       . |..| ||::  :|:::.:|.::| ::. ::  || |:.    |: . ::|
+ 455 : KQSKEAQAASS--TAPSTEPAETSALPAEVHPHDQPITNCYQLFLNIRKQMG : 504
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 397 704 . Medex_00056952-RA 204 504 . 116 M 28 28 G 2 0 M 41 41 G 4 0 M 144 144 G 0 1 M 47 47 G 2 0 M 39 39
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 361 -> 669
+  Target range: 80 -> 377
+
+ 362 : GLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADS : 425
+       |:  |::.||:..|: | :: ..:. . :  :..  :|. . ::.|   .::. .: . :|: :
+  81 : GVGMASAAGGGKGGKMAVEHSATVDKGLKMKIKRTKPGTKTSEAKHEIVKSGELNG-GEAPGPG : 143
+
+ 426 : GVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAAN : 489
+       :..:|.:::.| :| :..  :. |:::::::::|:::::::::::.  ::.  : :  ::::|:
+ 144 : SAEGVAGGGKGKHPLPASGGSSGGVSSSSGSNSAGGGGGGGGGGSKRGSSGHRRDKARDKHGAD : 207
+
+ 490 : SLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTIN : 553
+       .     .:: : |::  .:::|.:: . |...  |:..| : |:  :|  :.:|..:...|. :
+ 208 : KAT---AKPPASPGSATTTTSATAAVPVPPTTVVPDVNGVVRTPVSSALLGQSAQQAPPPTVAQ : 268
+
+ 554 : GYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPH : 617
+          ||:||..||.. | ||| || .:||  :|||||      :||||||||:   | |  .||.
+ 269 : V--SLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQA-----QQQQQQQQQQRLVFPVSSGPGPP : 325
+
+ 618 : PHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASA : 669
+       . : |.: :.:   ... |...::.|:.:...:| |:::. | :.:.:...:
+ 326 : NAPGPPASSPAVKIEPPSTPEPLPEASVSEDDAVSSPPAKKVKTEPKVKVEP : 377
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 361 669 . Medex_00103380-RA 80 377 . 155 M 56 56 G 1 0 M 74 74 G 3 0 M 59 59 G 2 0 M 33 33 G 5 0 M 75 75
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 344 -> 663
+  Target range: 50 -> 364
+
+ 345 : NTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHR : 408
+       ..|:. |: : :: :::.  ||.:.: ::.| .   .. .   .:.:: |:   : ::.   .|
+  51 : GDLIIDLDADIEKTNEKNGGGAVAGAVGAGGVGMASAAGGGKGGKMAVEHSATVDKGLKMKIKR : 114
+
+ 409 : NYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHL : 472
+       . ..:.|:.  .. ..||  :::::.:.|...|:.: :     .: :||::::::.::::::: 
+ 115 : TKPGTKTSEAKHEIVKSG--ELNGGEAPGPGSAEGVAGGGKGKHPLPASGGSSGGVSSSSGSNS : 176
+
+ 473 : HTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFN : 536
+        .|.   ..   :.:::: |.  .|.   :|:  :.:.|::|:: ...::.:..|   ||    
+ 177 : AGGGGGGGGGGSKRGSSGHRRDKARDKHGADKATAKPPASPGSATTTTSATAAVPVPPTTV--- : 238
+
+ 537 : APTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQ : 600
+       .|...... :. :::: |  : :....  .|    ||..| |.|| |:| ||. :||  :||||
+ 239 : VPDVNGVVRTPVSSALLGQSAQQAPPPTVAQVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQ : 301
+
+ 601 : QQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAA : 663
+       .||||||:.: :|  | : :...:::.:.| ::. .. . ::::.: :.: ||...:. :::|
+ 302 : AQQQQQQQQQQRLVFPVSSGPGPPNAPGPPASSPAVKIEPPSTPEPLPEASVSEDDAVSSPPA : 364
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 344 663 . Medex_00103380-RA 50 364 . 134 M 82 82 G 2 0 M 105 105 G 3 0 M 127 127
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 345 -> 658
+  Target range: 55 -> 363
+
+ 346 : TLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQP-LAIPQRPLLHNLLSGGAIHNPHHR : 408
+       .| : ::  ::::   :: ||.|.|| : ::.|   : . :|: :.: ::: |.   |..... 
+  56 : DLDADIEKTNEKNGGGAVAGAVGAGGVGMASAAGGGKGGKMAVEHSATVDKGLK-MKIKRTKPG : 118
+
+ 409 : NYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHL : 472
+       . |:.:. .:  |.. :| .. :::|:.| : ::  |:: .:|::.::|::.::::::.:|:  
+ 119 : TKTSEAKHEIVKSGELNGGEAPGPGSAEGVAGGG--KGKHPLPASGGSSGGVSSSSGSNSAGGG : 180
+
+ 473 : HTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFN : 536
+        .|.   ..  :.::::.  : :::  :  ..  .::::||:.| .::.:. ..|.  ..:  |
+ 181 : GGGG--GGGSKRGSSGHRRDKARDKHGADKATAKPPASPGSATTTTSATAAVPVPPTTVVPDVN : 242
+
+ 537 : APTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQ : 600
+       : . :..:::  | : :  .:   .|   || .. |..|| ::|   :||||| :||   ||||
+ 243 : GVVRTPVSSALLGQSAQQAPPPTVAQVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQ : 306
+
+ 601 : QQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSA : 658
+       ||||||:   :  :|| |.: | :.| | | .  :..|| .: :.|:.:.  : ||::
+ 307 : QQQQQQRLVFPVSSGPGPPNAP-GPPASSPAVKIEPPSTPEPLPEASVSEDDAVSSPP : 363
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 345 658 . Medex_00103380-RA 55 363 . 128 M 39 39 G 0 1 M 14 14 G 1 0 M 43 43 G 2 0 M 32 32 G 2 0 M 144 144 G 1 0 M 35 35
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 514 -> 691
+  Target range: 204 -> 380
+
+ 515 : GTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLA : 578
+       |:: :.: .|.:||  ||:  :|.:|...:::   ..:||  . .   .   ||.| .... :|
+ 205 : GADKATAKPPASPGSATTT-TSATAAVPVPPTTVVPDVNGVVRTPVSSALLGQSAQQAPPPTVA : 267
+
+ 579 : HQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAA : 642
+       :  | :|..|. .|| |:| |||||||.|:.: | : .:.: :.:.   : : :. ..::. ::
+ 268 : QVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQQQQQQQRLVFPVSSGPGPPNAPGPP : 331
+
+ 643 : AAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATS : 691
+       |:::|.    :|::.:::.|:: ...|.:::.|  . ..::  ::| .|
+ 332 : ASSPAVKIEPPSTPEPLPEASVSEDDAVSSPPAKKVKTEPKVKVEPKVS : 380
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 514 691 . Medex_00103380-RA 204 380 . 128 M 19 19 G 1 0 M 157 157
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 506 -> 702
+  Target range: 178 -> 376
+
+ 507 : GSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQ : 570
+       |::|:|:||::.|::|:.:. :  . :  :|.: :.|:::  .||.::  ::. ..    .. :
+ 179 : GGGGGGGGGSKRGSSGHRRDKARDKHGADKATAKPPASPGSATTTTSATAAVPVPPTTVVPDVN : 242
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSH--QQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHA : 632
+       :  : .:: . |:: .||| .. :::   |||..||..|:.  | : .:.:  .: :.:::.:.
+ 243 : GVVRTPVSSALLGQSAQQAPPPTVAQVSLQQQPPQQAPQQTSQQTQQQQQQQAQQQQQQAQQQQ : 306
+
+ 633 : GQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYD : 696
+        |: :  :. :.::::::  :::::| ::|..:.:::::.: :.|:.:..::|  |::..|. :
+ 307 : QQQQQQRLVFPVSSGPGPPNAPGPPASSPAVKIEPPSTPEPLPEASVSEDDAVSSPPAKKVKTE : 370
+
+ 697 : LSYMLE : 702
+        . .:|
+ 371 : PKVKVE : 376
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 506 702 . Medex_00103380-RA 178 376 . 127 M 90 90 G 0 2 M 106 106
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00004024-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 482 -> 730
+  Target range: 47 -> 287
+
+ 483 : YQNNAANSLRNIWNRSVGVPDNY--YGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAA : 544
+       |:::::.:  |  :.::|:| |   | .:.:::| .| :.  ||::  |  .: :.:.   .:.
+  48 : YHSSPGPAHFNQHHPPIGMPVNMGKYRETNGAGGQPQVSNVMNPNSK-YHQGGNLPGGHHYGGV : 110
+
+ 545 : ASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSH-QQQQQQQQQQQ : 607
+       :  ::::::  ::|:|||| :..| .: :::|  | ::::.|:  | . |.: :::::::::. 
+ 111 : PYSQASSVQ--QPLQQQQQGRPASSPAGDKRQAYHGEMGQPQD--LCATLKELKREDDKEERPG : 170
+
+ 608 : HPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAA : 671
+        .: : |.:  | |.|  .:: . ::     :.::::.|.  | :::|: :::   .|. ||..
+ 171 : SGEVEYNNSMLHHHQHHGTQTTGMPATWQSLATPGSTVADYLSHLPASTLPISLHHFLKYSAEN : 234
+
+ 672 : AATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGVKRRSREG : 730
+         .... ..|:.::  ::|:: :     |:. |. . . :|| :| |::.. |.|:: |
+ 235 : IKKEQDMNPGGPAIGVASTTTPG-----MMG-GPPAGPGGKKKKKKKVNKEKKPRPKPG : 287
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 482 730 . Medex_00004024-RA 47 287 . 106 M 23 23 G 0 2 M 22 22 G 1 0 M 25 25 G 2 0 M 32 32 G 2 0 M 7 7 G 0 1 M 98 98 G 5 0 M 3 3 G 1 0 M 27 27
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00008438-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 258 -> 635
+  Target range: 928 -> 1318
+
+  259 : EEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQ :  320
+        :|.:  : .. :.|::..  :: |. : :  .| ::: .:::|. | . .|:  :|:.|:| 
+  929 : QEQQKSAHEQHSQLFLTHEQTQELTQQIKQLDLHQSQ-HVMQQKLSEEKPQKTVHQNKLHQV :  989
+
+  321 : QQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQ :  382
+        :: | |. | :. .  | : : | ..  |.|:|:|.: |.  || .  ..:| : .:.::||
+  990 : HESQ-HRVSHLQQQLCLEQ-QCESTNQKTQLNLHQPKLQALQLHQQLIREDSQQLTHQEKQQ : 1049
+
+  383 : QPLAIPQRPL-LH-NLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSG---GQP :  439
+        : |   :: | |: :|:   . :| ::::.: .:.:     ..:. | :  :...    :::
+ 1050 : HVLHSEHQVLQLQEKLVQKHEKNNEEQKQHSQQSESQVLELQVQEQVQNPINKEKQQLLDHS : 1111
+
+  440 : CADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRN------IW :  495
+          : ||:. .:...  . .:....     ..  |  .:|:.:| |:::..| ::      :|
+ 1112 : QHQILKPSQNLNQEQIQQQPVNEEKRHHLEQSQHQVVLLQQHLVQKQPQRSTHQEQEQHLLW : 1173
+
+  496 : NRSVGVPDNYYGSSGAGSGGTQPGGPGN---PQTPGY-LTTSYFNAPTAATAAASQRGTTIN :  553
+        .: |.  :: :  ..: .: .| : : |   :: .:: |     :. ...:: ..: . . .
+ 1174 : PQQVPKFQQQFVQEEPLKSVPQEDKAQNLHQSEHQAFHLQQQLDQEKPQESGHQKHLPLPQR : 1235
+
+  554 : GYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQ-QLSHQQQQQQQQQQQHPHSQLN :  614
+          |:| ::|  ::: |:  : :: :|:||:::|||: :: |: || ::: : |:|:: .:::
+ 1236 : KKHNLGEEQSSKEKQQNLYHSEHRTHNQLAQEQQQTHQERQVVHQSHNEIRLQKQQAIKNVQ : 1297
+
+  615 : GPHPHSHPHSHPHSHPHAGQH :  635
+        .. .:.. :: .:|:... |:
+ 1298 : EGTHQEKEQNLHQSNNKVFQQ : 1318
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 258 635 . Medex_00008438-RA 928 1318 . 132 M 37 37 G 1 0 M 28 28 G 1 0 M 14 14 G 1 0 M 52 52 G 0 1 M 2 2 G 0 1 M 42 42 G 0 3 M 57 57 G 0 6 M 30 30 G 0 3 M 6 6 G 0 1 M 63 63 G 0 1 M 43 43
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00008438-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 305 -> 659
+  Target range: 742 -> 1107
+
+  306 : APQQQLQQQHHLQQQQQQQPHNGSTFAGATALL--HIKTEQNTLLTPLQLQQQQQ----QQQ :  361
+        ..||  | |.:|:| || ::.:  ::  .  ||  .  : :: | ..:: |:||:    :::
+  743 : QQQQSQQLQKQLHQVQQSDSPSVHSYHQQQILLLQPHVSPHEQLQKQIDQQDQQHSQQIHHH :  804
+
+  362 : GLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPA :  423
+         |: :    .| :.: .| ::|.:  ||:.||  ||::  .::. :::   .|   | . ..
+  805 : LLQQPLQLQESQQESVQHLKKQHFHQPQQQLL--LLPSHLTQDQLQKSVQQQTQLQFLQLQQ :  864
+
+  424 : DSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTG--TFLHPNL- :  483
+        :   .:...|    :|  :: :.:|   .:  :...:..:.... ..:|: .  . |: :| 
+  865 : QILKDQTKESIQQQKPKFHDQRQKLIQMQPLVSCEQSEQSVNQQKQQQLNQPQQPVLQIQLQ :  926
+
+  484 : -YQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQ--TPGYLTTSYFNAPTAA :  541
+         ||::. ::  :  :  :.  :.   :      : :.: .  .|  : .   .:  :.   .
+  927 : FYQEQQKSAHEQHSQLFLTHEQTQELTQQIKQLDLHQSQHVMQQKLSEEKPQKTVHQNKLHQ :  988
+
+  542 : TAAASQRGTTINGYHSLHQQ-QQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQ :  602
+        . .: :| : ::   .|:|| :  :|::| : :|.:|.  || :|  :.  |||:||::||:
+  989 : VHESQHRVSHLQQQLCLEQQCESTNQKTQLNLHQPKLQALQLHQQLIREDSQQLTHQEKQQH : 1050
+
+  603 : QQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAV :  659
+          : :|.  ||:.   :.| .:: : ..|: | .  .:. .......: ::... .:
+ 1051 : VLHSEHQVLQLQEKLVQKHEKNNEEQKQHSQQSESQVLELQVQEQVQNPINKEKQQL : 1107
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 305 659 . Medex_00008438-RA 742 1107 . 127 M 33 33 G 0 2 M 20 20 G 0 4 M 35 35 G 2 0 M 80 80 G 0 2 M 7 7 G 0 2 M 43 43 G 0 2 M 36 36 G 0 1 M 98 98
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00008438-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 243 -> 610
+  Target range: 703 -> 1081
+
+  244 : ATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSP :  305
+        ..:|: ||. .|. .. .::   .:.:|   |:  |. |  ::: .:  :.::. |:||.||
+  704 : VINLQEALFQEQQDETVHKYKQQNSQQPQQQEQ--SHKLIYQQQQSQQLQKQLHQVQQSDSP :  763
+
+  306 : APQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLL-TPLQLQQQQQQQ-QGLHG :  365
+        : :   |||  | |.:  ..::  .  :. .  | :  :: ||  |||||: ||:  | |. 
+  764 : SVHSYHQQQILLLQPHVSPHEQLQKQIDQQDQQHSQQIHHHLLQQPLQLQESQQESVQHLKK :  825
+
+  366 : AAGNGGSSN----GNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPA :  423
+        .  : .  :    .::  |:| . ::.|:. |: |    .| : : :: . . ...|.  ..
+  826 : QHFHQPQQQLLLLPSHLTQDQLQKSVQQQTQLQFLQLQQQILKDQTKESIQQQKPKFHDQRQ :  887
+
+  424 : D-SGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAH-LHTGTFLHPNLY :  483
+        .   :  : |.. :.|: .:: :.:|. |...    . .  .... :||  |:  || .:  
+  888 : KLIQMQPLVSCEQSEQSVNQQKQQQLNQPQQPVLQIQLQFYQEQQKSAHEQHSQLFLTHEQT :  949
+
+  484 : QNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQ---PGGPGNPQTPGYLTTS-YFNAPTAA :  541
+        |: :.:  :   ::|  | ::  :.. : ..  |   .  ..:.:  :.|    .::.. .:
+  950 : QELTQQIKQLDLHQSQHVMQQKLSEEKPQKTVHQNKLHQVHESQHRVSHLQQQLCLEQQCES : 1011
+
+  542 : TAAASQRGTTINGYHSLH-QQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQ :  602
+        |.. :| .   .  ::|: :||  :::|||  :|:: .|   |::|  .|:::| :::::::
+ 1012 : TNQKTQLNLHQPKLQALQLHQQLIREDSQQLTHQEKQQHVLHSEHQVLQLQEKLVQKHEKNN : 1073
+
+  603 : QQQQQHPH :  610
+        ::|:||::
+ 1074 : EEQKQHSQ : 1081
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 243 610 . Medex_00008438-RA 703 1081 . 114 M 33 33 G 2 0 M 70 70 G 0 1 M 12 12 G 0 1 M 14 14 G 0 4 M 50 50 G 0 1 M 47 47 G 0 1 M 46 46 G 0 3 M 16 16 G 0 1 M 26 26 G 0 1 M 51 51
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00008438-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 324 -> 650
+  Target range: 440 -> 767
+
+ 325 : PHNGSTFAGATALLHIKTEQNTLLTPLQLQQQ-QQQQQGLHGAAGNGGSSNGNNAHQQQQPLAI : 387
+       ||:   |. :..:|: ... :.  |:|: ::: || ..:| :.:.::: :. : :  .|:. : 
+ 441 : PHSHFHFQ-PPVVLNSTDTVSNSETALHSEHHFQQVPPSLSDVTTEASVAAVHVPLLPQKQQPP : 503
+
+ 388 : PQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMP : 451
+       .:.:   : : . |:   |:.:...|..:::|.: .::  :.:.   : : ..|: :..| |  
+ 504 : TDNSSSSHTVHPQAV-VIHQSHHPNAIESPYPGTVVQTVSNKMTMLQTLDTGSANMMTDRDGTV : 566
+
+ 452 : PATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQ-NNAANSLRNIWNRSVGVP--DNYYGSSGAG : 512
+       . ::  :::. :   :.: |:..: :   .:   .:.::::.::    |. |  |: . ..|::
+ 567 : TLATCVPTTEKSLYKPQTFHMPVSRIDTVAMAVCRDDSQTVNDVIITIVPSPENDETCCKDGTS : 630
+
+ 513 : SGGTQPGGPGNPQTPGYLTTSYFNA-PTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQ : 575
+         . | .:...          | |. ... .. :||    |  ::. :.::|||:|.:|.: ||
+ 631 : YQNCQKNSNNTFLLEKDQQHLYKNQLNKQINVIPSQLQQRIIHFRERQAHKQQQHQEKQKKLQQ : 694
+
+ 576 : QLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHST : 639
+       |  .::|::.|  .|::.| ::||::  :: ::.:|| . .: :||   ..: :::. |.    
+ 695 : Q--KHKLNEPQVINLQEALFQEQQDETVHKYKQQNSQQPQQQEQSHKLIYQQQQSQQLQKQLHQ : 756
+
+ 640 : IAAAAAAAAAS : 650
+       :..:.:::. |
+ 757 : VQQSDSPSVHS : 767
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 324 650 . Medex_00008438-RA 440 767 . 109 M 8 8 G 1 0 M 23 23 G 0 1 M 46 46 G 1 0 M 81 81 G 0 1 M 18 18 G 0 2 M 35 35 G 0 1 M 39 39 G 2 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 174
+   Query range: 436 -> 637
+  Target range: 243 -> 447
+
+ 437 : GQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNI-WNRSV : 499
+       |:   ..:::: :|:.:::|::|. |.||..: ::  :.:  :|:  ..::||: : |  : |.
+ 244 : GDKIKAKVRSKPAMSRTSPAPGAQKADAANQTKPQSGSPAAQQPQQLAASTANTTKMIVTSVST : 307
+
+ 500 : GVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQ : 563
+       ||::.  .: |:. ::.::  .  :|:::  | :  :.. .: ... |....  . :  : : |
+ 308 : GVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQVTMQQQQQPTPPQLTVQQQQINLQ : 371
+
+ 564 : QQQQSQQSQQ-QQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQ-LNGPHPHSHPHSH : 625
+       |||| || |: ||||.:||  :||||  :||: :|||||||||| :|: | |: . . |:.:::
+ 372 : QQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQQPQ : 435
+
+ 626 : PHSHPHAGQHTH : 637
+       . ::.::.|: :
+ 436 : QVPQQQSPQQQQ : 447
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 436 637 . Medex_00032111-RA 243 447 . 174 M 58 58 G 0 1 M 79 79 G 0 1 M 39 39 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 150
+   Query range: 449 -> 634
+  Target range: 267 -> 450
+
+ 450 : MPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGS : 513
+       .: |::.: :.::::||..:.:| ::|   .::  .:.:.:: ..   :|| | :   :  :  
+ 268 : KADAANQTKPQSGSPAAQQPQQLAASTANTTKMIVTSVSTGVAGTSMTGVGSPISAEKAQQTIM : 331
+
+ 514 : GGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQL : 577
+       : :.:: . .|| .  :|    :.||::  :. |: ..::  : |:| |: ||| || |.||| 
+ 332 : AQAAAAKTLAPQQQQQVTMQQQQQPTPPQLTVQQQQINLQQQQQLQQMQHFQQQLQQQQAQQQ- : 395
+
+ 578 : AHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQ : 634
+        :||| :|| |. :||  :||| |.| |. :.: | : .:|:  |: ::. :.:. |
+ 396 : -QQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQQPQQVPQQQSPQQQQQQQ : 450
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 449 634 . Medex_00032111-RA 267 450 . 150 M 127 127 G 2 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 440 -> 638
+  Target range: 243 -> 442
+
+ 441 : ADELKARL-GMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPD : 503
+       :|.:||:: :.|: :.:|:|::|. |.||..  . :.   ::  |: ||:: ...    .:|:.
+ 244 : GDKIKAKVRSKPAMSRTSPAPGAQKADAANQTKPQSGSPAAQQPQQLAASTANTTKMIVTSVST : 307
+
+ 504 : NYYGSSGAGSGGTQPGGPGNPQT-PGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQ : 566
+       .  |:| :| |:. ::. ::. . :   ::. :.:. .. .:  |:  ....  :::||| : |
+ 308 : GVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQVTMQQQQQPTPPQLTVQQQQINLQ : 371
+
+ 567 : QSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHP : 630
+       | || || |:: :||| :||.|. :||| :|| ||||||||:.:   .  ::  :.   :: :|
+ 372 : QQQQLQQMQHF-QQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQQP : 434
+
+ 631 : HAGQHTHS : 638
+       :. .: :|
+ 435 : QQVPQQQS : 442
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 440 638 . Medex_00032111-RA 243 442 . 146 M 8 8 G 0 1 M 78 78 G 0 1 M 51 51 G 1 0 M 60 60
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 506 -> 634
+  Target range: 302 -> 426
+
+ 507 : GSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQ : 570
+       .| ::| :||  .| |:| ::.    : ...::||.: |:|:   :    :::||||. ..   
+ 303 : TSVSTGVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQV----TMQQQQQPTPPQLT : 362
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQ : 634
+        ||||   :||   || | ::||| :||.|||||| |:.: | : .:.: :.: :|: :: . |
+ 363 : VQQQQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQ : 426
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 506 634 . Medex_00032111-RA 302 426 . 139 M 46 46 G 4 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 133
+   Query range: 556 -> 635
+  Target range: 368 -> 449
+
+ 557 : SLHQQQQQQQQSQ-QSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHP-HSQLNGPHP : 618
+       :|:|||| ||  : | | ||| |:||  : |||.::||  :|||||| |.| :: : |:::::.
+ 369 : NLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQ : 432
+
+ 619 : HSHPHSHPHSHPHAGQH : 635
+       :::. ::.:|..:. |:
+ 433 : QPQQVPQQQSPQQQQQQ : 449
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 556 635 . Medex_00032111-RA 368 449 . 133 M 13 13 G 0 1 M 40 40 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 555 -> 629
+  Target range: 376 -> 450
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       : ::: ||| || |. ||||||.:||: :||||. :||  :.| |. ||| | :: | :  ..:
+ 377 : QQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQQPQQVPQQ : 440
+
+ 620 : SHPHSHPHSH : 629
+         |: :.: :
+ 441 : QSPQQQQQQQ : 450
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 629 . Medex_00032111-RA 376 450 . 131 M 74 74
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 506 -> 646
+  Target range: 305 -> 443
+
+ 507 : GSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQ : 570
+       ::: ||:: |  |:| :::.:   . :  .|:.: ::.. |: |  :  :: ..|   |||  :
+ 306 : STGVAGTSMTGVGSPISAEKAQQTIMAQAAAAKTLAPQQQQQVTMQQQQQPTPPQLTVQQQQIN : 369
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHP-HSHPHAG : 633
+        ||||||  ||: | ||| |:|| ::||||| |||| :.: | : .:.: :|: :: : : :|:
+ 370 : LQQQQQL--QQMQHFQQQ-LQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQAS : 430
+
+ 634 : QHTHSTIAAAAAA : 646
+       |: .  ::...::
+ 431 : QQQPQQVPQQQSP : 443
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 506 646 . Medex_00032111-RA 305 443 . 127 M 71 71 G 2 0 M 9 9 G 1 0 M 37 37 G 0 1 M 20 20
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 558 -> 623
+  Target range: 384 -> 450
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQL-SHQQQQQQQQQQQHPHSQLNGPHPHSH : 621
+       : ||||.|| ||  ||||:.:||  :||||.|:.|: : ||| |. |||.:. :| ::|:.: :
+ 385 : QLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQMQASQQQPQQVPQQQSPQQQQQ : 448
+
+ 622 : PH : 623
+       .:
+ 449 : QQ : 450
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 623 . Medex_00032111-RA 384 450 . 127 M 36 36 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 558 -> 634
+  Target range: 344 -> 419
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHP : 622
+       :||   ||| |.:..|  :.:||:: ||||.| ||: | ||| ||||.|:.: ||: .: : :.
+ 345 : QQQVTMQQQQQPTPPQLTVQQQQINLQQQQQL-QQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQ : 407
+
+ 623 : HSHPHSHPHAGQ : 634
+       : :.: :. ..|
+ 408 : QQQQQQQQLQPQ : 419
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 634 . Medex_00032111-RA 344 419 . 123 M 32 32 G 1 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 561 -> 637
+  Target range: 363 -> 439
+
+ 562 : QQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSH : 625
+       |||| : || || ||:.| |   ||||| :||   |||| ||||||:.: |   |: :: .:  
+ 364 : QQQQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQQM : 427
+
+ 626 : PHSHPHAGQHTH : 637
+       . |:.:: | .:
+ 428 : QASQQQPQQVPQ : 439
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 561 637 . Medex_00032111-RA 363 439 . 123 M 76 76
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 550 -> 637
+  Target range: 361 -> 449
+
+ 551 : TINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHS-QL : 613
+       |::  :   ||||| || |: ||| | .:.|  :|| |. : |  :|||||||| |.: :: | 
+ 362 : TVQQQQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQQMQQQQQQQQQQQQLQPQVQALQQ : 425
+
+ 614 : NGPHPHSHPHSHPHSHPHAGQHTH : 637
+       : . :: :|:  |: ::.. |: :
+ 426 : QMQASQQQPQQVPQQQSPQQQQQQ : 449
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 550 637 . Medex_00032111-RA 361 449 . 120 M 61 61 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 558 -> 631
+  Target range: 365 -> 439
+
+ 559 : HQQQQQQQQSQQSQQQ-QQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSH : 621
+       :| : ||||  |  |: ||  :|| ::||||.|:||   |||||||||||: ::|::: :.: :
+ 366 : QQINLQQQQQLQQMQHFQQQLQQQQAQQQQQQLQQQ-QMQQQQQQQQQQQQLQPQVQALQQQMQ : 428
+
+ 622 : -PHSHPHSHPH : 631
+        :: :|:  |:
+ 429 : ASQQQPQQVPQ : 439
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 631 . Medex_00032111-RA 365 439 . 118 M 16 16 G 0 1 M 19 19 G 1 0 M 27 27 G 0 1 M 10 10
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032111-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 555 -> 617
+  Target range: 389 -> 450
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPH : 617
+       :: :|||| |||  | ||||| .:||| :.| |||:||:   |||.|| .||::. | : .:
+ 390 : QAQQQQQQLQQQQMQQQQQQQQQQQQL-QPQVQALQQQMQASQQQPQQVPQQQSPQQQQQQQ : 450
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 617 . Medex_00032111-RA 389 450 . 118 M 27 27 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00059238-RA
+         Model: affine:local:protein2protein
+     Raw score: 150
+   Query range: 508 -> 729
+  Target range: 129 -> 353
+
+ 509 : SGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQ--QQQSQQ : 570
+       ::::|| :  ||. .:  ::|: |.  . .:  |.::. :...|:   | : : |:  :|..||
+ 130 : ASSSSGWSSLGGTIPSTLSSYFHTDEDARQAMMTDGGKIKEVKIKLLLSSRTEMQKVIEQARQQ : 193
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNG-PHPHSHPHSHPHSHPHAG : 633
+       |   | : : . :. .. :  . ::    ||  |.:.||||| :. |:.::|||:|||:|||:.
+ 194 : SVTLQTFMQMPAPPMAPLPSVPSMPTVMGQQMSQPHPHPHSQPQPQPQHQPHPHPHPHPHPHPP : 257
+
+ 634 : QHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDL : 697
+       .|.| ::::| :.|: : :| : ||.:..| ::: :  :.  ... . .:.  :..: : : | 
+ 258 : PHPHQSMPPAMPQAPITNMSVPVSAAPVVAEVAPVSIIPDRREQEREQKEKESDNVSITSNKDR : 321
+
+ 698 : SYMLELGGFQQRKAKKPRKPKLEMGVKRRSRE : 729
+       . . | :  :::.:.:..|.. :.:  ||.|:
+ 322 : KDKRERSRSRDKDGDRRSKRERDRSRGRRDRD : 353
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 508 729 . Medex_00059238-RA 129 353 . 150 M 56 56 G 0 2 M 51 51 G 0 1 M 114 114
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00059238-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 531 -> 729
+  Target range: 147 -> 351
+
+ 532 : TSYFNAPTAATAAASQRGTTINGYHS--LHQQQQQQQQSQQSQQQQQLAHQ---QLSHQQQQAL : 590
+       :|||:: ..| .|    |..|:. .   |   : : |:  : .:|| :: |   |:: .. .:|
+ 148 : SSYFHTDEDARQAMMTDGGKIKEVKIKLLLSSRTEMQKVIEQARQQSVTLQTFMQMPAPPMAPL : 211
+
+ 591 : HQQLSHQQQQQQQQQQQHPHSQLNG-PHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVS : 653
+       .   | .    ||  |.|||:: :. |:|: :||:|||:|||: ...|:  : ::| :.|::.:
+ 212 : PSVPSMPTVMGQQMSQPHPHPHSQPQPQPQHQPHPHPHPHPHPHPPPHPHQSMPPAMPQAPITN : 275
+
+ 654 : SSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKP : 717
+        | :. ||:.: ..::.:  ..  ... .|.  ::.. |:: : . . . .  : |. .  |::
+ 276 : MSVPVSAAPVVAEVAPVSIIPDRREQEREQKEKESDNVSITSNKDRKDKRERSRSRDKDGDRRS : 339
+
+ 718 : KLEMGVKRRSRE : 729
+       | |.: .| .|:
+ 340 : KRERDRSRGRRD : 351
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 531 729 . Medex_00059238-RA 147 351 . 134 M 26 26 G 0 2 M 23 23 G 0 3 M 35 35 G 0 1 M 114 114
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00059238-RA
+         Model: affine:local:protein2protein
+     Raw score: 134
+   Query range: 588 -> 734
+  Target range: 219 -> 360
+
+ 589 : ALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVV : 652
+       .: ||:|:.:.:.: |.|.:|: | : ||||:|||:||.:|||.: ..  . |: :. :.:  .
+ 220 : VMGQQMSQPHPHPHSQPQPQPQHQPH-PHPHPHPHPHPPPHPHQSMPPAMPQAPITNMSVPVSA : 282
+
+ 653 : SSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRK : 716
+       ::  :.||:.::::.. ... .. . .::: |:. . ... . : |   : :|  :|::|: |.
+ 283 : APVVAEVAPVSIIPDRREQEREQKEKESDNVSITSNKDRKDKRERSRSRDKDG--DRRSKRERD : 344
+
+ 717 : PKLEMGVKRRSREGSTTY : 734
+       .  ..| : |.|: :  |
+ 345 : R--SRGRRDRDRDRNRRY : 360
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 588 734 . Medex_00059238-RA 219 360 . 134 M 26 26 G 1 0 M 90 90 G 2 0 M 10 10 G 2 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00052801-RA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 307 -> 740
+  Target range: 1250 -> 1699
+
+  308 : QQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGN :  369
+        ::: :: ::: :::. : |::::  :..::   .. :||  ||:: .  . :       |.:
+ 1251 : HDHRKDTNDMTDEKPSNLHSSPSPMSNVSVSTNSIVHNTENTPIHRPSSPGNLTLTSIIATQ : 1312
+
+  370 : GGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVD :  431
+         |:.: ..:|.:  ::.  :..:|.. |:...: :|:|.. :... .  |.|.: |. .. :
+ 1313 : LGPDSVTTSHANIGSMNSVHSNMLPPKLTPPNFTSPNHMPTSPNIMPVTPTSRSVSPGRSYN : 1374
+
+  432 : SSSSGGQPCADELKARL-GMPPATSASAAAAAAAAAAAAAHLHT------GTFLHPNLY-QN :  485
+        ::||:| : ::   : | | ..:.:::::|::::  |. ::: .       .|::.| | ::
+ 1375 : NNSSDGFSHSGLAGGCLSGGGNSNGSNSSAGSSGKRANRTRFTDYQIKVLQEFFENNAYPKD : 1436
+
+  486 : NAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSY--FNAPTAATAAA :  545
+        :. : |.:: : |  |   .: :: . :  .  . |.   .||  .|:   |: ..: . . 
+ 1437 : DDLEYLSKLLSLSPRVIVVWFQNARQKARKVYENQPPVETPPGVDETGANRFQRTPGLNYQC : 1498
+
+  546 : SQRGTTINGYHSLHQQQ-----QQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQ :  602
+        .:   .:: |..| ::|     ::::..: :|.|.. |: .     :::    :::|:||| 
+ 1499 : KKCLLVFQRYYELIRHQKTHCFKEEDAKRSAQAQAAAAQIAAVLSSEDSNSSTITEQNQQQG : 1560
+
+  603 : QQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAM :  664
+        ||| |:.. | . .:.: :::: |  :||:.  : |: ::.:::::::|.::::::: ::: 
+ 1561 : QQQTQQQPMQQTQQQQQQQSQPSPVQQPHGNMMSVSSATSNPTTPSGPVTPTPTPSLFPPSP : 1622
+
+  665 : LSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRK-PKLEMGVKR :  725
+        :|::::::.::..| .|:    : .    .:||    :| .:. . : : ||  .|: ::.|
+ 1623 : VSTTPTPTESSNNAKEGTFQCDKCNLVFPRFDLWREHQLHPLASMLSGNKRKFDDLDESIDR : 1684
+
+  726 : RSREGSTTYLWEFLL :  740
+         . :.... |:. :|
+ 1685 : ECDQPKDKRLRTTIL : 1699
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 307 740 . Medex_00052801-RA 1250 1699 . 143 M 141 141 G 0 1 M 26 26 G 0 6 M 9 9 G 0 1 M 51 51 G 0 2 M 28 28 G 0 5 M 154 154 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00028200-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 422 -> 635
+  Target range: 1860 -> 2071
+
+  423 : ADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQ :  484
+        ::|: || ::| : :  |... .:  .: :..:::   ::....:: :|: . |   || ::
+ 1861 : SHSDSSDGGGSMGVSYVCNSSPTTGGNVISEVPSPIMHSSVEVETPLGHMTNLTATSPNYFR : 1922
+
+  485 : NNAANSLRNIWNRSVGVPDNYYGSSGAGSGG-TQPGGPGNPQTPGYL--TTSYFNAPTAATA :  543
+        .: .   |. |. : . |:. :.::||::.. : |  | :.:    |  ..:  :..:|. :
+ 1923 : PKLN---RRSWPLPGERPEGGFPGAGAANETFAVPRRPVQQKQVQLLPNPPPLPQQHSAQLP : 1981
+
+  544 : AASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQ :  605
+        .::|.:   .: :||:||. :. |  |: | .| .:.  :.||||:|:.  ::|||. :..|
+ 1982 : QSPQPSQLSRSPQSLEQQPLRPLQQLQPLQSPQQQQPLRPPQQQQPLRP--PQQQQPLRPPQ : 2041
+
+  606 : QQHPHSQLNGPHPHSHPHSHPHSHPHAGQH :  635
+        ||:| .. : .:| ..|: :.. :|.. ::
+ 2042 : QQQPLRPPQQQQPLRPPQQQQPLRPPQQHQ : 2071
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 422 635 . Medex_00028200-RA 1860 2071 . 119 M 66 66 G 3 0 M 24 24 G 0 1 M 15 15 G 0 2 M 62 62 G 2 0 M 41 41
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00028200-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 520 -> 635
+  Target range: 1966 -> 2080
+
+  521 : PGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQL :  582
+        |..|. |   ::   ::| ::  : |.:: . :. ::|:| |. | . || . :.. .:|.|
+ 1967 : PNPPPLPQQHSAQLPQSPQPSQLSRSPQSLEQQPLRPLQQLQPLQSPQQQQPLRPPQQQQPL : 2028
+
+  583 : -SHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQH :  635
+         :.||||:|:.  ::|||. :..|||:| .. : .:| ..|: |.. :|.. ::
+ 2029 : RPPQQQQPLRP--PQQQQPLRPPQQQQPLRPPQQQQPLRPPQQHQPLRPPQQHQ : 2080
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 520 635 . Medex_00028200-RA 1966 2080 . 104 M 62 62 G 0 1 M 10 10 G 2 0 M 41 41
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00028200-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 559 -> 635
+  Target range: 2019 -> 2095
+
+  560 : QQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSH :  621
+        :..||||. :.:||||.| ..|  :. :.: :||  :..||||. :..:.| .|..|:.| :
+ 2020 : RPPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQHQPLRPPQQHQQ : 2081
+
+  622 : PHSHPHSHPHAGQH :  635
+         ::..: :|  ..|
+ 2082 : LRPPQQQQPLRPPH : 2095
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 559 635 . Medex_00028200-RA 2019 2095 . 104 M 76 76
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00028200-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 550 -> 635
+  Target range: 2002 -> 2089
+
+  551 : TINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQ--QQQQQQHPH :  610
+        .::  ::|: .||||. ... |||.  :.||  . :... :|.|...||||  :..|||:| 
+ 2003 : PLQQLQPLQSPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQQQPLRPPQQQQPL : 2064
+
+  611 : SQLNGPHPHSHPHSHPHSHPHAGQH :  635
+        .. : .:| ..|: |.: :|.. |:
+ 2065 : RPPQQHQPLRPPQQHQQLRPPQQQQ : 2089
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 550 635 . Medex_00028200-RA 2002 2089 . 101 M 51 51 G 0 2 M 34 34
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 363 -> 557
+  Target range: 792 -> 988
+
+ 364 : HGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGV : 427
+       .| :| ||:|....:  .  |:: |  |      |||: :.. . :  . ..|: :. |: :| 
+ 793 : YGYPGVGGASGPGGPGGPGGPFPRPGGPTTSYPGSGGPSRPGGPGSPFPRPGGPSAGYPGPGGP : 856
+
+ 428 : SDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHL--HTGTFLHPNLYQNNAAN : 489
+       |: :::::.| | :    :  | |.:.::|:|::::::::: ::   .|:.:  |.   ..::.
+ 857 : SGPGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGPGGPSGPGGP : 920
+
+ 490 : SLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNP-QTPGYLTTSYFNAPTAATAAASQRGTTI : 552
+       : ..   .. | |.. |.::|:.||.. |||||.| . ||  |::| .:|.::::: : .|...
+ 921 : GGPGGPFPRPGGPTAGYPGPGGPSGPGGPGGPGGPFPRPGSPTAGY-PGPGGPSGPFPTPGGPT : 983
+
+ 553 : NGYHS : 557
+       .||.:
+ 984 : AGYPG : 988
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 363 557 . Medex_00091664-RA 792 988 . 113 M 109 109 G 0 2 M 52 52 G 0 1 M 10 10 G 1 0 M 22 22
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 361 -> 546
+  Target range: 708 -> 891
+
+ 362 : GLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFP-PSPAD : 424
+       | .|.:|.:|: .:..:  .  | : |  |: .. |||.:  .|  .. ..:..|:|| |:.:.
+ 709 : GYPGVGGPSGPIGSGGPSGPGGP-SGPSGPVGPGGLSGPG--GPSGPGGPGGPGGPFPRPGGPT : 769
+
+ 425 : SGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAA : 488
+       :| :: ::::|.: | :    :. | |...:||::::::::::: ::  ..|  .|.   .: :
+ 770 : AGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGASGPGGPGGPGGPFPRPGGPTTSYPGSGGPSRP : 833
+
+ 489 : NSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNP-QTPGYLTTSYFNAPTAATAAAS : 546
+       .:  : ..|: | |.. |.::|:.||.. |||||.| . ||  :::| .:..::.|:::
+ 834 : GGPGSPFPRP-GGPSAGYPGPGGPSGPGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGP : 891
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 361 546 . Medex_00091664-RA 708 891 . 104 M 23 23 G 1 0 M 16 16 G 2 0 M 16 16 G 0 1 M 79 79 G 1 0 M 25 25 G 0 1 M 22 22
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00044823-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 384 -> 491
+  Target range: 3 -> 110
+
+ 385 : LAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARL : 448
+       :::.  .| :  ::.: : :  ::|| :. .||:||||||||||||||||| |:...|||||||
+   4 : IGLQTATLSEVYITESYMLQELRKNY-SVFKGSLPPSPADSGVSDVDSSSS-GHTSNDELKARL :  65
+
+ 449 : GMPPATSASAAAAAAAAAAAAAH---LHTGTFLHPNLYQNNAANSL : 491
+         .|. :|.::.::::: :.. .   :. |.|| | :|:.:.:..:
+  66 : QPTPVLAARTPESPGPGHPQQHPGYGVPHGGFLAP-FYHPHQPARV : 110
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 384 491 . Medex_00044823-RA 3 110 . 126 M 26 26 G 1 0 M 24 24 G 1 0 M 35 35 G 0 3 M 9 9 G 1 0 M 10 10
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00044824-RA
+         Model: affine:local:protein2protein
+     Raw score: 467
+   Query range: 668 -> 797
+  Target range: 56 -> 189
+
+ 669 : AAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKP-RKPKLEM--GVKRRSRE : 729
+       ||::|.::: :: : ||||:|||||: |  ||||| |||.| .||  :||| .   :|||:|||
+  57 : AAPPAPSPTRPSIPTSVIQAATSSVGPDDLYMLEL-GFQPRPVKKKLKKPKSGEPGSVKRKSRE : 119
+
+ 730 : GSTTYLWEFLLKLLQDREYCPRFIKWTNREKGVFKLVDSKAVSRLWGMHKNKPDMNYETMGRAL : 793
+       |||||||||||||||||:||||:||||||||||||||||||||||||:||||||||||||||||
+ 120 : GSTTYLWEFLLKLLQDRDYCPRYIKWTNREKGVFKLVDSKAVSRLWGLHKNKPDMNYETMGRAL : 183
+
+ 794 : RY--YY : 797
+       |.  |:
+ 184 : RWDSYF : 189
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 668 797 . Medex_00044824-RA 56 189 . 467 M 35 35 G 1 0 M 10 10 G 0 1 M 7 7 G 0 2 M 74 74 G 0 2 M 2 2
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00044383-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 284 -> 581
+  Target range: 21 -> 317
+
+ 285 : EKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTE--QNT : 346
+       ::: ::  :. .:. :: .:||  || .:: : |:: :||| .  . ::||:| ::  .  |..
+  22 : QQQQQQQQHPVTATPREQPPPAESQQQAHRGQKQERGRQQPFPQHGQSAATPLQEVAQAQLQPP :  85
+
+ 347 : LLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLL---HNLLSGGAIHNPHH : 407
+       | :|  :| |.| ..||:::.| |. |. ::.:..||: : .|:|     :.|    : ... :
+  86 : LQAPPGFQSQPQLPPGLQASQGLGPQSGQEQQQPPQQAWSQQQQPGPPGGRGLRQRQPGPPGGR : 149
+
+ 408 : RNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAH : 471
+        :| ... |: .. .:::.|:  :    .|.| ::. :.  |:||   .:::...:::::: ::
+ 150 : GQYQGQPLGNAGQQRPGPPVGMGQQQQQPGPPGGQGRQQ--GLPP---DGTGQQQPGPPGGRGQ : 208
+
+ 472 : LHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYF : 535
+        :. .: ::.  :..:: :: :  ::  | |:.     | .::||    ||.| ..|   .   
+ 209 : YQGQPLGNAGQQRPGPPVGMGQQ-QQQPGPPGGRGRQQGLPPDGTGLQQPGPPGVTGLQQGLPP : 271
+
+ 536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQ : 581
+       ::.:.. :.:: ||   .  .: : |::| .|:.| |.|.  ::.:
+ 272 : DSTAQQQPEPPGRGRQQGLPPAGRGQKRQGAQGAQFQPQPGQSRPE : 317
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 284 581 . Medex_00044383-RA 21 317 . 104 M 59 59 G 0 2 M 50 50 G 0 3 M 53 53 G 2 0 M 4 4 G 3 0 M 39 39 G 1 0 M 86 86
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00044383-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 299 -> 617
+  Target range: 5 -> 324
+
+ 300 : KQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGL : 363
+       |:..:|:.:.. |||:: ||||||:| .::. . :.:  : : :.:   .. : :||. .|:| 
+   6 : KKKGGPSQEPAQQQQQQQQQQQQQHPVTATPREQPPP-AESQQQAHRGQKQERGRQQPFPQHGQ :  68
+
+ 364 : HGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGV : 427
+        :|:.  . :::: ... |.| ::. :| |.. | ::.  .|:  :   ...    : ..::| 
+  69 : SAATPLQEVAQAQLQPPLQAPPGFQSQPQLPPGLQASQGLGPQSGQEQQQPPQQAWSQQQQPGP : 132
+
+ 428 : SDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSL : 491
+       :: :.: .  || : . :::   .| .:|:.. ::::.: :..: :.|.   ..  |. :::: 
+ 133 : PG-GRGLRQRQPGPPGGRGQYQGQPLGNAGQQRPGPPVGMGQQQQQPGPPGGQGRQQGLPPDGT : 195
+
+ 492 : RNIWNRSVGVPDNYYGSSGAGSGGTQPGGP---GNPQTPGYLTTSYFNAPTAATAAASQRGTTI : 552
+        :  . : | .::| | : :.:|  :||.|   |:.| ..  ..:  .... :..::: : .. 
+ 196 : GQQQPGPPGGRGQYQGQPLGNAGQQRPGPPVGMGQQQQQPGPPGGRGRQQGLPPDGTGLQQPGP : 259
+
+ 553 : NGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGP : 616
+       .|  :|:|  ..:  :|| .:..  ::||  ... :: .:| :: .| |.|. | :|:: |. |
+ 260 : PGVTGLQQGLPPDSTAQQQPEPPGRGRQQGLPPAGRGQKRQGAQGAQFQPQPGQSRPETVLAKP : 323
+
+ 617 : H : 617
+       :
+ 324 : D : 324
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 299 617 . Medex_00044383-RA 5 324 . 104 M 37 37 G 1 0 M 92 92 G 1 0 M 91 91 G 0 3 M 96 96
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 361 -> 732
+  Target range: 305 -> 675
+
+ 362 : GLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADS : 425
+       |  :: :::||::.::.| :. :   :|..  |:: |:|: :::  |. ..:  :. : .:.:|
+ 306 : GSASPMSEAGSASPQSVHSNASSHHSAQSQ--HSVQSAGSQRSATSRRSNVSHYSKRSVRSQQS : 367
+
+ 426 : GVSDVDSSSSGGQPCADELKAR-LGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAA : 488
+       | |:  |:.|.| :.:..  :. |: :|:.|:::.|::| :.::|   :::|   :.: ..: .
+ 368 : GRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKV : 431
+
+ 489 : NSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTI : 552
+       ::  .  | ||  |.:  : |: :: ...:| :..::::|. ..|  ::.:: : |.::...: 
+ 432 : SGYAPRSNASVRSPAS--DVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESN : 493
+
+ 553 : NGYHSLHQQQQ-QQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNG : 615
+        : || : :.  : .:|:.|.: ::      |.: : : | : :| :  :. .: . :::  ::
+ 494 : VSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHS : 557
+
+ 616 : PHPH-SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAA : 678
+       :|:: |:: :|::. . ::: .:|. :. :: :.||: |:.| | | ::. :||| :: :.|:|
+ 558 : AHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSPRSNASA : 621
+
+ 679 : AGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGVKRRSREGST : 732
+        :.. :. ..:..| : . | . : ::  .|.. .::.|: : :......::|:
+ 622 : HSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 675
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 361 732 . Medex_00069928-RA 305 675 . 116 M 30 30 G 2 0 M 54 54 G 0 1 M 57 57 G 2 0 M 57 57 G 0 1 M 56 56 G 0 1 M 113 113
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00078070-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 380 -> 641
+  Target range: 794 -> 1053
+
+  381 : QQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCAD :  442
+        |:|.:|::   |  :|   ..  :  : ::.:|::::|..    : |:::::: . |  .. 
+  795 : QNQQMAMATELLDSQLKQHEQCGSISQGDFDAAAAAAFNQMLWLPYVNQLEAAFKCG--SNP :  854
+
+  443 : ELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNL--YQNNAANSLRNIWNRSVGVP :  502
+        || ..|:   ::: :::.:: :.| ..:  ..: |  |.   |:|: .: : .:|:::.  :
+  855 : ELLNMLSTVMPSGYPSPQGGRGQALQVPVPPPAMFAAPAATEYKNQLEQQMLALWHKAAVQS :  916
+
+  503 : DNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQ :  564
+        ::  :: .... :. . |:  ::: ..:..: : |:..  |:::: :.. ..||  :|||:|
+  917 : GSTNAAVPNNRHSKGNLGSV-AHSKNHINNNKL-AAIDKRATSARTSPISPNYHHHQQQQHQ :  976
+
+  565 : QQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHP :  626
+        ||| :| |: ..:. :  :::   .  .| .  ||:::|.:.::.:::::  : .|: .|..
+  977 : QQQQRQQQNLAAVNGHFYPNNGYVQNLPQYDFTQQRNRQPRARQGRPEMQYKQMKSELPSPT : 1038
+
+  627 : HSHPHAGQHTHSTIA :  641
+        : :   .:||.|:::
+ 1039 : EVDYGRERHTKSSVT : 1053
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 380 641 . Medex_00078070-RA 794 1053 . 114 M 57 57 G 2 0 M 43 43 G 0 2 M 40 40 G 1 0 M 12 12 G 1 0 M 105 105
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00085186-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 554 -> 655
+  Target range: 28 -> 129
+
+ 555 : YHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHP : 618
+       .|  .:::..::::..:.:::. :..:| ..:::: ...  |::.....: :..|.::|:.||.
+  29 : HHHPPHHHPPHHHPPPPPHHHPPPPPHLHPPHHHSPPPPPHHHHPPPPPHLHPPPPPHLHPPHH :  92
+
+ 619 : HSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSS : 655
+       | .|| :|.:.: .:. .  :|::..: .: ::  :|
+  93 : HHPPHHRPPPPAINAPANSFSISSDESIDGRGLSVTS : 129
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 554 655 . Medex_00085186-RA 28 129 . 117 M 101 101
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00085186-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 584 -> 638
+  Target range: 27 -> 81
+
+ 585 : QQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHS : 638
+       ::::: |:: :|::.....:::..|.::|:.||.||.|.:..| ||.:..| |:
+  28 : HHHHPPHHHPPHHHPPPPPHHHPPPPPHLHPPHHHSPPPPPHHHHPPPPPHLHP :  81
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 584 638 . Medex_00085186-RA 27 81 . 115 M 54 54
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00061824-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 445 -> 648
+  Target range: 217 -> 424
+
+ 446 : ARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLH-PNLYQNNAANSLRNIWNRSVGVPDNYYG- : 508
+       :|:. |.: |:|:::::::::::::.|.|::: :  ::|:::..:: :.: . : : | :| | 
+ 218 : TRVTEPTTQSTSTTTTTTTTTTTTTPLPTDSYEDYEEFYEDSQEQTEQPLSGAGHDFPVHYGGF : 281
+
+ 509 : SSGAGSGGTQPGGP--GNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQ : 569
+        :..|:: : :. |   |:. |.  .||  . ||.:..::  .... ::  |::   ::::| |
+ 282 : QNPQGTALSSAEQPYWINSARPNIPETSLPGKPTVGVNTGLSNEPNKSSQISVN-YGNNHDQVQ : 344
+
+ 570 : QSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAG : 633
+       :::|   |:.::|:.::: .:.|: :::  .::|:   :: :  | | |: : : | ..:.:|:
+ 345 : NNDQSSLLTKEKLPPHKNFNFPQNYPDRTSPDRQDLVTNSTGLHNIPSPNLQLDQHFKENTEAS : 408
+
+ 634 : QH-THSTIAAAAAAAA : 648
+        : :|:.|.::. .::
+ 409 : SNASHNNINPSNINGP : 424
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 445 648 . Medex_00061824-RA 217 424 . 102 M 34 34 G 0 1 M 28 28 G 0 1 M 14 14 G 0 2 M 38 38 G 1 0 M 75 75 G 0 1 M 13 13
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00076132-RA
+         Model: affine:local:protein2protein
+     Raw score: 289
+   Query range: 734 -> 817
+  Target range: 13 -> 94
+
+ 735 : LWEFLLKLLQDREYCPRFIKWTNREKGVFKLVDSKAVSRLWGMHKNKPDMNYETMGRALRYYYQ : 798
+       ||:|||.|| ..:| ..:|.|||.: | ||||::..|:||||::|||.:|||:.::|||||||:
+  14 : LWQFLLELLISNQY-TSIITWTNND-GEFKLVNAEEVARLWGLRKNKTNMNYDKLSRALRYYYD :  75
+
+ 799 : RGILAKVDGQRLVYQFVDV : 817
+       :.|: || ||::||::..:
+  76 : KNIIKKVLGQKFVYRLATL :  94
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 734 817 . Medex_00076132-RA 13 94 . 289 M 14 14 G 1 0 M 10 10 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00033330-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 278 -> 691
+  Target range: 435 -> 853
+
+ 279 : SKCLNIEKRMDKLSD--TEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHI : 340
+       |.| :.|. :..|.:  ..:|: .:: : .: .   . .: ::   :|:: ::: |:|:. |: 
+ 436 : SDCQDTEDVLSDLEQDGNSMPLPDKPQPVVSTPVTTPVKEQRRFLGKQSEVAAAAAAAAEQLNK : 499
+
+ 341 : K-TEQNTLLTPLQLQQQQQQQQGLHGAAGNG-GSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAI : 402
+       .   .: ||..   : :  :: |  |::|.| |::.|.:: .: :. |:|  .: |.  :||: 
+ 500 : DLLMASQLLDRKSPRTKVIDRGGATGPGGGGAGAGGGGQGVPRMNGSAFPSTGMTHG--GGGPG : 561
+
+ 403 : HNPHHRNYTTATTGSFPPSPADS---GVSDVDSSSSGGQPCADELKARL-GMPPATSASAAAAA : 462
+        .:.:.| .| .    .|||..|   . .. :::||: :..|..| :.: ||..:.:::  .: 
+ 562 : GGAPENNINTMNLQHVRPSPNASMFQTPKAPGGGSSSVNNSAAALYSSMGGMGGGGGGPHMNPF : 625
+
+ 463 : AAAAAAAAHL-HTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQ : 525
+         :..: . : : .. |   : .::  :.: :.:  : .|: .  : .|  :...  :||.:: 
+ 626 : CMPENSREGMPEQNEALSLVVTPKKKRHKVTDTRITPRTVS-RILAQDGMVPPPGSMDGPTSAG : 688
+
+ 526 : TPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQA : 589
+       :|:  .:: |.:  |:|:::::.... ..||: ...  .   :   . .:.  |:     .  :
+ 689 : APSGPGATKFGGMMASTSGGAESPPPPRPYHPPPPPILPVSLPTSVAIPNPSLHESQVFSPYSP : 752
+
+ 590 : LHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVS : 653
+       :.::  :||||||......|| ::.:: |.: . ::|::::.: ||..: : :|  |||.   |
+ 753 : FYHH-QQQQQQQQAPPPPPPHQHMASSSPPGMG-ADPRGESPPLQHPPTLLHPALIAAAQHGGS : 814
+
+ 654 : SSSSAV-AAAAMLSASAAAAATAAAAAGGSQSVIQPATS : 691
+       :. : : ::::  :|.:.. .:. .:|:|: . |||:.|
+ 815 : PDYGHMRGGGGGGGADSVDRNSDCNSADGPYDGIQPTIS : 853
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 278 691 . Medex_00033330-RA 435 853 . 111 M 15 15 G 0 2 M 48 48 G 0 1 M 29 29 G 0 1 M 25 25 G 2 0 M 28 28 G 0 3 M 23 23 G 0 1 M 24 24 G 0 1 M 30 30 G 1 0 M 90 90 G 1 0 M 28 28 G 1 0 M 36 36 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00033330-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 364 -> 640
+  Target range: 557 -> 832
+
+ 365 : GAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTT--ATTGSFPPSPADSG : 426
+       |::|.|::.|. |: : |:  : |: ::::.  :.|:  :: :.: ::  :: |:...:.::: 
+ 558 : GGPGGGAPENNINTMNLQHVRPSPNASMFQTPKAPGGGSSSVNNSAAALYSSMGGMGGGGGGPH : 621
+
+ 427 : VSD--VDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAA : 488
+       ::   : .:|..| | .:|   .| :.| ..   .:.:  :: :.::: : . : |.    :::
+ 622 : MNPFCMPENSREGMPEQNE-ALSLVVTPKKKRHKVTDTRITPRTVSRILAQDGMVPPPGSMDGP : 684
+
+ 489 : NSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTI : 552
+       .|  .  ..:..  :.  :|:::|:.:..|. | :|..|. |..| :.::.| ..:: : : .:
+ 685 : TSAGAPSGPGATKFGGMMASTSGGAESPPPPRPYHPPPPPILPVS-LPTSVAIPNPSLHESQVF : 747
+
+ 553 : NGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGP : 616
+       :.| ::.::|||||| |.:....  :||:::   ..:: .: :: : .. |:..   |:.| ::
+ 748 : SPYSPFYHHQQQQQQQQAPPPPP--PHQHMASSSPPGMGAD-PRGESPPLQHPPTLLHPALIAA : 808
+
+ 617 : HPHSHPHSHPHSHPHAGQHTHSTI : 640
+        .|: :....| :. :|  . .::
+ 809 : AQHGGSPDYGHMRGGGGGGGADSV : 832
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 364 640 . Medex_00033330-RA 557 832 . 110 M 48 48 G 0 2 M 17 17 G 0 2 M 14 14 G 1 0 M 89 89 G 1 0 M 41 41 G 2 0 M 16 16 G 1 0 M 46 46
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00040959-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 13 -> 722
+  Target range: 217 -> 936
+
+  14 : NDGRLVGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAA :  77
+       ..::| : |.  :  ...:|:.. |: ... ||:  ..:|: | :::| .: .::.   : :::
+ 218 : AAAHLNSQLTAVAEYNKSATGGNYEKKTNRSQSPLITPSPKSSSASNISPGNGGTPFFHQVPTS : 281
+
+  78 : RNVNVVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAA : 141
+        : ..   : |:: |:.. |.: .. :   .: ::: :: : |  :..::.:|  :::   |::
+ 282 : TSFATDPRADCSSLSTAS-FSAGKSQHVPSSPEFPN-SSGNSKSFSSSSSASVHHQQQSCIVST : 343
+
+ 142 : AVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGD : 205
+       |  ::..  .   :| :::: ..:.:::|  ::..: ..: ::  ||...:.: ... .:  :.
+ 344 : ASSTSASSKDYRIPQPPSRASTAAATPNLFLNASQAQAPTRVSSQSSEKQSRTQQQNFVPPTSK : 407
+
+ 206 : LINNNNNNSNSNNNSNGNGNHGGGGGG-ASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAA : 268
+         . .::| :::.:::  .: |:::::  |.::.:.:. :: :.:|:|:. |  :. .:..::.
+ 408 : ASPVTHHNIQTKAQTKIYPELGSSSSDRRSESAPLESSQSSPISFAMMDTTPHRQSINYTGTPN : 471
+
+ 269 : ANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFA : 332
+       :.:   .. :| . : ..  .: :: :..   |   .:.||:: .|:   |.:: :: :    :
+ 472 : GTAAPSSSKISGSGQRSSTQSQPAQQQTQPQPQFQQQTQQQHVLAQQSGYQARHYDSAEYHHAG : 535
+
+ 333 : GATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPL---AIPQRPLL : 393
+       |: .  .. :|.:|  ::  :. |.|: ..  ||.  . .::. :|| |. ||   : |. |: 
+ 536 : GGRNKTPTASEPSTYPAAASVPSQPQNGPTDCGAVV-PRRPSPLQAHSQASPLGHVPSPAYPMY : 598
+
+ 394 : HNLLSGGAIHNP-HHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSA : 456
+       :: ::: : .:| :::. ...::   |||| | .|:  .| :: | :.:. :.  |.  .::|.
+ 599 : NSPMTSMSSPSPLQQHPDGGQSSRHAPPSPLDVTVPRPASQGNQGVAYSSVITRALTSERPSSV : 662
+
+ 457 : SAAAAAAAAA-AAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPG : 519
+        .. ::. .  |.:|: :.    ..    . ::.  .:: :::  ||::  . :.:  .  || 
+ 663 : QQEFTSQKQCWAETADRQPQHSRKNYAVGPYGSPVGMELQQQPQQVPQQ--PQPPPQQPQQQPQ : 724
+
+ 520 : GPGNPQTPGYLTTSYFN-APTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQL : 582
+        | .: . :    :||: :|| ..: .. .:   :.   :.: |  |||: | || .  ..|::
+ 725 : QPRAALNISERQQAYFDSSPTHQVTLQDLSSCRGDPMSIVKNLQTLQQQACQLQQSPTAEPQKV : 788
+
+ 583 : SHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSH---PHSHPHSHPHAGQHTHSTIAAA : 643
+        :: .:    : : : ::::  :::| .|.||:|:: ::   .: .|.:|.:|.|::: . :: 
+ 789 : VEEGPRIPTSKTGGNSKRRKSSEKNHVPSALNSPDAMTEYFTNRVPPPAHHNANQQAQQNGGGY : 852
+
+ 644 : AAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQP-----ATSSVSYDLSYMLE : 702
+        . .  :: ::::.  :||.     : |::.   .:| :||:: |     :.::::|  :: |:
+ 853 : FDFERWNLPPPPPKMFSAANTPHHHPHATGPLHHVGGQPQSLMVPHPHHHPPPPLPYFPAFPLH : 916
+
+ 703 : LGGFQQRKAKKPRKPKLEMG : 722
+        .. :.  ...| :| :|:|
+ 917 : HPTHHADFQSSPGQPPVEVG : 936
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 13 722 . Medex_00040959-RA 217 936 . 104 M 82 82 G 1 0 M 17 17 G 1 0 M 118 118 G 0 1 M 136 136 G 1 0 M 16 16 G 0 3 M 20 20 G 0 1 M 61 61 G 0 1 M 38 38 G 2 0 M 30 30 G 0 1 M 85 85 G 0 3 M 67 67 G 0 5 M 34 34
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00040959-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 353 -> 680
+  Target range: 674 -> 1002
+
+  354 : QQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHR-NYTTAT :  414
+        : .::|.|  : . : |. ::. . : |||| .:||:|  ..  :  . ::|:   | :.  
+  675 : ETADRQPQHSRKNYAVGPYGSPVGMELQQQPQQVPQQPQPPPQQPQQQPQQPRAALNISERQ :  736
+
+  415 : TGSFPPSPA-DSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTG :  475
+         : | :||: : .: |:.|..::. : ..:|::    : .  .|::|.:. ....::::.|:
+  737 : QAYFDSSPTHQVTLQDLSSCRGDPMSIVKNLQTLQQQACQLQQSPTAEPQKVVEEGPRIPTS :  798
+
+  476 : TFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNA :  537
+        .   .:  ::::.::  .   .| :. .:|:.:. :.::  ::. .::.:..||:. . .| 
+  799 : KTGGNSKRRKSSEKNHVPSALNSPDAMTEYFTNRVPPPAHHNANQQAQQNGGGYFDFERWNL :  860
+
+  538 : PTAATAAASQRGTTINGYHSLHQQQQ--QQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQ :  597
+        |.::.   |. .|. :  |:  . ::   |.||   .:.:: :...|:. .. :||:   . 
+  861 : PPPPPKMFSAANTPHHHPHATGPLHHVGGQPQSLMVPHPHHHPPPPLPYFPAFPLHH---PT :  919
+
+  598 : QQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAV :  659
+        ::.: |  . :|. ::..| | . .:| . :.|:...:.: . . .:. ...    |.:::|
+  920 : HHADFQSSPGQPPVEVGPPVPFDSQQSSTAPYPQEPPRDDQPKVIVPNIEEELGFLSETGSV :  981
+
+  660 : AAAAMLSASAAAAATAAAAAG :  680
+        :|:|:   .::: ..:.|::|
+  982 : PAPAVEQKKPPTLVPSVASTG : 1002
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 353 680 . Medex_00040959-RA 674 1002 . 104 M 55 55 G 0 1 M 15 15 G 0 1 M 140 140 G 0 2 M 29 29 G 3 0 M 85 85
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00040959-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 397 -> 642
+  Target range: 326 -> 572
+
+ 398 : SGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADE-LKARLGMPPATSASAAA : 460
+       |::|  :.::::...:|::| ::|: |  :::  |.:|.:.: ::  |:|. : :|:  :|.::
+ 327 : SSSASVHHQQQSCIVSTASSTSASSKDYRIPQPPSRASTAAATPNLFLNASQAQAPTRVSSQSS : 390
+
+ 461 : AAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNR-SVGVPDNYYGSSGAGSGGTQPGGPGN : 523
+       . .: :.... :...:   |  .:| .:::  :|..  : : :|.  .|:. .|: : | : : 
+ 391 : EKQSRTQQQNFVPPTSKASPVTHHNIQTKAQTKIYPELGSSSSDRRSESAPLESSQSSPISFAM : 454
+
+ 524 : PQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQ : 587
+        :|...  :  :.:...:|||:| . .: :| :|  | |..|||:|. .| || ::||   .||
+ 455 : MDTTPHRQSINYTGTPNGTAAPSSSKISGSGQRSSTQSQPAQQQTQPQPQFQQQTQQQHVLAQQ : 518
+
+ 588 : QALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAA : 642
+        : :.:  : .: ::.   ::  :  :.| ..: : | | |:|:.|. . :::.:
+ 519 : SGYQARHYDSAEYHHAGGGRNKTPTASEPSTYPAAASVP-SQPQNGPTDCGAVVP : 572
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 397 642 . Medex_00040959-RA 326 572 . 101 M 46 46 G 0 1 M 54 54 G 0 1 M 129 129 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00040959-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 535 -> 723
+  Target range: 808 -> 998
+
+ 536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQ : 599
+       :: .. .::| :...::..| : : ....:::::| .||:  :. ::.: : .: ..::  ..:
+ 809 : SSEKNHVPSALNSPDAMTEYFTNRVPPPAHHNANQQAQQNGGGYFDFERWNLPPPPPKMFSAAN : 872
+
+ 600 : QQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSS-SAVAAA : 662
+        .:::.:. .. :  |.:|:|   :||| ||.:. .  ::::   ::  |.  ||:: ::|..:
+ 873 : TPHHHPHATGPLHHVGGQPQSLMVPHPHHHPPPPLPYFPAFPLHHPTHHADFQSSPGQPPVEVG : 936
+
+ 663 : AMLSASAAAAATAA-AAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRKPKLEMGV : 723
+       : :: .:..::||: :.....:.  :  .:::. :|::: | |: ... ..: : |.|  :|
+ 937 : PPVPFDSQQSSTAPYPQEPPRDDQPKVIVPNIEEELGFLSETGSVPAPAVEQKKPPTLVPSV : 998
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 535 723 . Medex_00040959-RA 808 998 . 101 M 121 121 G 0 1 M 20 20 G 0 1 M 47 47
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00040959-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 294 -> 696
+  Target range: 706 -> 1112
+
+  295 : EIPIVKQSTSPAPQQQLQQQH-HLQQQQQQQPHNGSTFAGATALLHI---KTEQNTLLTPLQ :  352
+        ::|   |:.:..|||| ||.:  |:  ::||:. :|: : ..:| ::   :.:. :::..||
+  707 : QVPQQPQPPPQQPQQQPQQPRAALNISERQQAYFDSSPTHQVTLQDLSSCRGDPMSIVKNLQ :  768
+
+  353 : -LQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTA :  413
+         ||||. | |  ..|..:   .:|.. .  : . .  :|   ::   .:|:::|: .  |. 
+  769 : TLQQQACQLQQSPTAEPQKVVEEGPRIPTSKTGGNSKRRKSSEKNHVPSALNSPDAM--TEY :  828
+
+  414 : TTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTG :  475
+         |.. ||:: :::  :.: :::|   . |  : .|. ||:.  |||.::   : |::.||  
+  829 : FTNRVPPPAHHNANQQAQQNGGG---YFDFERWNLPPPPPKMFSAANTPHHHPHATGPLHHV :  887
+
+  476 : TFLHPNLY----QNNAANSLRNIWNRSVGVPDNYYG-SSGAGSGGTQPGGPGNPQTPGYLTT :  532
+        .  ..:|     :::::.:|. : . ::  |.:. :  |::| ...: |.| . ::.   |:
+  888 : GGQPQSLMVPHPHHHPPPPLPYFPAFPLHHPTHHADFQSSPGQPPVEVGPPVPFDSQQSSTA :  949
+
+  533 : SYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQL :  594
+        :| :.|. ...:    ... :.   | :    ...: : ::.. |. . ::     | . ::
+  950 : PYPQEPPRDDQPKVIVPNIEEELGFLSETGSVPAPAVEQKKPPTLV-PSVASTGFMASYMKF : 1010
+
+  595 : SHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSS :  656
+         : :::  ...|::: .: .  :..:.... |.::: :.  . ::|::|:::|:::.  :::
+ 1011 : LQGERDTSPPPQNRAIKKTAYVRTKTYQPEVPKTQSSSESSVTASITTATTTATTTACVTTT : 1072
+
+  657 : SAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYD :  696
+        |:||:::: |::|::.:. |: :..: :  .|..:. :||
+ 1073 : STVAPSSVSSTPATSNSDKAPCTEPPLPKKAPDPPEKTYD : 1112
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 294 696 . Medex_00040959-RA 706 1112 . 101 M 21 21 G 0 1 M 25 25 G 0 3 M 12 12 G 0 1 M 56 56 G 2 0 M 26 26 G 3 0 M 44 44 G 0 4 M 24 24 G 0 1 M 71 71 G 1 0 M 117 117
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00030771-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 506 -> 698
+  Target range: 493 -> 682
+
+ 507 : GSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQ : 570
+       || .:: .|.:|. ... :::: |:|  |:.   .. . :| . . .    |: |:::|::.::
+ 494 : GSLTGSQPGIHPEVTEGKDAASLLSTVTFEDKRKENFEKGQAELERRRKALLEIQRKEQEERER : 557
+
+ 571 : SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQ : 634
+       .::::|  ::::. :|::  :|:|..| |:|::|:|:: : :    :::.:.:: .: .  |..
+ 558 : KEKEEQEKRERIRLEQERRRQQELEKQLQKQREQEQEREEQR---KRAQEQREAARRYYLLAEP : 618
+
+ 635 : HTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLS : 698
+        |    .:.::|.|::| .::.::.|||:  .|:.:|. .:..:..  : |  .. || | :|:
+ 619 : FTLVCCDGDGTAEAPGVGKAAEPGAAAATPARAGEGAQFEGQEPEPHHRVVPVGELSSFSAELA : 682
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 506 698 . Medex_00030771-RA 493 682 . 111 M 106 106 G 3 0 M 83 83
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00049848-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 491 -> 729
+  Target range: 75 -> 316
+
+ 492 : RNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNP-QTPGYLTTSYFNAPTAATAAASQRGTTING : 554
+       ::::.|  : .:|  . .. ..||. |..|: . . ||.:| . ::....|.|. :. : : |:
+  76 : KQLRRRQDAENNNGGEVEEIEEGGDSPPPPALGFPFPGHVTLEALQNTKVAVAQFAATAMANNA : 139
+
+ 555 : YHSLHQQQQQQQQSQQ-SQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPH : 617
+        ::   |: .  ||   : |:||: :  | :| ||.|:   |.:  .  ..... | :. ... 
+ 140 : DNAAALQELAVLQSTLFTLQHQQVMQLSLIQQLQQQLQITRSKEGSPVSPPPAPTPAAPTPTRS : 203
+
+ 618 : PHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGG : 681
+       | :::.  ..: |  .:|:. . :::::|| .:| :: | ::::.:  |::::||:|:  .: .
+ 204 : PAPQAKVSRPPSPVKTEHSPLPPPPPPPAACQAVPATQSQPMPPQPPHSSPTPAATTTLIVPKP : 267
+
+ 682 : SQSVIQPATSSVSYDLSYMLELGGFQQRKAKK-PRKPK-LEMGVKRRSRE : 729
+       : : :.|:.:   ..:|  |. : : :..:   |..|: ||| ::||::|
+ 268 : PTPPVPPPPPFSMCSISSSLASSIITNSDPPPLPNEPNTLEM-LQRRAQE : 316
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 491 729 . Medex_00049848-RA 75 316 . 106 M 33 33 G 0 1 M 46 46 G 0 1 M 143 143 G 0 1 M 5 5 G 0 1 M 3 3 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 307 -> 639
+  Target range: 114 -> 444
+
+ 308 : QQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGG : 371
+       :.: ::: | :: :::::|| ::  . .: || . |:.:   . : :  :::    ||: ::|:
+ 115 : EPHRHHDSHEHNSHEHHSHNHGS-HEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGS : 177
+
+ 372 : SSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSS : 435
+        ::|:: |  ::. :  : :  |.    |: |:.| :|. : . |  ..:: : .  : :| : 
+ 178 : HGHGSHKHGSHEHGSHKHGSHEHGSHQHGS-HERHSHNHRSHEHGFHHHGSHEHESHQHGSHNH : 240
+
+ 436 : GGQ-PCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRS : 498
+       |:: . ::: .:: ..:.. |  . :: . :: . :  : |:  |.:  :.: .:: :: ::::
+ 241 : GSHEHRSHNHDSHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSHN : 304
+
+ 499 : VGVPD---NYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLH : 559
+        | .:   : |||   || . :: ..|:.| .:.  .|  :...: . :: |:|:  :| |  |
+ 305 : HGSHERGSHEYGSHQHGSHERRSHNHGSHQHGSHEHGS--HQHGSHEHGSHQHGSHEHGSHH-H : 365
+
+ 560 : QQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPH : 623
+       : :::  ::: |::::. .::  .|: ::   :: : :::  :::: ::.:|: :|:| |:  |
+ 366 : ESHERGSHNHGSHEHRPHNNDSHEHRSHNYSSHNHGSHEHGSHNHDSHEHRSHNHGSHEHG-VH : 428
+
+ 624 : SHPHSHPHAGQHTHST : 639
+       :|.: |   . | :.:
+ 429 : NHNRYHEWLESHRNKS : 444
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 307 639 . Medex_00041021-RA 114 444 . 148 M 23 23 G 1 0 M 70 70 G 1 0 M 36 36 G 0 1 M 65 65 G 0 3 M 30 30 G 2 0 M 22 22 G 1 0 M 62 62 G 1 0 M 18 18
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 347 -> 638
+  Target range: 113 -> 394
+
+ 348 : LTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYT : 411
+       |.| : :: ::::   | : .:|: .:|:  |  ::. : .: :  |.    |: ::. |.: :
+ 114 : LEPHRHHDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGS : 177
+
+ 412 : TATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTG : 475
+        : .:  ..|..::: .: . . :: |. ::| .::  .:.. :    :: . .: . :  : |
+ 178 : HGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHERHSHNHRSHEHGFHHHGSHEHESHQHGSHNHG : 241
+
+ 476 : TFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPT : 539
+       :  |.:  ::: .|. :|   :. |  :.   : |: . |::.  .|:.:..:.  .|  :.. 
+ 242 : SHEHRSHNHDSHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQ--HGSHENGSHQHGS--HERR : 301
+
+ 540 : AATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQ : 603
+       : . :: :||:  :.| | ||:  ::::|::   :|: :|:: ||  |:: |:: |||:  :::
+ 302 : SHNHGSHERGS--HEYGS-HQHGSHERRSHNHGSHQHGSHEHGSH--QHGSHEHGSHQHGSHEH : 360
+
+ 604 : QQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHS : 638
+         ::| :|: .|:|.|: .: :||::   .:::|:
+ 361 : GSHHH-ESHERGSHNHGSHEHRPHNNDSHEHRSHN : 394
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 347 638 . Medex_00041021-RA 113 394 . 121 M 171 171 G 2 0 M 13 13 G 2 0 M 15 15 G 2 0 M 5 5 G 1 0 M 26 26 G 2 0 M 22 22 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 338 -> 638
+  Target range: 119 -> 419
+
+ 339 : HIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAI : 402
+       | . |:|:   . : :  :::   |||: .:|: .:|::.|  ::. :  : :  |.  : |: 
+ 120 : HDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGSHGHGS- : 183
+
+ 403 : HNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAA : 466
+       |:.  ::..: . ||  .:: : |  : :| :   :.. ::   : | .  .|   :: . :: 
+ 184 : HKHGSHEHGSHKHGSHEHGSHQHGSHERHSHN---HRSHEHGFHHHGSHEHESHQHGSHNHGSH : 243
+
+ 467 : AAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPG-NPQTPGY : 529
+       .  :| |.:   ::: .  :. .||..  :.  :  :. .  :: .:|: |.|:.. .::..| 
+ 244 : EHRSHNHDSHENRSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSHNHGS : 307
+
+ 530 : LTTSYFNAPTAATAAASQRGTTINGY-HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQ---QQQA : 589
+        . :  : .: . :: .:|: . .:. |: |::  :|: |::   :|: :|:: ||:   ::::
+ 308 : HERGSHEYGSHQHGSHERRSHNHGSHQHGSHEHGSHQHGSHEHGSHQHGSHEHGSHHHESHERG : 371
+
+ 590 : LHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHS : 638
+        |:: ||:::.:::: ::| :|:  ::|.|: .:  :|:|   .:::|:
+ 372 : SHNHGSHEHRPHNNDSHEH-RSHNYSSHNHGSHEHGSHNHDSHEHRSHN : 419
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 338 638 . Medex_00041021-RA 119 419 . 121 M 63 63 G 1 0 M 32 32 G 3 0 M 85 85 G 0 1 M 33 33 G 0 1 M 30 30 G 0 3 M 23 23 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00032116-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 298 -> 686
+  Target range: 121 -> 507
+
+ 299 : VKQSTSPAPQQQLQQQHHLQQQQQQQPHNG-STFAGATALLHIKTEQNTLLTPLQLQQQQQQQQ : 361
+       |:.  : .|||.||.|:.||.||. ||::.  . ..  :  .: .: |.:|:.|: .  ..:: 
+ 122 : VQPQQPLQPQQPLQPQQPLQPQQPLQPQQPLQPQQPLQPQQPLPPQGNPFLSGLKQPCTAANHL : 185
+
+ 362 : GLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADS : 425
+        :. .. .:|   |:: . :.   .  . . :   |  :: ..    :| ....| |..:. . 
+ 186 : CVPKQECRDGLIVGQKKPLHATEGECDAATQICCKLVLSSQPGVVTGQY-EQPGGVFGQPGISY : 248
+
+ 426 : GVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAAN : 489
+       | :::.: ::::|. ::: . : | |  .|:..:..:: : : :::   ..|: ..  |.:.:.
+ 249 : G-PQITALTGSSQTVPGQ-SIQQG-PVFGSGCQSQQPGFSCSLPSQPSQPGFVSGPSGQPQQPG : 309
+
+ 490 : SLRNIWNRSVGVPDNYYGSSG-AGSGGTQPGGPGNPQTPG--YLTTSYFNAPTAATAAASQRGT : 550
+        :..  . :...|:  ||::| :  .|. :|.:|:| |||  | ..:  :.|.  |::|:|  |
+ 310 : VISGP-AGNAPTPGIIYGPNGQPQQPGIISGPAGQPSTPGLVYGPNGQPQQPGIITGPAGQTHT : 372
+
+ 551 : TINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLN : 614
+       .   | :  |.||.   | .| |.|. :  : :  :.|.    ::. .|.|:.     | :| :
+ 373 : PGIIYGPSGQPQQPGIISGPSGQPQAPGIVHSPSGKPQQPGVIFAPGAQAQNPSIVLSPSGQPQ : 436
+
+ 615 : GPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAA : 678
+        |   : | :|:: :|   : . :  ..:::  .:::    ::: :::.::|:::.| .   :|
+ 437 : QPGIIPGPVGHAQ-QPGIIHVPSGQPQQSGSIFQPNIPQQQPGSFGSPQLISGGSDAKQYYKPA : 499
+
+ 679 : AGGSQSVI : 686
+       :|.:   |
+ 500 : PGNNGVPI : 507
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 298 686 . Medex_00032116-RA 121 507 . 103 M 30 30 G 0 1 M 82 82 G 1 0 M 15 15 G 1 0 M 16 16 G 1 0 M 5 5 G 1 0 M 44 44 G 1 0 M 15 15 G 0 1 M 18 18 G 0 2 M 99 99 G 1 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00050770-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 507 -> 711
+  Target range: 170 -> 373
+
+ 508 : SSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQS : 571
+       : .:|:.|: ..|||..:.:.  . :|.  |..:..:|:   .::|  |.   ||  :. | : 
+ 171 : PVPGGNTGAGNPGPGGNHNAEQHPHPYW--PKVSPDTANSLVEAMNQ-HEACLQQGGNPLSSEH : 231
+
+ 572 : QQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQ---QQHPHSQLNGPHPHSHPHSHPHSHPHA : 632
+       : .|.: |: : :::::.::   :.. :: :: .   : :..:::: ..|.::.|:.| :.| :
+ 232 : HLAQAVHHRSMIEHHNRQMNGGTNPAGDNGEEIAVISRGQNPGHMHQQPPPPQQHGPPAPPPTP : 295
+
+ 633 : GQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYD : 696
+       . :.  : ::: | |.::: :|: | :.::: :.:|:::::|:| ::  | : :.||  :::. 
+ 296 : TSQVIVSSSPSIAYADSNLSASTVSLINSPT-IKSSTTPSSTSAFTPIQSMAGLAPAHHPLNHL : 358
+
+ 697 : LSYMLELGGFQQRKA : 711
+         . |.:.. . | |
+ 359 : NHHQLGMTTTATRPA : 373
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 507 711 . Medex_00050770-RA 170 373 . 106 M 28 28 G 2 0 M 17 17 G 1 0 M 50 50 G 0 3 M 58 58 G 1 0 M 47 47
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00073866-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 430 -> 654
+  Target range: 328 -> 554
+
+ 431 : DSSSSGGQPCAD-ELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRN : 493
+       .:::.:  :||. :|:.  |:||   ::::.::.: : :  . ..   ::.. | ::::. : :
+ 329 : AAAPDAISSCAAPDLRQGGGIPPHHYGGPGQPPQGMPYPRFPPYDRMDIRNAAYYQQGGGVMAD : 392
+
+ 494 : IWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQ--TPGYLTTSYFNAPTAATAAASQRGTTINGY : 555
+         . . | |:.  |   ||:|.:||.|. .|   ::  |.:: .::...:.: :| ...  .| 
+ 393 : GGGYRPGSPGGGMGHMVAGGGPAQPNGHQTPVVYASCKLEAAAMSGGGNGGGIGSGSPPLEAGQ : 456
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       .:|  :::: :|::: :.|:::.::| :...|.: :.| :.|:::::|::  ..::  : : :|
+ 457 : PPL-SNHNHSHQNHHHHPQHHMVNHQPPPAPQPPPQAQPPPQHHHNHQNHMMYNQASCEQAAAH : 519
+
+ 620 : SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSS : 654
+        :.  .:| ::.:.|:.. . ||:.:.:|||: |:
+ 520 : HQGVVPAHQQAPPPQQPPQGQAAPQTNPAASLPSP : 554
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 430 654 . Medex_00073866-RA 328 554 . 135 M 12 12 G 0 1 M 83 83 G 0 2 M 33 33 G 1 0 M 95 95
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 558 -> 637
+  Target range: 18 -> 97
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHP : 622
+       |:::::::: ::  ::|| .|.| |:: |:: | :  | |: |::|: ||::   ::.:::  .
+  19 : HHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQ :  82
+
+ 623 : HSHPHSHPHAGQHTH : 637
+       :|:.: |.| ||||:
+  83 : QSQHNQHTHHGQHTQ :  97
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 637 . Medex_00062942-RA 18 97 . 141 M 79 79
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 141
+   Query range: 554 -> 639
+  Target range: 17 -> 102
+
+ 555 : YHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHP : 618
+       .|  |::::::::  ::||:|: .| | |:: |:: :|:  | |::|: |: |:::   |:.|:
+  18 : HHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHS :  81
+
+ 619 : HSHPHSHPHSHPHAGQHTHST : 639
+       :  .|::.  |.: .||.:|:
+  82 : QQSQHNQHTHHGQHTQHNQSS : 102
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 554 639 . Medex_00062942-RA 17 102 . 141 M 85 85
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 556 -> 639
+  Target range: 14 -> 96
+
+ 557 : SLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHS : 620
+       .||::::::::.:: :: :: .:|: ::: |:: | | :|:|: |: |::||::   ::.|:::
+  15 : ELHHHHRHHHHRHHHRHYHNQQNQH-AQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQN :  77
+
+ 621 : HPHSHPHSHPHAGQHTHST : 639
+        .||:.  |.: .:|.: |
+  78 : SQHSQQSQHNQHTHHGQHT :  96
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 556 639 . Medex_00062942-RA 14 96 . 138 M 25 25 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 554 -> 739
+  Target range: 26 -> 211
+
+ 555 : YHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHP : 618
+       .|  | ::||:|::|:||: |: .| :  | |: . :|:  | || |: |: ||::   :..|.
+  27 : HHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQHNQHT :  90
+
+ 619 : HSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGS : 682
+       |  .|::.:  :| :|:.: : :.     . .:: .:. | ::| : . .:..:..: :::   
+  91 : HHGQHTQHNQSSHHSQQNQHSQTNHRKLRNYKLLVDPCIAKGSAKVYRYDGVNTNDPLSPSVQV : 154
+
+ 683 : QSVIQPATSSVSYDLSYM-LELGGFQQRKAKKPRKPKLEMGVKRRSREGSTTYLWEFL : 739
+       :.  ::. :.:   |. : : :. |:  ..  .::| :|:.: . : : .:::| :.:
+ 155 : RDP-RSQMTRIWTRLEPLDIPVPKFKIDDNYVGQRPPVEVTICNLNDNIDAAFLSDMV : 211
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 554 739 . Medex_00062942-RA 26 211 . 138 M 131 131 G 1 0 M 14 14 G 0 1 M 39 39
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 555 -> 637
+  Target range: 21 -> 103
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       |  |:::::: ::||:|:.|: .| | ::: ::.  |:  |:|: |: || ||:::  ::.:::
+  22 : HHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQ :  85
+
+ 620 : SHPHSHPHSHPHAGQHTH : 637
+        :.|:|.  |.: .| :|
+  86 : HNQHTHHGQHTQHNQSSH : 103
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 637 . Medex_00062942-RA 21 103 . 137 M 82 82
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 136
+   Query range: 552 -> 637
+  Target range: 21 -> 106
+
+ 553 : NGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGP : 616
+       : .|. |::: ::||:|::|: |: .| | :|:|: .  |:  | |: || |: |:::   ::.
+  22 : HHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQ :  85
+
+ 617 : HPHSHPHSHPHSHPHAGQHTH : 637
+       |.:  .|::.  |.::::|::
+  86 : HNQHTHHGQHTQHNQSSHHSQ : 106
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 552 637 . Medex_00062942-RA 21 106 . 136 M 85 85
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 555 -> 638
+  Target range: 30 -> 113
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       |  :||:|:.|:||:||: |:  :|:  | |::.  |:  : |: |: |: |::: : :..|.:
+  31 : HYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQHNQHTHHGQ :  94
+
+ 620 : SHPHSHPHSHPHAGQHTHS : 638
+         .|:::  |::..||:::
+  95 : HTQHNQSSHHSQQNQHSQT : 113
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 638 . Medex_00062942-RA 30 113 . 135 M 83 83
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 554 -> 640
+  Target range: 31 -> 118
+
+ 555 : YHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALH-QQLSHQQQQQQQQQQQHPHSQLNGPH : 617
+       ||: ::|:.|: |  |  |: : .| | |:::|:: | ||  | |: |: || ||.:   :|.|
+  32 : YHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQHNQHTHHGQH :  95
+
+ 618 : PHSHPHSHPHSHPHAGQHTHSTI : 640
+       .: :. ||.  :.: :| .|..:
+  96 : TQHNQSSHHSQQNQHSQTNHRKL : 118
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 554 640 . Medex_00062942-RA 31 118 . 132 M 37 37 G 0 1 M 49 49
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 555 -> 635
+  Target range: 38 -> 116
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       |: | |: |: |  ::|: |: .|:| |:: ||: | |  : |: || |::||.|   :..|.:
+  39 : HAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQ--NSQHSQQSQHNQHTHHGQHTQHNQ : 100
+
+ 620 : SHPHSHPHSHPHAGQH : 635
+       | .||:.: |:::.::
+ 101 : SSHHSQQNQHSQTNHR : 116
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 635 . Medex_00062942-RA 38 116 . 128 M 38 38 G 2 0 M 40 40
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 555 -> 651
+  Target range: 41 -> 136
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       || | |: |: ::|:||: |: .| | |:| |:: : | |:| |::|: :: : |:| | : .|
+  42 : HSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQQSQHNQHTHHGQ-HTQHNQSSHH : 104
+
+ 620 : SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASV : 651
+       |:.: |::::.:  :: .  :.:  | ::|.|
+ 105 : SQQNQHSQTNHRKLRNYKLLVDPCIAKGSAKV : 136
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 651 . Medex_00062942-RA 41 136 . 126 M 53 53 G 1 0 M 42 42
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 548 -> 637
+  Target range: 2 -> 91
+
+ 549 : GTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQ : 612
+       |.  :|  | :.: ::::: :: :::::  |:| :::.|:: | | ::: ::|: |: ||.:  
+   3 : GVMEQGPSSSRAELHHHHRHHHHRHHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHS :  66
+
+ 613 : LNGPHPHSHPHSHPHSHPHAGQHTH : 637
+        ::.:::  .:|:.  ::: .||||
+  67 : QHSQQSQHSQNSQHSQQSQHNQHTH :  91
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 548 637 . Medex_00062942-RA 2 91 . 124 M 89 89
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00062942-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 552 -> 638
+  Target range: 26 -> 111
+
+ 553 : NGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGP : 616
+       : .:  |:||:|:.|  |  |: | :|:| |:: |:. | | |:| |: |: |: : :|| | .
+  27 : HHHRHYHNQQNQHAQHSQHSQHTQHTHNQHSQHSQHNQHSQHSQQSQHSQNSQHSQ-QSQHNQH :  89
+
+ 617 : HPHSHPHSHPHSHPHAGQHTHS : 638
+        .|::.  |.:| .|: |: ||
+  90 : THHGQHTQHNQSSHHSQQNQHS : 111
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 552 638 . Medex_00062942-RA 26 111 . 123 M 56 56 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 19 -> 698
+  Target range: 243 -> 922
+
+  20 : GGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVV :  83
+       :.::|.:  : |:.::|..||  |: :: : .:.. :.:|:  :.: ::::::.. :| . : .
+ 244 : SPVELPSGPSIDTISEGITNL--SVGTSYSFTKGAVNASGQSGSDIPATSSNIAPIPAATDDPT : 305
+
+  84 : VEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAV-VAN : 146
+         :  ::.::.:  .| :. |: :.:   | :: .  |...::.||: :.::||:|:|:  |:.
+ 306 : QLATGSAAAPAQSVSSDGTVNIPVAT-SQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPA : 368
+
+ 147 : DDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNN : 210
+       :.  :...|.  : :  .:.. ::|.|  :.:| :::| | ::|..:| |.:|:.  .. :..:
+ 369 : QSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQ : 432
+
+ 211 : NNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLV : 274
+       :..:::...::: :::| :. . ::: : ::: |. :. .  :. | |.::  |.:::. |   
+ 433 : SATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQS : 496
+
+ 275 : EKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAP-QQQLQQQHHLQQQQQQQPHNGSTFAGATAL : 337
+       ..  :   . . . | :::. ::. ::|.|.::  .  |.  ::....: .| .:|: ..| : 
+ 497 : GTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSG : 560
+
+ 338 : LHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGN--GGSSNGNNAHQQQQPLAIPQRPLLHNLLSG : 399
+           :....::::  :.: . .   : .:.::  ::| :|:||....:: ::|..: :..  :.
+ 561 : TGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGT : 624
+
+ 400 : GAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAA : 463
+       |:  .| :. ::.: .:::| :.::.::|: .|  ::||| ::   |  : | ::|:..:|.:|
+ 625 : GSAAAPAQSVFSDG-IANIPVATSQDSLSQ-SSVVASGQPGSNIPAAADSAPVPASSDVPAQSA : 686
+
+ 464 : AAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTP : 527
+       :::|||:   .::   :|:  ..:.:| .:    : | |::  ::::.::: ..|:: ... :.
+ 687 : TGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSAT : 750
+
+ 528 : GYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALH : 591
+       |  :::  :.::.:.|.::   :. .| ::  ..: .. .:  . ..|  :: . :..|  : :
+ 751 : GSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSD : 814
+
+ 592 : QQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSS : 655
+          : . .  |:   | :  . . | :: .: ::: : | ::: .  |::::|||:|.|| |.:
+ 815 : GIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDG : 878
+
+ 656 : SSAVA-AAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLS : 698
+        :.:: |:: :|:|.::..:|:.:::.:.:. ::|. :.| |::
+ 879 : IANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVP : 922
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 19 698 . Medex_00072710-RA 243 922 . 147 M 21 21 G 2 0 M 67 67 G 1 0 M 33 33 G 0 1 M 164 164 G 0 1 M 62 62 G 0 2 M 44 44 G 1 0 M 15 15 G 1 0 M 230 230 G 0 1 M 38 38
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 140
+   Query range: 28 -> 694
+  Target range: 275 -> 931
+
+  29 : ADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDS :  92
+       | ::::::..::.::  : :. ..: :. .    ||..::::.:::.:: |:.|.... ..::|
+ 276 : AVNASGQSGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQS : 339
+
+  93 : SDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQ : 156
+       |.      :::  . ::: :  |: :| .::...:... ::.  :..:|.: ....  : .:: 
+ 340 : SAVAAGQSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSS : 403
+
+ 157 : LSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNS : 220
+       : | |  :| .:: |||:...:. .: | ::::|||:: .:.::.  :::  ..:::|.::.. 
+ 404 : VVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAV : 467
+
+ 221 : NGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNI : 284
+         :|:.|:...:|:.::.|::....    |  |.:: |. :: |:|.: ..: |..  ..  : 
+ 468 : VVSGQPGSNTPAAADSAPVPASSDVP---AQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQS : 528
+
+ 285 : EKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLL : 348
+       .   .  ::::|| . :|:: ::  ::..|       ...| |  : .| :.:   .:: :.  
+ 529 : SVVASGQPGSNIPAAADSAPVPASSNVPAQS--GTGSAAAPANIVSSDGIANIPVATSQVSPSQ : 590
+
+ 349 : TPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTT : 412
+       :::  . |   :..  :.::. .:|:: .|:    : | |.:::: : ::. :: .:::.   :
+ 591 : SSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQS : 654
+
+ 413 : ATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGT : 476
+       :..:| .|::. ::.:| .: :::::  |:. .:. : |:.: :|.|:|. :.|::..    ::
+ 655 : SVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSS : 718
+
+ 477 : FLHPNLYQNNAANSLRNIW-NRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPT : 539
+        : :.   :|.:.:  :   . : :||.:  :::|::::.:|: :::. ..|: :.::  .:.|
+ 719 : VVASGQPGSNVSAAADSASVPAPSDVPAQ--SATGSAAAPAQSVSSDGIANPAVVVSGQPGSNT : 780
+
+ 540 : AATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQ : 603
+       :|:|.::. .:: :   : :   : ...:.||   : :|: .::  |: : :  :    |.  :
+ 781 : PAAADSAPVPASSDV--PAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSN : 842
+
+ 604 : QQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSA : 667
+        ...   :.:  | | . |     : : |..:: |: : |. :.|:| ||:| |:|.:|:  ::
+ 843 : IPAAADSAPV--PAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGS : 904
+
+ 668 : SAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       :|::||.:|:.:::|:   |::|.|.:
+ 905 : NAPTAADSAPVPASSDVPAQSGTRSAA : 931
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 28 694 . Medex_00072710-RA 275 931 . 140 M 218 218 G 3 0 M 66 66 G 2 0 M 178 178 G 0 1 M 9 9 G 2 0 M 48 48 G 2 0 M 57 57 G 2 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 21 -> 694
+  Target range: 306 -> 977
+
+  22 : LDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVE :  85
+       |. |:  | . :.::...:| ::.:: ::.:.  :|::.  |:  :|:|.:...:|.: :| .:
+ 307 : LATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASS-DVPAQ : 369
+
+  86 : PLCGGDSSDELFRSFSESNFEIESLLSDLATVEVK-VENEENNNNVITDDDFASVAAAVVANDD : 148
+       :  |:.:: .   | |::. :|    |: :. : . |.:.:..:|| :..| |||:|:  ...:
+ 370 : SGTGSAAAPAQSVS-SDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQ : 432
+
+ 149 : LLAKENAQLSAQGLVDSVA-ASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNN : 211
+         : ..|. :.    |::| .:||.| |:.:|.|::. | ::|.::| |.:|:.  :. :..::
+ 433 : SATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQS : 496
+
+ 212 : NNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVE : 275
+       ...::...::: :::| :. ..::: : :::.:.  . .  :. | |.::  |.:::. |   .
+ 497 : GTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSG : 560
+
+ 276 : K---LMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATA : 336
+       .     :  :  .. :.::: :. .:    :| .:. |   : . ..: .. | ::.. | :.:
+ 561 : TGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGT : 624
+
+ 337 : LLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGG : 400
+            ..|:.: ..:.  . .  |::|  ::  ::: .|:| ....:: ::|..: :..  :.|
+ 625 : GSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATG : 688
+
+ 401 : AIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPC-ADELKARLGMPPATSASAAAAAA : 463
+       :  .| : : ::.:|:::| :.::.: |: .  :|| ... ...  .. ::|:::..:|.:|::
+ 689 : SAAAPAQ-SVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATG : 751
+
+ 464 : AAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTP : 527
+       :|||:|. : ::.: :|.:  :..:.|  .  . |..||.:  :. .| ||.  :::|::: ::
+ 752 : SAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPAS--SDVPAQSGTRSAAAPAQSVSS : 813
+
+ 528 : GYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALH : 591
+       : ::.   .:: .:::.:|  ::. .|  ::....: .. :..|: ..| .    : ..| .  
+ 814 : DGIANIPVATSQDSSSQSSVVASGQPG-SNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSS : 876
+
+ 592 : QQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSS : 655
+       : ::: . .  |  . :: | :::::: |::.: ::| | ... :: . .::: :|||:. | |
+ 877 : DGIANIPVATSQVSPSQS-SVVSASQSGSNAPTAADSAP-VPASSDVPAQSGTRSAAAPAQSVS : 938
+
+ 656 : SSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+       |.::|  :: :: .:::.::..|:| : | |.:|:.|.:
+ 939 : SDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAP : 977
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 21 694 . Medex_00072710-RA 306 977 . 137 M 58 58 G 1 0 M 19 19 G 1 0 M 20 20 G 0 1 M 47 47 G 0 1 M 109 109 G 0 3 M 131 131 G 1 0 M 32 32 G 0 1 M 64 64 G 2 0 M 48 48 G 1 0 M 54 54 G 1 0 M 20 20 G 1 0 M 63 63
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 28 -> 694
+  Target range: 416 -> 1079
+
+   29 : ADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGG :   90
+        |.||:: .: :  |:  ::|::..|.|||::: :::|  |.:: :::|...| |  :| ...
+  417 : AADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQ-DSPAQPAVVVSGQPGSNT :  477
+
+   91 : DSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAK :  152
+         ::.:  .  :.|:   :|  .. |: . .|.::. .|  ::..: :: .::|||:::  ::
+  478 : PAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSN :  539
+
+  153 : ENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNS :  214
+         .|. .:..: .| ..: ..:.::::..| :. :.: :. :. ::..::  :.:::.:::.|
+  540 : IPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGS :  601
+
+  215 : NSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEK :  276
+        |:...:::.. .:::: .| ||.| |:. | .:  . ::. |:|...  :  :.:: :  .:
+  602 : NAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSL--SQSSVVASGQ :  661
+
+  277 : LMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALL :  338
+          |:  . ...    :.:::|  ..:.|:|:..|    :  .: . . :::::: ::..|  
+  662 : PGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASG :  723
+
+  339 : HIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGG :  400
+        :  :: ::  .:  :... : ..   .:::.:.: : ::.  .:.::.:: :|  :.  :::
+  724 : QPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAAD :  785
+
+  401 : AIHNPHHRNYTTATTGSFPPSPADS----GVSDVDSSSSGGQPCADELKARLGMPPATSASA :  458
+        : . |  .: .:.:... :::||:|    |::::  ::| : :....: |. | |.:. ::|
+  786 : SAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVAS-GQPGSNIPAA :  846
+
+  459 : AAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGV-PDNYYGSSGAGSGGTQPG :  519
+        |.:|:.:|::... :| |   :.  |: ::::: ||   :  | |.:    |:: ||:..|.
+  847 : ADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPT :  908
+
+  520 : GPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQ :  581
+        :::::..|:  ::.  ..:.: :|||:.::.: :|  .:. .  |: .|| |  .   :  :
+  909 : AADSAPVPA--SSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSN :  968
+
+  582 : LSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAA :  643
+        :: ..: |   . |: ..| .   .. |   ::.    : | : ::. |  :|.:  . :.:
+  969 : IPAAADSAPVLASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSP--AQPAVVVSGQP : 1028
+
+  644 : AAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS :  694
+        ::.::|:. |:: :| :..:  |::::|||.|. .:::: : |. ||| ||
+ 1029 : GSNTPAAADSAPVPAPSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVS : 1079
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 28 694 . Medex_00072710-RA 416 1079 . 137 M 43 43 G 1 0 M 192 192 G 2 0 M 159 159 G 0 4 M 22 22 G 1 0 M 53 53 G 0 1 M 27 27 G 2 0 M 100 100 G 2 0 M 62 62
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 41 -> 692
+  Target range: 366 -> 1016
+
+   42 : PSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSES :  103
+        |:  ::|::..|.|||:::  :::  |.::  :::..:| .  :| ..  ::.:  .  : |
+  367 : PAQSGTGSAAAPAQSVSSDATANIPVATSQY-SPSQSSVVASGQPGSNVPAAADSASVPAPS :  427
+
+  104 : NFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDS :  165
+        :   :|  :. |: . .|.::. .|  ::..: ::..:|||.:::  ::..|. .:..: .|
+  428 : DVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAS :  489
+
+  166 : VAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALC-GDLINNNNNNSNSNNNSNGNGNH :  226
+         ..: |:||. ::..:  : :|.: |. ::|::..: . :.::.:.:..|| ...:::.. .
+  490 : SDVP-AQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVP :  550
+
+  227 : GGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRM :  288
+        :::. .| ||.| |:. |. :. . ::. |:|...  |:::.:: : ..:  |:  . ... 
+  551 : ASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQ--VSPSQSSVVSASQSGSNAPAAADSA :  610
+
+  289 : DKLSDTEIPIVK-QSTSPAPQQQL--QQQHHLQQQQQQQP-HNGSTFAGATALLHIKTEQNT :  346
+           :.:::|  .  ::::||.| :  :   ::. .  |::  ::|. |:: :  :| :..::
+  611 : PVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADS :  672
+
+  347 : LLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIP-QRPLLHNLLSGGAIHNPHH :  407
+          .|   : ..| . |  :|:::: ||::... . . : . | |.::: :  :|:.: .: :
+  673 : APVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAAD :  734
+
+  408 : RNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAA :  469
+        .. ..|.::  :.|:::|:.: .:| ||:| : :. : :  | |.:.:::||.:|:.:|::.
+  735 : SASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVS--GQPGSNTPAAADSAPVPASSD :  794
+
+  470 : AHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLT :  531
+        .. ::||   :.  |: ::::: ||  . .. .|:   || .:|| . :. |:.::::.  :
+  795 : VPAQSGTRSAAAPAQSVSSDGIANI--PVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPA :  854
+
+  532 : TSYFNAPT-AATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQ :  592
+        .|  .|.| :::|||:.::.: :|  ::. .  |  .|| |   .  :  : : ..: |  .
+  855 : PSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVP :  916
+
+  593 : QLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSS :  654
+        . |: ..|   : .. |   :::    . | : ::. | .:  . |. :::. :|||. .: 
+  917 : ASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPV :  978
+
+  655 : SSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSS :  692
+         :|: .:|.  ::||||:| :.::.| ::  :..: .|
+  979 : LASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDS : 1016
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 41 692 . Medex_00072710-RA 366 1016 . 131 M 31 31 G 1 0 M 96 96 G 1 0 M 33 33 G 0 1 M 58 58 G 2 0 M 37 37 G 0 1 M 11 11 G 0 2 M 14 14 G 0 1 M 63 63 G 0 1 M 58 58 G 2 0 M 46 46 G 2 0 M 43 43 G 0 1 M 153 153
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 31 -> 691
+  Target range: 342 -> 999
+
+  32 : STANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDE :  95
+       :::::.:|:.::   |. |.::: :. :.. ||..::::.:::.|: |:.|.... ..::||  
+ 343 : AAGQSGNNIPAANGFAPVPASSDVPAQSGT-GSAAAPAQSVSSDATANIPVATSQYSPSQSS-- : 404
+
+  96 : LFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSA : 159
+          : :::. :: :  :| |:| .  :  .::..  :..  .||::. :||  | :.:::.  :
+ 405 : -VVASGQPGSNVPA-AADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQP : 465
+
+ 160 : QGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGN : 223
+       . :|.: ::| : ::..::. :  :  :: |::.: ||:|.::.:| |.| . .:: ::.|:::
+ 466 : AVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSS : 529
+
+ 224 : GNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEP-RFVTSAAANPLLVEKLMSKCLNIEK : 286
+          :| .|:. :::: ::  ::. : :  :| . |..| .:|:|.: ..: |..   .  : . 
+ 530 : VVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSV : 593
+
+ 287 : RMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTL-LT : 349
+         .. |::: | . :|:: ::  ::..|        ..:.. |.|:::.| :.: |.|::|  :
+ 594 : VSASQSGSNAPAAADSAPVPASSDVPAQ---SGTGSAAAPAQSVFSDGIANIPVATSQDSLSQS : 654
+
+ 350 : PLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTA : 413
+       ::    |.  : .  :.::. .:|:: .|: .  : | |.:::  :  :. :: .:::..  ::
+ 655 : SVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSS : 718
+
+ 414 : TTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTF : 477
+       ..:| .|::. |:.:| .| ::.::  |:. .:. : :|| |.|:.: |.:|...:::  :.| 
+ 719 : VVASGQPGSNVSAAADSASVPAPSDVPAQSATGS-AAAPAQSVSSDGIANPAVVVSGQPGSNTP : 781
+
+ 478 : LHPNLYQNNAANSLRNIW-NRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTA : 540
+         ::  . .|::.:..   .||.:.|.:  :|.| :: ....:  :::|::   :.   :. .|
+ 782 : AAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPA : 845
+
+ 541 : ATAAASQRGTTINGYHSLHQQQQQQQQSQQSQ--QQQQLAHQQLSHQQQQALHQQLSHQQQQQQ : 602
+       |:.:|: .:.:  . :::   .....||  |:  .: .:|  |:|. |  .: .  |  :.. .
+ 846 : AADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTA : 909
+
+ 603 : QQQQQHPHSQLNGPHPHSHPHSHP-HSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAML : 665
+       .: .. | |   .::: ::: : | :| : .|  . :. ::..:::.:|||:|:.:: . :|  
+ 910 : ADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAA : 973
+
+ 666 : SASAAAAATAAAAAGGSQSVIQPATS : 691
+       .:::. |::..:|.::: |. .|| |
+ 974 : DSAPVLASSDVPAQSATGSAAAPAQS : 999
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 31 691 . Medex_00072710-RA 342 999 . 128 M 30 30 G 1 0 M 31 31 G 3 0 M 13 13 G 1 0 M 151 151 G 0 1 M 53 53 G 3 0 M 30 30 G 0 1 M 100 100 G 1 0 M 47 47 G 0 1 M 77 77 G 0 2 M 54 54 G 0 1 M 65 65
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 40 -> 686
+  Target range: 302 -> 942
+
+  41 : NPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSF-SES : 103
+       :|:  ::|::..|.|||:::  |:|: : .. ::::::: .|....  .. ::.: | :  :.|
+ 303 : DPTQLATGSAAAPAQSVSSD--GTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASS : 364
+
+ 104 : NFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVA : 167
+       :   :|  :. |: . .|.::...|  ::..:::: .::|||:::  :: .|. .:.:: .: .
+ 365 : DVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSD : 428
+
+ 168 : ASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGG : 231
+       .: ..:.::::..|  . :.: :..:  ::..::  ..:: :.:..||:...:::.. .:::: 
+ 429 : VPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDV : 492
+
+ 232 : GASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTE : 295
+       .| ||.  |:. | .:. . ::. |:|...   :::.:: :  .:  |:  . ...    :.::
+ 493 : PAQSGTRSAAAPAQSVSSDGIANIPVATSQD--SPSQSSVVASGQPGSNIPAAADSAPVPASSN : 554
+
+ 296 : IPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQ : 359
+       :|  . :.|:|:..::   : :.: . . :: ::: ::..:  :  ::..:  .: .:..  : 
+ 555 : VPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDV : 618
+
+ 360 : QQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPA : 423
+       ..   .:::.:.: :  :.  .: |:|.:| :| :: : ::: ..:: .  ::|.::: |:|:.
+ 619 : PAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIP--AAADSAPVPASSD : 680
+
+ 424 : DSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNA : 487
+        :: |..:|:::.:|: :.: .|.:.::.: .:::.::..|::.::::: :::  ::.  ...:
+ 681 : VPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAA--DSASVPAPS : 742
+
+ 488 : ANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTT : 551
+       . : ::  . |.:.|.:  :|.| ::.:.  :|...::||:  .::  .|::...|.:: |:::
+ 743 : DVPAQSA-TGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAA : 805
+
+ 552 : INGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNG : 615
+        .: :|:  :  .: . . ||:    :    | |.  .:... . .. ... : ..:. :  .:
+ 806 : APA-QSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAA : 868
+
+ 616 : PHPHSHPHSHPHSHPHAGQH---THSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAA : 676
+       :.::| : .   : | |. :   ::|::.:|:.:::.: .::.|::|:|:: ::| ::: ::||
+ 869 : APAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAA : 932
+
+ 677 : AAAGGSQSVI : 686
+       :|.: | . |
+ 933 : PAQSVSSDGI : 942
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 40 686 . Medex_00072710-RA 302 942 . 127 M 20 20 G 2 0 M 38 38 G 0 1 M 162 162 G 2 0 M 144 144 G 2 0 M 66 66 G 2 0 M 16 16 G 1 0 M 59 59 G 1 0 M 80 80 G 0 3 M 51 51
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 41 -> 689
+  Target range: 414 -> 1060
+
+   42 : PSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSDELFRSFSES :  103
+        |: ..::: ..| :  : .  ||..::::.:::.:  ||.:.... ..::::  :    :.:
+  415 : PAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSN :  476
+
+  104 : NFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDS :  165
+        . . ..  :  |: :| .::...:... ::.  :.  |.: ....  : .:: : | |  :|
+  477 : TPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGS :  538
+
+  166 : VAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHG :  227
+          :: |||: ..:  .: | ::::|||:: . .::.  :::  ..:: |.|:::  :.:: |
+  539 : NIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSG :  600
+
+  228 : GGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMD :  289
+        :.:.:|:.::.|::....  : :  |:.: :.:: | .: |. |: ..:   ..|: .. :.
+  601 : SNAPAAADSAPVPASSDVPAQSG-TGSAAAPAQSVFSDGIANIPVATSQ---DSLSQSSVVA :  658
+
+  290 : K-LSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTP :  350
+        .  ::::|| . :|:: ::  ::..|   .   ...| :: : .:::.:   .::::.  ::
+  659 : SGQPGSNIPAAADSAPVPASSDVPAQS--ATGSAAAPAQSVSSDATANIPVATSQDSPSQSS :  718
+
+  351 : LQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTT :  412
+        :    |.  : :  :.::: .:::: .|: .  : | |.:::  : ::..|:  : :.. .|
+  719 : VVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNT :  780
+
+  413 : ATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLG-MPPATSASAAAAAAAAAAAAAHLH :  473
+        ::::. :| ||.|:|:. .::.|::.| ..  .. :: :| |||..:::.::..|::.:  :
+  781 : PAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSN :  842
+
+  474 : TGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYF :  535
+        ..:  ::.  ...:. : :.: ..:.: :::  :.: |. . : :  :.:. :    : |  
+  843 : IPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGS :  904
+
+  536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQ-SQQSQQQQQLAHQQLSHQQQQAL-HQQLS :  595
+        ||||||.:|: . ::.:.:  : : .....|  | :: .: .:|  | |. |  .:   : :
+  905 : NAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPG :  966
+
+  596 : HQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSS :  657
+         : ....: ..  : |::.:. : : : :.::| :..|  . :. ::..::|.::|| |: :
+  967 : SNIPAAADSAPVLASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQP : 1028
+
+  658 : AVAAAAMLSASAAAAATAAAAAGGSQSVIQPA :  689
+        : .::|  .:::.:|::..:|.:|: |. .||
+ 1029 : GSNTPAAADSAPVPAPSNVPAQSGTGSAAAPA : 1060
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 41 689 . Medex_00072710-RA 414 1060 . 122 M 209 209 G 1 0 M 25 25 G 3 0 M 11 11 G 0 1 M 25 25 G 2 0 M 132 132 G 0 1 M 118 118 G 0 1 M 23 23 G 0 1 M 99 99
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 32 -> 683
+  Target range: 455 -> 1094
+
+   33 : TANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSD :   94
+        ::: ... :|::  :|:|.:. .:.::.  ::| ::::  . :::|:... .:::.::: ::
+  456 : ATSQDSPAQPAVVVSGQPGSNTPAAADS--APVPASSDVPAQSGTRSAAAPAQSVSSDGIAN :  515
+
+   95 : ELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKEN-A :  155
+            :  :|. : . : |: :. :: ...:... .. ::   .| :::..|..::::.:. |
+  516 : IPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIA :  577
+
+  156 : QLS-AQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNS :  216
+        ::: | : |.: .:|:..::::|::.:  | ::: :|:|.::|.::: .:.  .::  :.. 
+  578 : NIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGI :  639
+
+  217 : NNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLM :  278
+        .| : :.:::: : ::. ::|  ::: ::  : | :.: : . ... ..||||.:  |..  
+  640 : ANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDA :  701
+
+  279 : SKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHI :  340
+        :  :.:... |. |::.:    |:.|..:...  .  . . : ..|: .||: |.| ::   
+  702 : TANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSV--- :  761
+
+  341 : KTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAI :  402
+         :.:..  .:: :  |.  : .  :.::. .:|:: .|:   :: | |.:::  : ::. ::
+  762 : -SSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPV :  821
+
+  403 : HNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAA :  464
+         .:::.:  ::..:| .|::. ::.:| .: ::.::  |:.:.:. : |:.: :|.: |. :
+  822 : ATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIP :  883
+
+  465 : AAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQT :  526
+        .|::..    :: : ::   :||:.:     . |..||.:  :. .| ||.  :::|::: :
+  884 : VATSQVSPSQSSVVSASQSGSNAPTA-----ADSAPVPAS--SDVPAQSGTRSAAAPAQSVS :  938
+
+  527 : PGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQ :  588
+        :: ::.   .:: .:.:.:|  ::. .|  ::....: ..  . |: ..| |    : ..| 
+  939 : SDGIAKIPVATSQDSPSQSSVVASGRPG-SNIPAAADSAPVLASSDVPAQSATGSAAAPAQS :  999
+
+  589 : ALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAAS :  650
+        . .: ::: . .  |: ..:|   ::|... : | :   :. .|. :..:  ::::|||:|:
+ 1000 : VSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNVPAQSGTGSAAAPAN : 1061
+
+  651 : VVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQ :  683
+        :|||.: |  :.|   .|::.::..:|:. ||:
+ 1062 : IVSSDGIANIPVATSQVSPSQSSVVSASQLGSN : 1094
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 32 683 . Medex_00072710-RA 455 1094 . 121 M 28 28 G 2 0 M 92 92 G 0 1 M 4 4 G 0 1 M 179 179 G 4 0 M 149 149 G 5 0 M 9 9 G 2 0 M 48 48 G 1 0 M 128 128
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 11 -> 685
+  Target range: 479 -> 1157
+
+   12 : PDNDGRLVGGLDLGTCIADDSTANGTENLNP-SIQSAGNPNNPQQSVGGEILGSVESAGNEL :   72
+        :.:.:.: :: |:.:  :. |:|..:::::: :|.: . :.:.: :  :.:::| ::::|  
+  480 : AADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIP :  541
+
+   73 : NGAAARNVNVVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDD :  134
+        .:|.: .|..  :    ::::..  .:   |: .|.::  . : |. . .:  :.::  ::.
+  542 : AAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNA :  603
+
+  135 : DFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIA :  196
+          |: :|:| |:.|: |:..:  :|..  .  :.::|: . |.:|::| . :  :|:.:: .
+  604 : PAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSN :  665
+
+  197 : AAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLA :  258
+         :||| .: : .::: .::|...|.:...:: ::::::: . .::: :.. . .: :||| :
+  666 : IPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGS :  727
+
+  259 : EEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEI--PIVKQSTSPAPQQQLQQQHHLQ :  318
+        : :  ..||:..:       |   : . . :.:|...|  | |  |. |::: . ..:    
+  728 : NVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPV :  789
+
+  319 : QQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQ :  380
+        ..  : | :::| ::|::   :.::  : :.    |:   |   : ::...:. :.:.:: .
+  790 : PASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAP :  851
+
+  381 : QQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCAD :  442
+         ..| .:|.:.:  :  :.:.  :::  . ...:|:  :||.:.   :. .:|::...: :.
+  852 : VPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSA :  913
+
+  443 : ELKARLGMPPATSASAAAAAAAAAAAAAHLHTG-TFLHPNLYQNNAANSLRNIWNRSVGVPD :  503
+         : |. ::|:.:::.:|||:|.:.::.:  ... :  : :  |::...| |.  | :.:. .
+  914 : PVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADS :  975
+
+  504 : NYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQ :  565
+        .   :|:. :: :..|:::.|. :   ..    : ::: .:::|.:..::| .: : ....:
+  976 : APVLASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAAD : 1037
+
+  566 : QQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPH :  627
+         .: .:. : . .    | .....:    : .: . .  |  .::| : :: . : . :..:
+ 1038 : SAPVPAPSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQLGSNIPYTN : 1099
+
+  628 : SHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSV :  685
+        |:  :|  : .: :. .| : .|| |:  |.:: :|::::||.:||:|:.. |:|::|
+ 1100 : SDVSPGSAASDSSGQWVALPINSVPSGVLSNIPLGALFNSSAQSAAAASVQFGSSKPV : 1157
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 11 685 . Medex_00072710-RA 479 1157 . 121 M 31 31 G 0 1 M 254 254 G 0 2 M 179 179 G 0 1 M 210 210
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 31 -> 705
+  Target range: 531 -> 1203
+
+   32 : STANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSS :   93
+        ::::...|:.:: :||. |.::: :. :.. ||..:::| :::.:  |:.|....:..::||
+  532 : ASGQPGSNIPAAADSAPVPASSNVPAQSGT-GSAAAPANIVSSDGIANIPVATSQVSPSQSS :  592
+
+   94 : DELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENA :  155
+            .  :.:. . ..  :  |: :| .::...:... ::. |:.  |.: ....  : .::
+  593 : VVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQS :  654
+
+  156 : QLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSN :  217
+         : | |  :|  :: |||: ..:  .: | ::::|||:: .:.::.  :::  ..:::|.|:
+  655 : SVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQ :  716
+
+  218 : NNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMS :  279
+        ::  ::|:.|:. ::|:.:::|:: ...  : |  ::.: |:. .  . |.:. :: .:  |
+  717 : SSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGS :  778
+
+  280 : KCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIK :  341
+        :  . ...    :.:::|  . : |:|:..|    : :.: . . ::::|: ::..|  :  
+  779 : NTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPG :  840
+
+  342 : TEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIH :  403
+        :: .:  .: .:... : ..   .:::.:.: : ::.  .: |:|.:| :  :: : :::  
+  841 : SNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQS :  902
+
+  404 : NPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAA :  465
+        .:: .  |:|.::: |:|:. :: |:. |:::.:|: :.:  |::.::.: .:::.::..|:
+  903 : GSNAP--TAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVAS :  962
+
+  466 : AAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTP :  527
+        : :::::.:::   | | .::...: ... : :.....   :: :. : :| .::|::|.. 
+  963 : GRPGSNIPAAADSAPVL-ASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVV : 1023
+
+  528 : GYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQA :  589
+            .:  .:::|.:|:.:..:.. .   :  .....:  | :: .: .:|  |:|. |  .
+ 1024 : VSGQPGSNTPAAADSAPVPAPSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSV : 1085
+
+  590 : LHQ-QLSHQQQ-QQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAA :  649
+        : . ||: : .  : :  .  : |: :|.    . :| | :   . . .    ::|.:||||
+ 1086 : VSASQLGSNIPYTNSDVSPGSAASDSSGQWVALPINSVPSGVLSNIPLGALFNSSAQSAAAA : 1147
+
+  650 : SVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGG :  705
+        ||  :||.:|: :. : .:||:.:::.:|:|::. : : :::    :|:  |. |:
+ 1148 : SVQFGSSKPVPISDYFQVPAASDSSTQTATGSAAHLANDGSAFSLANLPAQLSSGS : 1203
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 31 705 . Medex_00072710-RA 531 1203 . 116 M 30 30 G 1 0 M 346 346 G 2 0 M 72 72 G 1 0 M 109 109 G 0 1 M 7 7 G 0 1 M 106 106
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 291 -> 694
+  Target range: 154 -> 556
+
+ 292 : SDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQ : 355
+       ||. :.|..: |   :. :|. :   :  :..: ::| |::.:..:     . :.  . |  : 
+ 155 : SDGIVRITTDLTIEISATNLPINTATESLKPAE-DQGITYTTTDQVASDVQSSQPDTNVLLTNT : 217
+
+ 356 : QQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFP : 419
+       :   :.:|:.:.: . .::| ::  .: |:.:|  | ::. :|.| .: :   :|: :..:  :
+ 218 : NSVTEASLRNTNSLPVEGSGVSP-TAKSPVELPSGPSIDT-ISEGITNLSVGTSYSFTKGAVNA : 279
+
+ 420 : PSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLY : 483
+       ::.::|:::...|: :. .: :|: ..  . ::|::| :.::.::.. :.|  :.:.   :.: 
+ 280 : SGQSGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVA : 343
+
+ 484 : QNNAANSLRNIWN-RSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGY-LTTSYFNAPTAATAAA : 545
+       ..:::|::..  .  :|..:.:  : ||:||:::.: : :: .|:.  ::|| :::: ::..|:
+ 344 : AGQSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVAS : 407
+
+ 546 : SQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHP : 609
+       :|.|:.:.:  .    ... : :.||.   . |..|    :  |  .  : |: ..|..    .
+ 408 : GQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSG : 471
+
+ 610 : HSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAA : 673
+       ::  |.| : . :. .: |: .|   |:|: |:|.:.::.::.: : :: ..::  |: .|::.
+ 472 : QPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQ : 535
+
+ 674 : TAAAAAGGSQSVIQPATSSVS : 694
+       .::. :::::|.  ||:|:|:
+ 536 : PGSNIPAAADSAPVPASSNVP : 556
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 291 694 . Medex_00072710-RA 154 556 . 115 M 33 33 G 1 0 M 53 53 G 1 0 M 16 16 G 1 0 M 100 100 G 0 1 M 33 33 G 0 1 M 165 165
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 11 -> 694
+  Target range: 75 -> 739
+
+  12 : PDNDGRLVGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEI-LGSVESAGNELNG :  74
+       |.:.| :... : :.  :. |.| ....::|:.  :::....: :.. .:  :::| :.: : :
+  76 : PSSAGCIAPTQQTDIPATSRSEAYTDTPIDPGTTVPAEQPAGDFTTECAVTADGIEISTEYILA : 139
+
+  75 : AAARNVNVVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFAS : 138
+       :|| :|:   ..:.::|:   :  .::  ::. .:|  : || .:| .:::. . ..||:  :.
+ 140 : GAAESVDGGGTTISDSDGIVRITTDLT-IEISATNLPINTATESLKPAEDQGITYTTTDQVASD : 202
+
+ 139 : VAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAAL : 202
+       |.::  ..: ||::.|: ::..:| :: : ::.:|| :...:: :.: :|::: .:|:.: :.|
+ 203 : VQSSQPDTNVLLTNTNS-VTEASLRNTNSLPVEGSGVSPTAKSPVEL-PSGPSIDTISEGITNL : 264
+
+ 203 : CGDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTS : 266
+       .   :..: : :::. |::|:    :|:: :::::.:|.  |:. : : ::. : |. :: |:|
+ 265 : S---VGTSYSFTKGAVNASGQ----SGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSS : 321
+
+ 267 : AAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGST : 330
+       .:: .: |..  ..  : .   .  |:.:|| .:  :: ::  ::..|        ..:.. |.
+ 322 : DGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPAQ---SGTGSAAAPAQSV : 382
+
+ 331 : FAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLH : 394
+        ::||| :.: |.|    :| |    .  |.| : :|:.:::| ...:: ..|: : :. :  :
+ 383 : SSDATANIPVATSQ---YSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQ : 443
+
+ 395 : NLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASA : 458
+       :: |:|  : |   : .::: .:   | :::| :. .::.|:. | :.:: |: | .:|::::.
+ 444 : SVSSDGIANVPLATSQDSPAQPAVVVS-GQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQ : 506
+
+ 459 : AAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPG : 522
+       :.::.: |. :.    ::  :::: .:..:.|  .  . |..||.:  :: .| ||.. :::|:
+ 507 : SVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPAS--SNVPAQSGTGSAAAPA : 568
+
+ 523 : NPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQ : 586
+       |  ::: ::.   .:: .:.:.:|  ::: :| :: ....: .. :. |: ..| :    : ..
+ 569 : NIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNA-PAAADSAPVPASSDVPAQSGTGSAAAPA : 631
+
+ 587 : QQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAAS : 650
+       | .: : ::: . .  |:   ::    :|... : | :   :. .|: :..:  |:::|||:| 
+ 632 : QSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQ : 695
+
+ 651 : VVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS : 694
+        |||.::|  :.|   .|::.::..|::..||:   .:.::||:
+ 696 : SVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVP : 739
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 11 694 . Medex_00072710-RA 75 739 . 115 M 50 50 G 0 1 M 40 40 G 1 0 M 53 53 G 1 0 M 29 29 G 1 0 M 17 17 G 3 0 M 17 17 G 4 0 M 87 87 G 3 0 M 27 27 G 3 0 M 74 74 G 1 0 M 82 82 G 2 0 M 51 51 G 1 0 M 136 136
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 28 -> 694
+  Target range: 385 -> 1042
+
+   29 : ADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAAR-NVNVVVEPLCG :   89
+        |..:.: :|.: :||  |. .:.:|  :|.:.  ::  :|.:::.:.:|  :... .:::.:
+  386 : ATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSS :  447
+
+   90 : GDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLA :  151
+        :: ::  : :  :|. : . ::|: :. :. ...:... .. :|   .| : :..|..: ::
+  448 : DGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVS :  509
+
+  152 : KEN-AQLSAQGLVDSVA-ASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNN :  211
+        .:. |:::...  || : :|:..||::|:: :  | ::: :|:|.::|.::: .:.  .|  
+  510 : SDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIV :  571
+
+  212 : NNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLL :  273
+        ::.. .| : :.:: :.: ::. |::  ::: ::  : | :.: : . ... ..||||.:  
+  572 : SSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQS :  633
+
+  274 : VEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGAT :  335
+        | .     :.:... |.||::.:    |:.|. |...  .. .   : ..|: .||: |.| 
+  634 : VFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQ :  695
+
+  336 : ALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLL :  397
+        ::    :.:.|  .|:.  |: . | ::  |:|:.||: :..|    :: ::|..: :..  
+  696 : SV----SSDATANIPVATSQDSPSQSSV-VASGQPGSNVSAAA----DSASVPAPSDVPAQS :  748
+
+  398 : SGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAA :  459
+        :.|:  .| :.  :.:.:.:    ::::| :. .::.|:. | :.:: |: | .:|::::.:
+  749 : ATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQS :  810
+
+  460 : AAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGP :  521
+        .::.: |. :.    ::  :::: .:..:.|  .  . |..||..  :. .| : .. :::|
+  811 : VSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAP--SDVPAQTVTGSAAAP :  870
+
+  522 : GNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLS :  583
+        ::: ::: ::.   .:: .:.:.:|  ::: :| :: . ..: .. :. |: ..| : :  :
+  871 : AQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNA-PTAADSAPVPASSDVPAQSGTRSAA :  931
+
+  584 : HQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAA :  645
+         ..| .  : ::. . .  |: . ::    :|... : | :   :.  |: :..:  |:::|
+  932 : APAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPAQSATGSA :  993
+
+  646 : AAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVS :  694
+        ||:|  ||:.: |  :.|   .|:|.:|...::..||::  .:.:::|:
+  994 : AAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVP : 1042
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 28 694 . Medex_00072710-RA 385 1042 . 115 M 50 50 G 0 1 M 76 76 G 0 1 M 13 13 G 0 1 M 170 170 G 4 0 M 22 22 G 1 0 M 14 14 G 4 0 M 122 122 G 2 0 M 51 51 G 1 0 M 136 136
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 27 -> 695
+  Target range: 428 -> 1097
+
+   28 : IADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNVVVEPLCG :   89
+        ::.:|::.::.. ..|: |.| :| | .:  :.   :.  .:.: .:.:: ..: .  | .:
+  429 : VPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASS :  490
+
+   90 : GDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLA :  151
+        : :::.  || :.:. .:.|  .::|.: | ..::..::: :...: :: . :..|:.. ::
+  491 : DVPAQSGTRSAAAPAQSVSS--DGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVP :  550
+
+  152 : KENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNN :  213
+         .:::::||: .:|.||: .  :..| .:  :| :  |::.|::.:|:.: ...  ..::..
+  551 : -ASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAP :  611
+
+  214 : SNSNNNSNGNGNHGGGGGGASS--GGGVAGDCATKLEYALMGGQPLA--EEPRFVTSAAANP :  271
+         .:::: .:::. |::::.| |  ::|:|.  .:. : :|  :  :|  : .. :.:||.::
+  612 : VPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSA :  673
+
+  272 : LLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAG :  333
+         : ..      : . . .  :::  : ...:.: |. |: . |  : .  |. :: ::: .:
+  674 : PVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADS :  735
+
+  334 : ATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHN :  395
+        |:.  . .. .::  .: . ..|    :|: .:|   :: .|:|:....:: ::|..: :..
+  736 : ASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPA :  797
+
+  396 : LLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCA-DELKARLGMPPATSA :  456
+          ||.   .:. :: ::...:::| :.::.: |: .  :|| ....  .  .. .:|:::..
+  798 : -QSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDV :  858
+
+  457 : SAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRN-IWNRSVGVPDNYYGSSGAGSGGTQ :  517
+        :|.:.:::|||:|. : ::.: : .:  ::.:.| .: : ..  | ...  :.|:: :::::
+  859 : PAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSD :  920
+
+  518 : PGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAH :  579
+         .:.:..::::  : |  :...| .:.|: :::. ::   :   :.  : :..:: .. || 
+  921 : VPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQS-SVVASGRPGSNIPAAADSAPVLAS :  981
+
+  580 : QQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIA :  641
+         ::: | . :  .. ::   .:  .: . : || :.::|     ::| |:..|:.:: :. |
+  982 : SDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPA : 1043
+
+  642 : AAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSY :  695
+        ::..:|.::. |::::|  .::   |: :.|::..::: :|     . .|:::|
+ 1044 : PSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQLGSNIPY : 1097
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 27 695 . Medex_00072710-RA 428 1097 . 115 M 82 82 G 2 0 M 40 40 G 1 0 M 83 83 G 0 2 M 23 23 G 0 2 M 137 137 G 1 0 M 45 45 G 0 1 M 52 52 G 0 1 M 61 61 G 1 0 M 140 140
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 10 -> 663
+  Target range: 460 -> 1113
+
+   11 : CPDNDGRLVGGL-DLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNE :   71
+        .|.: : :|:|  : .|  |.||:: .:.:  |:  :: ::..|.|||::: ::::  |.::
+  461 : SPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQ :  522
+
+   72 : LNGAAARNVNVVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITD :  133
+         ::::..:| .  :| ..  ::.:  .  :.||   :|  :. |: .  |.::. .|  ::.
+  523 : -DSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVAT :  583
+
+  134 : DDFASVAAAVVANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAI :  195
+        .: :: .::||:..:  ::..|. .:..: .| ..: ..:.::::..|  .| |.: |. ::
+  584 : SQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVF-SDGIANIPV :  644
+
+  196 : AAAAAALC-GDLINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQP :  256
+        |::..:|. :.::.:.:..|| ...:::.. .:::: .| |:.| |:. | .:. .  :. |
+  645 : ATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIP :  706
+
+  257 : LAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQ-STSPAPQQQLQQQHHL :  317
+        :|...   :::.:: :  .:  |:  . ... .  : :::|  .. ::::||.| :  :   
+  707 : VATSQD--SPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIA :  766
+
+  318 : QQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAH :  379
+        :..    .:.||. ::|:.  .: :. :.   :    .....|    :: :| . :.:::: 
+  767 : NPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSS :  828
+
+  380 : QQQQPLAIPQR-PLLHNLLSGGAIHNPHHRNYTTATTGSFPP--SPADSGVSDVDSSSSGGQ :  438
+         |   :| .|. : :..  .::::..| : .  |.|.:: :|  | :..|::::  ::|   
+  829 : SQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVS :  890
+
+  439 : PCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVG :  500
+        |....: .. : :.:.:::||.:|:.:|::... ::||   :.  |: ::::: :|  . ..
+  891 : PSQSSV-VSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKI--PVAT :  949
+
+  501 : VPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNA-PTAATAAASQRGTTINGYHSLHQQ :  561
+         .|:   || .:|| . :. |:.::::. |::|  .| :::::|||:.::.: :|  ::. .
+  950 : SQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPAQSATGSAAAPAQSVSPDGIANIPVA : 1011
+
+  562 : QQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPH :  623
+          |: .:|.:      :  : : ..: |  .. |: ..|     .. | : :::    : | 
+ 1012 : TSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNVPAQSGTGSAAAPANIVSSDGIANIPV : 1073
+
+  624 : SHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAA :  663
+        : ::  | .:  . ::  ::. : :.| ||::|:| .:::
+ 1074 : ATSQVSPSQSSVVSASQLGSNIPYTNSDVSPGSAASDSSG : 1113
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 10 663 . Medex_00072710-RA 460 1113 . 112 M 12 12 G 0 1 M 49 49 G 1 0 M 113 113 G 1 0 M 17 17 G 0 1 M 59 59 G 2 0 M 37 37 G 0 1 M 89 89 G 0 1 M 30 30 G 0 2 M 24 24 G 1 0 M 49 49 G 2 0 M 41 41 G 0 1 M 126 126
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 18 -> 689
+  Target range: 115 -> 769
+
+  19 : VGGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVNV :  82
+       .|::. .  ::.|:.. :|| : :: ..: :....  | ::.|:  ... . |: :|:. .:|.
+ 116 : AGDFTTECAVTADGIEISTEYILAGAAESVDGGGTTISDSDGIVRITTDLTIEI-SATNLPINT : 178
+
+  83 : VVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVAN : 146
+       ..|:| .::. :  : : .: . :::|  :| :.| :. .|. .:.:: ..:.::  :::| :.
+ 179 : ATESLKPAEDQGITYTTTDQVASDVQSSQPD-TNVLLTNTNSVTEASLRNTNSLPVEGSGVSPT : 241
+
+ 147 : DDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNN : 210
+       ..  .. .:  | :.: ::::.  .::: : .: |: | | |:|. :|.::. |:: .. .::.
+ 242 : AKSPVELPSGPSIDTISEGITNLSVGTSYSFTKGAVNASGQSGSDIPATSSNIAPI-PAATDDP : 304
+
+ 211 : NNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLV : 274
+       .: :.::..:.:::  ::|. . : :.: .: ..:.   |  :|:.::... |.. :|:: : .
+ 305 : TQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPA : 368
+
+ 275 : EKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALL : 338
+       :.  :.  . .:.:.. :.::||:..   ||:.   :.  :  .  : ..: :::: ::::.: 
+ 369 : QSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQ--PGSNVPAAADSASVPAPSDVP : 430
+
+ 339 : HIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAI : 402
+         .:. ::  .:  :  :  .: .|  |::::::::.. .   |.. ..|. :   .: :::.:
+ 431 : AQSATGSAAAPAQSVSSDGIANVPL--ATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDV : 492
+
+ 403 : HNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAA : 466
+         | :..  :|::.  :.| :..|::::  ::| : |....: |. | |.:. ::||.:|:.:|
+ 493 : --PAQSGTRSAAAP--AQSVSSDGIANIPVATSQDSPSQSSVVAS-GQPGSNIPAAADSAPVPA : 551
+
+ 467 : AAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGV-PDNYYGSSGAGSGGTQPGGPGNPQTPGY : 529
+       ::... ::||   :.  :  ::::: ||   :  | |.:    |:: ||:..|::::::..|: 
+ 552 : SSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPA- : 615
+
+ 530 : LTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQ : 593
+        ::.  ..:.:::|||:.::.  :|  ::. .  |:  || |  .   :  ::: ..: |  ..
+ 616 : -SSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPA : 677
+
+ 594 : LSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSS : 657
+        |: ..| .   .. |   :::  . : | : ::. | .:    |.:|::.:::..|..:.|:|
+ 678 : SSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQS----SVVASGQPGSNVSAAADSAS : 737
+
+ 658 : AVAAAAMLSASAAAAATAAAAAGGSQSVIQPA : 689
+       . |::.: :.||:::|:|:|.: :|::: :||
+ 738 : VPAPSDVPAQSATGSAAAPAQSVSSDGIANPA : 769
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 18 689 . Medex_00072710-RA 115 769 . 111 M 54 54 G 1 0 M 40 40 G 1 0 M 88 88 G 1 0 M 112 112 G 2 0 M 46 46 G 2 0 M 37 37 G 2 0 M 12 12 G 2 0 M 29 29 G 1 0 M 53 53 G 0 1 M 27 27 G 2 0 M 103 103 G 4 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 40 -> 689
+  Target range: 216 -> 856
+
+  41 : NPSIQSAGNPNNPQQSVGGEILGSVESAGNEL-NGAAARNVNVVVEPLCGGDSSDELFRSFSES : 103
+       ..|: .|: .|..  :|.|. :::...:. || :|::  .::  :..|. | :| .: ::  ::
+ 217 : TNSVTEASLRNTNSLPVEGSGVSPTAKSPVELPSGPSIDTISEGITNLSVG-TSYSFTKGAVNA : 279
+
+ 104 : NFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKENAQLSAQGLVDSVA : 167
+       : : .| ::. ::  . : ...::.. ::.:. |: |.:| :::.:    .:  .:.:  .:||
+ 280 : SGQSGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVA : 343
+
+ 168 : ASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNSNGNGNHGGGGG : 231
+       |: ..:.: .:.::: : .:||..::. ::::||  :: ::::...: : ..|: :.::::  :
+ 344 : AG-QSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVA : 406
+
+ 232 : GASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNIEKRMDKLSDTE : 295
+       :: :|:.|::. .:    :: :.  ::.::   ::||:.. : .. ::: :.:... |. ::..
+ 407 : SGQPGSNVPAAADSA---SVPAPSDVPAQSATGSAAAPAQSVSSDGIAN-VPLATSQDSPAQPA : 466
+
+ 296 : IPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLLTPLQLQQQQQQ : 359
+       : :  |:.|.:|..  .:  .:..  : .:::|:  |:|.|  :  :.:..  .|:.  |: . 
+ 467 : VVVSGQPGSNTPAA--ADSAPVPASSDVPAQSGTRSAAAPA--QSVSSDGIANIPVATSQDSPS : 526
+
+ 360 : QQGLHGAAGNGGS-SNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTTATTGSFPPSP : 422
+       | :: ::: .|:: :.:.:: . ..: .:|.::   :  :.:.| :::  . ...:|:  :||.
+ 527 : QSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQ : 590
+
+ 423 : ADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTG-TFLHPNLYQN : 485
+       :.   :. .:|::.:.: :. : |. ::|:.:::::|||:|.:. :.:  :.. :  : :| |:
+ 591 : SSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQS : 654
+
+ 486 : NAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRG : 549
+       :...| :.  | :.:. ..  .:|:. :: :..|:::.| :.:  :.:  | |.|::..:: ::
+ 655 : SVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAP-AQSVSSDATANIPVATSQDSPSQS : 717
+
+ 550 : TTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQL : 613
+       :.:.: ::   :  ...:|.  ... ::: |  :  ...: :   |:  .:..     :| |: 
+ 718 : SVVASGQP-GSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNT : 780
+
+ 614 : NGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAA : 677
+       .::   :. .: :: .:::| :: :: |.:.::.: : :: ::|. :::.   .:::.:::. :
+ 781 : PAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIP : 844
+
+ 678 : AAGGSQSVIQPA : 689
+       ||::|.:| .|:
+ 845 : AAADSAPVPAPS : 856
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 40 689 . Medex_00072710-RA 216 856 . 111 M 32 32 G 0 1 M 18 18 G 1 0 M 78 78 G 1 0 M 76 76 G 3 0 M 31 31 G 1 0 M 28 28 G 2 0 M 25 25 G 2 0 M 34 34 G 0 1 M 103 103 G 0 1 M 49 49 G 1 0 M 32 32 G 1 0 M 131 131
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 31 -> 694
+  Target range: 325 -> 985
+
+  32 : STANGTENLNPSIQSAGNPNNPQQSV-GGEILGSVESAGNELNGAAARNVNVVVEPLCGGDSSD :  94
+       :.: :|.: :||  || .:.:: ::: ::: :::| ::::  . ::: :... .:::.::.:::
+ 326 : NIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATAN : 389
+
+  95 : ELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDDLLAKEN-AQL : 157
+           :   |. : . : |: :. :| ...:..: .. :|   .|.:::..|..: ::.:. |::
+ 390 : IPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANV : 453
+
+ 158 : SAQGLVDSVA-ASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNNNS : 220
+       : ..  || | :::. ||::|:: :  | ::: :|:|.::|.::: .:.  .:: ::.. .| :
+ 454 : PLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIP : 517
+
+ 221 : NGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCLNI : 284
+        :.::::.: ::. ::|  ::: ::  : | :.: : . ... ..||||.: :|..     :.:
+ 518 : VATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPV : 581
+
+ 285 : EKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQNTLL : 348
+       ...  . |::.:  ..||.|.||...  .. .   : ..|: .||: |.| :::   ..: .: 
+ 582 : ATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVA : 645
+
+ 349 : TPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRNYTT : 412
+       |:   |:   |   : ::...:. :.:.:: . ..: .:|.::   :  :.:.  :::  . ..
+ 646 : TS---QDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIP : 706
+
+ 413 : ATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGT : 476
+       .:|:  :||.:.  .|:  :|: ::.: :..: |. ::|:.:::::|||:|.:.::.:  :.:.
+ 707 : VATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAV : 770
+
+ 477 : FLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTA : 540
+        : .:   |.:|.: ..  . | :||.:  |:.:|::.:   :: | ::.|  ::||  ::: :
+ 771 : VVSGQPGSNTPAAADSAPVPASSDVPAQ-SGTRSAAAPAQSVSSDGIANIP--VATSQDSSSQS : 831
+
+ 541 : ATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQ : 604
+       :..|::|.|:.|.:  .  . ... : :.|:    . |..|    :  |  .  : |  . |  
+ 832 : SVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSS : 895
+
+ 605 : QQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSAS : 668
+           ::|  |:| : . :. .: |: .|   |:|: |:|.:.::.::.. : :: ..::  |: 
+ 896 : VVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSV : 959
+
+ 669 : AAAAATAAAAAGGSQSVIQPATSSVS : 694
+       .|:: .::. :::::|.   |:|.|:
+ 960 : VASGRPGSNIPAAADSAPVLASSDVP : 985
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 31 694 . Medex_00072710-RA 325 985 . 108 M 26 26 G 0 1 M 97 97 G 0 1 M 13 13 G 0 1 M 183 183 G 3 0 M 151 151 G 1 0 M 22 22 G 2 0 M 165 165
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 28 -> 691
+  Target range: 282 -> 936
+
+  29 : ADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGN-ELNGAAARNVNVVVEPLCGGD :  91
+       ::...:..:.|:.|  .::::|.: . : ::.   ||.|.|. ::. |:::: .   .:: :|:
+ 283 : SGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQ : 346
+
+  92 : SSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFA-SVAAAVVANDDLLAKEN : 154
+       |::::    :.:.|.  :  ||::: . . ......::| :|.. . :||::  :..:  . .:
+ 347 : SGNNI---PAANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVAS : 407
+
+ 155 : AQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNNNNNSNSNN : 218
+       :| :::  ..: :||::.::|..:| |  : :::: :.|: : |..:| ..  :..:..   :.
+ 408 : GQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSG : 471
+
+ 219 : NSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLVEKLMSKCL : 282
+       ::.:|.. :::::..:::::|:::.:|: . |   : : .. :.: .:::.::   ..:::.  
+ 472 : QPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQ : 535
+
+ 283 : NIEKRMDKLSDTEIPIVKQ-STSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQN : 345
+       . .:  .  ..: :|  .: :: ::.  . ...: :  :  .: . ::: .:::.   :.:.|:
+ 536 : PGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQS : 599
+
+ 346 : TLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAIHNPHHRN : 409
+       .  :| . : .. .. :  .|.:..||:.:...    :.:|  . :  :: || ::: .: :..
+ 600 : GSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPG : 663
+
+ 410 : YTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHLH : 473
+        ..::::. :| ||.|:|:. .:::|::.| |:.:.:  . . :.::|..:::.::..|::  :
+ 664 : SNIPAAADSAPVPASSDVPAQSATGSAAAP-AQSVSSDATANIPVATSQDSPSQSSVVASG--Q : 724
+
+ 474 : TGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNA : 537
+       .|: : :.  ::.:..: .:: .:|.. :..  : | ::.| ::|:   :.|..:  .::  :|
+ 725 : PGSNVSAAA-DSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSA : 787
+
+ 538 : PTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQ : 601
+       |.:|::..:.::.| ::     ....|   |:  .: .  : |: | |   .   | : : ...
+ 788 : PVPASSDVPAQSGTRSA-----AAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAA : 846
+
+ 602 : QQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAML : 665
+       .: .. .:.|::.:.   : : :.::| : .|  . :. ::..:::.:||||:| |: .|::  
+ 847 : ADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAA : 910
+
+ 666 : SASAAAAATAAAAAGGSQSVIQPATS : 691
+       .:::.:|::..:|.:|::|. .|| |
+ 911 : DSAPVPASSDVPAQSGTRSAAAPAQS : 936
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 28 691 . Medex_00072710-RA 282 936 . 106 M 42 42 G 0 1 M 26 26 G 3 0 M 38 38 G 0 1 M 164 164 G 0 1 M 138 138 G 1 0 M 30 30 G 2 0 M 10 10 G 1 0 M 71 71 G 5 0 M 132 132
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 19 -> 722
+  Target range: 558 -> 1242
+
+   20 : GGLDLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNELNGAAARNVN :   81
+        :| : ::  |:  :::|..|: |   |. :|:::    :::  ::. :|::. . :|:.:|.
+  559 : SGTGSAAAPANIVSSDGIANI-PVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVP :  619
+
+   82 : VVVEPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAV :  143
+        .  .. .::.:::.:|.. : :|: :.:  ..|:  .| ...: .:|   :.|. :  |:: 
+  620 : AQSGTGSAAAPAQSVFSD-GIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSD :  680
+
+  144 : VANDDLLAKENAQLSAQGLVDSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGD :  205
+        |:.:.  :...|.  : :  .:.. ::|.| |:.:| :::| | ::|..|| |.:|:.  ..
+  681 : VPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPS :  742
+
+  206 : LINNNNNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSA :  267
+         :..::..:::...::: :::| :..:.  :|  ::: ::  : | :.: : . ... . ||
+  743 : DVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSA :  804
+
+  268 : AANPLLVEKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGS :  329
+        ||.:  |..     :.:... |. |::.:    |:.|. |...  .. . . : ..|. .||
+  805 : AAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGS :  866
+
+  330 : TFAGATALLHIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRP :  391
+        : |.| ::    :.:..  .|:.  |  . | :: :|     | :|:||. ..:: ::|..:
+  867 : AAAPAQSV----SSDGIANIPVATSQVSPSQSSVVSA-----SQSGSNAPTAADSAPVPASS :  919
+
+  392 : LLHNLLSGGAIHNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPA :  453
+         :..  ||.   .:. :: ::...:.:| :.::.: |: .|  ::|:| :.:: |  : :|.
+  920 : DVPA-QSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQ-SSVVASGRP-GSNIPAAADSAPV :  978
+
+  454 : TSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGG :  515
+         ::|..:|.:|:::|||. ::   : |:  .| :..: ::  .::. | ..  ||:.:::::
+  979 : LASSDVPAQSATGSAAAPAQS---VSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAAD : 1037
+
+  516 : TQPGGPGNPQTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQL :  577
+        :.|  |:.::.|:  .|:  .||:. .::.:  ...:.. : : . |     : |   : . 
+ 1038 : SAP-VPAPSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQ-VSPSQSSVVSASQLGSNIPY : 1097
+
+  578 : AHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHST :  639
+        :: ::|.  ..:       . . :  .    :: .| |:  :| ::| : :  : |  .. .
+ 1098 : TNSDVSPGSAASDSSGQWVALPINSVPSGVLSNIPL-GALFNSSAQSAAAASVQFGSSKPVP : 1158
+
+  640 : IAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYML :  701
+        |:.  ..:|||  |: ::: :|| : :.::| : :. :|. :| | :|::. :.||.   : 
+ 1159 : ISDYFQVPAASDSSTQTATGSAAHLANDGSAFSLANLPAQLSSGSSVQSSGLPTSYSGIALP : 1220
+
+  702 : ELGGF-QQRKAKKPRKPKLEMG :  722
+        .|.:: .|. |   .|.:|: |
+ 1221 : SLNSYLPQSLAPLDSKTQLDSG : 1242
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 19 722 . Medex_00072710-RA 558 1242 . 106 M 21 21 G 1 0 M 58 58 G 1 0 M 237 237 G 4 0 M 25 25 G 5 0 M 24 24 G 1 0 M 33 33 G 1 0 M 9 9 G 1 0 M 34 34 G 3 0 M 41 41 G 1 0 M 37 37 G 1 0 M 56 56 G 1 0 M 92 92 G 0 1 M 16 16
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 22 -> 682
+  Target range: 181 -> 828
+
+  23 : DLGTCIADDSTANGTENLNPSIQSAGNPNNPQQSVGGEILGSVESAGNEL--NGAAARNVNVVV :  84
+       .| .  .:: | ..|:::.:.:||: . .|   : ...: .:  ...|.|  :|::.....   
+ 182 : SLKPAEDQGITYTTTDQVASDVQSSQPDTNVLLTNTNSVTEASLRNTNSLPVEGSGVSPTAKSP : 245
+
+  85 : EPLCGGDSSDELFRSFSESNFEIESLLSDLATVEVKVENEENNNNVITDDDFASVAAAVVANDD : 148
+         | :| | |.:  ::  :|:.:.:  | ::. .|:...:..::   |..::|:::||. ...:
+ 246 : VELPSGPSIDTISEGI--TNLSVGTSYS-FTKGAVNASGQSGSDIPATSSNIAPIPAATDDPTQ : 306
+
+ 149 : LLAKENAQLSAQGLV--DSVAASLADSGDAGGQQALLAFGSSSSAASAIAAAAAALCGDLINNN : 210
+        ||..:|. :||::   ::|. ::|.| |:.:| : :| | |::. :| .: |:     : .::
+ 307 : -LATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAP-----VPASS : 364
+
+ 211 : NNNSNSNNNSNGNGNHGGGGGGASSGGGVAGDCATKLEYALMGGQPLAEEPRFVTSAAANPLLV : 274
+       : .::|...|.:...:: ::::::: . .:::.:.. . .: :||| :: |  ..||:..:   
+ 365 : DVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSD : 428
+
+ 275 : EKLMSKCLNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALL : 338
+           |   : . . :.:|...|: |  :||..:..| .     |.  : .: .:|: ..|:: :
+ 429 : VPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDV : 492
+
+ 339 : HIKTEQNTLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQRPLLHNLLSGGAI : 402
+       . ::. .:  :| |     :  ..:. |::::::|::: .   |.. .||. :   .: :::.:
+ 493 : PAQSGTRSAAAPAQ-SVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNV : 555
+
+ 403 : HNPHHRNYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAA : 466
+       ...   . ::|:.::: :| : :.:: ..|  |.:|:.. . ... : :||::.||:.:|::..
+ 556 : PAQSGTG-SAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDV : 618
+
+ 467 : AAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYL : 530
+       :|.:   :::   .::: :. ||   .. : |:: :.     ::: :|:. |::::::..|:  
+ 619 : PAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSS---VVASGQPGSNIPAAADSAPVPA-- : 678
+
+ 531 : TTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQL : 594
+       ::.  ..:::::|||:.::.: ::  ::. .  |: .|| |  .   :  ::| ..: |  .. 
+ 679 : SSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAP : 741
+
+ 595 : SHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSA : 658
+       |: ..| .   .. | :|  :::. ::|     ::| :. .: :. |:.:|::..:. |::.||
+ 742 : SDVPAQSATGSAAAP-AQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSA : 804
+
+ 659 : VAAAAMLSASAAAAATAAAAAGGS : 682
+       .|:|. :|:.: |. ..|::.::|
+ 805 : AAPAQSVSSDGIANIPVATSQDSS : 828
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 22 682 . Medex_00072710-RA 181 828 . 105 M 50 50 G 0 2 M 28 28 G 2 0 M 10 10 G 1 0 M 35 35 G 1 0 M 14 14 G 0 2 M 37 37 G 5 0 M 147 147 G 1 0 M 56 56 G 1 0 M 93 93 G 3 0 M 22 22 G 2 0 M 79 79 G 1 0 M 72 72
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 142
+   Query range: 524 -> 717
+  Target range: 165 -> 355
+
+ 525 : QTPGYLTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQ : 588
+       :.|. |: . :::. . .|:|::| ..   ::: |::::::::::: ::||| .:||  |||::
+ 166 : NNPEILAQKILETGRQIEASAGKRVPEPIKFNGHHHNNHHHHHNNHHHHQQQQQQQQQLHQQED : 229
+
+ 589 : ALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVV : 652
+       : .:.  .|.|.. . . |:.:||     .:|:|..::||.| :  :.:   :: .|. ...: 
+ 230 : GRYHARHYQPQPPIPTPTQQQRSQ--QIVRQSQPPRQAHSKPISFTNNRVQEPPRVANFEDRLK : 291
+
+ 653 : SSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSVSYDLSYMLELGGFQQRKAKKPRK : 716
+       :  ::.:...  :.. ..... .....   |   :...  : |. :|   : : :.|: .|:|:
+ 292 : TIITTVLNEDHQIRQQQQQQQQQQQQQQQQQHQNHQQPVQMQYSTPYGQPVYSSHPRR-EKSRQ : 354
+
+ 717 : P : 717
+       |
+ 355 : P : 355
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 524 717 . Medex_00037061-RA 165 355 . 142 M 88 88 G 2 0 M 96 96 G 1 0 M 6 6
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 558 -> 641
+  Target range: 200 -> 284
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALH-QQLSHQQQQQQQQQQQHPHSQLNGPHPHSH : 621
+       |::::::::::: :|||| .:||| :|::   | ::  .|.. . . |||:::  :. ::|..:
+ 201 : HNNHHHHHNNHHHHQQQQQQQQQLHQQEDGRYHARHYQPQPPIPTPTQQQRSQQIVRQSQPPRQ : 264
+
+ 622 : PHSHPHSHPHAGQHTHSTIA : 641
+       :||.| | .:.  :..: :|
+ 265 : AHSKPISFTNNRVQEPPRVA : 284
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 641 . Medex_00037061-RA 200 284 . 114 M 33 33 G 0 1 M 50 50
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 552 -> 686
+  Target range: 299 -> 433
+
+ 553 : NGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGP : 616
+       ::.:  :|||||||| || ||||: .|||  : |  : . |  .  :.:::: :|. .:|::.:
+ 300 : EDHQIRQQQQQQQQQQQQQQQQQHQNHQQPVQMQYSTPYGQPVYSSHPRREKSRQPDYTQVSPA : 363
+
+ 617 : HPHSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAG : 680
+       .   :.|  .:. : |:.|  :|::.:. .|: |: .  ||.:. :  :|. :  .|:.. :: 
+ 364 : KLALRRHLSQEKLAAASAHQLATLGQGEKVATRSIGDLVSSEIERTLEISNQSIINAAVDMSTV : 427
+
+ 681 : GSQSVI : 686
+       :::|.:
+ 428 : ATNSTL : 433
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 552 686 . Medex_00037061-RA 299 433 . 111 M 134 134
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 576 -> 681
+  Target range: 297 -> 400
+
+ 577 : LAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTI : 640
+       |.:::  :||||. :||  :|||||||:|:::.. |:: : |.::|   :|::.: :::.: | 
+ 298 : LNEDHQIRQQQQQQQQQ--QQQQQQQQHQNHQQPVQMQYSTPYGQPVYSSHPRREKSRQPDYTQ : 359
+
+ 641 : AAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGG : 681
+       .::|  |  . :| .. |.|:|  |:: :.:. .|: : |:
+ 360 : VSPAKLALRRHLSQEKLAAASAHQLATLGQGEKVATRSIGD : 400
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 576 681 . Medex_00037061-RA 297 400 . 107 M 17 17 G 2 0 M 86 86
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 558 -> 635
+  Target range: 205 -> 282
+
+ 559 : HQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHP : 622
+       |:::::::: || |||||| :|: :: :.:  :.| : . . |||: ||  :   ...::||.|
+ 206 : HHHNNHHHHQQQQQQQQQLHQQEDGRYHARHYQPQPPIPTPTQQQRSQQIVRQSQPPRQAHSKP : 269
+
+ 623 : HSHPHSHPHAGQH : 635
+        | .::: :...:
+ 270 : ISFTNNRVQEPPR : 282
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 558 635 . Medex_00037061-RA 205 282 . 104 M 77 77
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 582 -> 647
+  Target range: 197 -> 262
+
+ 583 : SHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHSTIAAAAAA : 646
+       :|::::  |:: :|:::||||||||: | | :|... .| :::|. ...: |:    |. .:.:
+ 198 : GHHHNNHHHHHNNHHHHQQQQQQQQQLHQQEDGRYHARHYQPQPPIPTPTQQQRSQQIVRQSQP : 261
+
+ 647 : A : 647
+       :
+ 262 : P : 262
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 582 647 . Medex_00037061-RA 197 262 . 103 M 65 65
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00037061-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 535 -> 638
+  Target range: 165 -> 267
+
+ 536 : NAPTAATAAASQRGTTINGYHSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQ : 599
+       |.|.  :.   : |  |::  : : .:. : :::: :::::  :::  |||||. :||| :|::
+ 166 : NNPEILAQKILETGRQIEASAGKRVPEPIKFNGHHHNNHHHHHNNHHHHQQQQQQQQQLHQQED : 229
+
+ 600 : QQQQQQQQHPHSQLNGPHPHSHPHSHPHSHPHAGQHTHS : 638
+        : :.:: :|::.:..| .: ::: :  .::::.:::||
+ 230 : GRYHARHYQPQPPIPTPTQQQRSQ-QIVRQSQPPRQAHS : 267
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 535 638 . Medex_00037061-RA 165 267 . 102 M 88 88 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053179-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 494 -> 692
+  Target range: 72 -> 271
+
+ 495 : WNRSVGVPDNYYGSSGAGSGGTQPGGPGNPQTPGYLTTSYFNAPTA-ATAAASQRGTTINGYHS : 557
+       |: :|.:| .  .::|.|: | ||..||.: .|| : .:|:.:|:: : .:: .. .. .||. 
+  73 : WQIAVNLPPGQAPPPGQGPQGQQPPPPGGS-PPGSVFIGYYPPPSGYPQQPGYPPQGGQPGYPQ : 135
+
+ 558 : LHQ--QQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQ-QQQQQQQQQHPHSQLNGPHP : 618
+        :.  .||..| :|.: .||. .  | :..|.|: ..| ::.  .|.|.  .|:|::  . |:|
+ 136 : PQPGYPQQPPQGGQPGYPQQPPQGGQPGYPQPQPGYPQQPQPGYPQPQPGYPQQPQPGYPQPQP : 199
+
+ 619 : HSHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGS : 682
+        :.|:::| :.|::||...:  :.:: :.:.:  : :::: ..:| :|:..: ::.:|:...|:
+ 200 : -GYPQPQP-GYPQGGQPGYPQQPQPGYPQPQPGYPQPGPPPQQPAPVSPEQPIPPPPAPEQPGA : 261
+
+ 683 : QSVIQPATSS : 692
+        :.  |:.::
+ 262 : GPAEYPGVPP : 271
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 494 692 . Medex_00053179-RA 72 271 . 148 M 30 30 G 1 0 M 15 15 G 0 1 M 20 20 G 0 2 M 38 38 G 0 1 M 20 20 G 1 0 M 7 7 G 1 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00053179-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 440 -> 698
+  Target range: 75 -> 336
+
+ 441 : ADELKARLGMPPATSASAAAAAAAAAAAAAHLHTGTFLHPNLYQNNAANSLRNIWNRSVGVPDN : 504
+       | :| :  : ||: :: :..:::::::::: : .| : .|: |.:::: : :.  .     . .
+  76 : AVNLPPGQAPPPGQGPQGQQPPPPGGSPPGSVFIGYYPPPSGYPQQPGYPPQGGQPGYPQPQPG : 139
+
+ 505 : YYGSSGAGSGGTQPGGPGNPQTPGY-LTTSYFNAPTAATAAASQRGTTINGYHSLHQQQQQQQQ : 567
+       |   :..|: .. |  |.:.  |||  . : :.....:. :.:|.| . :. .: .|.|.  .|
+ 140 : YPQQPPQGGQPGYPQQPPQGGQPGYPQPQPGYPQQPQPGYPQPQPGYPQQPQPGYPQPQPGYPQ : 203
+
+ 568 : SQQS-QQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPHSHPHSHPHSHP : 630
+       :|.: .|  | :..| ::.  .. :.  ::. ...||...  |: .:..|.:..:| : | ..|
+ 204 : PQPGYPQGGQPGYPQQPQPGYPQPQPGYPQPGPPPQQPAPVSPEQPIPPPPAPEQPGAGPAEYP : 267
+
+ 631 : -HAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQSVIQPATSSV : 693
+         :.|:.::|: ::.:.::.. . ::::. |:|:  .: :|: ::.: :|.|:::: .|:..| 
+ 268 : GVPPQNPDGTLITTQPEGGEDNALPAPAEPAPAPGPEPLPAPIPAEPLPAPGPEPLPAPGPDSG : 331
+
+ 694 : SYDLS : 698
+       | :|:
+ 332 : SNELG : 336
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 440 698 . Medex_00053179-RA 75 336 . 128 M 89 89 G 0 1 M 42 42 G 0 1 M 59 59 G 0 1 M 68 68
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00097167-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 555 -> 688
+  Target range: 97 -> 229
+
+ 556 : HSLHQQQQQQQQSQQSQQQQQLAHQQLSHQQQQALHQQLSHQQQQQQQQQQQHPHSQLNGPHPH : 619
+       ..| ||||||.|:.|  |||| .:|:   :  : ::.  . :.  |:|:: :|.| : :  :|.
+  98 : PRLVQQQQQQPQPPQVLQQQQ-QQQHYQVHTVRYVDPTGRTEAVLQNQHHLHHHHHHQQQLQPP : 160
+
+ 620 : SHPHSHPHSHPHAGQHTHSTIAAAAAAAAASVVSSSSSAVAAAAMLSASAAAAATAAAAAGGSQ : 683
+        :|: :.: :. |  : ::.::. :| |::.: ::...::  :: :|:::.::.:|:  :::.:
+ 161 : QQPQQQQQQQQIAWGQMEAVMPVYTAKAPTKLPATKRDPLICGGDFSSGSDSGVSAGHWTDSDR : 224
+
+ 684 : SVIQP : 688
+       | :.|
+ 225 : SPLAP : 229
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 555 688 . Medex_00097167-RA 97 229 . 112 M 21 21 G 1 0 M 111 111
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00097167-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 281 -> 495
+  Target range: 75 -> 281
+
+ 282 : LNIEKRMDKLSDTEIPIVKQSTSPAPQQQLQQQHHLQQQQQQQPHNGSTFAGATALLHIKTEQN : 345
+       |. ..| : : ... .  .. .:.  ||| ||.:. |  ||||.::     ..  : ..  .:.
+  76 : LPSSTRGQGMVSVGGRRSTAQVPRLVQQQQQQPQPPQVLQQQQQQQHYQVHTVRYVDPTGRTEA : 139
+
+ 346 : TLLTPLQLQQQQQQQQGLHGAAGNGGSSNGNNAHQQQQPLAIPQR-PLLHNLLSGGAIHNPHHR : 408
+       .| .. :|::::::|| |:       ::: .:.:||||.:| .|. :::.   : ::.. |  :
+ 140 : VLQNQHHLHHHHHHQQQLQ-------PPQQPQQQQQQQQIAWGQMEAVMPVYTAKAPTKLPATK : 196
+
+ 409 : NYTTATTGSFPPSPADSGVSDVDSSSSGGQPCADELKARLGMPPATSASAAAAAAAAAAAAAHL : 472
+       . .   .|.| :|.:|||||. : :.|:  | | |:..: : ..:.|: |::... |. ::.:|
+ 197 : RDPLICGGDF-SSGSDSGVSAGHWTDSDRSPLAPEFHQQAAARGTDSGVASPVDDKAVLSGQRL : 259
+
+ 473 : HTGTFLHPNLYQNNAANSLRNIW : 495
+       . ::  |.| . :::.: | | |
+ 260 : PLSSSKHGNTC-DSSDSILINNW : 281
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 281 495 . Medex_00097167-RA 75 281 . 101 M 83 83 G 7 0 M 19 19 G 0 1 M 28 28 G 1 0 M 64 64 G 1 0 M 11 11
+
+C4 Alignment:
+------------
+         Query: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced protein 74EF (Eip74EF)
+        Target: Medex_00015978-RA
+         Model: affine:local:protein2protein
+     Raw score: 271
+   Query range: 723 -> 822
+  Target range: 260 -> 357
+
+ 724 : KRRSREGSTTYLWEFLLKLLQDREYCPRFIKWTNREKGVFKLVDSKAVSRLWGMHKNKPDMNYE : 787
+       ..|: :.: . ||:|||.|| |::. . :|.|.. .:| ||| ::. |: ||| :||||:||||
+ 261 : SNRTGNNGQIQLWQFLLELLTDKDH-TEIIHWVG-TNGEFKLNHPEMVALLWGSRKNKPNMNYE : 322
+
+ 788 : TMGRALRYYYQRGILAKVDGQRLVYQFVDVPKDII : 822
+       .::|||||||:  :::||:|:|:||:||   |:::
+ 323 : KLSRALRYYYDGHMISKVHGKRFVYKFVCNLKQLL : 357
+
+vulgar: Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced 723 822 . Medex_00015978-RA 260 357 . 271 M 25 25 G 1 0 M 8 8 G 1 0 M 64 64
+-- completed exonerate analysis

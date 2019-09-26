@@ -1,0 +1,39 @@
+name	description
+C_hook1	maker-scaffold4790-size194163-augustus-gene-0.5-mRNA-1
+C_hook2	maker-scaffold325-size972641-augustus-gene-7.10-mRNA-1
+C_hook3	augustus-scaffold63-size1621153-processed-gene-11.1-mRNA-1
+C_hook4	maker-scaffold63-size1621153-augustus-gene-13.2-mRNA-1
+C_hook5	maker-scaffold1138-size564540-augustus-gene-1.4-mRNA-1
+G_bue1	GBUE021143-PA
+G_bue2	GBUE009398-PA
+G_bue3	GBUE005702-PA
+G_bue4	GBUE001543-PA
+G_bue5	GBUE006286-PA
+G_bue6	GBUE006285-PA
+M_ext1	Medex_00080928-RA
+M_ext2	Medex_00060547-RA
+M_ext3	Medex_00067579-RA
+M_ext4	Medex_00066470-RA
+M_ext5	Medex_00045157-RA
+C_lec1	CLEC000821-PA
+C_lec2	CLEC025389-PA
+C_lec3	CLEC025251-PA
+C_lec4	CLEC009497-PA
+D_mel1	NP_726750.1 broad, isoform A [Drosophila melanogaster]
+N_lug1	XP_022185576.1 broad-complex core protein isoforms 1/2/3/4/5-like [Nilaparvata lugens]
+N_lug2	XP_022200493.1 broad-complex core protein-like [Nilaparvata lugens]
+N_lug3	XP_022205415.1 broad-complex core protein isoforms 1/2/3/4/5-like, partial [Nilaparvata lugens]
+F_exs1	XP_029671050.1 broad-complex core protein isoforms 1/2/3/4/5 isoform X1 [Formica exsecta]
+A_pis1	XP_001942520.2 broad-complex core protein isoforms 1/2/3/4/5 [Acyrthosiphon pisum]
+D_sim1	XP_016037686.1 broad [Drosophila simulans]
+D_sim2	FBpp0219998 FBgn0193021 br [Drosophila simulans]
+D_sim3	FBpp0325479 FBgn0188167 br [Drosophila simulans]
+D me	1
+N lu	3
+F ex	1
+A pi	1
+G bu	6
+C le	4
+M ex	5
+C ho	5
+D si	3

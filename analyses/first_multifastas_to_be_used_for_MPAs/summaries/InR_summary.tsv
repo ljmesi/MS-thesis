@@ -1,0 +1,29 @@
+name	description
+C_hook1	augustus-scaffold862-size931216-processed-gene-3.1-mRNA-1
+M_ext1	Medex_00067447-RA
+M_ext2	Medex_00078894-RA
+G_bue1	GBUE019859-PA
+G_bue2	GBUE021108-PA
+G_bue3	GBUE020965-PA
+G_bue4	GBUE020810-PA
+G_bue5	GBUE009720-PA
+C_lec1	CLEC010029-PA
+C_lec2	CLEC025326-PA
+N_lug1	XP_022188928.1 insulin receptor-like [Nilaparvata lugens]
+F_exs1	XP_029679542.1 insulin receptor-like [Formica exsecta]
+A_pis1	XP_008185917.1 insulin-like receptor [Acyrthosiphon pisum]
+A_pis2	XP_003242429.1 insulin receptor substrate 1 isoform X1 [Acyrthosiphon pisum]
+C_lec3	XP_014242610.1 insulin receptor-like isoform X1 [Cimex lectularius]
+C_lec4	XP_014250978.1 insulin receptor substrate 1 isoform X1 [Cimex lectularius]
+C_lec5	XP_014256336.1 insulin-like receptor [Cimex lectularius]
+D_mel1	FBpp0083519 FBgn0283499 InR [Drosophila melanogaster]
+D_sim1	FBpp0218373 FBgn0191454 InR [Drosophila simulans]
+D me	1
+N lu	1
+F ex	1
+A pi	2
+G bu	5
+C le	5
+M ex	2
+C ho	1
+D si	1

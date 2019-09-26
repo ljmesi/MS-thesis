@@ -1,0 +1,28 @@
+name	description
+C_lec1	CLEC002129-PA
+C_lec2	CLEC025114-PA
+C_lec3	CLEC001111-PA
+C_hook1	maker-scaffold389-size1115929-augustus-gene-10.2-mRNA-1
+C_hook2	maker-scaffold2708-size326647-augustus-gene-1.2-mRNA-1
+G_bue1	GBUE004915-PA
+G_bue2	GBUE013140-PA
+G_bue3	GBUE021020-PA
+G_bue4	GBUE021385-PA
+M_ext1	Medex_00015863-RA
+D_mel1	NP_724456.1 ecdysone receptor, isoform A [Drosophila melanogaster]
+N_lug1	XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
+N_lug2	XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
+F_exs1	XP_029677557.1 ecdysone receptor isoform X1 [Formica exsecta]
+A_pis1	NP_001152831.1 ecdysone receptor isoform A [Acyrthosiphon pisum]
+C_lec4	XP_014241436.1 ecdysone receptor isoform X1 [Cimex lectularius]
+D_sim1	FBpp0208736 FBgn0182106 EcR [Drosophila simulans]
+D_sim2	FBpp0315934 FBgn0192609 EcR [Drosophila simulans]
+D me	1
+N lu	2
+F ex	1
+A pi	1
+G bu	4
+C le	4
+M ex	1
+C ho	2
+D si	2

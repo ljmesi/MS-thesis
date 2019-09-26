@@ -1,0 +1,7167 @@
+Command line: [exonerate --model affine:local --proteinsubmat pam250 --refine full analyses/2019-09-02/prot_seqs/br-PA.fas analyses/2019-09-02/polypeptides/M_extradentata_pep.fa]
+Hostname: [a8a2be2291d4]
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089452-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 89 -> 382
+  Target range: 123 -> 408
+
+  90 : HGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPH : 153
+       :.|.. : :. :.| .     || .|:::: :  .::||.|::  . :| : :: :    . | 
+ 124 : NNEAAKRSREKRRFNDMILETRVVELSKEN-HVLKAQLAAIKDKFGISGESVVSLEQVMATLPT : 186
+
+ 154 : HGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRL : 217
+        . : : . .:.|    ||.:|||.  |::||.|.. ::.: .:   :|:::: .:  ..  : 
+ 187 : SEQVLNITKRAKL---SGAPPPPPIIYPPIPSPIPTSVIHQPVVTSIGSPPTPFSHFHPQPIQD : 247
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+       ::|:: ||:.:.| |.::  : .:|  . :::: :|..::  .:.: .:.. :| . .. :..:
+ 248 : QSSHHQLPMESNVMSEPEVYPYSFPLPPLHPPPFDQNNGNVLNLSRSRSRAQSPYEVSSGDENS : 311
+
+ 282 : GNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHS : 345
+        :|. : ...  :.: |||: | ::: .|| |  | : :  : |..: .::   . .| ::|.:
+ 312 : VSGPIALTTTIVSTGMNGNSSSSNNNHNSL-PHKLRHKSHLGDKDAASALL---ALQNIKQEPG : 371
+
+ 346 : NDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASH : 382
+       . ::.  |:: ||.. ::  ||: : ... ::|| :|
+ 372 : PRASPPWDGEGSSDERDSGISLGVDWTATAAHGLLPH : 408
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 89 382 . Medex_00089452-RA 123 408 . 103 M 30 30 G 1 0 M 46 46 G 3 0 M 142 142 G 1 0 M 20 20 G 3 0 M 47 47
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00035294-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 587 -> 649
+  Target range: 399 -> 460
+
+ 588 : ECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSGMLKR : 649
+       .| ||.||| .  || :| :: | :..  : |. | | :.:. .| :||. ::|.:  |::|
+ 400 : SCKYCPRTFVYRLSLLKH-EGAHRNEKLSFSCKVCSRLFSSHMKLQAHKKAHERNAIKMFRR : 460
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 587 649 . Medex_00035294-RA 399 460 . 127 M 18 18 G 1 0 M 43 43
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00067834-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 543 -> 636
+  Target range: 145 -> 235
+
+ 544 : NSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQ : 607
+       :. ::|:||::|:.:|:.:.: ::.:.  :  |.::|:  :..  | :|.| |:  |:|   ::
+ 146 : QRQAASASPAPQPPPAAPAASSSSGSQAKV-APRSASSRPKKQFICKFCNRQFTKSYNL--LIH : 206
+
+ 608 : DKHEQSDTLYVCEFCHRRYRTKNSLTTHK : 636
+       :: : .:  | |::| : :| :: | .|:
+ 207 : ERTHTDERPYSCDICGKAFRRQDHLRDHR : 235
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 543 636 . Medex_00067834-RA 145 235 . 122 M 30 30 G 1 0 M 28 28 G 2 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00070723-RA
+         Model: affine:local:protein2protein
+     Raw score: 363
+   Query range: 3 -> 129
+  Target range: 1 -> 127
+
+   4 : TQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCK :  67
+       .|:|||||||..:::|..:.|| : ||:|||||||:| ::|||:.:|||||||| .::  ..  
+   2 : DQQFCLRWNNHPNNLTDVLSNLLQREALVDVTLACDGETFKAHQTILSACSPYFESIFLQNTHP :  65
+
+  68 : HPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQ : 129
+       ||:|:|:|||: ::.:|::|:|.||||| |: |. |||||| |::.|||::.. . :. |::
+  66 : HPIIFLRDVNYTEMKSLLQFMYKGEVNVSQNLLPMFLKTAESLQIRGLTDNAVRKREESLSH : 127
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 3 129 . Medex_00070723-RA 1 127 . 363 M 126 126
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00077624-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 583 -> 635
+  Target range: 181 -> 232
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       : | :| :|.::|   :.| :|::..|. ::  ::|:||::.:..|. :. |
+ 182 : DRPFNCDFCSKSFHRKFDLGKHIRTTHT-GERPFICDFCNKSFNIKRVFVMH : 232
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 635 . Medex_00077624-RA 181 232 . 123 M 28 28 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00071669-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 20 -> 135
+  Target range: 19 -> 137
+
+  21 : AFENLRDDEAFVDVTLACE-GRSIKAHRVVLSACSPYFRELLKS--TPCKHPVILLQDVNFMDL :  81
+       ||:: ::.| : |||| .| ||.:|||: :|:|   ||..:: :  :  :    |   |.:  |
+  20 : AFDHNKHKELY-DVTLCSEDGRELKAHKCILAARLDYFNSMFGGGWAEAQGKKALRIPVPYSIL :  82
+
+  82 : HALVEFIYHGE-VNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLAN : 135
+       :.||:|:|:.| .:| :..  .|:... ||.   |.::  |  :  ||:: .| |
+  83 : EVLVDFLYRNEATSVANSEDVDFVSNVLVLSDQLLIKRLKEICEVALANLITLKN : 137
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 20 135 . Medex_00071669-RA 19 137 . 126 M 11 11 G 1 0 M 7 7 G 0 1 M 24 24 G 0 2 M 29 29 G 0 1 M 43 43
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044306-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 15 -> 121
+  Target range: 63 -> 168
+
+  16 : SSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCKHPVILLQDVNFM :  79
+       | :|||:.:| ....:.|:|: ||: :::||:||||| |: :|: :. .. :.: ::: :.| :
+  64 : SQLTSALKELATSGVLTDITFICEDGTLQAHQVVLSAFSASLRQ-ISVGGGRKSCVFVTNANKL : 126
+
+  80 : DLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAE : 121
+        ::||::::|:| . :::..|::: .:|..|:|. ::| | |
+ 127 : IVQALLQYLYEGYACINKHELDALTEAAGTLKVDCFSQTQLE : 168
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 15 121 . Medex_00044306-RA 63 168 . 153 M 44 44 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044306-RA
+         Model: affine:local:protein2protein
+     Raw score: 136
+   Query range: 10 -> 94
+  Target range: 327 -> 412
+
+  11 : WNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC--KHPVIL :  72
+       ::::: :: . :.:| ..|::.||||  :|| ::||.|:|.| :|||:|| .. .   |::|:|
+ 328 : RDSFR-NFQRILSHLASAESLTDVTLLKDGRYLRAHSVLLCAFGPYFKELEEKLGHELKEAVVL : 390
+
+  73 : LQDVNFMDLHALVEFIYHGEVN :  94
+       ::.::   |:: ::::|:||.:
+ 391 : VKSLSGSLLQSYLDYLYRGEAQ : 412
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 10 94 . Medex_00044306-RA 327 412 . 136 M 5 5 G 1 0 M 50 50 G 0 2 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00086789-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 530 -> 642
+  Target range: 923 -> 1041
+
+  531 : NNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQE---C :  589
+        .:: || .  :|:..|: |.|| |. ::|:.: :. :.: |:|   | ..:...:.:.   |
+  924 : ASGMNGMQQCENKGRSPMSNSPKSPMSPASEAQAALANAKLSLVYCPEEDDPTPDHEGCLPC :  985
+
+  590 : PYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEF--CHRRY--RTKNSL-TTHKSLQHRG :  642
+        ::||:||:   :|| |::  | : :.:| |.   |:: :  |.:.:| :.:.:|: ||
+  986 : SFCRKTFADVGGLKEHYE--HVHLGEMYRCTVPGCEKVFSSRGRRNLHSENEALHTRG : 1041
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 530 642 . Medex_00086789-RA 923 1041 . 111 M 58 58 G 0 3 M 19 19 G 2 0 M 12 12 G 0 2 M 5 5 G 0 2 M 6 6 G 0 1 M 10 10
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00086789-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 339 -> 700
+  Target range: 40 -> 413
+
+ 340 : ANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQF---IMSPAENKMFHA : 400
+       |:.: ::.:|:...|. |.   .. :|||:|:::  :::  ... |. |   : | :...|:::
+  41 : AQSDLPSSATATPSAAESRLLPPTASSLSAGHQQLRAESDIRKKIAGGFPAPLPSVGSPDMLQT : 104
+
+ 401 : AAFNFPNIDPSALLGL-NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTS : 463
+       |  ..::.. ::  || |  |  :..| ::|..|.: ..::: :|.| : |:  :::|  |.. 
+ 105 : ARRRMSETSDASPPGLMNLSLTSPTSLCLPPPPPPPPPSTTTCPPVSFSHSAVMAAAAASSGPL : 168
+
+ 464 : SLKGSLAAAVYSLHSHAHGHVLGHATSPPRP-GSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNG : 526
+       |  : :|::: || | | .  ||: ::.: . . :|:: |.:  .|:. : : || :. . :.:
+ 169 : SAASLVASSLPSLISSATP--LGRKSPHSLGMEYIGNAGGCSEFGSSDDDDDDNSHSALNLSRD : 230
+
+ 527 : NNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQ--AGTPPLPLRMPPP--TSGGINEP : 586
+       :..::: :: :  ::.:: :.:.  |. :   | ..:.:  ::.  ||:.:...  .::. :..
+ 231 : SRQQQQQQQQQHQHQTHHLGRPRQHPPHHMRKAMTPMKRQWGSGVELPINLGTQLINPATGKKR : 294
+
+ 587 : QECPYCRRTFSCYYSLKRHF---QDKHEQSDTLYVCE--FCHRRYRTKNSLTTHKSLQHRGSSG : 645
+        :|. | :||.   :|| ||   : :: :. |:  |:  |. || |.::| ..: .|: .  . 
+ 295 : VQCNVCLKTFCDKGALKIHFSAVHLREMHKCTVEGCNMMFSSRRSRNRHSANPNPKLHSPHLRR : 358
+
+ 646 : MLKRLLKTTAIKHGLVGHGHGHGHVHHPHAHHHALSHPRTSLYDFTSELGQPPPG : 700
+       .:..    :| .|.:: ...|   :  : |  ::|| .. :| . . || :.:::
+ 359 : KISPHDGRSAQSHPILIPPPGSLSLSAAAAALNPLSFGPFPLLTPPQELRHQAAA : 413
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 339 700 . Medex_00086789-RA 40 413 . 108 M 49 49 G 0 3 M 28 28 G 0 1 M 66 66 G 2 0 M 10 10 G 0 1 M 71 71 G 0 2 M 13 13 G 0 2 M 28 28 G 0 3 M 14 14 G 0 2 M 80 80
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00024805-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 70 -> 592
+  Target range: 958 -> 1489
+
+   71 : ILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGL--TQQQAEDTHSHLAQI :  130
+        .||:  . : : :: |   :.. : : :| :: | . |.|.: :|  . :: .:. |:: ::
+  959 : TLLERDANIVISTINETRRRNSESSEVQSDDNVLLDCETLSLISLESESDHIGNGLSRVKKF : 1020
+
+  131 : QNLANSGGRTP--LNTH-TQSLPHPHHGSLHDDGGSSTL-FSRQGAGSPPPTAVPSLPSHIN :  188
+         . |:| : .|  |..: |:.   |:|. |:.|:|.|.   ..:...|. ..: |.: .. :
+ 1021 : IGHADSVDEEPEVLTVNVTDEKEVPDHEHLETDSGESDEDDDMENEESHKGPGKPRIIKPSS : 1082
+
+  189 : NQLLKRMAMMHRSSAAAAAEETSHAFK-RLRGSDNSLPLSGAVGSGSNNNSPDLPPL--HAR :  247
+        .:::|| . ::.:|.||::::.:.: : | ::  ::|: . .| | ::::.:.:| :  :::
+ 1083 : AEIMKRDESLESTSDAATTQNNPKPVRGRRKALYSNLSSKRVVQSHTDKSRSSIPVVSGNTK : 1144
+
+  248 : SASPQQTPADFSTIKHH-NNNNTPPLKEEKRNGPTGNGNSGNGNGNGNG--ASNGNGISISD :  306
+        :::.:  |:  ||:::  ..:.| : :. .|..|:::|:::. |::.::    :::  . . 
+ 1145 : NSGGEVRPTRASTLRQTGRGSATVSHRSVSRTPPSSSGSGSPRNSSPKSYKLQKSQHREQKP : 1206
+
+  307 : KLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLS :  368
+        |:.: : :|:||.::.. |:.::.  . : :.... . ::...  : ::| :: . :..| :
+ 1207 : KMTAAAKPPVARNSSAS-KNTSLKHNSVKLDEAVAVSTGETDPLFRPPERQGTFTKDEPSTP : 1267
+
+  369 : SGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSP :  430
+        :...  |... :| .: .:: :::||: :::    : .. .:::::. :.||::  ||:  :
+ 1268 : NTPKLFIPSP-SSSPTKTRIPVPSAEKPIIQKKKVQTTAKSAPPVMN-KPQLRR--DLTRQS : 1325
+
+  431 : QGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPP :  492
+        .     .| : : : ..||:. :...| ::. :: : || ::  . :| ::  : :::...:
+ 1326 : PRVSVQNRMTKALSQDCTSTGKGNRPATVPGRNANRRSLYSSEVK-QSLSNQSLNSDSGKGS : 1386
+
+  493 : RPGSVGSS-VGSNLCT--STSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTS :  551
+        | :::|:|  :|: |:  |:|  .| :|:|.. : .:: |:  .. .::..::|. ..... 
+ 1387 : RKSTLGASQKSSSNCSLNSASSVSGGKSSNTKKEVTSKIASLWKRVEESKAKQNAVKDKREW : 1448
+
+  552 : PGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYC :  592
+         .:: .::..:|.:::  | | :: .::: . | | . : |
+ 1449 : IPAECGTSTPSVVDGSLIPSPPKLVRSSTFEGNVPGSNAVC : 1489
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 70 592 . Medex_00024805-RA 958 1489 . 115 M 45 45 G 0 2 M 26 26 G 0 2 M 4 4 G 0 1 M 21 21 G 0 1 M 49 49 G 0 1 M 29 29 G 0 2 M 20 20 G 0 1 M 31 31 G 0 2 M 28 28 G 1 0 M 54 54 G 1 0 M 36 36 G 1 0 M 6 6 G 2 0 M 51 51 G 1 0 M 24 24 G 0 1 M 7 7 G 0 2 M 85 85
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00039026-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 43 -> 159
+  Target range: 128 -> 248
+
+  44 : KAHRVVLSACSPYFRELLKST--PCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLK : 105
+       :|||.||::|| |||.::..:   .::: | |::|.  ::. |::: | : :.::  ::|. |.
+ 129 : QAHRAVLASCSDYFRAMFTDAMRESRQSEICLNGVTAAGIKLLLDYAYTSRLALNLANIQDVLS : 192
+
+ 106 : TAEVLRVSGLTQQQAE--DTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHD : 159
+       :|. ::| ::.:. :.  ::: :|.:  :||. :.  :|:   |.: :   | |::
+ 193 : AASHVQVVAVVEACSTYLQAQLDLENCVDLATIAETYSLSQLRQRVYQLMCGHLQE : 248
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 43 159 . Medex_00039026-RA 128 248 . 130 M 21 21 G 0 2 M 57 57 G 0 2 M 38 38
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00099786-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 588 -> 639
+  Target range: 358 -> 407
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQ : 639
+       |.:| ::|.   .::||  :: : ::. :||. | : :  ::||.||::|:
+ 359 : CRFCGKSFRLKVEMQRH--ERSHTGEKPFVCKVCSKAFAHRESLITHNTLH : 407
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 639 . Medex_00099786-RA 358 407 . 106 M 17 17 G 2 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00070654-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 277 -> 582
+  Target range: 66 -> 371
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       .| .|.|::|. .| |.|:: |.|:: ::. |::.. . :.: :::  :.::.   :..:: :.
+  67 : GGFIGGGHGGGIGGIGGGSGLGGGFG-GGHGGGIGGIGGGSGLGGGFGGGALSGGFGGGSGIGG : 129
+
+ 342 : D-EHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDG-LASHHAAPQFIMSPAENKMFHAAAF : 403
+       : . :|: .|. ::..: :|: | |: ::| :..:|:| |.:.|   :   : :|::. :::  
+ 130 : GFGGGNGIGGGFGGGSGIGGGFGGGAGGGGFGGGFGGGQLVTKHIYVHVAPPEPEDNRPRPTFA : 193
+
+ 404 : NFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG : 467
+       . .| ..  :: :::. ..:.. |. |. ::. .::     ......:|. ..:  :|| : |.
+ 194 : PAQNRKHYKIVFIKAPTPPTPTAAAIPPLSQDQEKTLIYVLVKKPEEAPELTIPTPAPTQPSKP : 257
+
+ 468 : SLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANN : 531
+       .:    |. :.:. | | |  ::.  .|  ::::|:.: .:.::: | .: ..:| ..|:. ..
+ 258 : EVYFIRYKTQKQVSGGVGGGIAGGIGGGLGDGGIGGGI-GGGGLDIGGTGIGGTGIGGGSGIGG : 320
+
+ 532 : NSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       .|. |.: ... .: :::.:.|  :. :||  . :|:..::   . |.:||
+ 321 : GSGIGGGHGGGIGGIGGGIGGGHGGGIGGGHGGSGGSGGVSTAYGVPGAGG : 371
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 277 582 . Medex_00070654-RA 66 371 . 112 M 26 26 G 1 0 M 38 38 G 0 1 M 36 36 G 0 1 M 127 127 G 1 0 M 76 76
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00020663-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 506 -> 667
+  Target range: 213 -> 376
+
+ 507 : TSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       :..| .|.| | :::: :  ::::. .: |: .::::: .: ::|: . :.  . . ::   ..
+ 214 : SRISNTCNVCSLDSADCQCVKHSQALESLGKIEDKSSKVETVGSSAHKISDKHTCVDSNKLCTQ : 277
+
+ 571 : LPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTT : 634
+        .: :..:.::. :::  |  | : ||   :|:||  .| : ::  ::|:|| :.:. |::|.:
+ 278 : GNMFIRQSKTSTQDNSFVCEVCFKYFSQKSGLRRH--AKIHTGERPFICDFCGKSFNRKSNLKA : 339
+
+ 635 : HKSLQH--RGSSGMLKRLL--KTTAIKHGLVGHGHGH : 667
+       |:::::  :. | .||  |  :: . |::|| |  :|
+ 340 : HRTIHNDTKPVSVRLKCHLCSRSFVQKESLVCHIMSH : 376
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 506 667 . Medex_00020663-RA 213 376 . 117 M 99 99 G 2 0 M 33 33 G 0 2 M 11 11 G 0 2 M 16 16
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066065-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 181 -> 486
+  Target range: 88 -> 392
+
+ 182 : SLPSHINNQLLKRMAMMHRSSAAAAAEETSHAF-KRLRGSDNSLPLSGAVGSGSNNNSPDLPPL : 244
+       |:::: :::: . ::. :  | .. |.:.| :| :.: |::.| . :.::: :||:.::: :::
+  89 : SISPEHSDNVKDIITFENIISMNNKASNNSTSFDNNVIGNNTSGNETTGIDVSSNSTNSN-SSF : 151
+
+ 245 : HARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNS-GNGNGNGNGASNGNGISISDK : 307
+       :.|:    :..:: ||.::::.::...|::...::|:.|::| :.::.|:::.|.::. : :..
+ 152 : DNRPLY--NNTSNNSTTNNNSTSDNNTLNNSTSDDPSNNSSSNSTSDNNSSSNSTSDNNGNNST : 213
+
+ 308 : LGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGN : 371
+       |.: |:.  :..:::: .|:. .   |.::.|:|:.  |:||::: :|.||:: :.::| :|.:
+ 214 : LNNSTSDDPSNNSSNNSTSDNNSSSNSTSDNNGNNSTLNNSTSDDPSNNSSNDPSNNSSSNSTS : 277
+
+ 372 : DEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHS : 435
+       |:: :.. :|::.:.: .::.:.:.   ..: : :. |.::  . .::  :::.|. |. : .|
+ 278 : DNNSSSNSTSDNNGNNSTLNNSTSDDPSDNSSSNSTSDNNSSSNSTSDNGNNSTLNNSTSDDPS : 341
+
+ 436 : ITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLG : 486
+        ..|:.:::.:::||.:: ..: ..... : :.:.::  .:: :..|: :|
+ 342 : NNSSSNSTSGNNSSSNSTLNNSTTDNGRFVISDIVSTYRKVNVNVKGNHFG : 392
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 181 486 . Medex_00066065-RA 88 392 . 117 M 33 33 G 0 1 M 26 26 G 1 0 M 9 9 G 2 0 M 34 34 G 0 1 M 200 200
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066065-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 180 -> 498
+  Target range: 91 -> 415
+
+ 181 : PSLPSHINNQL-LKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPP : 243
+       |. :.:::: : :..:  |:..::..::. .::.: .  ::::: .:. : .|.::|:| | .|
+  92 : PEHSDNVKDIITFENIISMNNKASNNSTSFDNNVIGNNTSGNETTGIDVSSNSTNSNSSFDNRP : 155
+
+ 244 : LHARSASPQQTPADFSTIKH--HNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISIS : 305
+       |...:::.  |..: :: ::  :|:.:. | ::...|:.::|.:|:|:.::.||.::. . |.|
+ 156 : LYNNTSNNSTTNNNSTSDNNTLNNSTSDDPSNNSSSNSTSDNNSSSNSTSDNNGNNSTLNNSTS : 219
+
+ 306 : DKLGSLTPSPLARAGADDVKSEPMDMVCSNN-NANANDEHSNDSTGEHDANRSSSGDGGKGSLS : 368
+       |. :: :::. :...... :|.: :   ::. |.:::|:.||:|:.:...|.||::.:::.| |
+ 220 : DDPSNNSSNNSTSDNNSSSNSTSDNNGNNSTLNNSTSDDPSNNSSNDPSNNSSSNSTSDNNSSS : 283
+
+ 369 : SGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQG : 432
+       ::..:: |:. : ::::::   .|::|.  :::: | :: ::::  | |: |::|.. . |.::
+ 284 : NSTSDNNGNNSTLNNSTSD---DPSDNSSSNSTSDNNSSSNSTSDNGNNSTLNNSTSDDPSNNS : 344
+
+ 433 : PHSITRSAATSPTSSTSSPPSPP-----TALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSP : 491
+       : : |.:..:|:.|: :::.: .     :.::|. ..:: :: :. ::|: .   || :: :: 
+ 345 : SSNSTSGNNSSSNSTLNNSTTDNGRFVISDIVSTYRKVNVNVKGNHFGLEIKKTVHVYADIANK : 408
+
+ 492 : PRPGSVG : 498
+       . ...|:
+ 409 : NDGNKVA : 415
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 180 498 . Medex_00066065-RA 91 415 . 108 M 11 11 G 0 1 M 72 72 G 0 2 M 73 73 G 0 1 M 51 51 G 3 0 M 65 65 G 0 5 M 43 43
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066065-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 161 -> 396
+  Target range: 151 -> 387
+
+ 162 : GSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLP : 225
+       ::..|::. :..|..... .| .: :||   .  :   .|::::..:.:|:: .  .|::::|.
+ 152 : DNRPLYNNTSNNSTTNNNSTSDNNTLNNSTSDDPSNNSSSNSTSDNNSSSNSTSDNNGNNSTLN : 215
+
+ 226 : LSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNG : 289
+        |.: ::::|:::.. :  ::.|.|. :..:: ||::: .:::.:. ..:..:..:::.::::.
+ 216 : NSTSDDPSNNSSNNSTSDNNSSSNSTSDNNGNNSTLNNSTSDDPSNNSSNDPSNNSSSNSTSDN : 279
+
+ 290 : NGNGNGASNGNGISIS-DKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEH : 352
+       |:::|::|:.|| : : :: .| .||  :.:.:.. ::.: : ...|.|.:: :: ::|..:::
+ 280 : NSSSNSTSDNNGNNSTLNNSTSDDPSDNSSSNSTSDNNSSSNSTSDNGNNSTLNNSTSDDPSNN : 343
+
+ 353 : DANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENK : 396
+       .::.|:||:.:.:: : .|... .: :.  : .: : . ..: |
+ 344 : SSSNSTSGNNSSSNSTLNNSTTDNGRFVISDIVSTYRKVNVNVK : 387
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 161 396 . Medex_00066065-RA 151 387 . 106 M 144 144 G 0 1 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066065-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 202 -> 483
+  Target range: 86 -> 367
+
+ 203 : AAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNN : 266
+       : : : | |:. | : . :| ::::. .::.|.: ..:: . ::.:...  . .. ::.: :::
+  87 : SKSISPEHSDNVKDIITFENIISMNNKASNNSTSFDNNVIGNNTSGNETTGIDVSSNSTNSNSS : 150
+
+ 267 : NNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMD : 330
+        :..|| ::..|.:|.|.||.::|.. |.:::::. : |.. :: ..:: :.:.:|:  :::  
+ 151 : FDNRPLYNNTSNNSTTNNNSTSDNNTLNNSTSDDPSNNSSSNSTSDNNSSSNSTSDNNGNNSTL : 214
+
+ 331 : MVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAE : 394
+         .::::::.|..:::.|..: .:|.:|..:|.:::|:::..:: ::. :::.:..    |.::
+ 215 : NNSTSDDPSNNSSNNSTSDNNSSSNSTSDNNGNNSTLNNSTSDDPSNNSSNDPSNNSSSNSTSD : 278
+
+ 395 : NKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTAL : 458
+       |:   .:: : .. :::   : :.:  :::. . :::.. | ..::..:..|: :::.|  .: 
+ 279 : NNSSSNSTSDNNGNNSTLNNSTSDDPSDNSSSNSTSDNNSSSNSTSDNGNNSTLNNSTSDDPSN : 342
+
+ 459 : ISPTSSLKGSLAAAVYSLHSHAHGH : 483
+        |:::| .|: :::  :|:: : ::
+ 343 : NSSSNSTSGNNSSSNSTLNNSTTDN : 367
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 202 483 . Medex_00066065-RA 86 367 . 105 M 281 281
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066065-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 145 -> 429
+  Target range: 86 -> 373
+
+ 146 : TQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPS--LPSHINNQLLKRMAMMHRSSAAAAA : 207
+       ::|::. | :::.|  . ..::|.:. :|..:|:  :  :.::.:.:  . :.:  .|:.:.::
+  87 : SKSISPEHSDNVKDIITFENIISMNNKASNNSTSFDNNVIGNNTSGNETTGIDVSSNSTNSNSS : 150
+
+ 208 : EETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPP : 271
+        :... ::. ..:..: . |.: .:. ||:::| |: ::.|.|. :..:. ::..::|.||:. 
+ 151 : FDNRPLYNNTSNNSTTNNNSTSDNNTLNNSTSDDPSNNSSSNSTSDNNSSSNSTSDNNGNNSTL : 214
+
+ 272 : LKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTP-SPLARAGADDVKSEPMDMVCS : 334
+        :... :.:..::|::.::.|:::.|.::. : :..|.: |: .| ..::.|  ::.: : ...
+ 215 : NNSTSDDPSNNSSNNSTSDNNSSSNSTSDNNGNNSTLNNSTSDDPSNNSSNDPSNNSSSNSTSD : 278
+
+ 335 : NNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMF : 398
+       ||:::.:..::|::.:. :.: |....:..:| |:::::. ::: :.: ..: :  |.:::   
+ 279 : NNSSSNSTSDNNGNNSTLNNSTSDDPSDNSSSNSTSDNNSSSNSTSDNGNNSTLNNSTSDDPSN : 342
+
+ 399 : HAAAFNFPNIDPSALLGLNTQLQQSGDLAVS : 429
+       :::: : :. ::|:  .||.   ::| :.:|
+ 343 : NSSSNSTSGNNSSSNSTLNNSTTDNGRFVIS : 373
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 145 429 . Medex_00066065-RA 86 373 . 104 M 37 37 G 0 2 M 131 131 G 0 1 M 116 116
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00057944-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 572 -> 640
+  Target range: 361 -> 426
+
+ 573 : LRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHK : 636
+       || .  | .| :.|  |: |. .|:.  :||||.| ||. :| |:.|.:|  :: :|.||. |:
+ 362 : LRHHIETHTG-EKPFPCSLCSAKFAYKLTLKRHMQ-KHT-GDMLFTCSLCSDKFVSKRSLKYHR : 422
+
+ 637 : SLQH : 640
+       .  |
+ 423 : RKMH : 426
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 572 640 . Medex_00057944-RA 361 426 . 116 M 10 10 G 1 0 M 24 24 G 1 0 M 3 3 G 1 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00080828-RA
+         Model: affine:local:protein2protein
+     Raw score: 298
+   Query range: 0 -> 73
+  Target range: 34 -> 107
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST :  64
+       |::.|:|||||||:|::|||.||.||::|.||||||||:|:.:|||:|||||||||||||:.  
+  35 : MGEEQQFCLRWNNFQANITSQFEALRNEEEFVDVTLACDGQRLKAHKVVLSACSPYFRELFTVR :  98
+
+  65 : PCKHPVILL :  73
+       .|: . :||
+  99 : RCNFNFVLL : 107
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 73 . Medex_00080828-RA 34 107 . 298 M 73 73
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060247-RA
+         Model: affine:local:protein2protein
+     Raw score: 194
+   Query range: 62 -> 194
+  Target range: 0 -> 138
+
+  63 : STPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSH : 126
+       ..||:||||::::|:  || |||||:|.|||||:|. | |||.|||:| | ||:   |.|.   
+   1 : ENPCQHPVIIFRNVKHEDLTALVEFMYKGEVNVNQDQLSSFLMTAEMLAVQGLSGSSAKDGSVG :  64
+
+ 127 : LAQIQNLANSGGRTPLNTHTQSL---PHPHHGSLHDDGGSST---LFSRQGAGSPPPTAVPSLP : 184
+        .  : |::|:.|.|  .:::::     .|:.|: :.:::|.   ::.|:.:.|||::  .. .
+  65 : NEVEEILPSSAEREPEIEQSKAVWQEKGTHNPSIAGTSAASPSPYFLERRNSESPPASKRRKRR : 128
+
+ 185 : SHINNQLLKR : 194
+       ::...: :|:
+ 129 : GNTPTKEVKH : 138
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 62 194 . Medex_00060247-RA 0 138 . 194 M 87 87 G 0 3 M 16 16 G 0 3 M 29 29
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044649-RA
+         Model: affine:local:protein2protein
+     Raw score: 373
+   Query range: 3 -> 190
+  Target range: 91 -> 281
+
+   4 : TQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCK :  67
+       :|::||||: .::::   |.:| : |:| ||||||||::::||:|||||||.|| .::.    |
+  92 : SQQYCLRWKYHHNNLQVMFSQLLERESFCDVTLACEGKTLRAHKVVLSACSTYFDAIFSQYEEK : 155
+
+  68 : HPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQ--QAEDTHSHLAQ : 129
+       :|:::|:||:| |:.|||||:|:||:||::. |.|:|:||| ||:.||::   :::: ::: : 
+ 156 : NPIVILKDVKFTDIKALVEFMYRGEINVDHSHLASLLRTAEDLRIKGLAEVSWRSDNHNTDNGV : 219
+
+ 130 : IQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAV-PSLPSHINNQ : 190
+        :.|.: |. : :::..:. ..|:  .   || :: : |  ||::::   : .:::|:::::
+ 220 : EHRLESMGNGSDFESPPHKRRKPQMMDSSVDGFNPQVASISGADGSSEMFMHNNISSNVESE : 281
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 3 190 . Medex_00044649-RA 91 281 . 373 M 115 115 G 0 2 M 62 62 G 0 1 M 10 10
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00024853-RA
+         Model: affine:local:protein2protein
+     Raw score: 159
+   Query range: 7 -> 101
+  Target range: 87 -> 180
+
+   8 : CLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKS-TPCKHPV :  70
+       ||: .  :|.:.:: ..   :: : ||||. :  .: ||::||:|||||| .::.| . .|:  
+  88 : CLQLG--KSRVDGTVGRNVRQNLLCDVTLVADCVEVPAHKMVLAACSPYFYAMFTSFEESKQDR : 149
+
+  71 : ILLQDVNFMDLHALVEFIYHGEVNVHQKSLQ : 101
+       | ||:|:  .|: |||::| :||:| :.::|
+ 150 : ITLQGVDPQALQLLVEYVYSSEVHVTEENVQ : 180
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 7 101 . Medex_00024853-RA 87 180 . 159 M 5 5 G 2 0 M 49 49 G 0 1 M 38 38
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00020237-RA
+         Model: affine:local:protein2protein
+     Raw score: 390
+   Query range: 1 -> 133
+  Target range: 5 -> 136
+
+   2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTP :  65
+       :.:::|.|||:|::|:::::|:.| ::|.:||||:| ||| ::||::|||.|||||:.|:| .|
+   6 : GKSERFSLRWDNFHSNLSTSFHTLLQGEELVDVTIAAEGRFVQAHKLVLSVCSPYFKSLFKVNP :  69
+
+  66 : CKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQ : 129
+       ||||:::|:||. .:| .::||:|:||||| |..| .||||||:|:|.||| ::: :.: :| |
+  70 : CKHPIVILKDVGHKELVDILEFMYRGEVNVSQEDLTEFLKTAELLQVKGLTGDDTPGPE-NLKQ : 132
+
+ 130 : IQNL : 133
+        | |
+ 133 : KQML : 136
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 133 . Medex_00020237-RA 5 136 . 390 M 123 123 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00045893-RA
+         Model: affine:local:protein2protein
+     Raw score: 357
+   Query range: 2 -> 101
+  Target range: 14 -> 114
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC :  66
+       ..||:|||||||||::||.|::|  :||||||||||::.|:|||:|||||||:||:.|| ..||
+  15 : AGQHYCLRWNNYQSNMTSVFHQLLRNEAFVDVTLACNDSSLKAHKVVLSACSSYFQKLLLENPC :  78
+
+  67 : KHPVILL-QDVNFMDLHALVEFIYHGEVNVHQKSLQ : 101
+       |||.|:: ||| | ||. ::||:|:||::| | .||
+  79 : KHPTIIMPQDVCFSDLKFIIEFVYRGEIDVSQAELQ : 114
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 101 . Medex_00045893-RA 14 114 . 357 M 71 71 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00045897-RA
+         Model: affine:local:protein2protein
+     Raw score: 198
+   Query range: 0 -> 57
+  Target range: 24 -> 81
+
+  1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYF : 57
+      |.:.|:|||||||.||::.|.|:.| :..::|| ||| ||: :|||:||||||||||
+ 25 : MANEQQFCLRWNNHQSTLVSVFDTLLESGTLVDCTLAAEGQYLKAHKVVLSACSPYF : 81
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 57 . Medex_00045897-RA 24 81 . 198 M 57 57
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00008296-RA
+         Model: affine:local:protein2protein
+     Raw score: 227
+   Query range: 1 -> 63
+  Target range: 3 -> 65
+
+  2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKS : 63
+      :  |:: |:||::||::.|:|.:|||:.:|.||||||||:: |||::|||||||||:.||.:
+  4 : EPQQQYFLKWNDFQSNMVSSFKHLRDEKSFTDVTLACEGQTCKAHKMVLSACSPYFKSLLEA : 65
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 63 . Medex_00008296-RA 3 65 . 227 M 62 62
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00103527-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 311 -> 647
+  Target range: 18 -> 348
+
+ 312 : TPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEI : 375
+       :|:|::.::  : .|.|..|: |::. ::..: :  : . : ::..  :|    ::. :.:.. 
+  19 : APPPFGSPDMREKDSSPRKMLLSSSGHSSPKQAAVYPLTVRVPDPRHHDD---MPFDLSRNTAA :  79
+
+ 376 : GDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRS : 439
+       :  :::   :|:   . .::.  :: .:.  : . | ::  .   ::: :| :.:.:|:. : :
+  80 : APHMSPAGRPPRGPHDEDDDEDAQPLDLRVEHKKLSLVMIRRRIEDENRNLILRSPSPDKDATA : 143
+
+ 440 : AATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGS : 503
+       |:...:. .|:|::: ::  : .:|   :  :.::: .   ::   |  .:|. | :|.|: | 
+ 144 : ASDERARQPSPPSPSCSSASGKPTSPVVNPYPVLFPHPIMLEAMYRGGKEPPRLPYPVNSAGGF : 207
+
+ 504 : NLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAG : 567
+       .  ...    |:|:|::::  .| ..::.: : :| .:..::::::.:.|.  .  : .     
+ 208 : PQPPRPYPFIGLNGGQSPA--GGFRNHHPPLQHKAYPHAADGPGGAPGGGKLKDRYSCKFCGKV : 269
+
+ 568 : TP-PLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKN : 630
+        | : .| .. .| .| ::| .| || |:||   :|:|| :: |:: :. : | :|:| :  :.
+ 270 : FPRSANLTRHLRTHTG-EQPYKCKYCERSFSISSNLQRHVRNIHNK-EKPFKCPLCDRCFGQQT : 331
+
+ 631 : SLTTHKSLQHRGSSGML : 647
+       :|. | . :: :::.:|
+ 332 : NLDRHLKKHEADGPTIL : 348
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 311 647 . Medex_00103527-RA 18 348 . 131 M 50 50 G 3 0 M 158 158 G 2 0 M 45 45 G 0 1 M 13 13 G 1 0 M 29 29 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 156
+   Query range: 171 -> 590
+  Target range: 421 -> 844
+
+ 172 : AGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSN : 235
+       ||. ... :.:| :  ..:|:..::::|.| ::::: ..|::| .: || . |.:||::: :|:
+ 422 : AGRVRRGLIGNLLNGDAGRLIDPLGLLHNSQSSSGSRSESDSF-SIGGSLGLLGISGGLSHSSS : 484
+
+ 236 : NNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNG : 299
+       |. :: :: :: :::.  :.:: |:    :. .. . ..:.:.|:.:|:.:|: .|.. | ::.
+ 485 : NAQSG-SSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGSNANAGGGQYGGGPLGFGSN : 547
+
+ 300 : NGISISDKLGSLTPSPLARAGADDV--KSEPMDMVCSNNNANANDEHSNDSTGEHDANRS-SSG : 360
+       :| |  .: || :.:. :: |:: :   |:: . . |:.:::|.:: :: ::|.|.::.: | :
+ 548 : SGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQSGHFGSGSHSGSSAQSQA : 611
+
+ 361 : DGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSG : 424
+       :|| |: . |.:.. ::: :: ::.:  : :.:..:  . .  : | | .::   | .: :.: 
+ 612 : GGGAGGGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPHGPDAILFEEPHPPH : 675
+
+ 425 : DLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHA : 488
+       : : : :|..|:.:: :.:|.::.: ..:|: :  :|.: | .::::: |   :.: ...|.|:
+ 676 : HSSPPIHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQL-EPVGPPNYIGLPPPSPPTLEHG : 738
+
+ 489 : TS----PPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSS : 548
+       .:    |.:|.| : :  ..: :::  ..:.:||::||.. |.. .|.:: |:.:::::::||:
+ 739 : NPGFVKPHHPPSPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSESSASSG : 802
+
+ 549 : STSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       | | |: :..: :.   :::::   | ...  |: ::::..:
+ 803 : SQSEGGWGGNSQSGSQSSSSSSSKGRGHGGQFGSNSQSESSA : 844
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 171 590 . Medex_00046275-RA 421 844 . 156 M 43 43 G 1 0 M 25 25 G 1 0 M 83 83 G 0 2 M 33 33 G 0 1 M 108 108 G 1 0 M 24 24 G 0 4 M 100 100
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 164 -> 567
+  Target range: 402 -> 808
+
+ 165 : TLFSRQGAGSPPPTAVPSLPSHINNQLLKRM--AMMHRSSAAAAAEETSHAFKRLRGSDNSLPL : 226
+       .|:   |:  :: ::.. |::::.. |: .:  :   |  .: :  :.|:: .  |:..:|:::
+ 403 : VLIITLGTILSAEAGTTVLAGRVRRGLIGNLLNGDAGRLIDPLGLLHNSQSSSGSRSESDSFSI : 466
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       :|::|  : :.: . :: :|:|:|:.:..:: :: .  :.::::. :.    |:::::::|:..
+ 467 : GGSLGLLGISGGLSHSSSNAQSGSSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGSNA : 530
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPL-ARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHD : 353
+       ..|.|. .|..::::.: || :.|.  :.|.|:: : ..  :  ::|::::.:.|::.|:|.:.
+ 531 : NAGGGQYGGGPLGFGSNSGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQS : 594
+
+ 354 : ANRSSSGDGGKGSLSSGNDEEIGDGLASHHA-APQFIMSPAENKMFHAAAFNFPNIDPSALLGL : 416
+       :: :|::::|.:: | :.:.. |: :::| : :..   |.:|:  | .:: . |.   .:  .:
+ 595 : GHFGSGSHSGSSAQSQAGGGAGGGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPV : 658
+
+ 417 : NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHA : 480
+        .:  ..: |  .|:.||  :.:  .:|: : :.||:||.:   ..::  |. :::   |:: :
+ 659 : IPH-GPDAILFEEPHPPHHSSPPIHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPP-QLEPVG : 720
+
+ 481 : HGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNA-TNNNN : 543
+       ..: :| :.::|.. . |::   :   :.| : | :.. .|.:::.::|::.|::|.: .....
+ 721 : PPNYIGLPPPSPPTLEHGNPGFVKPHHPPSPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRG : 784
+
+ 544 : NSSSSSTSPGSQATAAGGTVTQAG : 567
+       |::  :::: |:::|::|: :::|
+ 785 : NGGQFGSNSQSESSASSGSQSEGG : 808
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 164 567 . Medex_00046275-RA 402 808 . 143 M 31 31 G 0 2 M 121 121 G 0 1 M 68 68 G 0 1 M 35 35 G 1 0 M 53 53 G 1 0 M 64 64 G 0 1 M 29 29
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 217 -> 570
+  Target range: 487 -> 838
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+       .||..: . :|: :|||:.:|:. :. .:  :|:.|:.|: ::    .: ...||  ...:|::
+ 488 : SGSSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSS : 551
+
+ 282 : GNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHS : 345
+       :::::|:....|.|. .|..::::.: || :.|. ..:::::  |...:  . :.::..::. :
+ 552 : AQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQ--SGHFGSGSHSGSSAQSQAGG : 613
+
+ 346 : NDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNID : 409
+       ..:.|. ::: : ||. :::  .||. .: |:. ::. . |:  : | ... :  .. : |: .
+ 614 : GAGGGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPHGPDAILFEEPHPPHHS : 677
+
+ 410 : PSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTAL-ISPTSSLKGSLAAA : 472
+       :::: | .. : |:   : :|..|   ..| : :|.::  .| :||. : ::|.|: . . :.:
+ 678 : SPPIHG-GPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQLEPVGPPNYIGLPPPSPPTLEHGNP : 740
+
+ 473 : VYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNG : 536
+        :  . |:.:. :| . : ...:  .||.:|.  ::.: | | .:|.: |:|: ::::.:|.: 
+ 741 : GFVKPHHPPSPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSESSASSGSQ : 804
+
+ 537 : NATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       :... ..|| |:| |::| :: : |  .| |:.:
+ 805 : SEGGWGGNSQSGSQSSSSSSSKGRGHGGQFGSNS : 838
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 217 570 . Medex_00046275-RA 487 838 . 126 M 106 106 G 2 0 M 90 90 G 1 0 M 42 42 G 0 1 M 112 112
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 226 -> 567
+  Target range: 483 -> 825
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       |.| :::|.|.:.: .:  :. ||: ..:..::.:   .::::.: :.:  .|. |.|. | |:
+ 484 : SNAQSGSSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGS-NANAGGGQYGGGPLGFGS : 546
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       .:|::| : .| : :.  |  ..:||: ::..: .:::     ::::|.::..| ..:: . .:
+ 547 : NSGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSH----ADSSAGGQSGHFGSGSHSGSS : 606
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIM--SPAENKMFHAAAFNFPNIDPSALLGL : 416
+       .:| :|:|: |:  :.::.: |.  .|: .:..|    :|  . : ::.:  :|: :|.|:|  
+ 607 : AQSQAGGGAGGGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPH-GPDAILFE : 669
+
+ 417 : NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS-----PPTALISPTSSLKGSLAAAVYS : 475
+       :.: .: :. :: . .: : .|:::.:|.::  :.||     ||..| : .::   :|:::  :
+ 670 : EPHPPHHSSPPIHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQLEPVGPPNYIGLPPPSPP : 733
+
+ 476 : LHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNAT : 539
+         .|::.  : .  :|:.: :  .: |||  :.:| :.| :||.. |...||.:: .||: :.:
+ 734 : TLEHGNPGFVKPHHPPSPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSES : 797
+
+ 540 : NNNNNSSSSSTSPGSQATAAGGTVTQAG : 567
+       :.::.| |.:. .|: .::: :: : ::
+ 798 : SASSGSQSEGGWGGNSQSGSQSSSSSSS : 825
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 567 . Medex_00046275-RA 483 825 . 121 M 45 45 G 1 0 M 57 57 G 4 0 M 57 57 G 0 2 M 17 17 G 1 0 M 45 45 G 0 5 M 114 114
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 149 -> 472
+  Target range: 621 -> 946
+
+ 150 : PHPHHGSLHDDG-GSSTLFSRQGAGSPPPTAVPSLP--SHINNQLLKRMAMMHRSSAAAAAEET : 210
+       ||. ::: |.:: :.|. ||. |:..|:| . |. |  :| .:.:|   :  .: |:::  ...
+ 622 : PHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPHGPDAILFEEPHPPHHSSPPIHGGP : 685
+
+ 211 : SHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARS--ASPQQTPADF----STIKHHNNNN : 268
+       | :  | ..: .: |: |: : |....:|:| |: :.:  : |..:|:.:    :.: ..::..
+ 686 : SFGQPRPPPPPPPPPMHGGPSFGRPPPPPQLEPVGPPNYIGLPPPSPPTLEHGNPGFVKPHHPP : 749
+
+ 269 : TPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMV : 332
+       :|:: .::. |:.::::|:.::|: :|:: |.| : ::::|| :.|  :.|:::. .... :  
+ 750 : SPSFGGQRPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSE-SSASSGSQSEGGWG-- : 811
+
+ 333 : CSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENK : 396
+        :|:::.::.. |:.|.|  ::.: :|.. :.:| |||::.| | | :: ::::|   |:..: 
+ 812 : -GNSQSGSQSSSSSSSKGRGHGGQFGSNSQSESSASSGSQSEGGWG-GGSQSGSQSSSSSNSKG : 872
+
+ 397 : MFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALIS : 460
+       . |::.|. :| ::.:  : .:|: |:|  : :. |:.| :.| :.:.. :.:|.:|: :.  |
+ 873 : RGHGGQFG-SNSQSESSSSSGSQF-QGGWGGGAQSGSKSSSSSFSEGRGHGEASGSSSKSQSES : 934
+
+ 461 : PTSSLKGSLAAA : 472
+       ::||: |:::::
+ 935 : SSSSFGGGFGGS : 946
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 149 472 . Medex_00046275-RA 621 946 . 120 M 12 12 G 0 1 M 23 23 G 0 2 M 64 64 G 0 2 M 10 10 G 0 4 M 57 57 G 1 0 M 14 14 G 3 0 M 45 45 G 1 0 M 25 25 G 1 0 M 15 15 G 1 0 M 51 51
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00046275-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 93 -> 568
+  Target range: 423 -> 907
+
+  94 : NVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSL : 157
+       .|::  : ::|:...   :..|.  :..:: |      :  : ||. .| . : :|:|:  .: 
+ 424 : RVRRGLIGNLLNGDAGRLIDPLGLLHNSQSSSGSRSESDSFSIGGSLGLLGISGGLSHSSSNAQ : 487
+
+ 158 : HDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSD : 221
+        :.::::.  :  ::||.::::..| .    .   :. |  : :::::. ...: :| . .||.
+ 488 : SGSSANGGGGGGSSSGSQASSSAGSQTYGGVGSSAQSQAGSNANAGGGQYGGGPLGFGSNSGSS : 551
+
+ 222 : NSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGN : 285
+       .  . ::...:|:.: :.:  .: :.|:|:.|:.|| |:  : .: .:.: .... ::.:|.|.
+ 552 : AQSQAGSNANAGGGQYGGGPLGFGSNSGSSAQSHADSSAGGQSGHFGSGSHSGSSAQSQAGGGA : 615
+
+ 286 : SGN--GNGNGNGASNGNGISISDKL---GSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEH : 344
+       :|.  |. .|::::::|: | |: :   |:  |:||.|:::  :  .| .:: .:.::. :...
+ 616 : GGGKFGPHGGQSGAHSNSQSESGAFSNGGGPRPAPLVRPDGPVIPHGPDAILFEEPHPPHHSSP : 679
+
+ 345 : SNDSTGEHDANRSSSGDGGKGSLSSGN-DEEIGDGLASHHAAPQFI-MSPAENKMFHAAAFNFP : 406
+       : ::... :..|:::. .. .  ::.: :   . .  .. ::|::| ::|:..  :: :. .| 
+ 680 : PIHGGPSFGQPRPPPPPPPPPMHGGPSFGRPPPPPQLEPVGPPNYIGLPPPSPPTLEHGNPGFV : 743
+
+ 407 : NIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLA : 470
+       : :.::  ::..| :. |. : |  :: | ::|::. ..:..::.. .:.:  .:::| .|| :
+ 744 : KPHHPPSPSFGGQ-RPFGSNSQSESSASSGSQSGGGWGGGRGNGGQFGSNSQSESSAS-SGSQS : 805
+
+ 471 : AAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSN : 534
+       .: .: :|:: ::  : ::| .|. :   : .|:  :|:| |.  ::| .:|:::|::::::||
+ 806 : EGGWGGNSQSGSQSSSSSSSKGRGHGGQFGSNSQSESSASSGSQSEGGWGGGSQSGSQSSSSSN : 869
+
+ 535 : N---GNATN-NNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       :   |::.: .:|: |.||:|:|||  :: |. :|:|:
+ 870 : SKGRGHGGQFGSNSQSESSSSSGSQFQGGWGGGAQSGS : 907
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 93 568 . Medex_00046275-RA 423 907 . 119 M 195 195 G 0 2 M 20 20 G 0 3 M 63 63 G 0 1 M 18 18 G 0 1 M 30 30 G 1 0 M 44 44 G 1 0 M 70 70 G 0 3 M 5 5 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00024368-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 180 -> 474
+  Target range: 68 -> 367
+
+ 181 : PSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPD---- : 241
+       :: |:  .|  |:|:   ..||.:::.. .: |:.||: |::|   : : :::::.. |:    
+  69 : SAHPGTAGNTYLRRLHSYPSSSDGGSNSPPTIALSRLQVSGSSGDTGKSPATSPKPPVPERNSE : 132
+
+ 242 : -LPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGIS : 303
+        |:.| :|..:|...| . |: .. .:..:|:|    :.  . .|.: . :|.|.|: ... ::
+ 133 : LLSHLSGRRVPPPPPPRT-SSRSPLASPTSPSLPPRGQPQMGVGGGTLRRSGPGRGSLREPKLP : 195
+
+ 304 : ISDKLGSLTPSPLAR-AGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       :.:  :|:..:.:.. ::::. ..|:::   :..:::::.. .::  .:::.:  ..  : :. 
+ 196 : VEEPPASVPQGHFNPLSASNSSSCESINSQEGAAQGKPSAKARQEVLEQRHQELLRKQRALQEQ : 259
+
+ 367 : LSSGND-EEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVS : 429
+        :. :: :  |:|  :  ::|::::. :.:.    | ..:.: : ||  .::. | : :.:|.:
+ 260 : YARLQQLQRSGGGGLTVVPPPDLLLKKTGSESNLLAKMGLGS-GLSAAAPMSGSLTHLAAVAAA : 322
+
+ 430 : PQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVY : 474
+       : :| |: .:||.:::::|::|.|..|:  :.|::  :: :: :|
+ 323 : SSAPSSLLMTAAPASSTTTATPNSTTTTTSANTTTTPATTTSKIY : 367
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 180 474 . Medex_00024368-RA 68 367 . 119 M 60 60 G 0 5 M 17 17 G 1 0 M 60 60 G 0 1 M 54 54 G 0 1 M 35 35 G 1 0 M 66 66
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00030496-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 199 -> 562
+  Target range: 166 -> 532
+
+ 200 : RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKH : 263
+       .: .::::| .: : . :..:::: .::|.|.: .:..||.:.   : |: .::.|.. .::.:
+ 167 : PAVNSSSTEPETFSTTTVSPTESGTTINGDVTTQKQPTSPTVTESTTGSTQGNEIPETTEAVTD : 230
+
+ 264 : HNNNNTPPL--KEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK : 325
+       .: :.|. :  :..|.|.|...:: .: :::... : :.  .:|..::. : |: .: .: . .
+ 231 : KSMEATTVVTYQSTKNNPPVETSDITSQSSQTTTIGMATVSEMSATVDETAESATQKLTTVTST : 294
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFI : 389
+       |.. . | |...:.::: :|.::. |:....  ::: ...: .:: : ..... :|::::   :
+ 295 : SATETDV-STAGGTTEGVRSTETPYENTQASVVTSEINDTTTKTSVEVTTNSESTSEQTTIVSV : 357
+
+ 390 : MSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS : 453
+       :|::| .:::::. :: |:. :|     .::. :.  .:   ..:. |.::... .:: :: ::
+ 358 : LSSTE-TLYDTTVKEIDNLTEPASTINVIEVATTEIPEIIETTTEKRTSTTDEEVVTAQPTESA : 420
+
+ 454 : PPTALISPTSSLKGSLAAAVYSLHSHAHGH---VLGHATSPPRPGSVGSSVGSNLCTSTSMGCG : 514
+       :||  ::...::..| |::  :|:  . .:   . .::.:| .|:||::..::.: . .  . .
+ 421 : SPTIQLTTDETVSESAASTELPLEVAVTTDKKVATTDSIPPESPSSVDNETATTMIDVEISNTE : 484
+
+ 515 : VNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGT : 562
+       ::::: :..::..:..:.: : ....:.:. |. :::::| :|:..|:
+ 485 : LSTDSIATTSQTTEETDTPVSVADIGETSTYSEQTSASSSTSTPDTGA : 532
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 199 562 . Medex_00030496-RA 166 532 . 108 M 73 73 G 0 2 M 60 60 G 1 0 M 61 61 G 1 0 M 88 88 G 0 3 M 79 79
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00036920-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 527 -> 639
+  Target range: 141 -> 251
+
+ 528 : NANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPY : 591
+       :|.::|:.|..:.::::::.|:.|  ||:.|..|  .: .  . .:  . :.:.. :.: .|| 
+ 142 : DARKESEAGPDSTSEEKNNRSPNSKCSQPEAVTGCSGHRERVGRRVGSGLSPANNKQKSFTCPD : 205
+
+ 592 : CRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQ : 639
+       | :.|: .|:|.||.. . ...   :||.:| : :|  ::|  || ::
+ 206 : CGKVFNAHYNLTRHMPVHTGARP--FVCKICGKGFRQASTLCRHKIIH : 251
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 527 639 . Medex_00036920-RA 141 251 . 128 M 87 87 G 2 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00036920-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 583 -> 645
+  Target range: 253 -> 312
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSG : 645
+       :.|:.|. | ::|:   :|: |  .: :.: . ::|||| : :: |.: ..|| | |.|..:
+ 254 : EKPHKCQTCGKAFNRSSTLNTH--TRIHAGYKPFICEFCGKGFHQKGNYKNHK-LTHSGEKA : 312
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 645 . Medex_00036920-RA 253 312 . 100 M 22 22 G 2 0 M 29 29 G 1 0 M 8 8
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00051064-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 226 -> 387
+  Target range: 34 -> 191
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       :|. .:| ::.:.: |. ::::.:| |..:  :.::::..::.|. ::  ::.| |: . |:..
+  35 : PGQQNPGHQDPGHQEPGHQGQGQNPGQGHG--PNVRQNPGHQDPGHQQPGHQEP-GHQGQGQNP :  95
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       |:|:| :||.  :  :. |   |:. ..: .:: :: . :  .:..:..::::.::: .:::::
+  96 : GHGHG-PNGRQNPGHQDPGHQQPGHQDPGHQGQGQNPGQGHGSNGRQNPGHQDPGHQQPDHQEP : 158
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQ : 387
+       .: : |:..  : ::.. :: |:  ::|:.:.:
+ 159 : GHQGQGQNPGQGHGPNGRQNPGHQQPGHQEPGH : 191
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 387 . Medex_00051064-RA 34 191 . 105 M 30 30 G 2 0 M 22 22 G 1 0 M 14 14 G 1 0 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00005541-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 583 -> 639
+  Target range: 497 -> 551
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQ : 639
+       :  :.|| | :.|:.  .|:.| :.. |:.   : |::||::::    |..|:.::
+ 498 : HRDHKCPTCGKKFTSNKRLNMHVKSHSEERP--FSCDICHKKFKRAYYLVDHRKIH : 551
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 639 . Medex_00005541-RA 497 551 . 104 M 31 31 G 2 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00005540-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 588 -> 683
+  Target range: 217 -> 308
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSGMLKRLLK : 652
+       |  |::.|   : | .|   | : ::  |:|::| :.| ||.|::|||. :: :.|:  :::::
+ 218 : CKTCKKGFYTNFQLVSHV--KVHTGERSYMCDICGKSYVTKGSMSTHKKTHEEDKSS--RKMVQ : 277
+
+ 653 : TTAIKHGLVGHGHGHGHVHHPHAHHHALSHP : 683
+        .  :. :|::   . ||.:.:::.: |.::
+ 278 : CNICNKFFVSEQTLKLHVKRHQGEKNYLCES : 308
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 683 . Medex_00005540-RA 217 308 . 123 M 18 18 G 2 0 M 37 37 G 2 0 M 36 36
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060817-RA
+         Model: affine:local:protein2protein
+     Raw score: 163
+   Query range: 59 -> 115
+  Target range: 1 -> 57
+
+  60 : LLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGL : 115
+       ||.  : :||:::|:||.|.:|.|:::::|:||||| |. |:::|::|| |::.||
+   2 : LLSQHSEQHPIVILKDVTFKELKAMIDYMYRGEVNVSQDQLEALLNAAESLQIKGL :  57
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 59 115 . Medex_00060817-RA 1 57 . 163 M 56 56
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00099153-RA
+         Model: affine:local:protein2protein
+     Raw score: 374
+   Query range: 3 -> 119
+  Target range: 1 -> 117
+
+   4 : TQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCK :  67
+       .::|.|:||:::|:::.:|::| ..|.:|||||| ..: ::|||:|||.|||||::|:| .|||
+   2 : EENFSLQWNDFHSNLSEGFHSLLKSEDLVDVTLAAGNKYVQAHRLVLSVCSPYFKDLFKVNPCK :  65
+
+  68 : HPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQ : 119
+       ||.::|::|.| || .::||:|:|:|||::.:| .||||||:|:|.|| :::
+  66 : HPTVILKGVAFQDLMNILEFMYRGQVNVQHDGLSDFLKTAEMLQVKGLCEND : 117
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 3 119 . Medex_00099153-RA 1 117 . 374 M 116 116
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089523-RA
+         Model: affine:local:protein2protein
+     Raw score: 131
+   Query range: 83 -> 281
+  Target range: 0 -> 206
+
+  84 : LVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPL-NTHT : 146
+       :::::|:||||: |. | ::||:|| |::.||::  :.:|:.: :. :: : :.:|||  ::::
+   1 : MMDYMYRGEVNISQDQLGALLKAAESLQIKGLSDSGGGGTEKDEPPEDKKPVTPARTPQSSSQS :  64
+
+ 147 : QSLP--HPHHGSLHDDGGSSTLFSRQ-GAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAA : 207
+        :|.  ..:.::::...:.|  ::|  :: ..::::||. ... ..:     .: :.:: ..: 
+  65 : SGLTIEKRRPAPVDSTEDDSQPLPRGISSREGSSSPVPRKRKKHRRRSSAGEEVGESNALQDSH : 128
+
+ 208 : EETSHAFKR---LRGSDNSLPLS-GAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNN : 267
+       ::|| : .|   :.. .:||| | :.|.|: . :::.: .::.::.:::. ||  |. : :.: 
+ 129 : DQTSSSSDRSQPVPNVTQSLPASLANVPSSITVKPSSVETVDQKPVNAEAFPARTSVPQSQPSI : 192
+
+ 268 : NTPPLKEEKRNGPT : 281
+       .  |   :| :.||
+ 193 : PREPEVVQKVEPPT : 206
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 83 281 . Medex_00089523-RA 0 206 . 131 M 59 59 G 0 1 M 8 8 G 0 2 M 20 20 G 0 1 M 46 46 G 0 3 M 11 11 G 0 1 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021253-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 583 -> 642
+  Target range: 848 -> 904
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRG : 642
+       :..:||  | : :|.  :|::|  .| : .:.|: |: | :::: |: |..| : ||:|
+ 849 : EKTHECKICGKRYSSISNLNQH--SKIHLEHELFKCDVCTKKFKRKSVLVDHIN-QHKG : 904
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 642 . Medex_00021253-RA 848 904 . 109 M 22 22 G 2 0 M 30 30 G 1 0 M 4 4
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00037228-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 133 -> 568
+  Target range: 315 -> 750
+
+ 134 : ANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAM : 197
+       :.:.. |. .| | : : .  .:  ..:.::|  :  .:::.::::..: |: ..|   .  : 
+ 316 : TTTTTTTNTTTTTTTTSTTTTTTTSTTATTTTAATATTTATTAAATTTTTPTTTTNTTATTTTS : 379
+
+ 198 : MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTI : 261
+          ::|::::.:|: : ..  ::..: . :::..:.:  .::. ..  : :::.  .:|. :|.
+ 380 : TTTAAATTTTSNTTTTTTSTTATTTTATTTSTTTTTAVITTAAATTTTTTTSTTTTIAATTTTT : 443
+
+ 262 : KHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK : 325
+       .  ..: |.: .... .:.|:...|..:...:..|:::...:.:.. :: |.:. : |::... 
+ 444 : TSITTSITTSTTTTTTTSTTATTTSTTATTTSTTATKAATTATATTTATTTTATTTAAATTTTA : 507
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFI : 389
+       :.. . . :...:::... :..:|.. .:. :::.....:: :::.... ... ::  :::  .
+ 508 : ATTTTSTTTTTTTSTTTTTTTSTTTTSTTAATATTATTTATTTTSTTTTSTTTSTTTTSTSTTT : 571
+
+ 390 : MSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS : 453
+        :.:...   ::::.:.:...::  . :|    |:. :.:. .. |.| :::|:.|:||::..:
+ 572 : TTTTTTTSTTTTTYTYTSTTTTSTTTTSTTTYTSSTTSTTTSTTTSTTTTSTTTTTTSTTTTTT : 635
+
+ 454 : PPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNS : 517
+       .:|: .:.::: .:: :::. :  | : : . . :|:.. :::..:|..:.  |:|: :....:
+ 636 : TATTATTTSTTTTSTTTTSTTTYTSSTTSTTSTTTTTTTDAATTTTSTTTTSTTTTTTSSTTTT : 699
+
+ 518 : GNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       ..::...  ..|...:....:| ....::|:||:.:: :|::.:|.| :.|
+ 700 : TTSTTTAVITTAATTATTTTTTIAATTTTSTSTTTSTTTTTSTSTTTTTTT : 750
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 133 568 . Medex_00037228-RA 315 750 . 105 M 435 435
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00028256-RA
+         Model: affine:local:protein2protein
+     Raw score: 157
+   Query range: 149 -> 608
+  Target range: 111 -> 567
+
+ 150 : PHPHHGSLHD-DGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSH : 212
+       |.|| :| :. :   . : : . ..|.||:. |: | . .::  ..::   .. .:  .::.::
+ 112 : PPPHSSSYNSVQQLLKRMSPAPVVPSRPPAVPPGSPQPPTQRGTSPVGTNTSRQQPMIVQNGPQ : 175
+
+ 213 : AFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEK : 276
+       . ::|.   ::|.| ....|::::.:|   || :.|::....|:.:::  : .::.|    :: 
+ 176 : VQQQLSQQMQALNLYPNTNSSTSEPPPPY-PLASPSPTNPPPPPSYTASIQSRQSPT----QDY : 234
+
+ 277 : RNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANA : 340
+       |::|::.  ||..:: |..:: . ::| :.  :   |:||.  || :.|::|  :: | ::::.
+ 235 : RKSPSSGIYSGPTSA-GTPSPITVSVSSPTPSSVTRPTPLQAWGARQAKTQPPIIMQSVKSTQV : 297
+
+ 341 : NDE--HSNDSTGEHDANRSSSGDGGKGSLSSG--NDEEIGDGLASHHAAPQFIMSPAENKMFHA : 400
+       :.   ::. :.... :. :||.::. .| :|:  :.::....  |:.:.|   :: : : :  :
+ 298 : QKPVLQTAIAPTAPPPPVTSSTQAPPPSYASSIQQKQQTPAPPYSQKPVPSPPVPVPPSPVTTT : 361
+
+ 401 : AAFNFPNIDPSALLG-LNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTS : 463
+       :: . |..||::  : :::  .|.|::  :||.|.: . ::|:. ::|:  :.  :: | . ::
+ 362 : SPVTVPTTDPPSYASTMQALAAQRGHIHHAPQPPPPYG-PTASELAASAQVATVESAMLPRLSP : 424
+
+ 464 : SLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNS-GNNNG : 526
+       ::..:|.   ||   .: :.  :::.||..::|..|.|.:   .|:. : |..  ..: ....:
+ 425 : AVHPPLQRK-YSPVVPGVDPSNSRSESPGSASSAESRVTGYTPPSSDNAVGTPQHTPPLPPTAS : 487
+
+ 527 : NNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       ::..|..:|||:.:: .  :::. .:: .: ::  .|.:.:. | . ||:  .... .:::  .
+ 488 : SSVANRCKNGNGGSHVPIQNGGERRSSVPSHGSQYKVNHQSPIPERKRMSKEKEEERRDSKVRN : 551
+
+ 591 : YCRRTFSCYYSLKRHFQD : 608
+       |..::|. :: :.:|:::
+ 552 : YSPQAFK-FF-MEQHIEN : 567
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 149 608 . Medex_00028256-RA 111 567 . 157 M 10 10 G 0 1 M 82 82 G 1 0 M 27 27 G 4 0 M 18 18 G 1 0 M 51 51 G 0 2 M 27 27 G 0 2 M 45 45 G 0 1 M 22 22 G 1 0 M 34 34 G 1 0 M 48 48 G 0 1 M 76 76 G 1 0 M 2 2 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00028256-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 168 -> 581
+  Target range: 24 -> 440
+
+ 169 : RQGAGSPPPTAVPSLPSHI--NNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAV : 230
+       :||.. .. :  |:::|.:  :. | : :.:. .:: .::|..|. .  |: :  .  .|| . 
+  25 : QQGEPVNGMAKPPGISSKLIRKPSLERELNIRGSPALDSGAGSTRSDSPRMTDLVTHPQLSRQY :  88
+
+ 231 : GSGSNNNSPDLPPLHARSASPQQTPAD---FSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNG : 291
+       :::: :::|  || : .|::|...|::   ::::::  :. :|:    .|..:...|:: ... 
+  89 : SPSAFSEPPPPPPPRCSSTPPPPPPPHSSSYNSVQQLLKRMSPAPVVPSRPPAVPPGSPQPPTQ : 152
+
+ 292 : NGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDAN : 355
+       .|.::  |...|  : :   ..:.:.:. :::::: .:    :::.:::.  .: .|.:  ::.
+ 153 : RGTSPV-GTNTSRQQPMIVQNGPQVQQQLSQQMQALNLYPNTNSSTSEPPPPYPLASPSPTNPP : 215
+
+ 356 : RSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNT- : 419
+       .::| .::  |  |..::   .. :: .::|    :|:  .:  ::: . : . |::| : .: 
+ 216 : PPPSYTASIQSRQSPTQDYRKSPSSGIYSGPTSAGTPSPITVSVSSPTPSSVTRPTPLQAWGAR : 279
+
+ 420 : QLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHG : 482
+       | :  . : : :  :  : ::.  ::.::|::||: .::  :|.:|  :|:..   :  :.   
+ 280 : QAKTQPPIIMQSVKSTQVQKPVLQTAIAPTAPPPPVTSSTQAPPPSYASSIQQKQQTPAPPYSQ : 343
+
+ 483 : HVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSS : 546
+       . :. :. | .|::|.:: . .: |:.: :.:  |. :: ..: .: ::.::...: ....:. 
+ 344 : KPVPSPPVPVPPSPVTTTSPVTVPTTDPPSYA--STMQALAAQRGHIHHAPQPPPPYGPTASEL : 405
+
+ 547 : SSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSG : 581
+       ::|:  :: .:|  . ::.|  |||. : :| .:|
+ 406 : AASAQVATVESAMLPRLSPAVHPPLQRKYSPVVPG : 440
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 168 581 . Medex_00028256-RA 24 440 . 102 M 19 19 G 0 2 M 70 70 G 0 3 M 40 40 G 1 0 M 120 120 G 0 1 M 96 96 G 2 0 M 65 65
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 235 -> 590
+  Target range: 124 -> 480
+
+ 236 : NNSPDLPPLHARSASPQQT---PADFSTIKHHNNNNTPPLKEEKRNGPTGN-GNSGNGNGNGNG : 295
+       .::.:|..|   |: |||.   |.:.:...:: .:.:.. .::  .:|.|.  : |...|..: 
+ 125 : PSNQQLTGLSHTSGLPQQIRGQPQQMGGTSQQVGDPSGGPMQQVGGSPGGPMQQVGGPPGGPSQ : 188
+
+ 296 : ASNGNGISISDKLGSLTPSPLARAG---ADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANR : 356
+       . .|.. : |:::|:|..:|| : |   ::  .:.: : : ::..:. ::: |. :.   :.:.
+ 189 : QMGGPPGNHSHQMGGLPGGPLKQMGGPPGGPSSGSSQQQMGGQPGGPLQQQMSGPPGVPSQQQM : 252
+
+ 357 : SSSGDGGKGSLSSGNDEEIGDGLASHHAAP--QFIMSPAENKMFHAAAFNFPNIDPSALLGLNT : 418
+       :: .:|.      |. .. :: ::::.|:|  | :::|:..   | ::   |.  : .| ||: 
+ 253 : GGQPGGPLQQQMLGPPGGPSQHMGGRPAGPLQQQMLGPPGGPSQHMGG--RPAGPSQQLSGLQQ : 314
+
+ 419 : QLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHG : 482
+       ::  :.. :: . |..:|:.:.. |  ::.  : :||:.: :|:  | |: :    | : ::..
+ 315 : HMGGPPSGSLQQMGGPAISPPQQMS--GPPQQAKGPPSQVGGPSQQLGGPHSYLGGSQQMRGPP : 376
+
+ 483 : HVLGHATSPPRPGSVGSSVGSNLCTSTSMGC-GVNSGNNSGNNNGNNANNNSNNGNATNNNNNS : 545
+       . :|  .:||: |: :| :|::   |: ||. : : |..:.: .|..:: .:...: .....: 
+ 377 : PQMG--GPPPQIGGPSSQMGGQ---SSQMGSPSSQMGGPPPQMGGPPPQMGGPPPQMGGPPPQM : 435
+
+ 546 : SSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       ::::.  |:.:.. ||. .| |.|| .:  |||  ||:. . . |
+ 436 : GGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGLPPQMGGP : 480
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 235 590 . Medex_00014916-RA 124 480 . 148 M 19 19 G 0 3 M 29 29 G 0 1 M 37 37 G 0 3 M 66 66 G 0 2 M 16 16 G 2 0 M 39 39 G 2 0 M 41 41 G 2 0 M 16 16 G 3 0 M 6 6 G 0 1 M 77 77
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 145 -> 582
+  Target range: 77 -> 507
+
+ 146 : TQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLP-SHINNQLLKRMAMMHRSSAAAAAE : 208
+       :.|  :: :|||::...: .: :....:|.| |:|.. : |.:.:|| .. .:   | ::: ::
+  78 : SPSHEQSVNGSLNQTPPPWPFRGSATQSSQPMTPVGEHAFSKLPEQLPSNQQLTGLSHTSGLPQ : 141
+
+ 209 : ETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPL : 272
+       :.. . ::: |:.: :. ::: .    ..||: .|::. :::|  .:.:.:.   ::::: ..|
+ 142 : QIRGQPQQMGGTSQQVGDPSGGPMQQVGGSPG-GPMQQVGGPPGGPSQQMGGPPGNHSHQMGGL : 204
+
+ 273 : KEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNN : 336
+        ..  :  .|...:.::.:: :  :. .| :: ::::: .|:  ::.  ::  :.|::    ..
+ 205 : PGGPLKQMGGPPGGPSSGSSQQQMGGQPGGPLQQQMSG-PPGVPSQQQMGGQPGGPLQQQMLGP : 267
+
+ 337 : NANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHA : 400
+       .:.:::: :. ::|  :.:. ::.:|..  : :|. .. :: |:: :   | : :|:...: : 
+ 268 : PGGPSQHMGGRPAGPLQQQMLGPPGGPSQHM-GGRPAGPSQQLSGLQ---QHMGGPPSGSLQQM : 327
+
+ 401 : AAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPP---SPPTALISP : 461
+       ::   |.|.|:. :: ..| .::.  .|:..:.:  .. :  :.:   .:||   :.|.: |:.
+ 328 : GG---PAISPPQQMSGPPQQAKGPPSQVGGPSQQLGGPHSYLGGSQQMRGPPPQMGGPPPQIGG : 388
+
+ 462 : TSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNN : 525
+       .|| .|: ::.: |  |:  |.    :.:||: |: .: :|:.  .:   | . : |..:.: .
+ 389 : PSSQMGGQSSQMGSPSSQMGGPPPQMGGPPPQMGGPPPQMGGP--PPQMGGPPPQMGGPPPQMG : 450
+
+ 526 : GNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       |..:: .:...: .....: :: :.  |:.:.. ||. .| |.|| .:  |||  ||
+ 451 : GPPPQMGGPPPQMGGPPPQMGGLPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGG : 507
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 145 582 . Medex_00014916-RA 77 507 . 147 M 39 39 G 0 1 M 56 56 G 1 0 M 69 69 G 1 0 M 56 56 G 1 0 M 15 15 G 3 0 M 16 16 G 3 0 M 47 47 G 0 3 M 52 52 G 2 0 M 76 76
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 144
+   Query range: 115 -> 503
+  Target range: 121 -> 507
+
+ 116 : TQQQAEDTHSHLAQIQNLAN--SGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSP-- : 176
+       .| .:::  : |::. .|::  .| . .:.. :| :.:|  |:::: |||:.   :| :|:|  
+ 122 : EQLPSNQQLTGLSHTSGLPQQIRGQPQQMGGTSQQVGDPSGGPMQQVGGSPGGPMQQVGGPPGG : 185
+
+ 177 : PPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSP : 239
+       |: .:.: |:: ::|:    :   :  :::::. :| : :: .|::.: ||  .:::.:. .|.
+ 186 : PSQQMGGPPGNHSHQMGGLPGGPLKQMGGPPGGPSSGSSQQQMGGQPGGPLQQQMSGPPGVPSQ : 249
+
+ 240 : DLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGIS : 303
+       :  . :: :: .||  :  :. .:| ....:.  :::. ||.| |.| : .|...|:|:  : :
+ 250 : QQMGGQPGGPLQQQMLGPPGGPSQHMGGRPAGPLQQQMLGPPG-GPSQHMGGRPAGPSQQLS-G : 311
+
+ 304 : ISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSL : 367
+       : :.:|: .:::|.: |: .: | | :|  :.::|::. .: .::: : ::.:|  |:: :   
+ 312 : LQQHMGGPPSGSLQQMGGPAI-SPPQQMSGPPQQAKGPPSQVGGPSQQLGGPHSYLGGSQQ--- : 372
+
+ 368 : SSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQ : 431
+        .|.  ::| | ::: ::|   |:...::|  ::: :  .  |:.: | ..|:  :.    :|.
+ 373 : MRGPPPQMG-GPPPQIGGPSSQMGGQSSQM--GSPSSQMGGPPPQMGGPPPQMGGPPPQMGGPP : 432
+
+ 432 : GPHSITRSAATSPTSSTSSPP---SPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPP : 492
+       .. : ..:. .:|.:  ::||   :.|.: ::..:: .|:|::.: : .::  |.    :.:||
+ 433 : PQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGLPPQMGGPPPQMGGPPPQMGGPPP : 496
+
+ 493 : RPGSVGSSVGS : 503
+       : |: .: :|:
+ 497 : QMGGPPPQMGG : 507
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 503 . Medex_00014916-RA 121 507 . 144 M 20 20 G 0 2 M 40 40 G 0 2 M 107 107 G 1 0 M 18 18 G 1 0 M 22 22 G 1 0 M 39 39 G 3 0 M 9 9 G 1 0 M 20 20 G 2 0 M 53 53 G 0 3 M 51 51
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00014916-RA
+         Model: affine:local:protein2protein
+     Raw score: 137
+   Query range: 152 -> 582
+  Target range: 32 -> 465
+
+ 153 : HHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPS--HINNQLLKRMAMMHRSSAAAAAEETSHAF : 214
+       : :::  .|.|.:  |:: :|:|::.| .: .|  :::..:   |:  |  |..:: ::|:.:.
+  33 : QVSGMSISGPSRSSHSQDYSGNPSAKAGHTTHSYGDMQPAVNGIMSPSHEQSVNGSLNQTPPPW :  96
+
+ 215 : K-RLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKR : 277
+         | .::::| |::.. . : :: : :||: :. :: :: :.    .  :.:: ...: : ...
+  97 : PFRGSATQSSQPMTPVGEHAFSKLPEQLPSNQQLTGLSHTSGLPQQIRGQPQQMGGTSQQVGDP : 160
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       :|.. :  :|:..|. : .:...| :  :. |: .. : ..:|  :   ..|:   :..::.::
+ 161 : SGGPMQQVGGSPGGPMQQVGGPPGGPSQQMGGPPGNHSHQMGGLPGGPLKQMGGPPGGPSSGSS : 224
+
+ 342 : DEHSNDSTGE--HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF : 403
+       ::: .: .|.  ::. .:::| .::  ::: .:. : : : :..::|   |:.  .  ::.. :
+ 225 : QQQMGGQPGGPLQQQMSGPPGVPSQQQMGGQPGGPLQQQMLGPPGGPSQHMGGRPAGPLQQQML : 288
+
+ 404 : NFPNIDPSALLG--LNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSL : 465
+       . |. :||. :|   ... || ::|.    ||.| :  . .:|: |.: . |.|..  ...:| 
+ 289 : G-PPGGPSQHMGGRPAGPSQQLSGLQQHMGGPPSGSLQQMGGPAISPPQQMSGPPQQAKGPPSQ : 351
+
+ 466 : KGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNA : 529
+        |: :..: : ||.  |    :: :||: |: .: :|:.  :|   | : : |:.|:: .|..:
+ 352 : VGGPSQQLGGPHSYLGGSQQMRG-PPPQMGGPPPQIGGP--SSQMGGQSSQMGSPSSQMGGPPP : 412
+
+ 530 : NNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       : .:...: .....: ::::.  |:.:.. ||. .| |.|| .:  |||  ||
+ 413 : QMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGGPPPQMGG : 465
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 152 582 . Medex_00014916-RA 32 465 . 137 M 33 33 G 0 2 M 30 30 G 0 1 M 136 136 G 0 2 M 53 53 G 1 0 M 10 10 G 0 2 M 73 73 G 1 0 M 15 15 G 2 0 M 76 76
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00019022-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 151 -> 535
+  Target range: 123 -> 512
+
+ 152 : PHHGSLHDDGGSSTLF---SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSH : 212
+       :::::: :.: : .::   | :.: | : |:     |||.:.:: . :: ::.:. :: :.::.
+ 124 : SQQSTMSHSDKPQNFYISKSTKPGKSDSDTGDEQHDSHITDPFIPP-PVQQKEPERSPHNSSAP : 186
+
+ 213 : AFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEK : 276
+       :: :|.  .:: . ::.:  .:: :. .  .: ::|..  .|||::| : :|: :.. |::.  
+ 187 : TY-HLPQVTEPNQEGSDLKQTADLSKYKTETITSQSQRMSPTPAQYSQL-NHSLSTIDPMRKPI : 248
+
+ 277 : RNGPTGNGNSGNGNGNGNGASNGNGISISDK--LGSLTPSPLARAGADDV--KSEPMDMVCSNN : 336
+        ::.|. :  ..:|:: :..:..:    :||  |:. :. : . ..::::  ::|..|:   ::
+ 249 : VHATTPYSVLPTSNSKLHPENPTEQKLDADKIQLAEESQQSEVTVNSNGISPRNETKDIKPLKS : 312
+
+ 337 : NANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHA : 400
+       ..:.:.   |: :|..::.: |:.  . |  . .:  .:   :: :::|. : ::|  . :   
+ 313 : TVSESTPAFNNLAGSPHSTHVSTPPHNFGITRLPSPISMHPQMPFQRPAHLYNVPPFRRPV--- : 374
+
+ 401 : AAFNFPNIDPSA-LLGLNTQLQQSGDLAVSPQGP-HSITRSAATSPTSSTSSPPSPPTALIS-- : 461
+       :::.:|.  ||| :   : .|.::::: ::|: | ..:.   |:|. :   :|: .. :|::  
+ 375 : PPLGYPRHRPSAPMHRPHYALPNAAGFKINPKKPFYRVPAVMASSHHPVMVTPSFTHRPLMPNM : 437
+
+ 462 : -PTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGN : 523
+        | |:::  |::  |  .| ::.| |. .. || | |...::. :| .|.|:    | ::|.:.
+ 438 : HPHSPFQHHLSTIKYFPYSLPNTHNLNAQKMPPVPVSTTEPIPISL-KSISLVPLPNIADNKAA : 500
+
+ 524 : NNGNNANNNSNN : 535
+       ..:..::|::::
+ 501 : ATSATSENKTSD : 512
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 151 535 . Medex_00019022-RA 123 512 . 101 M 16 16 G 0 3 M 27 27 G 1 0 M 19 19 G 1 0 M 46 46 G 1 0 M 45 45 G 0 2 M 17 17 G 0 2 M 73 73 G 3 0 M 12 12 G 0 1 M 21 21 G 0 1 M 27 27 G 0 3 M 45 45 G 1 0 M 29 29
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00087700-RA
+         Model: affine:local:protein2protein
+     Raw score: 189
+   Query range: 0 -> 58
+  Target range: 50 -> 108
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFR :  58
+       ||..|:|||:|||.|.::.|.|: | :..::|| ||| ||: :|||:||||||||:|:
+  51 : MDSEQEFCLKWNNHQKTLVSVFDMLLESGTLVDCTLAAEGQYLKAHKVVLSACSPFFQ : 108
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 58 . Medex_00087700-RA 50 108 . 189 M 58 58
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00090348-RA
+         Model: affine:local:protein2protein
+     Raw score: 314
+   Query range: 0 -> 65
+  Target range: 0 -> 65
+
+  1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTP : 65
+      |.|||||||||||||||||||||||||||.||||||||:|:|:||||||||||||||||||| ||
+  1 : MADTQHFCLRWNNYQSSITSAFENLRDDEDFVDVTLACDGKSLKAHRVVLSACSPYFRELLKLTP : 65
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 65 . Medex_00090348-RA 0 65 . 314 M 65 65
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00095804-RA
+         Model: affine:local:protein2protein
+     Raw score: 349
+   Query range: 2 -> 129
+  Target range: 5 -> 132
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC :  66
+       ..|:||:|||... ::|. :.:| : ||:|||||||:|  :|||:.:|||||||| .::  .. 
+   6 : SDQQFCVRWNRHPYNLTDLLSKLLQREALVDVTLACDGEMFKAHQTILSACSPYFESIFLQNTH :  69
+
+  67 : KHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQ : 129
+        ||:::|:|||: ::.:|::|:|.|||||::: |. ||||||:|::.||.::. ..::. |::
+  70 : PHPIVFLRDVNYTEMKSLLQFMYKGEVNVNKNLLPVFLKTAELLQIRGLVDNAMKKSEESLSH : 132
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 129 . Medex_00095804-RA 5 132 . 349 M 127 127
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00005983-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 456 -> 605
+  Target range: 165 -> 314
+
+ 457 : ALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNN : 520
+       .:| |.:||..: ... |  :     |||  :.|:| :: : |||  .  ||:|  .. : :: 
+ 166 : EVIYPINSLSNNDNVQPYQSEVVMAHHVLRCTPSAPLSSLLRSSVRLPSRTSSSPVSPSQQSSC : 229
+
+ 521 : SGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGIN : 584
+        ::: :::|:|::|:.. .::.|: |..|.:|:| ... . .  |:.|   . .: .  : .|.
+ 230 : IAKHCSEDASNSGNDERCVSQANDVSEDSVNPASSVEVKTRNSLQSETVFTHSSVKGDCNQTIA : 293
+
+ 585 : EPQECPYCRRTFSCYYSLKRH : 605
+       .| .|: |:.|||  |:||||
+ 294 : KPFSCSMCKSTFSNMYTLKRH : 314
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 456 605 . Medex_00005983-RA 165 314 . 119 M 149 149
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00002128-RA
+         Model: affine:local:protein2protein
+     Raw score: 101
+   Query range: 33 -> 365
+  Target range: 971 -> 1295
+
+   34 : VTLACEGRSIKAHRVVLSACSPYFRELLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVNV :   95
+        |. :.:: .:| : ||:...: ||..  ..    :. : |::::  : ::|   :|    ::
+  972 : VKETSNSGKLKMEAVVIDVSPEYFSSAEEDL---RTDVDLEELSNSEDNGLS--LYAMPPDI : 1028
+
+   96 : HQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSL :  157
+        ::.::.:  . .: |  :  |: .:: . .: :.::.  :. .   ::.  |. .:. |:  
+ 1029 : EDDGMPNNNTHVDSLEHPITTKIPPQINGDQSPPVRPPRKKVPGREIDKSCQD-TETFHSLS : 1089
+
+  158 : HDDGGSSTLFSRQGAGS--PPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRL :  217
+        .:.|.|.. |:.:: :.    |: | | ::  ::.::. .. ::::|. :| . ::::  : 
+ 1090 : PEKGESEKQFANEDKSELFDEPSLVLSDSPIKEEAFVSAKETLEKPSEITALGVANETKPQD : 1151
+
+  218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNG :  279
+        . .:::|| | .: | |.:::: |:  :  :.:| : ..::....:.. :| .::.::|.::
+ 1152 : SQKGKALPESQDIQSISPQKAS-LSKGDIFANTP-EFQVEYRNTENKTVENRQAFENQKPKS : 1211
+
+  280 : PTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN :  341
+         :  .:..:.:|: : ..::.||:  : ::  :|  :: ..:: : :|::.:  |.::.::.
+ 1212 : KSQVNEDESPDGDISRDRKSTGIASIQAVS--APVDITVQEGEVILTESIKIDASASSDHSR : 1271
+
+  342 : DEHSNDSTGEHDANRSSSGDGGKG :  365
+        ..||:||...  .: :| ::.|.|
+ 1272 : KSHSKDSKESSVEKDNSFSEEGDG : 1295
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 33 365 . Medex_00002128-RA 971 1295 . 101 M 31 31 G 3 0 M 18 18 G 2 0 M 61 61 G 1 0 M 25 25 G 0 2 M 65 65 G 1 0 M 11 11 G 1 0 M 57 57 G 2 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00057837-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 167 -> 504
+  Target range: 357 -> 704
+
+ 168 : SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLP-LSGAV : 230
+       :|::.:: .  .   :..:|:: | . ::.:  .|:: ..: .:|. .| |.:   :: :  : 
+ 358 : ARRAESAENDLDSKIVTKEIKKMLQDVVSKVSEESSSKVQNVNGHNVTRTRTGRIVVSKVHITK : 421
+
+ 231 : GSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNN-NNTPPLKEEKRNGPTGNGNSGNGNGNG : 293
+        :|.:... . : :  .:.: ::. :||.::.: :: ...|:|..|  ::.....:: : :.  
+ 422 : ITGKKRGRKSNAEVSKNAETVRNIISDFESLEEGDELATEPSLTTEVEQSGGPATDTVEVDECV : 485
+
+ 294 : NGASNGNGISISDKLGSLTPSPLARAGAD---DVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       ..:|: ::   .:   : .:.||.:...:   :|:||: ... |::: . |:|:..:||.  ..
+ 486 : RTGSEKESKQKRGAAKATNSKPLEKQTEQNAVEVNSESQAKAVSSDSYGCNEEEETESTTLTSQ : 549
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIG--DGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGL : 416
+       :.... ||  ..|.|. ..:::  : |.:::::  .  : ..::  :.:. . :: | ..| ::
+ 550 : DSREDQDGKAEELCSPVTTDVSSNQQLVAREPGEGMHSGEVGSNQTEDTDVGSASKDEKELDSV : 613
+
+ 417 : NTQLQQS-GDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSS---LKGSLAAAVYSL : 476
+        |  ::  .::... :  :  .:::::|.:| . .  ::|:. : ..:|   :..||. .:|.|
+ 614 : VTGGDKILPQVQTEDDVIDVEDKTPGSSGSSVIVEELTAPSNGMHHGGSSYDMHTSLEKEIYEL : 677
+
+ 477 : HSHAHGHVLGHATSPPRPGSVGSSVGSN : 504
+       |: .::: |..:. :   :||::  :|:
+ 678 : HGVDNSE-LTPPKIADVVDSVSTHGSSD : 704
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 167 504 . Medex_00057837-RA 357 704 . 103 M 58 58 G 0 1 M 41 41 G 0 1 M 56 56 G 0 3 M 54 54 G 0 2 M 47 47 G 0 1 M 41 41 G 0 3 M 19 19 G 1 0 M 20 20
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00065546-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 581 -> 640
+  Target range: 233 -> 290
+
+ 582 : GINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQH : 640
+       :::.. :|. |.  ||  ||||  :: : : ::. : |.||  .:  |::|.||. :::
+ 234 : SVKKHLDCTVCNARFSNKYSLK--YHMNIHSGEKPFSCSFCGASFIRKDNLKTHMFMHN : 290
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 581 640 . Medex_00065546-RA 233 290 . 111 M 22 22 G 2 0 M 35 35
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00065546-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 588 -> 635
+  Target range: 31 -> 76
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       |: |  :|:. |.||.|.:.  :. . |: ||||::::. .: |..|
+  32 : CSECTASFPSRYRLKMHMDS--HPFKQLFSCEFCDKKFSFHSYLNDH :  76
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 635 . Medex_00065546-RA 31 76 . 105 M 20 20 G 2 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00084537-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 587 -> 635
+  Target range: 618 -> 667
+
+ 588 : ECPYCRRTFSCYYSLKRHFQDKH-EQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       .|  |:|||..  :|: |. :|| |:: . :||::| :::: |.:|..|
+ 619 : TCEECQRTFCSASNLRIHMSHKHVERTPEAFVCQLCGKKFKQKGNLKVH : 667
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 587 635 . Medex_00084537-RA 618 667 . 118 M 23 23 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00084537-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 571 -> 671
+  Target range: 662 -> 760
+
+ 572 : PLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       .|::.  :. | : .: |: | ::| .  ||. ||    : ::. ::| || :.:| | .:  |
+ 663 : NLKVHVDSRCGSEPRHVCSVCGKAFMSVGSLTTHFL--LHTGEKTFLCRFCGKSFRLKVEMQRH : 724
+
+ 636 : KSLQHRGSSGMLKRL-LKTTAIKHGLVGHGHGHGHVH : 671
+       ..  | |....: ::  |: | :::||.|.  |. ::
+ 725 : ER-SHTGEKPFVCKVCGKAFAHRESLVTHNTLHTGIR : 760
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 571 671 . Medex_00084537-RA 662 760 . 116 M 36 36 G 2 0 M 28 28 G 1 0 M 12 12 G 0 1 M 21 21
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060547-RA
+         Model: affine:local:protein2protein
+     Raw score: 408
+   Query range: 1 -> 366
+  Target range: 71 -> 431
+
+   2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTP :  65
+       .|:::|.|||||::|:::|:|:.: ::|.:|||||| .|: ::||::|||.|||||:||:| .|
+  72 : SDSEQFSLRWNNFHSNLSSGFHAFLQGEDLVDVTLAAGGKFLQAHKLVLSVCSPYFKELFKVNP : 135
+
+  66 : CKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQ : 129
+       ||||:::|:||. .:|:.::||:|:|||||:|..| .||||||:|:|.||| :::... :  : 
+ 136 : CKHPIVILKDVGHKELEDILEFMYRGEVNVRQDDLTEFLKTAEMLQVKGLTGDDSSSGSTLTSG : 199
+
+ 130 : IQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLK : 193
+         .:.   :..||:   | |: :   .  .|. :    :.:: .  .:  : :: .  |: : |
+ 200 : RFPVEIFWSNIPLKM-LQYLATSMIRCYASDNIAVCR-PSNDFEHYNSRFLIAFVKSANSSMYK : 261
+
+ 194 : RMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPAD : 257
+       | :. :::|.|::: ..:.: ..:: . .. | : | . :| ..|| :  |.|||:::: :|: 
+ 262 : R-PFDQQGSQAPPPPSPAPSQSSVKVKPRK-PQPKAPPLDSMPPSP-MDDLPARSPAADVAPPP : 322
+
+ 258 : FSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGA : 321
+       |. :|::::.:.:|  :.::  ...: .  :.:. .:.::.  . : : .: . ::..:. ...
+ 323 : FKRMKQESQPQPSPQPQSQQFKQEPQQPQYKPQPMTSPSPRRLPPASPLSIVDDSSRGVEFVEV : 386
+
+ 322 : DDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       .. | ||:|: .. ::.::. ::..| ::  :::.| | ::: |:
+ 387 : TKPKMEPVDIESDVEEVDTGMDDKTDFSDFFGGESSQSHQDAPGG : 431
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 366 . Medex_00060547-RA 71 431 . 408 M 143 143 G 1 0 M 21 21 G 1 0 M 27 27 G 1 0 M 28 28 G 1 0 M 15 15 G 1 0 M 126 126
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00057667-RA
+         Model: affine:local:protein2protein
+     Raw score: 294
+   Query range: 2 -> 111
+  Target range: 64 -> 182
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSAC---------SPYF :  57
+       .:.|:.|||||.|: | :||:.| ::|::|||||.||. |::||:||||||         ||||
+  65 : TSPHYSLRWNNHQNHILNAFDTLLQNETLVDVTLVCEETSVRAHKVVLSACRVNNTNLRFSPYF : 128
+
+  58 : RELLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLR : 111
+       : ::...|||||||:|:|:.  :::|:|:|:|.||::| |. | |::|:|| |:
+ 129 : QRIFSENPCKHPVIVLKDLRGWEVQAIVDFMYKGEISVIQEQLSSLIKAAESLQ : 182
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 111 . Medex_00057667-RA 64 182 . 294 M 51 51 G 0 9 M 58 58
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00033056-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 115 -> 361
+  Target range: 354 -> 604
+
+ 116 : TQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHG-SLHDDGGSSTLFSRQGAGSPPPT : 178
+       .::: ||| |  .: :: .:   :.  : :.:|  | .:| |::. :: :.: :|: : ||:|.
+ 355 : KKDRKEDTASFKDREKDRDKLVKKEDSHLRNESKDHEKNGMSFESPSSITEIPNRKKSRSPSPV : 418
+
+ 179 : AVPSLPSHINNQ--LLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPD : 240
+       . : :|.: ..|  | | :. :   |::.:. .:: : . : :...: ::... .||:.::  :
+ 419 : EPSVVPRDKPPQRPLKKLLDQLADHSSSDSELSAPSPEEVVDSKSPTGAVKPESNSGTTSKLVG : 482
+
+ 241 : LPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNG-ASNGNGIS : 303
+       :.   : |:| |:. :: .. |.:::::... |.|| ::.. : ..::|:::.:. .:.::. .
+ 483 : IHKNSSVSGSKQKEKSNSRKEKKEKKDKEQGEKAEKDDANKKKKRKSSGKSKPDEFEPTAKTPR : 546
+
+ 304 : ISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGD : 361
+       |.:.  . . .::::::.||:. | .:     :.::::|::...::|.:: . :::.:
+ 547 : IEETKVEDEEEAMPKSADDDMDVEMKQEEVQVDPSKSDDDDDGSGSGKEEFGAPPAPE : 604
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 361 . Medex_00033056-RA 354 604 . 100 M 40 40 G 0 1 M 35 35 G 0 2 M 105 105 G 0 1 M 66 66
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00097054-RA
+         Model: affine:local:protein2protein
+     Raw score: 333
+   Query range: 0 -> 120
+  Target range: 3 -> 123
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST :  64
+       ::: :::.:||:|:::|:: .:..| :|....||||. .|: ::|||:||:  ||||:::|| .
+   4 : VQQHERLSVRWDNFHASLSQDLSTLLQDGEMADVTLVAGGQVLRAHRLVLALGSPYFKDVLKVD :  67
+
+  65 : PCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQA : 120
+       | :||:::|:||.: :| .::||:| |||:|| .:|::|||.||.|||.|||:: |
+  68 : PGQHPIVILKDVGYQELADVLEFMYCGEVSVHSTGLEAFLKVAEALRVKGLTEDGA : 123
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 120 . Medex_00097054-RA 3 123 . 333 M 120 120
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 126
+   Query range: 277 -> 570
+  Target range: 179 -> 472
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       :|. |.||:|. .|: .| :.||: :|::  |:|..:. :  |: :  :...:   :::.::|.
+ 180 : DGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAG : 243
+
+ 342 : DEHSNDSTGEHDANRSSSGDG----GKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAA : 401
+       :.. .::.:. ::..||:|:|    | |:  :|.:.. |:.:::  ::.   ::.::.  : ::
+ 244 : GKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGG : 307
+
+ 402 : AFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSL : 465
+         .|.. ::::: | :. |  :|: | :  |. : ..:::. ..:|.:|:.|.:::  :. :::
+ 308 : HGGFGGGNAGGIGGGHGGL--GGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGV : 369
+
+ 466 : KGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNA : 529
+        |: ::   || : :||   | :.:.. .|| | | |::  . .:   |:.|||.:| ..|:.:
+ 370 : GGGHGGKGNSL-GGGHGGNAG-GVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGG : 431
+
+ 530 : NNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+        ..:|.|..... .::|:::. .|:: .::||: :|:|:::
+ 432 : LGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSS : 472
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 277 570 . Medex_00089660-RA 179 472 . 126 M 85 85 G 0 4 M 58 58 G 2 0 M 54 54 G 1 0 M 9 9 G 1 0 M 83 83
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 190 -> 568
+  Target range: 0 -> 379
+
+ 191 : LLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHA--RSASPQ : 252
+       :: : :.:.||:.: :::..| :|.: .::..|:. | : :|:|:::|:: ..::.  : :.. 
+   1 : IVIKESRLPRSAEPYGPNSGSGSFSKSSSNSGSFGGSYSSSSSSSSSSSGSGGFDNGIWFGDGG :  64
+
+ 253 : QTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPL : 316
+       ..:|::::    :::::.: ... .:| .|:|:|:::.::::::|:| | | |.. :| ::|: 
+  65 : PKSAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSSSSSSSG : 128
+
+ 317 : ARAGA-DDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGL : 379
+       : :|: ::: :...:  .: . :.:::. :.:::|. ::. :::|:|. |::.:| :.. ::|:
+ 129 : SFGGGFGGIGGGGFGGKYG-GYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGGGNAGGI : 191
+
+ 380 : ASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATS : 443
+       :: |::     :.: .  : : : . .. :.::| | |: :  :|: : ::.|.. :: ::::|
+ 192 : GGSHGGFGGGNAGGIGGGYGGLG-GGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSS : 254
+
+ 444 : PTSSTSSPPSPPTALI-SPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLC : 506
+       .::|:|:..:...| : :..:: .|: :::: :  : ..| : | .::.  .|  | : |:.  
+ 255 : QSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGG : 318
+
+ 507 : TSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       .:.: | |:.:||.:| ..| .:.:.:.. .:.:..:: |:||:|:|: :..:||  .::.:
+ 319 : IGGGHG-GLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNS : 379
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 190 568 . Medex_00089660-RA 0 379 . 122 M 56 56 G 0 2 M 75 75 G 0 1 M 13 13 G 1 0 M 67 67 G 1 0 M 56 56 G 0 1 M 53 53 G 1 0 M 55 55
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 121
+   Query range: 218 -> 572
+  Target range: 311 -> 665
+
+ 219 : GSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTG : 282
+       |::|: .::|: |: :..|:.::..  :.:::.  ..:: :. .: .:::::.  ..  .|..|
+ 312 : GGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGG : 375
+
+ 283 : NGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSN : 346
+       :||| .|. .||::: |.|:: |:  :: .::.   :|.::: |.. :   :..::. .:.::.
+ 376 : KGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGF-GGGHGGLGGGNAG : 438
+
+ 347 : DSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDP : 410
+       : .|. ::..:::| || |. :::.:..  .| :|  ::   : :. ..   . :: .:..  .
+ 439 : GVGGGFGSGSTGGGVGG-GKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVG : 501
+
+ 411 : SALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVY : 474
+       ::  |:..     |: : :. |. ::..:::::::| ::|:::. .:: :. ::: |: |::: 
+ 502 : GGHGGIGGGHGGIGG-GQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGIG : 564
+
+ 475 : SLHSHAHGHVLGHATSPPRPGSVGSSVGSNL---CTSTSMGCGVNSGNNSGNNNGNNANNNSNN : 535
+       :  : : |  || :. ....|. :|:.|:.:    :::: |.: :||:::|:.. ..:.::|::
+ 565 : GGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSS : 628
+
+ 536 : GNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLP : 572
+       ::::::.:.:|:: . ||::: ::::: :::|::. |
+ 629 : SSSSQSGSGGSGGFGFPGGHSQSSSSSSSKGGSSGWP : 665
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 218 572 . Medex_00089660-RA 311 665 . 121 M 114 114 G 1 0 M 30 30 G 1 0 M 61 61 G 1 0 M 79 79 G 0 3 M 67 67
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 277 -> 582
+  Target range: 339 -> 638
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       :|:||.| :|.:.|:::::|:::: ::::  |: .... : :|::: ::..::   :.:.: :.
+ 340 : SGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSG : 403
+
+ 342 : DEHSNDSTGEHDA-NRSSSG--DGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAA : 402
+       :. :.: .|.::: ..:::|  :||.|:|::||...:|:|::|  ::     :.... .: :::
+ 404 : GGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTG-----GGVGGGKYGGSG : 462
+
+ 403 : FNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLK : 466
+        : :: ::|:  |  . :  : : :  | |. : | :.:.:..: .::..: ..:  : .::  
+ 463 : GSSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGF : 526
+
+ 467 : GSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNAN : 530
+       || :::  | :| : :  || :.:..:.|  |::.|:   .:.:.|.| .:: .:|| .|:.::
+ 527 : GSGGSSGSSSQSGSSSGGLG-GVGGGHGGIGGGNAGG---IGGGFGSGSGGSLGGGNYGGSGGD : 586
+
+ 531 : NNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       ::|..|.: ...:::|:|::|: | ::|::|. . :|: : : . :.:.|||
+ 587 : SSSGAGGGFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGG : 638
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 277 582 . Medex_00089660-RA 339 638 . 119 M 77 77 G 0 1 M 6 6 G 0 2 M 25 25 G 5 0 M 96 96 G 1 0 M 16 16 G 3 0 M 76 76
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 218 -> 567
+  Target range: 52 -> 399
+
+ 219 : GSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTG : 282
+       | ||:: :::: ..::. .:.: .:  ..::|:  .: :|:.    :::.::: ...|  |.:|
+  53 : GFDNGIWFGDGGPKSAGLTAGGSGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSG : 116
+
+ 283 : NGNSGNGNGNGNGASNG-NGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHS : 345
+       ::: :::::::.: :.| .||: ::  |. .. . :::| :: ::...:  .:...:...:. .
+ 117 : SSSQSSSSSSSGSFGGGFGGIGGGGFGGKYGGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFD : 180
+
+ 346 : NDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNID : 409
+       .: .|.:.:. ::| :|  |: ::| :.. | ||:: :::.:  ::.::. .  ::: : .: :
+ 181 : GGFGGGNAGGIGGSHGGFGGGNAGGIGGGYG-GLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAG : 243
+
+ 410 : PSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV : 473
+       .. : | .:  | ::. | :.:|. ::. :.:.:..::.:: .:...:  :..:: :::  :: 
+ 244 : GKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGG : 307
+
+ 474 : YSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGN : 537
+       .:  : :::  :| : :.  .|:.| ::|:.: .|.| | ||.:|:.:::::|::::..: .| 
+ 308 : HGGFGGGNAGGIGGGHGGLGGGNAG-GIGGGF-GSGSTGGGVGGGSGGSSQSGSSSSAGGFGGV : 369
+
+ 538 : ATNNNNNSSSSSTSPGSQATAAGGTVTQAG : 567
+       :..:..:::| :.:.|::|.:.||. . :|
+ 370 : GGGHGGKGNSLGGGHGGNAGGVGGGFGGSG : 399
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 218 567 . Medex_00089660-RA 52 399 . 116 M 81 81 G 0 1 M 77 77 G 1 0 M 121 121 G 1 0 M 6 6 G 1 0 M 61 61
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 276 -> 567
+  Target range: 299 -> 584
+
+ 277 : RNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANA : 340
+       ..|..|.|::| |.||:.| :.|:|   ::: |::..:  : :.:::| :.: :   |::::::
+ 300 : NAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGG---SSQSGSS : 360
+
+ 341 : NDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFN : 404
+       :.. : ::.|. ::.:::| :||.|: ::| :..:|:: :   :::.  ::.::. :  :.: .
+ 361 : SSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGG : 424
+
+ 405 : FPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGS : 468
+       |.. :.:  || ...   :|::: :: |.   . . :.|..||: |.:|:::: ::..:: .|:
+ 425 : FGGGHGG--LGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGG : 486
+
+ 469 : LAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNN : 532
+        :.:: :  :.: |   ||:. .. .|::|:: |:   .: : | : .|:::||:::|. :. .
+ 487 : PGVPI-GGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGLGGVG : 549
+
+ 533 : SNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAG : 567
+       :.:|. ...|..: ::: ::|| :: :||. . :|
+ 550 : GGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSG : 584
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 276 567 . Medex_00089660-RA 299 584 . 116 M 54 54 G 3 0 M 78 78 G 2 0 M 60 60 G 1 0 M 93 93
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 227 -> 583
+  Target range: 210 -> 563
+
+ 228 : GAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNG : 291
+       |::|:|:... .:|.. :|  :|.  :::: :. |. ....::: :....::..|:|.:| |.|
+ 211 : GGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSS-QSGSSSAGGGHGGAGVGGG : 273
+
+ 292 : NGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDAN : 355
+        |.| :.:.|   ::. |: .. . :.||: :   ...:   :.. :.:::. :.:::|. ::.
+ 274 : VGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGG : 337
+
+ 356 : RSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQ : 419
+        :|::.||  : :||...: |.: :|  : .    :.:.:    ::: . .. : :: :| :. 
+ 338 : FGSGSTGGGVGGGSGGSSQSGSS-SSAGGFGGVGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGG : 400
+
+ 420 : LQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGH : 483
+          :|. :  . |. :|..:.:.: .:: :: .:..:: ::.. : .|| :::| : .  : | 
+ 401 : YSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFG-SGSTGGGVGGGKYGGSGG : 463
+
+ 484 : VLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSS : 547
+         :::.|::.:|::|:  |::  .:.::| |  :|. :|.:.| .:.:.: .|.... ...: :
+ 464 : SSSQSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFG : 527
+
+ 548 : SSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGI : 583
+       |:.|:|| : ::::: . :|... .  :....:|||
+ 528 : SGGSSGSSSQSGSSSGGLGGVGGGHGGIGGGNAGGI : 563
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 227 583 . Medex_00089660-RA 210 563 . 114 M 44 44 G 1 0 M 106 106 G 1 0 M 85 85 G 1 0 M 118 118
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 278 -> 569
+  Target range: 198 -> 490
+
+ 279 : GPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK-SEPMDMVCSNNNANAN : 341
+       |....|. |.| |. .|::.|.  ::::  :::.::. :.:|:.: |  .. :  . :.:::|.
+ 199 : GGGNAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGKYVAGGGSSSQSGSSSAG : 262
+
+ 342 : DEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNF : 405
+       :.|:..:.|.  :.  ::::|. |: ::|| ..||:| |:  ::.:  .:.::.  : ::  .:
+ 263 : GGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGL : 326
+
+ 406 : PNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSL : 469
+       .. ::::: |  .    :|::: :: |:   ..|::::. ::.::..:. .. ::.. : ::: 
+ 327 : GGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGG : 390
+
+ 470 : AAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNS : 533
+       .:: ::  :   |   : :.:..:.|  :::.|:   . .::| | .:| .:| .:|:.:.. :
+ 391 : VGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVG : 454
+
+ 534 : NNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTP : 569
+       ..  :.:..::| |:|:|:::  .:.||. . :|.|
+ 455 : GGKYGGSGGSSSQSGSSSSAGGLGGVGGGHGGPGVP : 490
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 278 569 . Medex_00089660-RA 198 490 . 112 M 47 47 G 0 1 M 244 244
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 133 -> 582
+  Target range: 215 -> 661
+
+ 134 : ANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAM : 197
+       :|:||:..|.. ..::.    |:  .:|:::. :   |::|:.:.: :: .:| .. :   :: 
+ 216 : GNGGGHGGLGGGNAGFG---SGGGSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGG : 276
+
+ 198 : MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTI : 261
+        | ::::: :..|: .:  : |::|: .::|: |: :..|:.::.. |:  ::.:... : :  
+ 277 : GHGGAGGPIGGGTGGNYGGI-GGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFG : 339
+
+ 262 : KHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK : 325
+       .  ....... .....::.::::.:| |. .|. :::||::: ::. |: .. . : :|::: .
+ 340 : SGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLG-GGHGGNAGGVGGGFGGSGGYS : 402
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGN-DEEIGDGL--ASHHAAP : 386
+       :.. .   :..::. ...::.: .|.|::  :::::|  |:::||: :..:|:|   :|  :::
+ 403 : GGGSAGGIGGGQGGIGSGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSS : 466
+
+ 387 : QFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSS : 450
+       |   |::.. :  .:: : ..  | :  | .. :  : :   :.:|. : .:::..:.. ::::
+ 467 : QSGSSSSAGGLGGVGGGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGG : 530
+
+ 451 : PPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCG : 514
+       ::::::.  |::::| |:::::  :: : . | : |  .|.: .:  |:: |::  .|:| : |
+ 531 : SSGSSSQSGSSSGGL-GGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGG : 593
+
+ 515 : VNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPP : 578
+         :|.:||:.:|:::::.|:.|::. ..:.|.|||:|::  :::::|. . :|..: : . :::
+ 594 : GFGGGHSGSGSGSSSQSGSSAGSGGFGGSGSKSSSSSSSQSGSGGSGGFGFPGGHSQSSSSSSS : 657
+
+ 579 : TSGG : 582
+       .:|:
+ 658 : KGGS : 661
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 133 582 . Medex_00089660-RA 215 661 . 112 M 17 17 G 3 0 M 64 64 G 1 0 M 85 85 G 1 0 M 67 67 G 0 1 M 8 8 G 0 2 M 86 86 G 1 0 M 116 116
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 226 -> 571
+  Target range: 74 -> 417
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       ||: : :::::|::  .: :.::|:| .::. |. |  ..:.::: .....::.: .|. |. .
+  75 : SGSSSQSGSSSSSGSKGFGGSGSSSQSGSSSSSGSKGFGGSGSSSQSSSSSSSGSFGGGFGGIG : 138
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLAR--AGADDVKSEPMDMVCSNNNANANDEHSNDSTGEH : 352
+       |.| |:. |.  :  : ||: .::.::   :|::: ::...|   :..||.: :. |::: |. 
+ 139 : GGGFGGKYGGYGGSHGGLGGGNAGGFGGGYGGTGGGNAGGFDGGFGGGNAGGIGG-SHGGFGGG : 201
+
+ 353 : DANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGL : 416
+       :|.  ::| || |: ::|.:..:|:| |:  ::.    ::|..| : |:: : :: ::|:  | 
+ 202 : NAGGIGGGYGGLGGGNGGGHGGLGGGNAGFGSGGGSSGGSAGGK-YVAGGGSSSQSGSSSAGGG : 264
+
+ 417 : NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHA : 480
+       :.    :|::: :. |: :  . ::.:..: .: ..:.:.:: :. ::: |: |::: : |:  
+ 265 : HGGAGVGGGVGGGHGGAGG--PIGGGTGGNYGGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGL : 326
+
+ 481 : HGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNN : 544
+        |   |  .:.  :||.|::||:.  .|:  |.: ::|. :| ..|:.::.|| .|. ..|...
+ 327 : GGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSAGGFGGVGGGHGGKGNSLGGGHGGNAGG : 390
+
+ 545 : SSSSSTSPGSQATAAGGTVTQAGTPPL : 571
+        ::: .::|: :.::::. . :| ..:
+ 391 : VGGGFGGSGGYSGGGSAGGIGGGQGGI : 417
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 571 . Medex_00089660-RA 74 417 . 111 M 92 92 G 0 2 M 25 25 G 1 0 M 52 52 G 1 0 M 38 38 G 2 0 M 134 134
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 277 -> 583
+  Target range: 172 -> 477
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       .|.:|. ::| |.||:.| :.::|   ::: |::..:  : :|:::   ..::   :.. :::.
+ 173 : GGNAGGFDGGFGGGNAGGIGGSHGGFGGGNAGGIGGGYGGLGGGNGGGHGGLG-GGNAGFGSGG : 235
+
+ 342 : DEHSNDSTGEHDANRSSSGDGGKGSLSSGN-DEEIGDGLASHHAAPQFIMSPAENKMFHAAAFN : 404
+       :. :..:.|.. |. :||:::|.:| ::|: :..:|:|::: |:::   ::.:..  : : : .
+ 236 : GSSGGSAGGKYVAGGGSSSQSGSSSAGGGHGGAGVGGGVGGGHGGAGGPIGGGTGGNYGGIGGG : 299
+
+ 405 : FPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGS : 468
+        :.  .::  |:..  . : : : :. |. : .  ::. .::||::. :..::  |.::| .::
+ 300 : NAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIGGGFGSGSTGGGVGGGSGGSSQSGSSSSA : 363
+
+ 469 : LAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNN : 532
+        : :  :    :.|: || :. ...:|:||:: |::   |.: : |  :|.::| .:||.:. .
+ 364 : GGFGGVGGGHGGKGNSLG-GGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIGSGNTGGFG : 426
+
+ 533 : SNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGI : 583
+       :.:|. ...|..: ::: ::|| :.:.||.   ::..: : . :::::||:
+ 427 : GGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGL : 477
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 277 583 . Medex_00089660-RA 172 477 . 109 M 53 53 G 1 0 M 40 40 G 0 1 M 115 115 G 1 0 M 96 96
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089660-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 278 -> 587
+  Target range: 293 -> 599
+
+ 279 : GPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAND : 342
+       |..|.||:|. .|. .| :.||: :|::  |:|..:. :  | ::  |.: :   :..::.:::
+ 294 : GGIGGGNAGGIGGGHGGFGGGNAGGIGGGHGGLGGGNAGGIG-GGFGSGSTGGGVGGGSGGSSQ : 356
+
+ 343 : EHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFP : 406
+       . |:.|:|. ::   ::|:||||:  :|.:.. ::|:::  :::    :.:..  : ::. .:.
+ 357 : SGSSSSAGGFGG--VGGGHGGKGNSLGGGHGGNAGGVGGGFGGSGGYSGGGSAGGIGGGQGGIG : 418
+
+ 407 : NIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLA : 470
+       : :.::: | :. |  :.. :|:.  . : | ::..:.. :.|:.:|:.::  |::::| |:::
+ 419 : SGNTGGFGGGHGGLGGGNAGGVGGGFGSGSTGGGVGGGKYGGSGGSSSQSGSSSSAGGL-GGVG : 481
+
+ 471 : AAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSN : 534
+       ::  :   .  |   . :.:..:.|  |:  | .   :.  | | .||.:||::: :.:::.: 
+ 482 : GGHGGPGVPIGGGGYTGGVGGGHGGIGGGHGGIGGGQGGVGGGGFGSGGSSGSSSQSGSSSGGL : 545
+
+ 535 : NGNATNNNNNSSSSSTSPGSQ-ATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ : 587
+       .| :..:.. :::::.: |:  ::::||::. :. .. .   ::.::||:...:
+ 546 : GGVGGGHGGIGGGNAGGIGGGFGSGSGGSLGGGNYGGSGGDSSSGAGGGFGGGH : 599
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 278 587 . Medex_00089660-RA 293 599 . 109 M 42 42 G 1 0 M 33 33 G 2 0 M 109 109 G 1 0 M 89 89 G 0 1 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00025493-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 583 -> 639
+  Target range: 688 -> 742
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQ : 639
+       :.|::|  |:: ||.  :|| |:  : : ::. |.|::|. ::     |. ||.|:
+ 689 : EKPHQCDICKKRFSSTSNLKTHL--RLHSGQKPYACDLCPAKFTQFVHLKLHKRLH : 742
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 639 . Medex_00025493-RA 688 742 . 109 M 23 23 G 2 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00016177-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 133 -> 586
+  Target range: 31 -> 487
+
+ 134 : ANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAM : 197
+       :.:|...| ....||:. :  ::: :.|::|:| :  |:.:||..   ::.| |::  |     
+  32 : GPPGPPGPAGPPGQSVTGA--DTFLGSGDGSALAGLVGPPGPPGVCSCNFTSIISSLTLPDAIP :  93
+
+ 198 : MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHA-RSASPQQTPADFST : 260
+        ..: :: .:...:.: . |.|: .. . :|: |. ::... : |. :: :::..:....: :.
+  94 : GPPGIPGIDGKAGPPGTSGLPGPPGERGPPGPKGDKGDRGELGPPGPEGFQGSKGEPGRDGRPG : 157
+
+ 261 : IKHHNNNNTPPLKEE-KRNGPTGNGNS---GNGNGNGNGASNGNGISISDKLGSLTPSPLARAG : 320
+       .   .....|| |.| .: :|: :..:   ..  |.| |:| |.. | : | .: .|:. : :|
+ 158 : TPGTPGPPGPPGKSEFSHYDPSWKPRAILKEAVMGTGFGPSLGRPGSPGPKGEPGIPGTPGFPG : 221
+
+ 321 : ADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHA : 384
+       . :| :.  :.  ...  ..::|:: .:... :: ::.:|..| ::|:: .:.:  ||  :|.:
+ 222 : DRGVPGSKGERG-EPGLKGVKGERGYTGPEGAQGFKGEPGSPGIDGLPGFPGANGRDGTKGHKG : 284
+
+ 385 : APQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSST : 448
+       .:  | .|: . :  .:|  :|:  :::| . .|.  :::  .::|:| :: | | :.....:|
+ 285 : ESGEIGKPGPPGLPGEPAVYIPEDFAGGLATGRTAGLKGDPGDMGPKGDRGDTGSKGEKGERGT : 348
+
+ 449 : SSPPS-PPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSM : 511
+       :: :: |.:. | ..:: ||. ::   : .: : |:  .::...|...:. :::..:: | .: 
+ 349 : TGMAGMPGANGIQGPAGEKGEPGSLGPGGPPGPAGQKGERGDRGPPGPATITGLERDFVTVKGE : 412
+
+ 512 : GCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRM : 575
+         : .. .:.|:... .:...:. |:|.:..  ::::..: .:::.| |:. ..:..|   || 
+ 413 : KGDKGDRGKRGKRGPIGPPGPPGFGKAGSGPLLGPPGRPGVPGHPGAKGDKGEPGEIPLSMLRT : 476
+
+ 576 : PPPTSGGINEP : 586
+       . ...|. .:|
+ 477 : TKGDKGERGDP : 487
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 133 586 . Medex_00016177-RA 31 487 . 116 M 19 19 G 2 0 M 92 92 G 0 1 M 29 29 G 0 1 M 11 11 G 0 3 M 46 46 G 1 0 M 120 120 G 0 1 M 133 133
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00016177-RA
+         Model: affine:local:protein2protein
+     Raw score: 105
+   Query range: 199 -> 503
+  Target range: 240 -> 538
+
+ 200 : RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKH : 263
+       ::. : :: |.:::||  .|| .  .|:|  |:.:.:.: :  .  :  :.| ...   ..  .
+ 241 : KGERGYTGPEGAQGFKGEPGSPGIDGLPGFPGANGRDGTKGHKGESGEIGKPGPPGLPGEPAVY : 304
+
+ 264 : HNNNNTPPLKEEKRNGPTGN-GNSGNGNGNGNGASNG-NGISISDKLGSLTPSPLARAGADDVK : 325
+        .:: :..| ..: .| .|: |: |. .:.|:.:|:| :| . :. :::: |:: : .|:.: |
+ 305 : IPEDFAGGLATGRTAGLKGDPGDMGPKGDRGDTGSKGEKGERGTTGMAGM-PGANGIQGPAGEK : 367
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFI : 389
+       :|| .:  :...:.|.:. ..:. | .::.  :: : :  ::.:.:::. : |  :.:::    
+ 368 : GEPGSLGPGGPPGPAGQKGERGDRGPPGPATITGLERDFVTVKGEKGDKGDRGKRGKRGP---- : 428
+
+ 390 : MSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS : 453
+       ::|:..  |  |: . | ::|::  |:..:  ..|| : :.: | |: |  :|....:..: |:
+ 429 : IGPPGPPGFGKAGSG-PLLGPPGRPGVPGHPGAKGDKGEPGEIPLSMLR--TTKGDKGERGDPG : 488
+
+ 454 : PPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGS : 503
+        ..:  :..::| ::::|.  ||:  : .   |.:.::..||: | ||.:
+ 489 : VGIPGPAGPPGLPAAFGADETSLRYMPVPGPPGPPGPAGPPGPPGLSVTG : 538
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 199 503 . Medex_00016177-RA 240 538 . 105 M 84 84 G 0 1 M 16 16 G 0 1 M 12 12 G 1 0 M 73 73 G 4 0 M 15 15 G 1 0 M 33 33 G 2 0 M 63 63
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 200 -> 587
+  Target range: 58 -> 437
+
+ 201 : SSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHH : 264
+       :.||...::.|.  ||  |.... . ..: |. :...:..  :|.:.::| : . :.::... :
+  59 : NDAAEDVDDESKRKKRKDGDAGKENSRNGSGRVAGGRNGAEKSLKTPGSSKNGNKSSYGNTSSD : 122
+
+ 265 : NNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEP : 328
+       .::..:. .. | .|::|...: .|:.:.:|.::.: :: ... :| ::::   ||:   |  |
+ 123 : RKSPNSGGSSPKLTGSSGGNGAKTGSNDEDGENEESKVTPKSETSSNSSNSSWVAGP---KVPP : 183
+
+ 329 : MDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSP : 392
+       :.:| :::.:::::|:| ...|.::|:|  :: .   : ||.:.|  .:  :: :::    ::|
+ 184 : LKIVIPQQTSSTEQEQS-TRNGKNGASRHHTALPYVVA-SSNSSEPSPEKETTVQTSVGGSVNP : 245
+
+ 393 : AENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPT : 456
+       ::..   :::::  : .  || :: .: | | :  | . :.:: :.|.:::..: ::::.: .:
+ 246 : TDAS---GGPLKVEEKKDLALGAMLDEKQSSHHQRVLRSSHRNGSSSNGSGNGTQSGTATPVQS : 306
+
+ 457 : ALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNN : 520
+       :  |:::|  :: ::|| ::.::: :.   ::.||. :.: : .|.|. .|..: . :::..:.
+ 307 : SSSSSSGSTGAASPPAVVPVPAEGGSPPRRQTPSPQAAPPPAVDVPSPSSTKVATPPAIQDEKP : 370
+
+ 521 : SGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGIN : 584
+       .:..: :...:.:::.:: ::::::::  | . |.....  : :|.. .||: : :|. : : :
+ 371 : ESPPQVQAQPQPASQPQPQQSQQSPPPLQTQQLSPQPQQQQSPSQQPQQPLSQQPSPQQALSPS : 434
+
+ 585 : EPQ : 587
+       : |
+ 435 : QVQ : 437
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 200 587 . Medex_00056952-RA 58 437 . 125 M 121 121 G 3 0 M 21 21 G 1 0 M 20 20 G 1 0 M 29 29 G 3 0 M 188 188
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 228 -> 588
+  Target range: 24 -> 381
+
+ 229 : AVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHH--NNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       ...:.: .:|.| ..|:: :. :| .  .|:.: ::  :: :. : :..:::| :|:.|| ||:
+  25 : QAEGTAVRESGDNQRLDSTTDQAQSGKRSFAEVANDAAEDVDDESKRKKRKDGDAGKENSRNGS :  88
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       |. .|:.||.. |:..  || ..:. :. |... ...: :   |:.: .::.. :...||.:|.
+  89 : GRVAGGRNGAEKSLKTP-GSSKNGNKSSYGNTSSDRKSPNSGGSSPKLTGSSGGNGAKTGSNDE : 151
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNT : 418
+       : .:...  ... .::::.. :. :|:...:|  |: |.:..  :... . .. :.::    :|
+ 152 : DGENEESKVTPKSETSSNSSNSSWVAGPKVPPLKIVIPQQTSSTEQEQSTRNGKNGAS--RHHT : 213
+
+ 419 : QLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHG : 482
+       .|.   . : :: .| : . ::. ::.::: :|..::.: :. ... . :|:| : . :|  | 
+ 214 : ALPYVVA-SSNSSEPSPEKETTVQTSVGGSVNPTDASGGPLKVEEKKDLALGAMLDEKQSSHHQ : 276
+
+ 483 : HVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSS : 546
+       :|| ::: .. ::| ||: |::  |:|:: .: :|::.|....:..|  . ....::....:::
+ 277 : RVL-RSSHRNGSSSNGSGNGTQSGTATPVQSSSSSSSGSTGAASPPAVVPVPAEGGSPPRRQTP : 339
+
+ 547 : SSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQE : 588
+       |: ::|.:....::.: |:.:|||      | ::. ::...:
+ 340 : SPQAAPPPAVDVPSPSSTKVATPPAIQDEKPESPPQVQAQPQ : 381
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 228 588 . Medex_00056952-RA 24 381 . 124 M 36 36 G 0 2 M 43 43 G 1 0 M 104 104 G 2 0 M 11 11 G 1 0 M 59 59 G 1 0 M 102 102
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 105 -> 468
+  Target range: 97 -> 457
+
+ 106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGS-STLFS : 168
+       :.. |:.:| ::: ...:.:: :  :: :||||.:|  | : : . :. || ::||.: .:  :
+  98 : AEKSLKTPGSSKNGNKSSYGNTSSDRKSPNSGGSSPKLTGSSGGNGAKTGSNDEDGENEESKVT : 161
+
+ 169 : RQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGS : 232
+       .::..|:.::. : :::.  ..|  ::.: :::|::...:.|.:: :  .  :.:||   | ::
+ 162 : PKSETSSNSSNSSWVAGPKVPPL--KIVIPQQTSSTEQEQSTRNGKNGASRHHTALPYVVASSN : 223
+
+ 233 : GSNNNSPDLPPLHAR---SASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNG : 293
+       :|:.:: . ..:::.   |.:| :::::  .:.:.:: . .:: :||:::.  .  .:: ...:
+ 224 : SSEPSPEKETTVQTSVGGSVNPTDASGGPLKVEEKKDLALGAMLDEKQSSHHQRVLRSSHRNGS : 287
+
+ 294 : NGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRS : 357
+       ::.::|||.  :.  .  ::|: :.::::...: ::  | ::..:.:. : ::  :: . |   
+ 288 : SSNGSGNGTQSGTATPVQSSSSSSSGSTGAASPPAVVPVPAEGGSPPRRQTPSPQAAPPPAVDV : 351
+
+ 358 : SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQ : 421
+       :|..:.| : ::: ::| .:: :  :|.||    ||.:   :.:. : |.::. .| . . | |
+ 352 : PSPSSTKVATPPAIQDEKPESPPQVQAQPQ----PASQPQPQQSQQSPPPLQTQQLSPQPQQQQ : 411
+
+ 422 : QSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGS : 468
+        ::: :  | :.:: :. .| ||:   : :: |:..| :....:| |
+ 412 : SPSQQPQQPLSQQP-SPQQALSPSQVQGQSSVPAVELHPRKRKMKQS : 457
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 468 . Medex_00056952-RA 97 457 . 116 M 58 58 G 0 1 M 28 28 G 2 0 M 54 54 G 0 3 M 140 140 G 4 0 M 44 44 G 1 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00056952-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 142 -> 587
+  Target range: 16 -> 461
+
+ 143 : NTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAA : 206
+       .|:.:.:.::: .::::.|::  | |  :.: :.  : :.:::: .::: .   ...|..:.|:
+  17 : ATDPDKVQQAEGTAVRESGDNQRLDSTTDQAQSGKRSFAEVANDAAEDVDDESKRKKRKDGDAG :  80
+
+ 207 : AEETSHAFKRL----RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNN : 266
+        |::.::  |:    .|:::||  :|:  :|:::: .: :: : :|:::  :::.::. .  |.
+  81 : KENSRNGSGRVAGGRNGAEKSLKTPGSSKNGNKSSYGNTSS-DRKSPNSGGSSPKLTGSSGGNG : 143
+
+ 267 : NNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMD : 330
+       .:|.: .|:  |. :  ...::.::|::.:|  .| .::  |  :.| . :.:..:: ..:..:
+ 144 : AKTGSNDEDGENEESKVTPKSETSSNSSNSSWVAGPKVP-PLKIVIPQQTSSTEQEQSTRNGKN : 206
+
+ 331 : MVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAE : 394
+        ...::.| :    |::|:.   .: ::  .:  ||:::.:... .  :..... :   |  ..
+ 207 : GASRHHTALPYVVASSNSSEPSPEKETTVQTSVGGSVNPTDASGGPLKVEEKKDLALGAMLDEK : 270
+
+ 395 : NKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTAL : 458
+       :.  |. .:. :: :.|:  | ..  | :.. :| : :: | ..::|:||.: .: |:...:: 
+ 271 : QSSHHQRVLRSSHRNGSSSNGSGNGTQSGTATPVQSSSSSSSGSTGAASPPAVVPVPAEGGSPP : 334
+
+ 459 : ISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSG : 522
+        ..|:| ::: ::|| .:.|.: ..| ..:: .   .. .: | ::   ::| . . :| :::.
+ 335 : RRQTPSPQAAPPPAV-DVPSPSSTKVATPPAIQDEKPESPPQVQAQ-PQPASQPQPQQSQQSPP : 396
+
+ 523 : NNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+       . :.:: :.:::: ::.:::.: : |  ::. || ::: . .|::.|:: |: . ..    :|:
+ 397 : PLQTQQLSPQPQQQQSPSQQPQQPLSQQPSPQQALSPSQVQGQSSVPAVELHPRKRKMKQSKEA : 460
+
+ 587 : Q : 587
+       |
+ 461 : Q : 461
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 142 587 . Medex_00056952-RA 16 461 . 114 M 75 75 G 0 4 M 26 26 G 1 0 M 61 61 G 1 0 M 167 167 G 1 0 M 30 30 G 1 0 M 82 82
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044305-RA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 560 -> 646
+  Target range: 231 -> 317
+
+ 561 : GTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHR : 624
+       .| .:| :.| :|::. ..    :  :.|. | ::|:    | ||::..:::.|  |:|.|| |
+ 232 : ETCGKACATPAALKVHVQGMHLGEREHTCHVCAKSFGERRHLLRHIRSHDQDKDYRYICTFCSR : 295
+
+ 625 : RYRTKNSLTTHKSLQHRGSSGM : 646
+        ::|.: |..|. |:|::::::
+ 296 : IFKTEDQLKKHSLLHHKAPGDL : 317
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 560 646 . Medex_00044305-RA 231 317 . 147 M 86 86
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00061629-RA
+         Model: affine:local:protein2protein
+     Raw score: 248
+   Query range: 2 -> 118
+  Target range: 27 -> 143
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC :  66
+       ..: | : |:|. ||: ..:      :.:||||:|| : .|:|||:|||:|| ||:.::...||
+  28 : AGEAFNVLWKNHTSSLHDQLYLQFLYQELVDVTIACVDGRIRAHRLVLSSCSKYFKTVFDDNPC :  91
+
+  67 : KHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQ : 118
+       .|||:::::.: ..:::|: |:| |.|:| :..::.|:. |: |:|.|| ::
+  92 : DHPVVIVKGASCRTFQGLIVFMYTGSVKVLREDFEEFMSLADELKVRGLCNE : 143
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 118 . Medex_00061629-RA 27 143 . 248 M 116 116
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00045160-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 579 -> 645
+  Target range: 49 -> 115
+
+ 580 : SGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGS : 643
+       || ::.  .|. | :.:..  |||||:.|||.:.:. | | :|:| | ::||| ||    |:..
+  50 : SGLLKKVFTCRLCGKVLCSKASLKRHIADKHSERQEEYRCVICERVYCSRNSLMTHIYTYHKTR : 113
+
+ 644 : SG : 645
+       :|
+ 114 : PG : 115
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 579 645 . Medex_00045160-RA 49 115 . 128 M 66 66
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00045157-RA
+         Model: affine:local:protein2protein
+     Raw score: 445
+   Query range: 565 -> 659
+  Target range: 35 -> 129
+
+ 566 : AGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTK : 629
+       ...:|:. ::|||| |||||||||||||||||||||||||||||||:|||:||||||:||||||
+  36 : VPGSPMRYHIPPPTVGGINEPQECPYCRRTFSCYYSLKRHFQDKHERSDTMYVCEFCQRRYRTK :  99
+
+ 630 : NSLTTHKSLQHRGSSGMLKRLLKTTAIKHG : 659
+       |||||||||||||||||||||||::|: |:
+ 100 : NSLTTHKSLQHRGSSGMLKRLLKSAALAHA : 129
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 565 659 . Medex_00045157-RA 35 129 . 445 M 94 94
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00092274-RA
+         Model: affine:local:protein2protein
+     Raw score: 212
+   Query range: 28 -> 95
+  Target range: 21 -> 88
+
+ 29 : EAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVN : 94
+      |:.|| ||: :|: :|||::|||||||||::|:|: . .:|||:::::||:||. :|||:|:||::
+ 22 : ESMVDCTLSAQGQFLKAHKMVLSACSPYFQDLFKNHQNSNPVIIFNGINFLDLKLVVEFMYQGEIK : 87
+
+ 95 : V : 95
+      |
+ 88 : V : 88
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 28 95 . Medex_00092274-RA 21 88 . 212 M 67 67
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044175-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 105 -> 644
+  Target range: 252 -> 813
+
+ 106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSR : 169
+       |: ::  |::.:::: .. ||  :  : ::..: :  : :... : |     ||:::::: :|:
+ 253 : TPVMMEKSAVDDERSRSPASHSKDSSHSSDENSDAD-DQQEADPASPSSKQKHDEDSNGSNYSW : 315
+
+ 170 : QGAGSPPPTAVPSLPSHIN--NQLLKRMAMMHRSSAAAAAEETSHAFKRL--RGSDNSLPLSGA : 229
+       :.:.|   .. :.:.:: :  :.|: . :    :..|...|::: .:..|  ||.|:    .: 
+ 316 : NEGTSYDEGVGSEVTADSDEKDPLFLPEPSSGDNEDANNDENSASDYESLTTRGDDSQSEKESK : 379
+
+ 230 : VGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT---GNGNSGNGN : 290
+         : ::.:| :|:: . . ..  :::.: .:: ::: .: |:|..:| ::.    |:|..|   
+ 380 : PKNLPSAESLGLSAEYISLERLGDSSNN-CSVCNEKFPDRPSLSKHKAQAGHFKCGHGGCGIVC : 442
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLAR--AGADDV-KSEPMDMVCSNNNANANDEHSNDSTGE : 351
+       |:.:. :  :.:: ::  ..:.|:|  :  :.:::| : :|. :    ::: :. .....| . 
+ 443 : GSTDELNVHQEMAHGQGAPDVKPTPGKHPLGTTHQVPQIHPKPLSNLVQQPVSPRAPCPSSLPI : 506
+
+ 352 : HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLG : 415
+       ::..  ..:..::|.:||:|.:   | | ::. . .     | :|. ::::  :.|:: : : :
+ 507 : QQVGVQKRAAPANGDMSSSNKQRRLDVLLPDKHDDADCHVIALQKRSESGPV-IGNVE-GLVNS : 568
+
+ 416 : LNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSH : 479
+        :: :: |:.:::| : |.| |.||:.::::...| |.: :.:::. :    : :::. .::: 
+ 569 : PDSTIHLSDSITLSVRQPPSNTPSATPAASGKGKSDPKAVANILATRGITVVPSGGGTNRVQPS : 632
+
+ 480 : AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNN : 543
+       :: :: .:: .|:     .::.:|    : : : :: ::.:|.::.....:..|:.|. : .:.
+ 633 : PQKQLAPQPQRPAAVQQSPTTTASVAALNLNSAISIIPAASSPQQPTARQQAPSSPGGFAVPQG : 696
+
+ 544 : NSSSSSTSPGSQA---TAAGGTVTQAGTPPLPLRMP---PPTSG----------GINEPQECPY : 591
+       .:: |.  .  |.   .: ..||. : ..|:| |.|   ||::           .: ..:.|. 
+ 697 : RGPMSRQQQQQQVVDRPPRPPTVDLTQDTPIPTRRPMQQPPAPQFMSRGRARGRPVMSRHTCQI : 760
+
+ 592 : CRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSS : 644
+       |.:.||   :|. |.. .:..:.  : |: |. :|.|:::| .|:   :|.::
+ 761 : CSKVFSTPENLTAHMALHRSPGKLPFRCNNCPAQYPTQHGLLIHQQACRREPP : 813
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 644 . Medex_00044175-RA 252 813 . 132 M 36 36 G 1 0 M 46 46 G 0 2 M 29 29 G 0 2 M 40 40 G 1 0 M 23 23 G 0 3 M 37 37 G 0 2 M 6 6 G 0 1 M 79 79 G 1 0 M 5 5 G 1 0 M 146 146 G 0 3 M 20 20 G 0 3 M 5 5 G 0 10 M 63 63
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00103380-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 447 -> 586
+  Target range: 112 -> 248
+
+ 448 : TSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSM : 511
+       ..: |:. |:  ...   .|.|.::  : .: |:| . |  ...| |:| ||| | : .:::: 
+ 113 : KRTKPGTKTSEAKHEIVKSGELNGGEAPGPGSAEGVAGGGKGKHPLPASGGSSGGVSSSSGSNS : 176
+
+ 512 : GCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRM : 575
+       : | .:|..:|::.|::::...:. :  ..::.::.:::||||.:|::::|   |:.|  |  :
+ 177 : AGGGGGGGGGGSKRGSSGHRRDKARDKHGADKATAKPPASPGSATTTTSAT---AAVPVPPTTV : 237
+
+ 576 : PPPTSGGINEP : 586
+        | .:| :..|
+ 238 : VPDVNGVVRTP : 248
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 447 586 . Medex_00103380-RA 112 248 . 100 M 115 115 G 3 0 M 21 21
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00067579-RA
+         Model: affine:local:protein2protein
+     Raw score: 418
+   Query range: 1 -> 272
+  Target range: 6 -> 280
+
+   2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTP :  65
+       :..|:||||||||||::|:.|::| :.|:||||||||:|:|:|||::|||||||||:.|: ..|
+   7 : ESPQQFCLRWNNYQSNLTNVFDQLLQSESFVDVTLACDGHSVKAHKMVLSACSPYFQALFFDNP :  70
+
+  66 : CKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQ : 129
+       |:||:::|:|::. :|.|:|||:|.||:|| |. : ::||.|| |::.||:: ::| . :  |:
+  71 : CQHPIVILKDIKWPELKAVVEFMYKGEINVSQEQIGPLLKVAESLKIRGLADVNGEPEFGGDAK : 134
+
+ 130 : IQNLANSGGRTPLNTH---TQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQ : 190
+         : ::|:  :::.:|   .:: : | |   .    |:.  |.:.:::::..: |: ::  .. 
+ 135 : KWSSSSSSQGAAVAAHDLSPDGAASPAHRHKKRRRMSGERASPEEGDAASGGGEPPPAPAAPAG : 198
+
+ 191 : LLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQT : 254
+       | . :|  :.:::::::  .:.   .| :| .: | :.:|.: ::: . . .  :  ... ::.
+ 199 : LDMTLAASQPPPPPPPPPPPPPHGLSLGDSLPPPPPPPPVPAHPDDMEIKPGIAEMIREEERHV : 262
+
+ 255 : PADFSTIKHHNNNNTPPL : 272
+       .  |..  |.:::::..:
+ 263 : TCLFREPAHYSDSSARHI : 280
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 272 . Medex_00067579-RA 6 280 . 418 M 144 144 G 0 3 M 127 127
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00004024-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 283 -> 635
+  Target range: 24 -> 375
+
+ 284 : GNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSND : 347
+       .:.|||:| .. | .:.: : :   :| .|:.:.:  :   .: .|:.  ..|.|.:: : || 
+  25 : THDGNGSGLPPQAVGDGSGGGARYHSSPGPAHFNQHHPPIGMPVNMGKYRETNGAGGQPQVSNV :  88
+
+ 348 : STGEHDANRSSSGDGGK--GSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNID : 409
+        ..: . :::::  ||.  |::: ::...: :.|. ::.:..   ::::::  . :... |:  
+  89 : MNPNSKYHQGGNLPGGHHYGGVPYSQASSVQQPLQQQQQGRPASSPAGDKRQAYHGEMGQPQDL : 152
+
+ 410 : PSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV : 473
+        ::| .|: : ::..  : :  . ::        ..: |:: |:.  :| :|.|:: : |:   
+ 153 : CATLKELKREDDKEERPGSGEVEYNNSMLHHHQHHGTQTTGMPATWQSLATPGSTVADYLSHLP : 216
+
+ 474 : YSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGN : 537
+        |  : :  | | .::.. : .   :: |:.: .::: . |: :|..:| ..|:: :::. | :
+ 217 : ASTLPISLHHFLKYSAENIKKEQDMNPGGPAIGVASTTTPGMMGGPPAG-PGGKKKKKKKVNKE : 279
+
+ 538 : ATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYS : 601
+        ....:.:. . |:: . :|    .  : : |   |  ..  : .:: .  |  |  .:.    
+ 280 : KKPRPKPGEIRLTTALDGSTLYCCPECHMAYPEKELLEQHLLGHTLERRFVCDICGAGLKRKDH : 343
+
+ 602 : LKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       |.||  .: ::::  |||. | : :: |: || |
+ 344 : LTRH--KQSHNPERPYVCTVCLKAFKRKEQLTLH : 375
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 283 635 . Medex_00004024-RA 24 375 . 106 M 81 81 G 0 2 M 158 158 G 1 0 M 82 82 G 2 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00083545-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 286 -> 554
+  Target range: 184 -> 447
+
+ 287 : GNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTG : 350
+       |:| |:|:| : |:||::|. :|| .. .::.: :.:: :..:::..: .:: : :.  . :::
+ 185 : GSGLGSGSGLGLGSGIALSSGIGSGVGYGIGSGIGSGI-GSGIGLASGIGSGIGLGSGIGLAAA : 247
+
+ 351 : EHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSAL- : 414
+       ....:  :.. .   : : .   : . .::  ::.|  : .|   .: |:.: : |.  | :: 
+ 248 : APAVQTVTRTVPVPVPQPVPVPVNRPVPVPVAQPVPVSVPRPYPVSVPHPVPVSVPRPYPVSVP : 311
+
+ 415 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLH : 477
+        . ...:.|:  :||:.. | |:.::.:.. . :.: | :.|.:: .|.   .|:|::   :| 
+ 312 : RPYAVPVPQAVPVAVPQPYPVSVPHPVPVRVPQPVAVPVPHPVPVDRPVVVGTGGLGS---GLG : 372
+
+ 478 : SHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNN : 541
+       :   |  || :: ..   : ||::|:.:  ::::|.|:. |:. |:. | .:. .|. | ::. 
+ 373 : GGIGGVGLGGGSLGGI--GYGSGIGGGIGYGSGIGSGIGYGSGIGSGIGYGSGIGSGIGYGSGI : 434
+
+ 542 : NNNSSSSSTSPGS : 554
+       ... || : |.||
+ 435 : GGGISSIGLSGGS : 447
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 286 554 . Medex_00083545-RA 184 447 . 104 M 38 38 G 1 0 M 88 88 G 0 1 M 58 58 G 3 0 M 19 19 G 2 0 M 59 59
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072866-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 491 -> 617
+  Target range: 25 -> 145
+
+ 492 : PRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQ : 555
+       ..::..|..| .:||.:.::| |:.:| .:|::.....:..:..|::|   |:::::  .|:: 
+  26 : QNAARTGRDVQCSLCGTGNLGAGLGAGWAGGSKPTTPVSGTPRAGSPT---NSAATPQHRPATW :  86
+
+ 556 : ATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLY : 617
+       ...| |  |.::|:|:|   |..|:   .....  |.|  |.. :| |:: .:| .:|:.::
+  87 : NNNAQG--TPGSTSPMPGLTPTGTPHHQAKTPSGDYSRAHFDSVFS-KQDPANKTKKSGDVF : 145
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 491 617 . Medex_00072866-RA 25 145 . 100 M 48 48 G 3 0 M 19 19 G 2 0 M 38 38 G 1 0 M 15 15
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00032565-RA
+         Model: affine:local:protein2protein
+     Raw score: 162
+   Query range: 11 -> 115
+  Target range: 15 -> 119
+
+  12 : NNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCKHPVILLQD :  75
+       |:. ::| . :.  :::. | ||||  ||: :|||| ||::||||| .:||  .  .  : :  
+  16 : NQHGNAILEKLKIQKEQGRFCDVTLYVEGKHFKAHRSVLASCSPYFDSVLKMHRTVKERLTITC :  79
+
+  76 : VNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGL : 115
+        |   :  |::::| |.| ::::::..:|: |: : |: |
+  80 : QNSEIFSCLLNYMYTGSVVIDKNNVAELLRLANHFLVTKL : 119
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 11 115 . Medex_00032565-RA 15 119 . 162 M 104 104
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00070245-RA
+         Model: affine:local:protein2protein
+     Raw score: 140
+   Query range: 90 -> 587
+  Target range: 300 -> 793
+
+  91 : GEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTH-TQSLPHPH : 153
+       ..:::::.:|:: ||.:: :.  .:. .::. . .. |: :::  .: . . .:| .|. : | 
+ 301 : NKLQIDREALRN-LKISNPIPQQEIDVPETAVPVKPEADNKQVIMRAQSLRDTSHVGQRPAIPT : 363
+
+ 154 : HGSLHDDGGS--STLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHA-- : 214
+        ||::: :|:  :| ::    .|:||.: |:|.| . :  :  ::  :.::|.:::.: :..  
+ 364 : FGSMRQPSGTKRPTSIPTGMRPSSPPPPRPPLQSGTVDTGIIGLPGYQNPPAVSSPTDYGYDDC : 427
+
+ 215 : FKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKR : 277
+       |: | | :.:|:  :. :|::.|.|.::    . ..||.: . .    .: ::. :|:|  ...
+ 428 : FNLLTGVNAPLANIDEESSSPTNASGNI--YAVIEESPPECGRKNVLRDEVQSRCSPSLPLKTS : 489
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       .||:| ::|  ::.  .: ...:.:. |.. ||:.: .| .. .::::: ..: :.|.:..: .
+ 490 : AGPSG-SKSQYASPMLGDYKTPKPLDNSTSAGSIESMGLLSEIVNEIQARNFESIYSASGDKKT : 552
+
+ 342 : DEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSP-AENKMFHAAAFN : 404
+       ..:.:|:.:.  |. .|:::::..:|    : . |:: :|  :.. :| :| :.:::: :::  
+ 553 : KSDDEDGNSSVVATDRSTAGSSSPPL---YGYKSGNDASSISSVGTYINAPYSTSNIYGGGSSV : 613
+
+ 405 : FPNIDPSALLGLNTQLQQSGDL-AVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG : 467
+       ::|:.  .  : :.. :..:.: : |: :: |:..:|:::|:.:| |:.|::.: |: .:: ::
+ 614 : YSNVSMQNNPANSPPPNAKSSFSSSSSSSAASFKSAASSTPSDGTVSSQSSAKPKITLGGPSQA : 677
+
+ 468 : SLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANN : 531
+       :: : |   :..::: :|.  |: | |..  ||:  .  :||: | .::::.  ::...:.: .
+ 678 : NV-PLVNIEERKSQAVLLPVKTAVPVPNK--SSLHHPAPASTPPG-PLKTAGVVSKPAPSPPVG : 737
+
+ 532 : NSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ : 587
+       .:: |.|..: :||:.  :| ::.:::.:|  .:  ..  .|:::| ::::  .||
+ 738 : GNKVGRAETKLSNSPDVVSSCSPATSGDAGRSPDIIGGKAGLKIAPKSPDAALKPQ : 793
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 90 587 . Medex_00070245-RA 300 793 . 140 M 12 12 G 1 0 M 42 42 G 0 1 M 18 18 G 0 2 M 50 50 G 0 2 M 28 28 G 2 0 M 39 39 G 1 0 M 84 84 G 3 0 M 22 22 G 0 1 M 34 34 G 0 1 M 43 43 G 1 0 M 26 26 G 2 0 M 14 14 G 1 0 M 74 74
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00070245-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 141 -> 582
+  Target range: 430 -> 863
+
+ 142 : LNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAA : 205
+       |.. ..:|:: ::.|   ..:|:.:::  ..::|  .  . |..:::::   .:::  ::||::
+ 431 : LTGVNAPLANIDEESSSPTNASGNIYAVIEESPPECGRKNVLRDEVQSRCSPSLPL--KTSAGP : 492
+
+ 206 : AAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNT : 269
+       ::..: .|  .| : ..: ||..:.::|| :: . |: : ...  :::  : :|:  :.:.::.
+ 493 : SGSKSQYASPMLGDYKTPKPLDNSTSAGSIESMGLLSEI-VNEIQARNFESIYSASGDKKTKSD : 555
+
+ 270 : PPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVC : 333
+          ..:..  :|:.:.:|:::..  | .:||: |  ..:|: ..:| : :.  :  |.  . |.
+ 556 : DE-DGNSSVVATDRSTAGSSSPPLYGYKSGNDASSISSVGTYINAPYSTSNIYGGGSSVYSNVS : 618
+
+ 334 : SNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKM : 397
+        :|  |:.:..:.::.:. .::.|||:.: |:: ||...:.. .: :|  | |::.::.:.:  
+ 619 : MQN--NPANSPPPNAKSSFSSSSSSSAASFKSAASSTPSDGTVSSQSS--AKPKITLGGPSQAN : 678
+
+ 398 : FHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISP : 461
+        . ..::  . ..:.||.::|.:. :.. :: ..:| |...:: .::.  :.::||||.:  : 
+ 679 : VPLVNIE-ERKSQAVLLPVKTAVPVPNKSSLHHPAPASTPPGPLKTAGVVSKPAPSPPVG-GNK : 740
+
+ 462 : TSSLKGSLAAAVYSLHSHAHGHVLGHATSPP-RPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNN : 524
+       .:. ...|:.:   : | :.:   : : ||   .|..| .::::  .:: .. : .::.. |.:
+ 741 : VGRAETKLSNSPDVVSSCSPATSGDAGRSPDIIGGKAGLKIAPKSPDAALKPQANAPAAGLGRS : 804
+
+ 525 : NGNNANNNSNNGNATNNNNNSSSSSTSPGSQA-TAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       .:: :...|: |.:: ..:.::  |: .:.|: ||: ..:::::...   | |:::: |
+ 805 : TSSVTATASKFGASSVTGKPATVHSSFRSKQPQTAPKPNISKPSVTGDKTRAPSSAAKG : 863
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 141 582 . Medex_00070245-RA 430 863 . 104 M 56 56 G 2 0 M 45 45 G 1 0 M 26 26 G 1 0 M 64 64 G 2 0 M 43 43 G 2 0 M 21 21 G 1 0 M 52 52 G 1 0 M 34 34 G 0 1 M 64 64 G 0 1 M 26 26
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00064817-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 44 -> 150
+  Target range: 0 -> 108
+
+  45 : AHRVVLSACSPYFRELLKSTPCKHPVILLQDVNFMD---LHALVEFIYHGEVNVHQKSLQSFLK : 105
+       .||:||:||: ||: ||.. | . :  :||  : |:   : ::::|:| | :: :..  :.: .
+   1 : VHRLVLNACTEYFK-LLEKLPGHASGAFLQMPSNMHPDVVLPIINFMYTGRLEFRAEVTDELYT :  63
+
+ 106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLP : 150
+       ||: :.:  ||:  . :::|. ::: . |:. : ::  .|  | |
+  64 : TAQHMNMMVLTKLLDVQAQSPSSKVVPPAHKKSDSSSLVHHVSAP : 108
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 44 150 . Medex_00064817-RA 0 108 . 114 M 14 14 G 1 0 M 21 21 G 0 3 M 70 70
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 138
+   Query range: 247 -> 593
+  Target range: 614 -> 958
+
+ 248 : SASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSL : 311
+       |. |  .:::|:.|   .:..|..: . ..: |.:.|.:|.|:.:|. :..|.. :.  : |: 
+ 615 : SQQPGFGSGGFPGI-GGPSGPTGQFPTPSSDFPGSGGPGGPGSPSGPFPRPGGPSGTFPRPGG- : 677
+
+ 312 : TPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEI : 375
+       .::|::|:|: :  |.| :  .:. . .:. . :  :.|...:. :|:| :| |: |:.::   
+ 678 : PSGPFPRPGGPGGPSGP-GGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVG : 739
+
+ 376 : GDGLASHHAAPQFIMSPAENKMF-HAAAFNFPNIDPSALLGLNTQLQQSGDLAVS-PQGPHSIT : 437
+       .:||::. :::    :.: .  | :::: . .  :|::  : :..:.::|: : : |  . : .
+ 740 : PGGLSGPGGPSGPGGPGGPGGPFPRPGGPTAGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGASG : 803
+
+ 438 : RSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSV : 501
+       .:::.:|.:: :.|.:|.|:  ::.:: :.: ::: :: .: : :   |.:.::...|: |:: 
+ 804 : PGGPGGPGGPFPRPGGPTTSYPGSGGPSRPGGPGSPFPRPGGPSAGYPGPGGPSGPGGPGGPGG : 867
+
+ 502 : GSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQ : 565
+       . .  .:.: |.. ::|.:::...|..:.. :..|.:|.. ..::::|.:.|: :.::. . . 
+ 868 : PFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGPGGPSGPGGPGGPGGPFPRPG : 931
+
+ 566 : AGTPPLPLRMPPPTSGGINEPQECPYCR : 593
+       :.|:. | . .|:.:|| ..| . |: |
+ 932 : GPTAGYPGPGGPSGPGGPGGPGG-PFPR : 958
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 247 593 . Medex_00091664-RA 614 958 . 138 M 14 14 G 1 0 M 48 48 G 1 0 M 17 17 G 1 0 M 69 69 G 0 1 M 31 31 G 0 1 M 159 159 G 1 0 M 4 4
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 125
+   Query range: 131 -> 505
+  Target range: 643 -> 1013
+
+  132 : NLANSGGRTPLNTHTQSLPHP--HHGSLHDDGGSSTLFSRQ-GAGSPPPTAVPSLPSHINNQ :  190
+        :::.|||... .:.: ::|:|  . |::.  ||:|. |:|. |:|:|:..: || | . .. 
+  644 : DFPGSGGPGGPGSPSGPFPRPGGPSGTFPRPGGPSGPFPRPGGPGGPSGPGGPSGPFPRPGG :  705
+
+  191 : LLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQ :  252
+          .  : :  :|:: ::...| :  . .|:..::. :|  |:|:.:.:.: ..  :. :.| 
+  706 : PSSGYPGVGGPSGPIGSGGPSGPGGP-SGPSGPVGPGGLSGPGGPSGPGGPGGPGGPFPRPG :  766
+
+  253 : QTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPS :  314
+         ..|:::.   ..:.:.|      |.|..: | :| |.::|.|::.|.| :::   |: |: 
+  767 : GPTAGYPGPGGPGSTSGP----FPRPGGPSYGYPGVGGASGPGGPGGPGGPFPRPGGPTTSY :  824
+
+  315 : PLARAGA-DDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEI :  375
+        | : :.:  :  :.|. .  :.:.: :. . ::::.|  ::. : :  || ::  :|::.  
+  825 : PGSGGPSRPGGPGSPFPRPGGPSAGYPGPGGPSGPGGPGGPGGPFPRPGGPAAGYPGSGGPS :  886
+
+  376 : GDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSIT :  437
+        |.| :: .::| | .:.: .  :.:::   .. :|::  | ...:.::|: :.: .|| : :
+  887 : GAGGPGGPGGP-FPRPGGPTAGYPGPG---GPSGPGGPGGPGGPFPRPGGPTAGYPGPGGPS :  944
+
+  438 : RSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSP-PRPGSVG :  498
+         :::.:..::. :.|::|||  :..:: .|:::::  :  :.: .   : ::|| ||||: .
+  945 : GPGGPGGPGGPFPRPGSPTAGYPGPGGPSGPFPTPGGPTAGYPGTGGSSTPSSPFPRPGGPT : 1006
+
+  499 : SSVGSNL :  505
+        :: .:.:
+ 1007 : TPGPTGV : 1013
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 131 505 . Medex_00091664-RA 643 1013 . 125 M 21 21 G 0 2 M 18 18 G 0 1 M 46 46 G 1 0 M 53 53 G 4 0 M 47 47 G 0 1 M 65 65 G 1 0 M 15 15 G 3 0 M 86 86 G 0 1 M 14 14
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 183 -> 572
+  Target range: 630 -> 1021
+
+  184 : PSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSG-SNNNSPDLPPL :  244
+        ||  ..|: .. : .. |::::::...| :| |  |:..::| :|: ::. :...:|: |: 
+  631 : PSGPTGQFPTPSSDFPGSGGPGGPGSPSGPFPRPGGPSGTFPRPGGPSGPFPRPGGPGGPSG :  692
+
+  245 : HARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISD :  306
+        .: :::| . |:: |:  .  ...:.|: .. .:||.|.:.::.. |.|. ::.|.. : ::
+  693 : PGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPSGPVGPGGLSGPGGPSGPGG :  754
+
+  307 : KLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLS :  368
+          |: .| |  .:|:..  :.| :  .::.. . .:..| : .|  :|: :::.:|. |:::
+  755 : PGGPGGPFP-RPGGPTAGYPGPGGPGSTSGPFPRPGGPSYGYPGVGGASGPGGPGGPGGPFP :  815
+
+  369 : SGNDEEI---GDGLASHHAAP--QFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGD :  425
+        ...: ..   |.| :|:.::|  .| .:.: :  :.:::   .. :|::  | ...:.::|:
+  816 : RPGGPTTSYPGSGGPSRPGGPGSPFPRPGGPSAGYPGPG---GPSGPGGPGGPGGPFPRPGG :  874
+
+  426 : LAVS-PQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLG :  486
+         |.: | :. : . :::.:|.:: :.|.:|.::  :|.::  .: :::  :  ::: |.. |
+  875 : PAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGPGGPSGPGGPGGPGGPFPRPGGPTAG :  936
+
+  487 : HATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSS :  548
+        .:.:...:|: |:: .:.  ...: . :  :| .:|.:.. .:...:..| :....::::||
+  937 : YPGPGGPSGPGGPGGPGGPFPRPGSPTAGYPG-PGGPSGPFPTPGGPTAGYPGTGGSSTPSS :  997
+
+  549 : STSPGSQATAAGGTVTQAGTPPLP :  572
+        : :..: :|::|.| ..:|.:.:|
+  998 : PFPRPGGPTTPGPTGVPGGGAQFP : 1021
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 183 572 . Medex_00091664-RA 630 1021 . 124 M 50 50 G 0 1 M 82 82 G 1 0 M 59 59 G 0 3 M 11 11 G 0 2 M 16 16 G 3 0 M 24 24 G 0 1 M 89 89 G 1 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00091664-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 211 -> 586
+  Target range: 607 -> 979
+
+ 212 : HAFKRLRGSDNSLPLSGAVG-SGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKE : 274
+       ..:. : : :.::. :|  | :|::..:.::|.  :  :::  ..:  |.  . .....|: . 
+ 608 : YDYSIIGSQQPGFGSGGFPGIGGPSGPTGQFPTPSSDFPGSGGPGGPGSPSGPFPRPGGPSGTF : 671
+
+ 275 : EKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNA : 338
+        :..||:|. ....|.|..:|::..:|   .   .| . :.:: :::   .:.| :   ::..:
+ 672 : PRPGGPSGPFPRPGGPGGPSGPGGPSGPFPRPGGPSSGYPGVGGPSGPIGSGGPSGPGGPSGPS : 735
+
+ 339 : NANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAA : 402
+       .: :  : .:.|...:. :::| ||  : ::|.... .:. ::  ::..| .:.: :  :.:.:
+ 736 : GPVGPGGLSGPGGPSGPGGPGGPGGPFPRPGGPTAGYPGPGGPGSTSGPFPRPGGPSYGYPGVG : 799
+
+ 403 : FNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLK : 466
+          .. :|::  | ...:.::|: :.| .|: : :|::  :|.|: :.|.:|:::  :|.::  
+ 800 : ---GASGPGGPGGPGGPFPRPGGPTTSYPGSGGPSRPG--GPGSPFPRPGGPSAGYPGPGGPSG : 858
+
+ 467 : GSLAAAVYSLHSHAHGHVLGHATSPPRPGSVG-SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNA : 529
+       .: :::  :  ::: |.. |.:.|...:|: | :: |:.:  :.: . | .:...::...|..:
+ 859 : PGGPGGPGGPFPRPGGPAAGYPGSGGPSGAGGPGGPGGPFPRPGGPTAGYPGPGGPSGPGGPGG : 922
+
+ 530 : NNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+       ...: . .:..... :::::.|..: :.::||. .::|:|. . . |...||.:..|
+ 923 : PGGPFPRPGGPTAGYPGPGGPSGPGGPGGPGGPFPRPGSPTAGYPGPGGPSGPFPTP : 979
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 211 586 . Medex_00091664-RA 607 979 . 115 M 20 20 G 0 1 M 171 171 G 3 0 M 35 35 G 2 0 M 56 56 G 0 1 M 88 88
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00017075-RA
+         Model: affine:local:protein2protein
+     Raw score: 395
+   Query range: 0 -> 149
+  Target range: 63 -> 215
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST :  64
+       |::.::|||||:|||  :..||  | : | :|||||||:|||::|||.||||||:||:.|::.:
+  64 : MGEENQFCLRWSNYQHQLGEAFRMLLEREMLVDVTLACDGRSLRAHRAVLSACSSYFQGLFQES : 127
+
+  65 : PCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLT---QQQAEDTHS : 125
+       . .||:::|:||:| :|::||:|:|:|||.| :.||.:||:||..|::.|||   :: ||.:. 
+ 128 : THSHPIVILKDVKFEELESLVHFMYNGEVTVGNDSLPGFLNTAKTLQIRGLTTGLDDTAESSKV : 191
+
+ 126 : HLAQIQNLANSGGRTPLNTHTQSL : 149
+       : |  :.|:|.::    :|:|:|:
+ 192 : NSAGSDGLSNDSDVREQKTDTESV : 215
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 149 . Medex_00017075-RA 63 215 . 395 M 116 116 G 0 3 M 33 33
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00099213-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 94 -> 382
+  Target range: 2054 -> 2341
+
+   95 : VHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGS :  156
+        :::.. :: :|.:::   .. |:::  |.|::  . : ||:.  |..|    .:::. ::|:
+ 2055 : LEHDENEPTIKESDLETDETETDEDFYDKHPQKLANKLLAEK--RNQL-LLLAAVAPVNNGT : 2113
+
+  157 : LHDDGGSSTLFSR-QGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRL :  217
+        : ..:.::.: :  :::|.   |  .. | . ::.  |:: : : :.:.:::.  ::. . :
+ 2114 : IAATSPAADVSPEIHATGKKIKTKKRRKPQYQQQPPAKKIKVDNLPKPNTSTSFYNNQVSTF : 2175
+
+  218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPA-DFSTIKHHNNNNTPPLKEEKRN :  278
+          |.:  : |...:  : ..:: ||.:. .:. |:.||| .: :.   ::.:: .|.  :| 
+ 2176 : TVSSSLPSASNQTAQVTIPTTAPLPQIPYSPNIPHPTPAPSYHSTGSGSETDSKRLSRRRRV : 2237
+
+  279 : GPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANA :  340
+        .    |::::.:|::....: : .|:::.  : :::   |:|.:.:..  ..:. : :: :.
+ 2238 : PKRFYGDTSDEEGDSTPQRKWQKTSVNESPLPSSSTFSYRSGVNSLSEPKRTVAVPLQEKSD : 2299
+
+  341 : NDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASH :  382
+        ::: ::||.:|:: :||:|:.:..:| .:.::.:::.: .:|
+ 2300 : DEDVGDDSESEREMKRSNSDSSNSDSEKGNEQSDLDSDTDNH : 2341
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 94 382 . Medex_00099213-RA 2054 2341 . 111 M 42 42 G 2 0 M 4 4 G 1 0 M 26 26 G 0 1 M 87 87 G 0 1 M 126 126
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00066470-RA
+         Model: affine:local:protein2protein
+     Raw score: 422
+   Query range: 2 -> 300
+  Target range: 6 -> 296
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC :  66
+       .:|:|||||||.||:: :.|::| :||:||||||| ||| :|||::|||||||||:.|: : | 
+   7 : SSQRFCLRWNNHQSNLLTVFDQLLHDESFVDVTLAVEGRLLKAHKMVLSACSPYFQALFVGHPD :  70
+
+  67 : KHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQI : 130
+       |||:::|:||.: |:.:|::|:|:|||:|:|..| :|||.|| ||:.|||: : |:...  : .
+  71 : KHPIVILKDVPYCDMKSLLDFMYRGEVSVDQERLTAFLKVAESLRIKGLTEVN-EEKYDLPSIT : 133
+
+ 131 : QNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR : 194
+        :| :| ... :.|||.: |.||  .:|  .: .  :|.       |:|.| |.| :...  ||
+ 134 : SSLLSSVPPPVVTTHTPP-PPPHLHRIHPIPSQRRNLSM-------PSATPLLGSALTAPKRKR : 189
+
+ 195 : MAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLP-PLHARSASPQQTPAD : 257
+          .. |:::::|..:  | ..  |:..  . :|. . :::..::::| |: |:|::   .   
+ 190 : GRPRKLSGSSGGAAGAQAATTPADGAAAQKTSTGNGEVDNSARPAQVPDPVVAQSSPEMLEVKM : 253
+
+ 258 : FSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGN : 300
+         .::: ..:...| ..|  |::|: :...::: .:. ..||:
+ 254 : SVDFQQSGASGGRPPDGEIGNDSTAMATEPSSDQADTQQKNGH : 296
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 300 . Medex_00066470-RA 6 296 . 422 M 117 117 G 1 0 M 28 28 G 1 0 M 20 20 G 7 0 M 66 66 G 0 1 M 58 58
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00014963-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 572 -> 664
+  Target range: 189 -> 279
+
+ 573 : LRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHK : 636
+       |.:.:.:: : .  : |  | : |   |.|:||:  : : :|  | |. | : :. ..:|. |:
+ 190 : LNVHSGSGVDKAIKHRCDKCGKRFVTLYKLRRHY--RSHTGDRPYECSRCGKLFSQTGNLNLHR : 251
+
+ 637 : SLQHRGSSGMLKRLLKTTAIKHGLVGHG : 664
+       . :: ..:.   :   .:::. :|:.::
+ 252 : KKHEEEDANPSFHAPAPATFDASLIPQS : 279
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 572 664 . Medex_00014963-RA 189 279 . 106 M 34 34 G 2 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00035657-RA
+         Model: affine:local:protein2protein
+     Raw score: 374
+   Query range: 1 -> 120
+  Target range: 3 -> 122
+
+   2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTP :  65
+       :::::|.|||||::|:::::|:.: ::|.:|||||| .|: ::||::|||.||||:::|:| .|
+   4 : NNSEQFSLRWNNFHSNLSTGFHAFLQGEDLVDVTLATGGQFVQAHKLVLSVCSPYLKNLFKMNP :  67
+
+  66 : CKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQA : 120
+       ||||:::|:||. .:|  ::||:|:|||||:|..| .||||||:|:|.||| :::
+  68 : CKHPIVILKDVGHKELLHILEFMYRGEVNVRQDDLTEFLKTAEMLQVKGLTGDET : 122
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 120 . Medex_00035657-RA 3 122 . 374 M 119 119
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00089216-RA
+         Model: affine:local:protein2protein
+     Raw score: 186
+   Query range: 50 -> 116
+  Target range: 18 -> 82
+
+  51 : SACSPYFRELLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSG : 114
+       |:|.. ::.:  |.||:||||:||||:| :|::|: |:|.|||:::|.||.::|::||.|::.|
+  19 : SGCRRILKAF--SNPCQHPVIILQDVHFSELESLLCFVYKGEVSIDQESLPALLRAAETLQIRG :  80
+
+ 115 : LT : 116
+       |:
+  81 : LS :  82
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 50 116 . Medex_00089216-RA 18 82 . 186 M 10 10 G 2 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00035959-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 587 -> 635
+  Target range: 182 -> 228
+
+ 588 : ECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       :|:||.:.|.|  .|. |:  : : ::| :.|::|:||||.  ||.:|
+ 183 : QCSYCNKDFKCNSDLTVHI--RTHTGETPFACHLCNRRYRICFSLNAH : 228
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 587 635 . Medex_00035959-RA 182 228 . 128 M 19 19 G 2 0 M 27 27
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00035959-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 583 -> 635
+  Target range: 206 -> 261
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHF--QDKH-EQSDTLYVCEFCHRRYRTKNSLTTH : 635
+       :.| .|. |.| :. .:||: |:  :: |  :|.  : |::|.:::|:|:|| .|
+ 207 : ETPFACHLCNRRYRICFSLNAHLARHGIHIVNSKRQFECDICKKHFRSKESLQNH : 261
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 635 . Medex_00035959-RA 206 261 . 106 M 23 23 G 0 2 M 4 4 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00044383-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 167 -> 464
+  Target range: 6 -> 312
+
+ 168 : SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVG : 231
+       .: |::  |: . .  . : ::|     : .:::::|.:.::: :: |: ||.::::|  |. :
+   7 : KKGGPSQEPAQQQQQQQQQQQQQHPVTATPREQPPPAESQQQAHRGQKQERGRQQPFPQHGQSA :  70
+
+ 232 : SGSNNNSPD---LPPLHARSA--SPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       :.: :: ::    |||:|.::  |..| |::: : :  ..::..  ::  ::: : : ::|...
+  71 : ATPLQEVAQAQLQPPLQAPPGFQSQPQLPPGLQASQGLGPQSGQEQQQPPQQAWSQQQQPGPPG : 134
+
+ 291 : GNGNGASNGNGISISDKL--GSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEH : 352
+       |.|  ..:... : .::    :|..:. .|:|:   .::. :   :..... ::. :.|:||::
+ 135 : GRGLRQRQPGPPGGRGQYQGQPLGNAGQQRPGPPVGMGQQQQQPGPPGGQGRQQGLPPDGTGQQ : 198
+
+ 353 : DANRSSS-GDGGKGSLSSGNDEEIGD--GLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSAL : 413
+       ::..::: |:    :|:::.::  |   |:: ::..|    :.: :: :.:.: .:.: :|:::
+ 199 : QPGPPGGRGQYQGQPLGNAGQQRPGPPVGMGQQQQQPGPPGGRGRQQGLPPDGTGLQQPGPPGV : 262
+
+ 414 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSS : 464
+        ||:  |...:. .  |: |.: .| .: :|::.. ...::..| : | ::
+ 263 : TGLQQGLPPDSTAQQQPE-PPGRGRQQGLPPAGRGQKRQGAQGAQFQPQPG : 312
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 167 464 . Medex_00044383-RA 6 312 . 110 M 73 73 G 0 3 M 9 9 G 0 2 M 59 59 G 0 2 M 51 51 G 0 1 M 18 18 G 0 2 M 54 54 G 1 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 158
+   Query range: 133 -> 570
+  Target range: 302 -> 732
+
+ 134 : ANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGS-PPPTAVPSLPSHINNQLLKRMA : 196
+       :.||: :|::. . : |:: |::  .: :: :  | |:||| .::|: .|  || ::: ::. .
+ 303 : SPSGSASPMSEAGSASPQSVHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQ : 366
+
+ 197 : MMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFST : 260
+         :. : :: :|.:: : .|   ::::|: |.: ||.:::.::. :   ||| .:: :.:.  :
+ 367 : SGRSQPRSPRSEGSASPSSR---PGSALSQSPP-GSPASDAGSAHSDGSARSRRSDTSQTSRVS : 426
+
+ 261 : IKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDV : 324
+        : . :. :|. :.. |:.::: :. :. ...:. ::.:|: : | | .: ..|| ::|.|:. 
+ 427 : ARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSP : 490
+
+ 325 : KSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQF : 388
+       .|: :.: .:.::|:.:. :||.|: .:.:: ::.:  :.||  | : :. |.: ::| :|:| 
+ 491 : ESN-VSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQT : 553
+
+ 389 : IMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPP : 452
+          :|:::. :|:| : .. :.:|  . :.. ::|.. ..| ::|:|::.: :..:.:|: ||.
+ 554 : SAHSAHSQRSNASA-HSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSPR : 616
+
+ 453 : SPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVN : 516
+       |.::|  || |: .:  : :  | || ::::. :|:..:. ::  ..| :|. ...:: :   .
+ 617 : SNASA-HSPRSNASAHSPRSNASAHS-PRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSP : 678
+
+ 517 : SGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       .:|.|:::. :||:.:|..:||:.::..|::|: || |:|:| :   ..:: :|
+ 679 : RSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSP : 732
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 133 570 . Medex_00069928-RA 302 732 . 158 M 41 41 G 0 1 M 42 42 G 3 0 M 10 10 G 1 0 M 97 97 G 1 0 M 74 74 G 1 0 M 54 54 G 1 0 M 20 20 G 1 0 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 59 -> 590
+  Target range: 181 -> 705
+
+  60 : LLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEV-NVHQKSLQS-FLKTAEVLRVSGLTQQQAE : 121
+       :| |.||..:::||  ..:: :  || :  .| . |. :::  |   ..:|  . |: :  ::.
+ 182 : FLPSPPCHPAIVLLLLAPILLVLLLVLIPSPGVTWNTWDRGTGSDSDSEGEGSSGSSRSSSRSG : 245
+
+ 122 : DTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPS : 185
+       .. |: : :.: :.:::.:. ..  :| |.:. .|    ||| :  |. :.|..:|.: :: :|
+ 246 : SPASQSGTVASPSRGSASAHSGIVHNSPPKSPSPSPAPYGGSYSSGSPSSDGEGSPGSPSGSAS : 309
+
+ 186 : HINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSA : 249
+       .:::.   . . :|.::::  :.:: |:   ::::::  : ::  :: |: :...:.: :: .:
+ 310 : PMSEAGSASPQSVHSNASSHHSAQSQHS---VQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRS : 370
+
+ 250 : SPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTP : 313
+        |: ..::  .   .::...::|.:. ..:|::::.|::::|::. :..::.  .|   :. . 
+ 371 : QPRSPRSE--GSASPSSRPGSALSQSPPGSPASDAGSAHSDGSAR-SRRSDTSQTSRVSARSKV : 431
+
+ 314 : SPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGD : 377
+       |. |. :...|:| : |:   :..:||::: :..:::.|.::.::||::.::. ::::. | . 
+ 432 : SGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSK-ANAHSPESNV : 494
+
+ 378 : GLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAA : 441
+       :: |.::.:  : || .|   ::   : .. .|.:  : ::: .:|.: ..|:::| | |.: :
+ 495 : SVHSPRSDAS-VHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHS : 557
+
+ 442 : TSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNL : 505
+       : : .|.:|:.|..:: .:.|:. ::|  ::  :   |: .: :: | ||...:|. |: ::. 
+ 558 : AHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHS-PRSVASAHSPRSNASAHSPRSNAS : 620
+
+ 506 : CTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTP : 569
+         |.. . :.:|..::::.::..:|.::::..:..:.:::.|::::.::::.|:: :   .:::
+ 621 : AHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 684
+
+ 570 : PLPLRMPPPTSGGINEPQECP : 590
+       . | . ::: |.  |.:.:.|
+ 685 : HSPRSNASAHSPRSNASAHSP : 705
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 59 590 . Medex_00069928-RA 181 705 . 153 M 34 34 G 0 1 M 9 9 G 0 1 M 111 111 G 3 0 M 41 41 G 2 0 M 35 35 G 1 0 M 71 71 G 1 0 M 20 20 G 1 0 M 92 92 G 1 0 M 109 109
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 130 -> 568
+  Target range: 392 -> 834
+
+ 131 : QNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR : 194
+       |: :.|.:..: ::|::: ::::::.  :.:  |:  .  | ::.:.::|.| :|:::.:  : 
+ 393 : QSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRT : 456
+
+ 195 : MAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADF : 258
+        |  |.:.:.|:::... . .  ....:: : |.. . : ::..:| :   :||.::.::. . 
+ 457 : NASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSK : 520
+
+ 259 : STIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASN--GNGISISDKLGSLTPSPLARAG : 320
+       :. : .:::.::. :. ..:|:.::::|..::.::::| :  :|: : |:: |: :.:| :.|:
+ 521 : AGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNAS : 584
+
+ 321 : ADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHA : 384
+       .:. |::: .: .:.: |:|:. :||.|: .. :| |: :  :::|  |...:. :::  |: :
+ 585 : EHSPKTNA-SIHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNAS : 647
+
+ 385 : APQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSST : 448
+       |.    :::.:.   .|: : |. ::||  . :.. .:|.  ..|:::|:| :.: :..:.:|:
+ 648 : AHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 711
+
+ 449 : SSPPSPPTA--LISPTSSLKGSLAAAVYSLHSHAHGHV--LGHATSPPRPGSVGSSVGSNLCTS : 508
+        ||.|.::|  | |.:|: ... .|:..| :|.| ||    : : || .. | .:||||: . |
+ 712 : HSPRSNASAHSLRSNASAHSPRSNASAHSPRSKASGHSPRSDASHSPVSHHSPTGSVGSKHSRS : 775
+
+ 509 : TSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       .|.: : .| ::  ..:::..:..| :::|..::::.|.:|..:|.:.|:.:.| .::|:
+ 776 : PSKSRS-PSVEKQVATESDREDRGSVKSKAVASDEEKSRASGRSGRRDTSDDETGKKSGS : 834
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 130 568 . Medex_00069928-RA 392 834 . 147 M 168 168 G 0 2 M 30 30 G 1 0 M 128 128 G 0 2 M 27 27 G 0 2 M 30 30 G 1 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 105 -> 587
+  Target range: 317 -> 793
+
+ 106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSR : 169
+       ::: :: :: ::: |:. ||  :.  : :.:: |:.:: .::.  ::::::  :  ::.:  | 
+ 318 : SPQSVHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRSQPRSPRSEGSA : 381
+
+ 170 : QGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSG : 233
+        .::.|.::  .| |:  .::  .  :    .|  :.:.:||:.  | : |: : . :::| |.
+ 382 : SPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSP : 445
+
+ 234 : SNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGA- : 297
+       ::: |:: |. :|.: ||: .::: |. .: :.::..:  :.....:. : :|..:::: ::: 
+ 446 : ASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRSDASVHSPR : 509
+
+ 298 : SNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSG : 360
+       ||::: | ..| |: :|.: :.| : . .||. |    :..::::.: ::.  :: .|:. .||
+ 510 : SNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSG : 573
+
+ 361 : DGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSG : 424
+       ..:..: |:::::.  .. : |  :|: : |: ..:   .|: : |. ::||  . :.. .:|.
+ 574 : TTAHTPRSNASEHSPKTNASIH--SPRSVASAHSPR--SNASAHSPRSNASAHSPRSNASAHSP : 633
+
+ 425 : DLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHA : 488
+         ..|:::|:| :.: :..:.:|: ||.|.::|  || |: .:  : :  | || ::::. :|:
+ 634 : RSNASAHSPRSNASAHSPRSNASAHSPRSNASA-HSPRSNASAHSPRSNASAHS-PRSNASAHS : 695
+
+ 489 : TSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSP : 552
+       ..:. ::  ..| :|. ...:: :    .:|.|:::. :||:.:|..::| :.::..|.:| ||
+ 696 : PRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSPRSNASAHSPRSKA-SGHSPRSDASHSP : 758
+
+ 553 : GSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ : 587
+        |: :::|:. :: : :|   | |: ..   .|::
+ 759 : VSHHSPTGSVGSKHSRSPSKSRSPSVEKQVATESD : 793
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 587 . Medex_00069928-RA 317 793 . 146 M 191 191 G 0 1 M 86 86 G 2 0 M 12 12 G 2 0 M 59 59 G 1 0 M 20 20 G 1 0 M 59 59 G 1 0 M 48 48
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 179 -> 581
+  Target range: 182 -> 584
+
+ 180 : VPSLPSH--INNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDL : 241
+       :|| |.|  |   || .: ::      :::. | ::..|  |||:.   .|: ||:.:::.:: 
+ 183 : LPSPPCHPAIVLLLLAPILLVLLLVLIPSPGVTWNTWDRGTGSDSDSEGEGSSGSSRSSSRSGS : 246
+
+ 242 : PPLH--ARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGIS : 303
+       |: :  : ::::: :::. |.| |::..::|: . .  .|: ::|:::::...:.|:::|:: :
+ 247 : PASQSGTVASPSRGSASAHSGIVHNSPPKSPSPSPAPYGGSYSSGSPSSDGEGSPGSPSGSASP : 310
+
+ 304 : ISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSL : 367
+       :|:  || :| :: ..::.: .::: : | |..:..:...:.:: .::.. .. .| ::|::  
+ 311 : MSEA-GSASPQSVHSNASSHHSAQSQHSVQSAGSQRSATSRRSN-VSHYSKRSVRSQQSGRSQP : 372
+
+ 368 : SSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPS--ALLGLNTQLQQSGDLAVS : 429
+       .|...|  |.: :| ::::.:  ||:.:   :|:: :  . ..|  :  : .::: ..:.::  
+ 373 : RSPRSE--GSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGY : 434
+
+ 430 : PQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPR : 493
+       :. ::: .||:|:. :: ::...::. :  |.:|: ... .|: .| :|.|::|  .::. : :
+ 435 : APRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHS-PESNVSVH : 497
+
+ 494 : PGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQAT : 557
+       :.. ::|| |. ..:::.:   ::|..|.:::| :|::.|.::::::.:.:|::| ||: |. :
+ 498 : SPRSDASVHSPRSNASARSRKSKAGGRSPKSDG-SAHSRSPHSEGSDASAHSPASQTSAHSAHS : 560
+
+ 558 : AAGGTVTQAGTPPLPLRMPPPTSG : 581
+       . :.: :::  :. . : |.:.::
+ 561 : QRSNASAHSQRSGTTAHTPRSNAS : 584
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 179 581 . Medex_00069928-RA 182 584 . 139 M 7 7 G 0 2 M 59 59 G 0 2 M 62 62 G 1 0 M 39 39 G 1 0 M 25 25 G 2 0 M 36 36 G 0 2 M 73 73 G 1 0 M 41 41 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 135
+   Query range: 121 -> 565
+  Target range: 345 -> 786
+
+ 122 : DTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPS : 185
+       .: |: ::: : ::.: |:. :.::|: :.. :||   .: ::: :|: .:|||::.| :: :.
+ 346 : SATSRRSNVSHYSKRSVRSQQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSD : 409
+
+ 186 : HINNQLLKRMAMMHRSSAAAAAEE-TSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARS : 248
+         ..   .  :   | || : ... ::::  .:|::.:.::  :: .::|.:::.. :: |:..
+ 410 : GSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPK : 473
+
+ 249 : ASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLT : 312
+       :::   ::  |. : |:.::. ::.. :.:::. :..|..:. : :: :.|.: . .:.  | :
+ 474 : SNASGHSPR-SKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRS : 536
+
+ 313 : PSPLARAGADDVKSEPMDMVCSNNNANANDEHSN-DSTGEHDANRSSSGDGGKGSLSSGNDEEI : 375
+       | : :..::.:  :.. .  .:::: :....||: .:|..|.:..::|.::.|.: |  :  .:
+ 537 : PHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSV : 600
+
+ 376 : GDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRS : 439
+       :.: ::: .|:.   || .|   |::  | :. .|.:  : ::.  :::. : .::::   .||
+ 601 : ASAHSPRSNASA--HSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRS : 662
+
+ 440 : AATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGS : 503
+       .|::.::.::::: :| :  |: |: ::: :|   . :: ||:.  . :: :||:.: : |: |
+ 663 : NASAHSPRSNASAHSPRSNASAHSP-RSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRS : 725
+
+ 504 : NLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQ : 565
+       | .: ::.: ..:: :..::.:|:::.::::::..::::..:| :|. : |.:.: :.:|.:
+ 726 : NASAHSPRS-NASAHSPRSKASGHSPRSDASHSPVSHHSPTGSVGSKHSRSPSKSRSPSVEK : 786
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 121 565 . Medex_00069928-RA 345 786 . 135 M 88 88 G 0 1 M 48 48 G 1 0 M 88 88 G 0 1 M 41 41 G 2 0 M 75 75 G 1 0 M 47 47 G 1 0 M 52 52
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 131 -> 570
+  Target range: 309 -> 750
+
+ 132 : NLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRM : 195
+       .::::|: :| :.|::  : :||::  :::  |:   | :::..:..:  | .|  ::|  :. 
+ 310 : PMSEAGSASPQSVHSN--ASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRSQ : 371
+
+ 196 : AMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFS : 259
+       :. .||.::|::.. : :  . ..:::: : :|:. |:::..|.   . ::...|:: . ::::
+ 372 : PRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYA : 435
+
+ 260 : TIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGA-SNGNGISISDKLGSLTPS---PLARA : 319
+       . .: : .:.::  ..... ..::|:|..:|::|::: ||::| | ..| .: :|.   :: .:
+ 436 : PRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSP : 499
+
+ 320 : GADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHH : 383
+        :|.   .|.. ..:.:. : .:.:|..|.|. : :||: ::|:.:|  |...:. :::  |::
+ 500 : RSDASVHSPRSNASARSRKSKAGGRSPKSDGSAH-SRSPHSEGSDASAHSPASQTSAHSAHSQR : 562
+
+ 384 : AAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNT-QLQQSGDLAVSPQGPHSITRSAATSPTS : 446
+       :.:    |. ...  |::  | :: .|.:  :::: :  .|:: : |..::||  .:|:: :..
+ 563 : SNAS-AHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSPRSNASAHSPR : 625
+
+ 447 : STSSPPSPPTALISPTSSLKGSLAAAVYSLHSH-AHGHVLGHATSPPRPGSVGSSVGSNLCTST : 509
+       |.:|:.||.:.  :.::. ::|  ::  :  :| ::::. :|:..:. ::  ..| :|. ...:
+ 626 : SNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRS : 689
+
+ 510 : SMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       : :   ..:|.|:::. :||:.:|..:||:.:: .|::|: || |:|:| :.  ..:| :|
+ 690 : NASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSPRSNASAHSPRSKASGHSP : 750
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 131 570 . Medex_00069928-RA 309 750 . 132 M 16 16 G 2 0 M 147 147 G 0 1 M 18 18 G 0 3 M 39 39 G 1 0 M 33 33 G 1 0 M 30 30 G 0 1 M 61 61 G 0 1 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 110 -> 588
+  Target range: 352 -> 825
+
+ 111 : RVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGS : 174
+       .||  ::: . . :|  :| ::  :.|: :| : .. :|:::..||  .|:||:    .:|::.
+ 353 : NVSHYSKRSVRSQQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSA---HSDGSAR : 413
+
+ 175 : PPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNS : 238
+       :..:..:  :.  ..  :.  | . .:|. ::|.:.|    | .:|::| | |.| | ::::|:
+ 414 : SRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHS-PRSNASGHSPKSNA : 476
+
+ 239 : PDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGI : 302
+       :: :|   || :..::|..  ::. ..::.: .   .: ::.: ::::|. :.:::|::::.: 
+ 477 : SGHSP---RSKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRS- : 537
+
+ 303 : SISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       : |:  :: :.|| ::::|:...|:. :    ::.:.:..: :..:::||.:: ::| ::.:: 
+ 538 : PHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSV : 600
+
+ 367 : LSSGNDEEIGDGLASH-HAAPQFIMSPAENKMFHA-AAFNFPNIDPSALLGLNTQLQQSGDLAV : 428
+        |: :  . :.: ::: :|:::  .|.|...  :: |: : |. ::||  . :.. .:|.  ..
+ 601 : ASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNA : 664
+
+ 429 : SPQGPHSITRSAATSPTSSTSSPPSPPTALI--SPTSSLKGSLAAAVYSLHSHAHGHVLGHATS : 490
+       |:::|:| :.: :..:.:|: ||.|.::|    |.:|: ... .|:..| :|:| :| | ::.:
+ 665 : SAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSL-RSNA : 727
+
+ 491 : PPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGS : 554
+       ::::.. .:|. |. ..::: :   :::::: ::::..:: .|:::.:.:::.::| ..  :..
+ 728 : SAHSPRSNASAHSPRSKASGHSPRSDASHSPVSHHSPTGSVGSKHSRSPSKSRSPSVEKQVATE : 791
+
+ 555 : QATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQE : 588
+        . .. |:|.  :.::   : .::..:| .:. :
+ 792 : SDREDRGSVKSKAVASDEEKSRASGRSGRRDTSD : 825
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 110 588 . Medex_00069928-RA 352 825 . 132 M 54 54 G 3 0 M 56 56 G 1 0 M 19 19 G 3 0 M 55 55 G 1 0 M 80 80 G 0 1 M 18 18 G 0 1 M 59 59 G 0 2 M 26 26 G 1 0 M 102 102
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 226 -> 582
+  Target range: 416 -> 770
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPA-DFSTIKHHNNNNT-PPLKEEKRNGPTGNGNSGN : 288
+       |::  ::. :..:.::.  :||.:: ::|| | |: ..:.|.:. :| .:.. ::|.:|::: :
+ 417 : SDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHS : 480
+
+ 289 : GNGNGNGASNGNGISI-SDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGE : 351
+       ..:::|: |..:.:|: | : :: ..|| :.|:| . ||.: :.  |.::..:.:.:|.:|.|.
+ 481 : PRSKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGR--SPKSDGSAHSRSPHSEGS : 542
+
+ 352 : HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLG : 415
+       :.:.:|::::.:  |  | ..:. :::  |  :|.    :::|:.   .|::: |.  :||  .
+ 543 : DASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSP : 606
+
+ 416 : LNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSH : 479
+        :.. .:|.  ..|:::|:| :.: :..:.:|: ||.|.::|  || |: .:  : :  | || 
+ 607 : RSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA-HSPRSNASAHSPRSNASAHS- : 669
+
+ 480 : AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNN : 543
+       ::::. :|:..:. ::  ..| :|. ...:: :   ..:|.|:::. :||:.:| .:||:.::.
+ 670 : PRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSP : 732
+
+ 544 : NSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       .|::|: || |:|:: :.  ::|: :|:: : |..: |:
+ 733 : RSNASAHSPRSKASGHSPR-SDASHSPVSHHSPTGSVGS : 770
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 582 . Medex_00069928-RA 416 770 . 127 M 30 30 G 0 1 M 13 13 G 0 1 M 35 35 G 0 1 M 27 27 G 2 0 M 124 124 G 1 0 M 20 20 G 1 0 M 83 83 G 1 0 M 19 19
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 153 -> 570
+  Target range: 297 -> 714
+
+ 154 : HGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRL : 217
+       :||  . :||:: .| .|::||.:.  .: : | .:   .  :   :.||::  .:.||  || 
+ 298 : EGSPGSPSGSASPMSEAGSASPQSVHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRS : 361
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+         |::| .  .  ..:..:.||. .|  | |.||. :||. :.  | :.:. :. .:..:.:..
+ 362 : VRSQQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRV : 425
+
+ 282 : GNGNSGNG-NGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEH : 344
+       :. :. :| ...:|:: .:.: .:|.. .. .:|. :. :... .|   :    :..::||.: 
+ 426 : SARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHS : 489
+
+ 345 : SNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNI : 408
+       ::.:.: |.:...:| ::.::: |: : .. ::| ::. .::.  .|| .:    .|: : |. 
+ 490 : PESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEG--SDASAHSPAS : 551
+
+ 409 : DPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAA : 472
+       :.||  : : : :.|:: . |. .:|:  .:|:. :..:.:| .||.:.  :.::. ::|  ::
+ 552 : QTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSP : 615
+
+ 473 : VYSLHSH-AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNN : 535
+         :  :| ::::. :|:..:. ::  ..| :|. ...:: :   ..:|.|:::. :||:.:|..
+ 616 : RSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPR : 679
+
+ 536 : GNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       :||:.::..|::|: || |:|:| :.  ..:: :|
+ 680 : SNASAHSPRSNASAHSPRSNASAHSPRSNASAHSP : 714
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 153 570 . Medex_00069928-RA 297 714 . 124 M 136 136 G 0 1 M 107 107 G 2 0 M 81 81 G 0 1 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 115 -> 588
+  Target range: 321 -> 793
+
+ 116 : TQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTA : 179
+       .: :|.. ||  :|    :.:: |:: : :::  ..:.::   :::|.|   |.::.||::|::
+ 322 : VHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRSQPRSPRSEGSASPSS : 385
+
+ 180 : VP--SLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDL : 241
+        |  :|:   ..   .  :  |..::| :  ..: . .|:.:..:  . :.  .:: .:.::|:
+ 386 : RPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDV : 449
+
+ 242 : PPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISIS : 305
+       ::  :|:.:: ::| . :: . .::|.:..   .| |:.:.::| :  :..:::: ::.  : |
+ 450 : SAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRSDASVHSPRSNAS : 513
+
+ 306 : DKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSS : 369
+       .:  | .:.: :|:. .| .:::..  ...::|:|:.  |:.|: . :::||:::. :: | ::
+ 514 : AR--SRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTT : 575
+
+ 370 : GNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGP : 433
+       ::.   ..:  |..:.:  | || .    |::  | :. .|.:  : ::.  :::. : .::::
+ 576 : AHTPRSNASEHSPKTNAS-IHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNAS : 638
+
+ 434 : HSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSV : 497
+          .||.|::.::.::::: :| :  |: |: ::: :|   . :: ||:.  . :: :||:.: 
+ 639 : AHSPRSNASAHSPRSNASAHSPRSNASAHSP-RSNASAHSPRSNASAHSPRSNASAHSPRSNAS : 701
+
+ 498 : GSSVGSNLCTSTSMG-CGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAG : 560
+       : |  || .: ::.:  :.:| .::::.::..:|.::::..:..:.:::.|.:: :.    ::.
+ 702 : AHSPRSNASAHSPRSNASAHSLRSNASAHSPRSNASAHSPRSKASGHSPRSDASHSPVSHHSPT : 765
+
+ 561 : GTVTQAGTPPLPLRMPPPTSGGINEPQE : 588
+       |:|.   :.: : ..:|:..  :..  :
+ 766 : GSVGSKHSRSPSKSRSPSVEKQVATESD : 793
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 588 . Medex_00069928-RA 321 793 . 124 M 66 66 G 0 2 M 126 126 G 2 0 M 78 78 G 1 0 M 76 76 G 1 0 M 47 47 G 0 1 M 76 76
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 112 -> 569
+  Target range: 359 -> 824
+
+ 113 : SGLTQQQAEDTHSHLAQIQNLANSGGR--TPLNTHTQSLPHPHHGSLHDDGGSSTLFS--RQGA : 172
+       .::  ||:. :::: :: :. |::::|  ::|:  ..: | :: || |.||::.:  |  .|.:
+ 360 : RSVRSQQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTS : 423
+
+ 173 : GSPPPTAVPSLPSHINNQLLKRMA-MMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSN : 235
+         ::.: |:: ::: |. : .. : :  :|: :.|:.:::::  . :::.:: :  :: :.::.
+ 424 : RVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANA : 487
+
+ 236 : NNSPDLPPLH-ARSASPQQTPADFSTIKHHNNNNT--PPLKEEKRNGPTGNGNSGNGNGNGNGA : 296
+       ::: .  ::| :||.:: ::| . :: : ::::..  :| .:.. ::.:.:::::::::::.::
+ 488 : HSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPAS : 551
+
+ 297 : SNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSG : 360
+        .:.  : |:: .: :.|. : :.|:. :|:: :  .::.||: :. :| .|: .. :| |: :
+ 552 : QTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASE-HSPKTNASIHSPRSVASAHSPRSNASAHS : 614
+
+ 361 : DGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSG : 424
+         :::|  |...:. :::  |: :|.    :::.:.   .|: : |. ::||  . :.. .:|.
+ 615 : PRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSP : 678
+
+ 425 : DLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHA : 488
+         ..|:::|:| :.: :..:.:|: ||.|.::|  :.:::   || :.. :  ::::: . :. 
+ 679 : RSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSPRSNASAHSPR : 742
+
+ 489 : TSPPRPGSVGSSVGSNLCTSTSMGC-GVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTS : 551
+       :.:: .:: :.:  |.:.  :: |. | : :.:::::.:.:.::: ...:. ::..: .|.:.:
+ 743 : SKASGHSPRSDASHSPVSHHSPTGSVGSKHSRSPSKSRSPSVEKQVATESDREDRGSVKSKAVA : 806
+
+ 552 : PGSQATAAGGTVTQAGTP : 569
+       ::.: : |:|  .: :|:
+ 807 : SDEEKSRASGRSGRRDTS : 824
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 112 569 . Medex_00069928-RA 359 824 . 118 M 27 27 G 0 2 M 29 29 G 0 2 M 28 28 G 0 1 M 49 49 G 0 1 M 24 24 G 0 2 M 61 61 G 1 0 M 182 182 G 0 1 M 56 56
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 115 -> 573
+  Target range: 404 -> 856
+
+ 116 : TQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTA : 179
+       :.: ...::|: ::. : :. ::|: ::..:.. . : :::  | :: |.  :  | ::.:.::
+ 405 : SAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNAS : 468
+
+ 180 : VPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPP : 243
+        .|  |: :.:  :..|  | |:.:..: :::::  .:::: :: : .:  :.::..:: . .:
+ 469 : GHSPKSNASGHSPRSKANAH-SPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGS : 531
+
+ 244 : LHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK : 307
+        |:|  ||: ..:| |: .. ::.::.: ..::.|::: : .||... ...:.::.:: ..:..
+ 532 : AHSR--SPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNAS : 593
+
+ 308 : LGSLTPSPLARAGADDVKSE-PMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSG : 370
+       : |  : : |::. .:..:: |.. ..:::. :....||. |.:. ::.||:::. :  | :|:
+ 594 : IHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 657
+
+ 371 : NDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPH : 434
+       :.   ..:  |.::.:    || .|   |::  | :. .|.:  : ::.  :::. : .:::: 
+ 658 : HSPRSNASAHSPRSNAS-AHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 720
+
+ 435 : SITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVG : 498
+          ||.|::.::.::::: :| :  |. |: .::  ::| | ||.: :    |: ||::  | :
+ 721 : HSLRSNASAHSPRSNASAHSPRSKASGHSPRSDASHSPV-SHHSPTGSVGSKHSRSPSK--SRS : 781
+
+ 499 : SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGT : 562
+       :||..:: |.:...   :  ::: .::.:::..::.:|. ..::::::..|.| ::::..::: 
+ 782 : PSVEKQVATESDREDRGSVKSKAVASDEEKSRASGRSGRRDTSDDETGKKSGSDAGDSDVGSSL : 845
+
+ 563 : VTQAGTPPLPL : 573
+       : :..::|: :
+ 846 : LRNVPSSPVDI : 856
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 573 . Medex_00069928-RA 404 856 . 118 M 84 84 G 1 0 M 47 47 G 2 0 M 78 78 G 0 1 M 60 60 G 1 0 M 85 85 G 1 0 M 19 19 G 2 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 218 -> 570
+  Target range: 248 -> 606
+
+ 219 : GSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGP-- : 281
+       : ..::: ::  ::::::.  : :| .:.|:||.. .:.:|: .. ::.:.:| . . ..:|  
+ 249 : SQSGTVASPSRGSASAHSGIVHNSPPKSPSPSPAPYGGSYSSGSPSSDGEGSPGSPSGSASPMS : 312
+
+ 282 : -TGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADD-VKSEPMDMVCSNNNANAND : 342
+        :|:::: : ::|:::  ::::    :. ||  ::.  |:...:  |.. ..  .:.:::.:. 
+ 313 : EAGSASPQSVHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRSQPRSPR : 376
+
+ 343 : EHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKM--FHAAAFN : 404
+       .:::.|.:.: ::  | : .|..: .:|:.:. |.: :.: .::|  . :| :|:  : : : .
+ 377 : SEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNA : 440
+
+ 405 : FPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGS : 468
+         .  :|.: : :.: :.||: : |..:.|| ..:|:. :..|.:::.|| :.:  .::. .:|
+ 441 : SVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRSDAS : 504
+
+ 469 : LAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNN : 532
+       : ::  :  ::::    |  :: : .:: :.|  |: ..::: : : :::.:|:::: :||:.:
+ 505 : VHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAH : 568
+
+ 533 : SNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       |:.:.:|.:...|::|. || ::|:  :.  ..:: :|
+ 569 : SQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSP : 606
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 218 570 . Medex_00069928-RA 248 606 . 117 M 62 62 G 0 3 M 43 43 G 0 1 M 74 74 G 0 2 M 173 173
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 35 -> 570
+  Target range: 132 -> 669
+
+  36 : LACEGRSIKAHRVVLSACSPYFRELLKSTPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKS :  99
+       ::| |.::  |.:.|::  .|  .:      |:.   :..    .|::||. :: .. . |.  
+ 133 : VPCMGSTLLLHPLTLATIVTYAVSFTALLIPKRTFPTIPS----ALRSLVTTFFLPSPPCHPAI : 192
+
+ 100 : LQSFLKTAEVLRVSGLTQQQAED----THSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHD : 159
+       :  :| .  :: :  |.. .: .    .::  :: :: ::::: :: ::   : | :: |:: .
+ 193 : VLLLLAPILLVLLLVLIPSPGVTWNTWDRGTGSDSDSEGEGSSGSSRSSSRSGSPASQSGTVAS : 256
+
+ 160 : DG-GSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDN : 222
+        : ||::  |    .||| :: || ::. .:    . :    :|:::::..:|.  .  .:| :
+ 257 : PSRGSASAHSGIVHNSPPKSPSPSPAPYGGSYSSGSPSSDGEGSPGSPSGSASPMSEAGSASPQ : 320
+
+ 223 : SLPLSGAVGSGSNNNSPDLPPLHARSASPQQTP-ADFSTIKHHNNNNTPPLKEEKRNGPTGNGN : 285
+       |:. :::   ::::: :  ::  .|||:::::. :::|. . :::::..:   . |:..:::.:
+ 321 : SVHSNASSHHSAQSQHSVQSAGSQRSATSRRSNVSHYSKRSVRSQQSGRSQPRSPRSEGSASPS : 384
+
+ 286 : SGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDST : 349
+       | .|:: :::::.:.: . :.  :. ::.:  ...::. : .:...|.: .. :... :|..|.
+ 385 : SRPGSALSQSPPGSPASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASD : 448
+
+ 350 : GEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSAL : 413
+        . ::.|::::: :  | :||:. . ..:  |.:: ::   ||..|   |::  : :  .|.: 
+ 449 : VSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKAN-AHSPESNVSVHSPRSDASVHSPRSN : 511
+
+ 414 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLH : 477
+        : .::  ::|: : .::|:    .: :.::.:|: ||:|..:|  :.: . ::|  :.  :  
+ 512 : ASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTT : 575
+
+ 478 : SH-AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATN : 540
+       :| ::::. .|:.... :   ..||:|. ...:: :   ..:|.|:::. :||:.:|..:||:.
+ 576 : AHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 639
+
+ 541 : NNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       ::..|::|: || |:|:| :.  ..:: :|
+ 640 : HSPRSNASAHSPRSNASAHSPRSNASAHSP : 669
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 35 570 . Medex_00069928-RA 132 669 . 117 M 40 40 G 4 0 M 43 43 G 0 4 M 39 39 G 0 1 M 94 94 G 0 1 M 132 132 G 1 0 M 91 91 G 0 1 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 217 -> 590
+  Target range: 398 -> 776
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNN---NTPPLKEEKRN : 278
+       .:||.: : |:: :.:..::::: :.: |||  :  :| . :::: ..::   ::|. :.. ::
+ 399 : PASDAGSAHSDGSARSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHS : 462
+
+ 279 : G-PTGNGNSGNGNGNGNGA-SNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANA : 340
+       . :.::|:|.::|::|::: |::|: | ..:::  :|.: |.. :   ::.:... ..... ::
+ 463 : PRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSP : 526
+
+ 341 : NDEHSNDSTGEHDANRSSSGDGGKGSLSS-GNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF : 403
+       :.: |.:| : |.....:|:::. :  |: :.:.: ::: |  : :.    :| .|   |::  
+ 527 : KSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKT : 590
+
+ 404 : NFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG : 467
+       | :  .|.:: : ::.  :::. : .::::   .||.|::.::.::::: :| :  |: |: ::
+ 591 : NASIHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSP-RS : 653
+
+ 468 : SLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANN : 531
+       : :|   . :: ||:.  . :: :||:.: : |  || .: ::.: : . :..|..:. :. :|
+ 654 : NASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSN : 717
+
+ 532 : NSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       .|.::  :|.:.:|:.|::|: |. : |:|  .:::::. |:. .:||::  :..  .|
+ 718 : ASAHSLRSNASAHSPRSNASAHSPRSKASGHSPRSDASHSPVSHHSPTGSVGSKHSRSP : 776
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 217 590 . Medex_00069928-RA 398 776 . 117 M 50 50 G 0 3 M 12 12 G 0 1 M 17 17 G 0 1 M 73 73 G 0 1 M 95 95 G 1 0 M 125 125
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 167 -> 587
+  Target range: 437 -> 860
+
+ 168 : SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVG : 231
+       |..:. ||::.. :  |.  .:    | .   :|: :.|:.:::::  . ::::::::: :: :
+ 438 : SNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNASGHSPRSKANAHSPESNVSVHSPRS : 501
+
+ 232 : SGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNG : 295
+       .:| :::.. :: ::|.:.:   ::. ..  | .:.:: . ... ::.:: .:. :. : .:|:
+ 502 : DASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSEGSDASAHSPASQTSAHSAHSQRSNA : 565
+
+ 296 : ASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSS : 359
+       :::::  :.:.. .. .:|  :. ....:.| .      :..:||:.: :..:::.|.:..::|
+ 566 : SAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAHSPRSNASAHSPRSNASAHSPRSNAS : 629
+
+ 360 : GDGGKGSLSSGNDEEIGDGLASH-HAAPQFIMSPAENKMFHA-AAFNFPNIDPSALLGLNTQLQ : 421
+       :::.::: |: :  . :.: ::: :|:::  .|.|...  :: |: : |. ::||  . :.. .
+ 630 : AHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASA : 693
+
+ 422 : QSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVL : 485
+       :|.  ..|:::|:| :.: :..:.:|: | .|.::|  || |: .:  : :  | ||.  :   
+ 694 : HSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASA-HSPRSNASAHSPRSKASGHSPRSDASH : 756
+
+ 486 : GHATSPPRPGSVGS--SVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSS : 547
+       :..: .:..|||||  | ::: . |.|:.  |.:.::..:..: :::. :::.: :..:..|:.
+ 757 : SPVSHHSPTGSVGSKHSRSPSKSRSPSVEKQVATESDREDRGSVKSKAVASDEEKSRASGRSGR : 820
+
+ 548 : SSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ : 587
+       ..|| :. :. :|:...:::..:  ||  |::: :| | :
+ 821 : RDTSDDETGKKSGSDAGDSDVGSSLLRNVPSSPVDILEKH : 860
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 167 587 . Medex_00069928-RA 437 860 . 117 M 215 215 G 0 1 M 18 18 G 0 1 M 57 57 G 1 0 M 41 41 G 0 2 M 88 88
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 116
+   Query range: 192 -> 590
+  Target range: 349 -> 750
+
+ 193 : KRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPA : 256
+       :| .: | |. :. :::::::  | . |:.| : |:  ||: ::::|: |: :| || :: :: 
+ 350 : RRSNVSHYSKRSVRSQQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSAR : 413
+
+ 257 : DFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAG : 320
+       . .: . :.:. ::. | .  ...:..: .:.::: :. ::..|: : | : .: ..|| :.|:
+ 414 : SRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNAS : 477
+
+ 321 : ADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHA : 384
+       ::. :|.: :  .:::|.:.:. :|:.|. .. :| |:.:  :|:: .|.:.:. ::: ::| .
+ 478 : GHSPRSKA-NAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSE : 540
+
+ 385 : APQFIM-SPAENKMFHAAAFNFPNIDP-SALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTS : 446
+       :::    |||.:.  |:|  : :| .: |.  | .:: .:|.. . ||:.. || .: :.::: 
+ 541 : GSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASEHSPKTNASIHSPRSVASAH : 604
+
+ 447 : STSSPPSPPTALISPTS-SLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTST : 509
+       |..|.:|:.::  :::: | ::: :|   . :: ||:.  . :: :||:.: : |  || .: :
+ 605 : SPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHS : 668
+
+ 510 : SMG-CGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLP : 572
+       :.:  :.:|..::::.::..:|.::::..:..:.:::.|::::.::::.|:: ::  .:::. |
+ 669 : PRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSPRSNASAHSLRSNASAHSP : 732
+
+ 573 : LRMPPPTSGGINEPQECP : 590
+        . ::: |.  :.: :.|
+ 733 : RSNASAHSPRSKASGHSP : 750
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 192 590 . Medex_00069928-RA 349 750 . 116 M 136 136 G 1 0 M 61 61 G 0 1 M 20 20 G 0 1 M 53 53 G 0 1 M 49 49 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069928-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 226 -> 588
+  Target range: 222 -> 585
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       :|: :.:..:.|:: :.  :||:||.  ::. :: .: :.:. :.: ::... :.:.:.:. |.
+ 223 : TGSDSDSEGEGSSGSSRSSSRSGSPASQSGTVASPSRGSASAHSGIVHNSPPKSPSPSPAPYGG : 286
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       : ::|:::::| : ::. :: ::||:: ||:.. :| . :  . ::..:.:. :|.:|  . .:
+ 287 : SYSSGSPSSDGEGSPGSPSG-SASPMSEAGSASPQSVHSNASSHHSAQSQHSVQSAGSQRSATS : 349
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNT : 418
+       .||: :: :| |:.| ::.. ::. ::: .::.   |.:.: : :::: : :: ..||  : ::
+ 350 : RRSNVSHYSKRSVRS-QQSGRSQPRSPRSEGSASPSSRPGSALSQSPPGSPASDAGSAHSDGSA : 412
+
+ 419 : QLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPT--SSLKGSLAAAVYSLHSHA : 480
+       : ::|:. ..|. :::| ..: |..:.:|..||:|  :|  :.|  |: ... .|: .| .|:|
+ 413 : RSRRSDTSQTSRVSARSKVSGYAPRSNASVRSPASDVSAHSPRTNASGHSPRSNASGHSPKSNA : 476
+
+ 481 : HGH-VLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNN : 543
+        ||   :.|.:.:. ::|:   ..:  :  |  ...:: :..::..|.:::::::. : :.:::
+ 477 : SGHSPRSKANAHSPESNVSVHSPRSDASVHSPRSNASARSRKSKAGGRSPKSDGSAHSRSPHSE : 540
+
+ 544 : NSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQE : 588
+       .|.:|: ||:||::| ::   ::.::: : | ...: .. ::: |
+ 541 : GSDASAHSPASQTSAHSAHSQRSNASAHSQRSGTTAHTPRSNASE : 585
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 588 . Medex_00069928-RA 222 585 . 115 M 84 84 G 1 0 M 58 58 G 1 0 M 92 92 G 0 2 M 21 21 G 0 1 M 105 105
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00069282-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 132 -> 423
+  Target range: 469 -> 766
+
+ 133 : LANSGGRTPLNTHTQS--LPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR : 194
+       |.|.|. . |:.:.|:  | :: :||: |::: :.:.. :|.|:  .. :.: .     :   :
+ 470 : LDNRGPGGLLDNRGQGGLLDNSGQGSMMDNSSQGGMMDGRGQGGMMGGMMGNRGQGGMMDNRGQ : 533
+
+ 195 : MAMM-HRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPAD : 257
+        :|| :|: ::  :: .  :..  ||::. :  .|: |:  :|.:.  . ::.|:::.    . 
+ 534 : GGMMDNRGQGGMMGNRGQGGMMGNRGPGGMMDSRGGPGGMMDNRGGPGGMMDNRGGPGGLMDNR : 597
+
+ 258 : FSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK--LGSLTPSPLARA : 319
+        :.    :|...|.   ::|.||.|  :: .|.|.  :...|.|  :.::   |::  :. :.:
+ 598 : GGPGGLMDNRGGPGGLMDNRGGPGGLMDNRGGPGGLMDNRGGPGGMMDNRGGPGGMMDNRGGPG : 661
+
+ 320 : GADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSS-GDGGKGSLSSGNDEEIGDGLASH : 382
+       |  | :..| :|: .:..:::.  ::.:::|.  .||: :  :.: .::: || |. .  |:|.
+ 662 : GMMDNRRGPGGMMDRDARGSGRMMEGRGPSGGLMDNRGVGLMGNAPPNFGQGNREGPTPLLGSK : 725
+
+ 383 : HAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLN--TQLQQS : 423
+        |:|.|: :.:.|:   :.|:| .. :.:|| |:.  :||||:
+ 726 : LAPPPFFQGGSSNN--SGVAINSTPAGNAALGGFASLSQLQQA : 766
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 132 423 . Medex_00069282-RA 469 766 . 111 M 16 16 G 0 2 M 50 50 G 0 1 M 109 109 G 0 2 M 52 52 G 0 1 M 37 37 G 2 0 M 19 19 G 0 2 M 6 6
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00018678-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 494 -> 635
+  Target range: 265 -> 405
+
+ 495 : GSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATA : 558
+       |. |. : .: | . |:| . |::|.| .|.: ::::::.:||:.|:.. : .::  | .: . 
+ 266 : GKKGKFIKCESCMEMSVGGTGNNSNGSMGNGAFSGSSSGGEGNSNNSPPIGIKPGHHPVKRRGI : 329
+
+ 559 : AGGTVTQA-GTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEF : 621
+       |: |  :  ..:.| :  ....:.:::.| :|. |  ||| | || .|  .: : :|. : ||:
+ 330 : ASVTKCHKCNGSGLIFIGGTRNNTAVDKPFHCNVCDGTFSRYSSLWSH--KRLHSGDKPFKCEI : 391
+
+ 622 : CHRRYRTKNSLTTH : 635
+       |   : . . |..|
+ 392 : CGLAFAKAAYLKNH : 405
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 494 635 . Medex_00018678-RA 265 405 . 120 M 72 72 G 0 1 M 39 39 G 2 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00079237-RA
+         Model: affine:local:protein2protein
+     Raw score: 233
+   Query range: 0 -> 81
+  Target range: 73 -> 154
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST :  64
+       ||. |:|.| |||| . ||:||::|| :|.:|||||:|||:.|:||:::|||||.||:||:| :
+  74 : MDSHQQFSLYWNNYVKHITNAFDKLRCEEDLVDVTLSCEGKRIRAHKMLLSACSTYFKELFKIS : 137
+
+  65 : PCKHPVILLQDVNFMDL :  81
+         :. | ::..::  :|
+ 138 : EKRKKVKFVPALKGSNL : 154
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 81 . Medex_00079237-RA 73 154 . 233 M 81 81
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00050386-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 119 -> 590
+  Target range: 111 -> 579
+
+ 120 : AEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSL : 183
+       .|:.:|::: .:: .: :|.:  | :. | | . ::: :.:|:. .  : : :..:|: .  : 
+ 112 : EENDESDMSSTDSEDEHDGSAVPNRRESSPPSHSEDGSDTEGSKHPPSPTHFTPRSPSLDRENW : 175
+
+ 184 : PSHINNQLLKRMAMMHRSSAAAAAE-ETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHA : 246
+       |. ::    ..:.:.: ||:::.:: ..: . :: ..|.:.  ||.:  .:.:.. :. .   :
+ 176 : PRVLDCGGPESLVVRNCSSGSGEGNLSPGSNSRKHSTSSEDRKLSPSSQDSKHAPFSKNGKCSP : 239
+
+ 247 : RSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGN-GNSGNGNGNGNGASNGNGISISDKLG : 309
+       .|.  ::|:|. . :   ::.: :| .|: :::| :: |:|:..:.:|: :::::. .:| : .
+ 240 : SSEYVKDTSASDKHFVSSKDGKFSPHSEDGKSSPHSEYGKSSPNSEEGKLSPHSENEKLSPRYE : 303
+
+ 310 : SLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDE : 373
+       . . || : .|    .|| | :   ::|:: :   .::. : :..: . |. :..|.||: :::
+ 304 : DEKLSPGSEDGKFFPHSEDMRISTHSKNGKLSPRSEDEKLSLRSEDGKLSPRSEDGKLSPRSED : 367
+
+ 374 : EIGDGLASHHAAPQFIMSPAENKM-FHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSI : 436
+          : |::| .. :    :.:.|:  :: : .::.|..:.  . :: :   |. : : ::.:  
+ 368 : ---GKLSPHSDEEKRSSHSNDGKLSTRSKGGRYSPISGGEKHTYSSGI---GKHSPTLDAGNVS : 425
+
+ 437 : TRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSS : 500
+       ..| ...|::|:::   .|::::|. :: | :| ::. .  ::: .: | .: |..|  |.:|:
+ 426 : PSSHVGKPSPSSGTEKHTPSSFFSGLATKKRTLRSGTRRNSTNSGNEKL-PSRSNTRKHSTSSG : 488
+
+ 501 : VGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVT : 564
+       .|.   :|.:   :::|:::..... ..:::::| |. ..:.:::::. :|: : :  : |: |
+ 489 : TGKLSPSSDTGKHSLSSDSSKPPRRLGTGKHSTNLGTRKPSTSSGTGKHSSSLGIGMHSFGSDT : 552
+
+ 565 : QAGTPPLPLRMPPPTSGGIN-EPQECP : 590
+       ... |:| : ..:|. |... .:.:||
+ 553 : ANELPSLDIGKHSPNFGTTGYSSPDCP : 579
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 119 590 . Medex_00050386-RA 111 579 . 111 M 89 89 G 0 1 M 75 75 G 0 1 M 90 90 G 3 0 M 21 21 G 0 1 M 23 23 G 3 0 M 62 62 G 1 0 M 98 98 G 0 1 M 6 6
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00027733-RA
+         Model: affine:local:protein2protein
+     Raw score: 212
+   Query range: 11 -> 115
+  Target range: 40 -> 146
+
+  12 : NNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC--KHPVILL :  73
+       ::|.|.: ..::.||:|. | ||.:. ||.:||.||.||.|.||||:.::.:. .  :.. | |
+  41 : HKYASRVLCNLNTLREDSRFCDVEIVAEGMAIKVHRAVLCASSPYFHAMFTAGLSEEQKNRIEL : 104
+
+  74 : QDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGL : 115
+       :.|:  .|.:|:|||| ||. ::|.::|.:: :|::|::..:
+ 105 : HSVSANSLKSLMEFIYTGETVINQSNVQDLMVAADMLQLREV : 146
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 11 115 . Medex_00027733-RA 40 146 . 212 M 55 55 G 0 2 M 49 49
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00077916-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 55 -> 584
+  Target range: 2466 -> 2996
+
+   56 : YFRELLKSTPCKHPVILLQDVNF-MDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLT :  116
+        :  ::|.||  ..: : ::. .: |:  : |.:   :: ..:  |:: :: ...: ..| :.
+ 2467 : FPTDILHSTYNTPSEVTMHKETYKMQSITSVKLSDTDNFTTQTASVD-YFPVDTIDPTSHFP : 2527
+
+  117 : QQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPT :  178
+        |  :..|    .:|:: .:  :.| : ::| ||| .  .. : .  ::  :.  .. . ..|
+ 2528 : QGTSSSTVITPDEIND-NEIVSPTYIISETLSLPTHSLEETQVTQQTTQSYKTITDVRYHTT : 2588
+
+  179 : AVPSLPSHINNQLLKR---MAMMHRSSAAAAAEETSHAFK--RLRGSDNSLPLSGAVGSGSN :  235
+        .||:: . :.:  :.:    : :...   ::. . : :|:  :| .:|: :.:| .   ...
+ 2589 : EVPPIEELVPSITFSHTHNATNLPSEIHMTSQYSQTTGFQGSKLTTADEIFTVSHEPQINDT : 2650
+
+  236 : NNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGAS :  297
+        .: :.   : : . ||. :.: ||:    :::. . : ....:|:|:: .   .: . . : 
+ 2651 : GKLSSNKVVSGAELSPPTSTTPFSAPWATSKQAYTFMLSTHSQGSTSQQPLHIPHITIGYSI : 2712
+
+  298 : NGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSS :  359
+        . . |:.:| |::|.::  :   :.. .  . .:  |.  |...: :::.  : :.: : |:
+ 2713 : PQPLITTTDPLSTLPAPKNTTLQTSTQMVPNTTLQPSTLLAPNTNLQPSTQLAPNTTLQHST : 2774
+
+  360 : GDGGKGSLSSGNDEEIGDGLA-SHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQL :  420
+          ..:.:| ::.: . ...|. | :::|: .: |:.:   :::  . .::.|:: |  :|| 
+ 2775 : QPTPNTTLQPSTQLAPNTTLQHSTQPTPNTTLQPSTQPSPNTTLQPSTQLTPNTNLQPSTQT : 2836
+
+  421 : QQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHG :  482
+        ..:..|. |:| .::.|  ::::. ::.:: .:::|.| :|.::|:.| . |. :|:: :: 
+ 2837 : APNTTLQPSAQLTQNTTLQPSSTQLTPNTTLQPSSTQL-TPNTTLQPSTQLATNTLQPFTQ- : 2897
+
+  483 : HVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNN :  544
+          |:..|: ..:. |:::.. : .|:.| . .::::.:::.|.. :::..::...: :.:..
+ 2898 : --LAPNTTLQPSTQVATNTTLQPSTPPSPNTTLQPSTQPSPNTTLQPSTPPSPNTTLQPSTP : 2956
+
+  545 : SSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGIN :  584
+        :|:::| ..| ..::..|:..:. |: .  : |:| .: |
+ 2957 : PSPNTTLQPSTQPSPNTTLKPSTQPSPNTTLKPSTQPSAN : 2996
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 55 584 . Medex_00077916-RA 2466 2996 . 124 M 23 23 G 0 1 M 23 23 G 1 0 M 30 30 G 1 0 M 61 61 G 0 3 M 21 21 G 0 2 M 165 165 G 0 1 M 78 78 G 1 0 M 22 22 G 3 0 M 100 100
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00077916-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 139 -> 504
+  Target range: 2629 -> 2994
+
+  140 : TPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRS :  201
+        : |.| .: :. :|:. ::|.|  |:     ||. :|||:..::::. ..       |:   
+ 2630 : SKLTTADEIFTVSHEPQINDTGKLSSNKVVSGAELSPPTSTTPFSAPWATSKQAYTFMLSTH : 2691
+
+  202 : SAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKH :  263
+        |.::::::. |  .   | . : || .:.:: |. .:|. ..|::.:.  .:|. : ||:  
+ 2692 : SQGSTSQQPLHIPHITIGYSIPQPLITTTDPLSTLPAPKNTTLQTSTQMVPNTTLQPSTLLA : 2753
+
+  264 : HNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK :  325
+        .|.|  |: : . ...   :.::.....  .::  :...:: :.  : ..:.|..:.. . :
+ 2754 : PNTNLQPSTQLAPNTTLQHSTQPTPNTTLQPSTQLAPNTTLQHSTQPTPNTTLQPSTQPSPN : 2815
+
+  326 : S--EPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAA :  385
+        :  :| . : :|.| :::.: :.::| :..|: : :..   :|   ..:..:    :| : :
+ 2816 : TTLQPSTQLTPNTNLQPSTQTAPNTTLQPSAQLTQNTTLQPSSTQLTPNTTLQP--SSTQLT : 2875
+
+  386 : PQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDL-AVSPQGPHSITRSAATSPTS :  446
+        |: .: |: .::  .:  .|.::.|:: |  :||:. :..| : :|.:|::. :::: ::.:
+ 2876 : PNTTLQPS-TQLATNTLQPFTQLAPNTTLQPSTQVATNTTLQPSTPPSPNTTLQPSTQPSPN : 2936
+
+  447 : STSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSN :  504
+        :|  |::||:: .:  :|  .| .::: :   .:.. .| .:| |:...:: :|. ::
+ 2937 : TTLQPSTPPSPNTTLQPSTPPSPNTTLQPSTQPSPNTTLKPSTQPSPNTTLKPSTQPS : 2994
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 139 504 . Medex_00077916-RA 2629 2994 . 107 M 187 187 G 0 2 M 51 51 G 2 0 M 14 14 G 1 0 M 32 32 G 0 1 M 78 78
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00001002-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 588 -> 641
+  Target range: 206 -> 257
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHR : 641
+       |||||: :    :::||: |:| .: ::  |.:|:| :|..||| :|.|  ||
+ 207 : CPYCRKQLL-RKNVRRHILDRHMPPLAI-QCALCDRVFRKMNSLQSHMSRCHR : 257
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 641 . Medex_00001002-RA 206 257 . 107 M 9 9 G 1 0 M 18 18 G 1 0 M 24 24
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00080454-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 588 -> 640
+  Target range: 185 -> 235
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQH : 640
+       |: |.:.|.|  :|.:|:  |::.::. : |.:|  :: ||:||::|.. ::
+ 186 : CSLCSKKFKCKSALTQHI--KRHAGEKPFSCSLCSAKFATKSSLSSHTKTHN : 235
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 640 . Medex_00080454-RA 185 235 . 114 M 18 18 G 2 0 M 32 32
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00036235-RA
+         Model: affine:local:protein2protein
+     Raw score: 132
+   Query range: 514 -> 669
+  Target range: 353 -> 505
+
+ 515 : VNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPP : 578
+       ::. :|:|.  |.:..| |.:|:.:.:.:|: ..| :||: :..  ||:|:.|.   |:. .. 
+ 354 : LKKVSNAGGVIGPEQTNISTSGQNAGEGSNAQRKSRPPGNITVVHQGTLTENGPKISPVP-GQK : 416
+
+ 579 : TSGGINEPQECPYCRRTFSCYYSLKRHF--QDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQH : 640
+        . : : | .|. | ::|     ||:|:  :.: : ::  .||  | :.:  |:.|:||  |: 
+ 417 : FRVAKERPFSCTECGKSF----VLKHHLVTHARVHTGERPHVCPECGKSFAHKHCLSTHLLLHS : 476
+
+ 641 : RGSSGMLKRLLKTTAIKHGLVGHGHGHGH : 669
+       .:.: . .   |: ::|| ||.|:: |::
+ 477 : SDRPYKCMECKKSFTLKHHLVTHARVHSR : 505
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 514 669 . Medex_00036235-RA 353 505 . 132 M 60 60 G 1 0 M 21 21 G 4 0 M 6 6 G 0 2 M 63 63
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 140
+   Query range: 198 -> 586
+  Target range: 671 -> 1044
+
+  199 : HRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGS---GSNNNSPDLPPLHARSASPQ-QTPA :  256
+        .|:.|: .:. .|::    .|:|.. . :|:||:    : ..:|: |.  ::.:.|  |.|:
+  672 : PRGDAGKDGSPGSQGSPGPPGADGDRGAPGPVGPRGFQGLPGAPGNPGSSGKDGEPGVQGPP :  733
+
+  257 : DFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLAR :  318
+        :::. . ...:.. | . .  .:|.|.|..|:..::|::::.|.: : :|| |  .||.|  
+  734 : GIPGSSGPRGERGFPGERGPVGSPGGPGPRGEPGSQGQDGPPGPAGTKGDK-GHPGPSGL-- :  793
+
+  319 : AGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLA :  380
+         | :::::|: ::  .:.: ...:  :.::...::::|:  |: | .: ::...:  : | :
+  794 : LGLQGMRGEA-GLPGEKGERGNTGPVGPEGPPGRQGDRGVQGEMGPTGPPGEPADRGDPGPP :  853
+
+  381 : SHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAAT :  442
+        :..:.:    ||:|.          ...:| :|||:...  .:|  :...: .   .::...
+  854 : GPPGEAGAPGSPGER----------GPTGPQGLLGFPGPQGPAGPAGAKGERGFIGNKGEQG :  905
+
+  443 : SPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSN :  504
+        :|.  .::.  .|.:|:: .:: ||: :.:     |:::: ::| :..|. || .| : : .
+  906 : NPGQQGTPGEQGPPGLLGLPGA-KGARGEPG----SRGEAGIMGAPGRPGEPGLAGHPGSIG :  962
+
+  505 : LCTSTSM-GCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQ :  565
+          . ::: |   ::|:.: ..| ..:.:.:..|....:.:::|.::|:|.:|:.:.|.: .:
+  963 : PPGVAGVPGIKGSTGDTGRPGNQGPPGQPGTPGPEGPKGDSGSEGPTGPPGQPGPQGPA-GD : 1023
+
+  566 : AGTPPLPLRMPPPTSGGINEP :  586
+         | |.|| . .|:.: |:..:
+ 1024 : RGLPGLPGSAGPSGARGVRGA : 1044
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 198 586 . Medex_00010136-RA 671 1044 . 140 M 34 34 G 0 3 M 20 20 G 0 1 M 55 55 G 1 0 M 8 8 G 2 0 M 10 10 G 1 0 M 66 66 G 10 0 M 59 59 G 1 0 M 8 8 G 4 0 M 34 34 G 0 1 M 51 51 G 1 0 M 23 23
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 139
+   Query range: 135 -> 587
+  Target range: 747 -> 1201
+
+  136 : SGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAM :  197
+        :|.|.|:.:.. : |:.:.||  :||.::.  :: : | |.|::: :|.:  .:. | . ..
+  748 : PGERGPVGSPGGPGPRGEPGSQGQDGPPGPAGTKGDKGHPGPSGLLGLQGMRGEAGL-PGEK :  808
+
+  198 : MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFS :  259
+         :|:::::.: |.:.: :  || :..:. :|: |..::...|: |. .: :::|  ...  :
+  809 : GERGNTGPVGPEGPPGRQGDRGVQGEMGPTGPPGEPADRGDPGPPGPPGEAGAPGSPGERGP :  870
+
+  260 : TIKHHNNNNTPPLKEEKRNGPTGN-GNSGNGNGNGNGASNG-NGISISDKLGSLTPSPLARA :  319
+        |  :   . ..|   . ..|:.|: |  || ..:||.: :| .|   :  | :|..:  || 
+  871 : TGPQGLLGFPGPQGPAGPAGAKGERGFIGNKGEQGNPGQQGTPGEQGPPGLLGLPGAKGAR- :  932
+
+  320 : GADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLS-SGNDEEIGDGLA :  380
+        |. : ::|:  |  :...:::. .  .:|.| .:..  :: .|:.|. : :||:.  |:. :
+  933 : GEPGSRGEAGIMGAPGRPGEPGLAGHPGSIGPPGVAGVPGIKGSTGDTGRPGNQGPPGQPGT :  993
+
+  381 : SHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAAT :  442
+        : ..:|:   ::....  .:.: . .. : .:| ||..   .||. :|....:: :. . | 
+  994 : PGPEGPKGDSGSEGPTGPPGQPGPQGPAGDRGLPGLPGSAGPSGARGVRGATANYLDLR-AR : 1054
+
+  443 : SPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLH-SHAHGHVL-GHATSPPRPGSVGSSVG :  502
+         :::  :.|.:.  .| :  .. .:: | ::.. :  :  :. | |::.:|.:||| |:: .
+ 1055 : MASGWLNKPTTHMWQLQPICKEYHDNGAKTLHCDNFVEIISYGLQGETGPPGKPGSEGPPGP : 1116
+
+  503 : SNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVT :  564
+        :.:..:.: .   .. ...|.:. :.:.. :........ .:|::::  . :  .::.|. .
+ 1117 : PGVSGPPGQPGQPGEQGPEGPSGKSGPPGIAGRPGDKGPIGQSGAPGQQGQPGMPGPPGPSG : 1178
+
+  565 : QAGTPPLPLRMPPPTSGGINEPQ :  587
+        .||:|. . :.. :.: |::..|
+ 1179 : PAGSPGERGQKGESGPQGVDGQQ : 1201
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 135 587 . Medex_00010136-RA 747 1201 . 139 M 57 57 G 1 0 M 90 90 G 0 1 M 16 16 G 0 1 M 19 19 G 1 0 M 49 49 G 0 1 M 71 71 G 1 0 M 37 37 G 0 1 M 8 8 G 0 1 M 102 102
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 128
+   Query range: 117 -> 582
+  Target range: 274 -> 722
+
+ 118 : QQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVP : 181
+       : |.:.::  ::  : :.||...|:.. ..: |:.::|. :: .|::.| : :| |:||.:: .
+ 275 : DGAKGEQGAAGEKGSNGASGPMGPIGPMGPAGPRGERGR-EGPPGPPGLRGIDGIGGPPGAP-G : 336
+
+ 182 : SLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLH : 245
+       |:... .. :  . ::  ::..:| : ..|::::  ||.... . :|. |: :.... : |. .
+ 337 : SIGKPGPPGFPGNPGI--KGDQGAIGPKGSQGLQGPRGESGRPGQPGESGAQGPPGRDGSPGEK : 398
+
+ 246 : ARSASPQ-QTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKL : 308
+       :.:::.  .. ::|:. : ... :.:|  .. :.:|...|:.|    :|::::.|:: | : : 
+ 399 : GSPGAQGLAGVPGFPGARGPPGVSGSPGATGVKGSPGTPGERGY---KGESGARGEAGSPGPRG : 459
+
+ 309 : GSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGD-GGKGSLSSGN : 371
+        : ||:: :: |  :::::    . ::..|...: .:  : ...|:..::.|: |::|:|:: .
+ 460 : LPGTPGSEGKRGKRGLRGQ----TGPSGPAGERGMPGLRGLPGPDGPPGTKGQTGDRGPLGPQG : 519
+
+ 372 : DEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHS : 435
+       :.. ::| :::.::|   :  ..:.:::..:   ..::..:  | |.:   :|: :: ..:..:
+ 520 : NKG-SQGEPGRPGSPG--LQKVSKSVLRQQG--VRGLQGRP--GANGKQGLPGERGIQGADGKP : 576
+
+ 436 : ITRSAATSPTSSTSSPPSPPTALISPT-SSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVG : 498
+        .:::..:.. :.: ..:. .:| ::. :|:.: |:   |:| :::: . :  :. : |::...
+ 577 : GEQGPQGPQGLPGPIGQTGDKGLPASIFNSVSAILPYIRYNLCANTQCYCFVASKMSIRSDDTE : 640
+
+ 499 : SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQAT-AAGG : 561
+       ..  |:| .: :  | |::.:..:.:.|..:...:..:.:.:.:..| :|:.:||:::. :|.|
+ 641 : EC--SQLTVGRAGVC-VQGEQGRDGEPGPPGATGPRGDAGKDGSPGSQGSPGPPGADGDRGAPG : 701
+
+ 562 : TVTQAGTPPLPLRMPPPTSGG : 582
+       .|.. | ..||   ..|.|:|
+ 702 : PVGPRGFQGLPGAPGNPGSSG : 722
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 117 582 . Medex_00010136-RA 274 722 . 128 M 39 39 G 1 0 M 22 22 G 1 0 M 17 17 G 2 0 M 53 53 G 0 1 M 36 36 G 3 0 M 36 36 G 4 0 M 30 30 G 0 1 M 13 13 G 1 0 M 12 12 G 2 0 M 13 13 G 2 0 M 8 8 G 2 0 M 48 48 G 0 1 M 38 38 G 2 0 M 11 11 G 1 0 M 43 43 G 0 1 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 127
+   Query range: 272 -> 583
+  Target range: 659 -> 969
+
+ 273 : KEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNN : 336
+       ::.....|.:.|..|::. :|:.:|:|:. : :.. :. :|:|::. | ::: :.| :  .|.:
+ 660 : RDGEPGPPGATGPRGDAGKDGSPGSQGSPGPPGADGDRGAPGPVGPRGFQGLPGAPGNPGSSGK : 723
+
+ 337 : NANANDEHSNDSTGEHDANRSSSGDGGKGSL-SSGNDEEIGDGLASHHAAPQFIMSPAENKMFH : 399
+       ::::. : :.: .|. ::. ..:  |.:|:: |:|. .  |:. :  :.:|.   :. .:|  .
+ 724 : DGEPGVQGPPGIPGSSGPRGERGFPGERGPVGSPGGPGPRGEPGSQGQDGPPGPAGTKGDKGHP : 787
+
+ 400 : AAAFNFPNIDPSALLGLNTQLQQSGDL-AVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPT : 462
+       :::  :.  : .:  ||..:  :.|:  :|:|:||.:   . :. .. :.::||: |:.  .|.
+ 788 : GPSGLLGLQGMRGEAGLPGEKGERGNTGPVGPEGPPGRQGDRGVQGEMGPTGPPGEPADRGDPG : 851
+
+ 463 : SSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNG : 526
+       ::  .: |:|  |  .::..   |  . |...|:.|:: :..  ... :|   : ||.: :...
+ 852 : PPGPPGEAGAPGSPGERGPTGPQGLLGFPGPQGPAGPAGAKG--ERGFIGNKGEQGNPGQQGTP : 913
+
+ 527 : NNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGI : 583
+       .:....:  | :..:...:.::| : ::   :|.|  .::| :. | .:.||. :|:
+ 914 : GEQGPPGLLGLPGAKGARGEPGSRGEAG-IMGAPGRPGEPGLAGHPGSIGPPGVAGV : 969
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 272 583 . Medex_00010136-RA 659 969 . 127 M 95 95 G 0 1 M 59 59 G 0 1 M 78 78 G 2 0 M 48 48 G 1 0 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 112 -> 587
+  Target range: 789 -> 1267
+
+  113 : SGLTQQQAEDTHSHL-AQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAG :  173
+        |||   |:  .:: | ::  : :|:|. .| ....:   :. :|.:  .|.::.  .| ::|
+  790 : SGLLGLQGMRGEAGLPGEKGERGNTGPVGPEGPPGRQGDRGVQGEMGPTGPPGEPADRGDPG :  851
+
+  174 : SPPPTAVPSLPSHINNQ-LLKRMAMM-HRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSG :  233
+        :|.|.: :: |:  .::    . :::  .::.::|: ..:.: : : |:... . :|. |:.
+  852 : PPGPPGEAGAPGSPGERGPTGPQGLLGFPGPQGPAGPAGAKGERGFIGNKGEQGNPGQQGTP :  913
+
+  234 : SNNNSPDLPPLH-ARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGN :  294
+        :::.:|:| .|. |::|..:..: : :.|.  ..... |  .....: ...| :| .. :|:
+  914 : GEQGPPGLLGLPGAKGARGEPGSRGEAGIMGAPGRPGEPGLAGHPGSIGPPGVAGVPGIKGS :  975
+
+  295 : GASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANR :  356
+        .:..|.. : :    : ||:| :. | |. ...| :    .....:.::::  : .. .:..
+  976 : TGDTGRPGNQGPPGQPGTPGPEGPKG-DSGSEGPTGPPGQPGPQGPAGDRGLPGLPGSAGPS : 1036
+
+  357 : SSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFH---AAAFNFPNIDPSALLG :  415
+        ::.|  | .:   :  . ::.|  :..::. . : |   | :|   | :::  |:      |
+ 1037 : GARGVRGATANYLDLRARMASGWLNKPTTHMWQLQPI-CKEYHDNGAKTLHCDNFVEIISYG : 1097
+
+  416 : LNTQLQQSGDLAV-SPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSL :  476
+        |:.:  .:|. :  :|.||.::: ::: :. ::. :| :|:.   :|. : :.:  :::   
+ 1098 : LQGETGPPGKPGSEGPPGPPGVSGPPGQPGQPGEQGPEGPSGKSGPPGIAGRPGDKGPI--G : 1157
+
+  477 : HSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNA :  538
+        :| |.|:  |::. |..||: |:: ||.   : . ..| :: :.  ...|:.:...::..::
+ 1158 : QSGAPGQ-QGQPGMPGPPGPSGPA-GSPGERGQKGESGPQGVDGQQGPRGKPGPAGPEGTKG : 1217
+
+  539 : TNNNNNSSSSSTSPGSQATAA-GGTVTQAGTPPLPLRMPPPTSGGINEPQ :  587
+        ...: .::::.. .|  : .: .|.:..:|... | : .||..:| ..|:
+ 1218 : DRGEVGPAGPKGHRGLIGLQGLPGPIGPSGERGYPGQPGPPGKDGEPGPK : 1267
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 112 587 . Medex_00010136-RA 789 1267 . 122 M 15 15 G 0 1 M 63 63 G 0 1 M 8 8 G 0 1 M 47 47 G 0 1 M 75 75 G 1 0 M 72 72 G 1 0 M 5 5 G 0 3 M 29 29 G 0 1 M 45 45 G 2 0 M 8 8 G 1 0 M 16 16 G 1 0 M 58 58 G 0 1 M 28 28
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00010136-RA
+         Model: affine:local:protein2protein
+     Raw score: 120
+   Query range: 95 -> 586
+  Target range: 28 -> 533
+
+  96 : HQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQ--SLPHPH-HGS : 156
+       ::::||: :. :.:  |.. .:..:|:|  . .. || :.:.|.|: :| .:  :|| |: :::
+  29 : ERRTLQAVIDLPAIRDVEEEPEPPPEQTVLPTNPNQNPGPGPGPTAASTGEDVLGLPGPRGDAG :  92
+
+ 157 : LHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQL---LKRMAMMHRSSAAAAAEETSHAFKRL : 217
+       :.::.|.:.  : .||.:.|..: .: |: :..::    :::|: :.|:. :::. ::  : . 
+  93 : IPGEPGRPGESGIPGAPGTPGIPGNPGPPGMAPDVSSYYQQLALSQSSGDKGPTGLAAGLYPPE : 156
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLP-----PLHARSASPQQTPADFSTIKHHNNN---NTPPLK : 273
+       . :    .::.. ..|:..:.:.:|     |: | :::....|.:| ..: :..:   :.:|  
+ 157 : SYGYLQAQVGPVGPRGPPGDCSAVPSYPRWPFIALGPPGPPGPQGFQGTRGEPGDPGQQGSPGP : 220
+
+ 274 : EEKRNGPTGNGNSGNGNGNGN-GASNGNGISISDKLGSLTPSP--LARAGADDVKSEPMDMVCS : 334
+        . |. |..:|:.|::..:|: |.:.:.| : :  |.::.. |   :: | :::.:.  :   :
+ 221 : IGPRGLPGPSGKDGDSGEDGEAGQPGAPGPPGPRGLPGMPGVPGFKGHRGFNGLDGAKGEQGAA : 284
+
+ 335 : NNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMF : 398
+       .::::.... : ::.|  ::. ::.|: |:.: ::..:    ||:::..:||  | .|: .  |
+ 285 : GEKGSNGASGPMGPIGPMGPA-GPRGERGREGPPGPPGLRGIDGIGGPPGAPGSIGKPGPPG-F : 346
+
+ 399 : HAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPT : 462
+       .:.:   .: :: :  | :  || : : : .|  | . .  ::.:..:|.:. .||.:. ::..
+ 347 : PGNPGIKGDQGAIGPKG-SQGLQGPRGESGRPGQPGESGAQGPPGRDGSPGEKGSPGAQGLAGV : 409
+
+ 463 : SSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNG : 526
+       ::: |: :::  |  : | |   :.:|:. |. . .|:. ::  ::.:.| . .:|::: ..: 
+ 410 : PGFPGARGPPGVSGSPGATGVKGSPGTPGERGYKGESGARGEAGSPGPRGLPGTPGSEGKRGKR : 473
+
+ 527 : NNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+       .  .:.:.:|.|.:.. .: .: .:|::.:.: | | .::. .| . : :...:|  ..|
+ 474 : GLRGQTGPSGPAGERGMPGLRGLPGPDGPPGTKGQTGDRGPLGPQGNKGSQGEPGRPGSP : 533
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 95 586 . Medex_00010136-RA 28 533 . 120 M 52 52 G 0 2 M 6 6 G 0 1 M 38 38 G 0 3 M 51 51 G 0 5 M 25 25 G 0 3 M 27 27 G 0 1 M 21 21 G 0 2 M 40 40 G 1 0 M 40 40 G 1 0 M 18 18 G 1 0 M 170 170
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00083230-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 140 -> 581
+  Target range: 17 -> 465
+
+ 141 : PLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPS-LPSHINNQLLKRMAMMHR-SS : 202
+       |:..:.:. |:|  . : .| :| :  | ::|::..|:..:: |||. ...     . ::. . 
+  18 : PVGVDEEDNPRPVVPLVITDYSSVASKSTEAASTQQPAEASTELPSPAAPAAPAADDTLRSVEV :  81
+
+ 203 : AAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSN---NNSPDLPPLHARSASPQQTPADFSTIKH : 263
+       ::::..|| .. . :...:.: ||::| ... :   :..|: :| :| :|:|||. .: :|: .
+  82 : PTPSVKETVKVVDDVSPKEAATPLADAKPEEVKETLKTEPEPAPAEAAAAPPQQNKEEEATLAK : 145
+
+ 264 : HNNNNTPPLKEEKRNG--PTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLAR---AGAD : 322
+       :..:||   |:. .:.  |:. ::   .: : ::|.:::. . :.|  . .:. :.:   |..:
+ 146 : EATENTEVKKDAPSEENKPAEMASIKVEEKELKSADDSEPAKDTAKPIDNPAEKMDKEAVAEEE : 209
+
+ 323 : DVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHA-A : 385
+       .:|::: .  ..:. ||:..  .: :.. ::.:: .:.:.:|.| |. ::||  .. ... :  
+ 210 : KMKADSSSEESKEGIANPPAPAEEMPKEPQQEKKIEATEESKESASEKKEEEEKKPEEKPVSRR : 273
+
+ 386 : PQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTS : 449
+       .: :.. ....  :  : : |: | ..  | :.: .|::::|.:::.:::.. .::.. |:..:
+ 274 : RRHVKEDNKPTEENKKPTSAPKKDKEEKKGKSEETAQADQVATPAETADATKTEPSDKMTPEPT : 337
+
+ 450 : SPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGC : 513
+       ::..|::.::   ..:|:.|.:.  .: .:|: :.:. |.: .:..:|::.  ::  ....|: 
+ 338 : AAQEPSADIV--QKDIKDKLNSEEKDVSDEADKQTMEAAKTENKREAVAAEKVPE--EKEEMAA : 397
+
+ 514 : GVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPP : 577
+         :.::::.:::.::| ::::. :.::.... ||.:.:..:::.... :..:. : :   :  :
+ 398 : KPEEAKEGEQKKEEEAMKEGEPKKEAEAATTLSSKGEAQEPKTVEEPKAAEEQKAESSVEKTDS : 461
+
+ 578 : PTSG : 581
+       |.::
+ 462 : PVAD : 465
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 140 581 . Medex_00083230-RA 17 465 . 104 M 42 42 G 0 1 M 18 18 G 0 1 M 35 35 G 0 3 M 44 44 G 0 2 M 39 39 G 0 3 M 66 66 G 0 1 M 75 75 G 2 0 M 43 43 G 2 0 M 75 75
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00079133-RA
+         Model: affine:local:protein2protein
+     Raw score: 281
+   Query range: 62 -> 255
+  Target range: 29 -> 221
+
+  63 : STPCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSH : 126
+       |||||||||:||||.| ||||||||||||||||||::| ||||||||||||||| |:||:.:.:
+  30 : STPCKHPVIVLQDVAFADLHALVEFIYHGEVNVHQRNLSSFLKTAEVLRVSGLT-QKAEEKEED :  92
+
+ 127 : LAQIQNLANSGGRTPLNTHTQS--LPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHIN : 188
+       |:| || :.:. :.  :. .:.  :. |. .||::..:|  | . .. | . . . ..:|.  :
+  93 : LSQSQNSGRNNQHGYSDKLGDDGIFTSPPSPSLQNSTASQLLRRAPPLGHRERHNSGDFPDLSD : 156
+
+ 189 : NQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQ : 252
+       ::  ::...   ::: .: |::: :   |:|: :| |:|:  . :|:.:..:  : ::.:|:  
+ 157 : QHSPNKRVRPGETASCNSLENATSG-ATLHGTPSS-PFSSKHPQDSKTDDGERDSSQSPPANDG : 218
+
+ 253 : QTP : 255
+        .|
+ 219 : VKP : 221
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 62 255 . Medex_00079133-RA 29 221 . 281 M 54 54 G 1 0 M 31 31 G 0 2 M 65 65 G 1 0 M 9 9 G 1 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00042216-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 383 -> 582
+  Target range: 68 -> 257
+
+ 384 : AAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSS : 447
+       |:..|  ||::  | ||  .:..: :.      :.: : :|  :::. |..: . :: .:|.::
+  69 : ASNPFDDSPPQVPMSHAHHMHMNHHHHHHHHHHHGH-HMGGMSPLGGMGGPPGPLGSMGGPPGP : 131
+
+ 448 : TSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSM : 511
+        :|.|:| .|| :||:|:: :::::  |::|      :.  .:|  |||:.:  ||:: : .:|
+ 132 : MGSQPGPMNALSGPTNSMN-AMGGPPVSMNS------MNSMGGP--PGSMNAMGGSSMNSIPPM : 186
+
+ 512 : GCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRM : 575
+       |..::| .. |:. |.: |:.:. |:: || ..:  :|.: ||. :::|.  :. :.||:: ::
+ 187 : GSPMSSCPPMGSPMGGHMNSGGPMGSPMNNMGGPMMNSGPMGSPMSGGGPMGSPMAGPPISSHL : 250
+
+ 576 : PPPTSGG : 582
+       .... ||
+ 251 : NNGPMGG : 257
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 383 582 . Medex_00042216-RA 68 257 . 118 M 36 36 G 1 0 M 46 46 G 1 0 M 11 11 G 6 0 M 7 7 G 2 0 M 89 89
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00042216-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 126 -> 378
+  Target range: 66 -> 321
+
+ 127 : LAQIQNLANSGGRTPLN--THTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHIN : 188
+       :.. :.:.:|..:.|::   | :  .|.||   |::|   . .|. |: :.||.::.|:.:. .
+  67 : IVASNPFDDSPPQVPMSHAHHMHMNHHHHHHHHHHHGHHMGGMSPLGGMGGPPGPLGSMGGPPG : 130
+
+ 189 : NQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQ : 252
+       .   :. :|   |:::.: :. : :  .:.: ::  . :|::.: :.:: ..:||: :. :| .
+ 131 : PMGSQPGPMNALSGPTNSMNAMGGPPVSMNSMNSMGGPPGSMNAMGGSSMNSIPPMGSPMSSCP : 194
+
+ 253 : QTPADFSTIKHHNNNNTPPLKE--EKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPS : 314
+       . .: .:. .: ... .:|:::  . . .:.. |:: :|.|. .:: .|..||   : |::..:
+ 195 : PMGSPMGGHMNSGGPMGSPMNNMGGPMMNSGPMGSPMSGGGPMGSPMAGPPISSHLNNGPMGGP : 258
+
+ 315 : PLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDG : 378
+         :.:|:. :::.||: :|:.:.: ::  |:: : |  :: .: : ::..:  : |: ..:|::
+ 259 : LSTMGGGSPMNNGPMGNMCGGSGPMGS-PHAHMGMGPMGSMSPMNHHSPHSHHNMGSMGSMGHS : 321
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 126 378 . Medex_00042216-RA 66 321 . 110 M 17 17 G 0 2 M 131 131 G 0 2 M 67 67 G 1 0 M 36 36
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00042216-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 268 -> 586
+  Target range: 18 -> 341
+
+ 269 : TPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGIS--ISDKLGSLTPSPLARAGADDVKSE-PM : 329
+       .||:..   ..|..: :. .:|:....|:....:   ::  |.: . : :|... ||  :: ||
+  19 : KPPISALPDPPPPTKKKRRTSNAATAPAPAPPPMQDLLPPPLTGYGDTIVASNPFDDSPPQVPM :  82
+
+ 330 : DMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPA : 393
+       . .   : .: :::| ::  |:| :..|: |: | .: : |: .. .:.::| :::|   :|.:
+  83 : SHAHHMHMNHHHHHHHHHHHGHHMGGMSPLGGMGGPPGPLGSMGGPPGPMGS-QPGPMNALSGP : 145
+
+ 394 : ENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTA : 457
+       .|.|   :: . :  . ::: | .. ::. |: :::: .| : ..|: .: .|: ::. ::..:
+ 146 : TNSMNAMGGPPVSMNSMNSMGGPPGSMNAMGGSSMNSIPPMGSPMSSCPPMGSPMGGHMNSGGP : 209
+
+ 458 : LISPTSSLKGS-LAAAVYSLHSHAHGHVLGHATSPPRPGSV-GSSVGSNLCTSTSMGCGVNSGN : 519
+       : || ::: |: :.::  : .  : |.: :. ::|| :: : .:::|:.|.| .: |..:|:|.
+ 210 : MGSPMNNMGGPMMNSGPMGSPMSGGGPMGSPMAGPPISSHLNNGPMGGPLSTMGG-GSPMNNGP : 272
+
+ 520 : NSG--NNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSG : 581
+        :.  ..:|. ::.::: | :. .: :: :  ::.: :. :: |::.::..|.:. .  ...: 
+ 273 : MGNMCGGSGPMGSPHAHMGMGPMGSMSPMNHHSPHSHHNMGSMGSMGHSPGPTMHHMALHGPPH : 336
+
+ 582 : GINEP : 586
+       |:..|
+ 337 : GFPGP : 341
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 268 586 . Medex_00042216-RA 18 341 . 110 M 35 35 G 0 2 M 24 24 G 0 1 M 54 54 G 1 0 M 86 86 G 0 1 M 29 29 G 0 1 M 13 13 G 1 0 M 11 11 G 0 2 M 64 64
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00086088-RA
+         Model: affine:local:protein2protein
+     Raw score: 115
+   Query range: 244 -> 689
+  Target range: 309 -> 754
+
+ 245 : HARSASPQQTPADFSTIKHHNN-NNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK : 307
+       :.:: . :| | ::|.| :::: ::. . |::. ::.:. ::|: ..: |: :|:. .:.:: |
+ 310 : DVQNLCEEQLPHQLSVIFEESEFSDVCTTKHDEDSSTATLDESDIETDVGEISSSTVTVRLPLK : 373
+
+ 308 : LG-SLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSG : 370
+       |  | : :. : :..   .|: .:: .:: | ::   :::  .|:::. . : : .::.: .| 
+ 374 : LKFSRSENNEGVTTVIVGDSQVKHLESGDMNHEPLPREPECQPGNQQNVSVTIAFPSRNNSDSK : 437
+
+ 371 : NDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPH : 434
+        |.  ::: : : : .:   :. | .: : . :: :: |:.. : |: .|:: |: ::||  : 
+ 438 : VDKYQAEDKSVELPINDTCHANREVSVSDMDCYETAESDSDVSVCLSLPLHRHGQSPISPTVAA : 501
+
+ 435 : SITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVG : 498
+       : .|:::||. |:.:|..:.||:  ...:| :|: :::: : :.... :  . :.|..  :| :
+ 502 : ASNRATPTSNRSTPTSNRGTPTSNRDTPTSNRGTPTSTIVGEDEKVKLEGSESPVSHGEDDSSS : 565
+
+ 499 : SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGT : 562
+       ::   .:  ::. : . :. .::.:..::| :::|:::::::::::|...|:|::|  :  |..
+ 566 : TTSVQTVKLASRADGNDKEITSATSTPSENIDEDSEESSSSSEEEESEDDSSSSSSTRSFIGNE : 629
+
+ 563 : VTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRY : 626
+        : ...    : : |:.:..|  .: .  | |: .   :  : : :. |:.|:  ..:..::  
+ 630 : QAIQNEDDGKMEL-PADPTEIFVQKVYDMCTRANE-DGTEAKTIGEESEEDDSGVTSDMSRQIS : 691
+
+ 627 : RTKNSLTTHKSLQHRGSSGMLKRLLKTTAIKHGLVGHGHGHGHVHHPHAHHHALSHPRTSLYD : 689
+        :... .. ..| :  .::  .||:|  . . .  ::.:.:.  .:  ::::.|| |  :| |
+ 692 : DADTEPDDASKLSRYQRASTHSRLFKLLQEECEKSDDEDEEESSKNKLGRREQLSLPLHTLSD : 754
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 244 689 . Medex_00086088-RA 309 754 . 115 M 22 22 G 0 1 M 43 43 G 0 1 M 266 266 G 1 0 M 21 21 G 1 0 M 91 91
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00081272-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 584 -> 641
+  Target range: 807 -> 862
+
+ 585 : EPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHR : 641
+       .| .|  |:: |.. |:|: | . . ::..  | |.:|.: ::|  ||::||::: :
+ 808 : KPYSCEVCKKRFRSKYNLQAHVAIHSDERK--YKCSICPKTFKTAVSLSSHKNIHTK : 862
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 584 641 . Medex_00081272-RA 807 862 . 114 M 30 30 G 2 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00050387-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 290 -> 581
+  Target range: 276 -> 572
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       ::||.::. :::.  :  .::.|::: ::.:.  ::|  .|   ..::.:|. || :: |: | 
+ 277 : SSGNTTPRLDSVEAVQPATPINPGSVKHTPPTPSQPEIPSMGVYTPDSTTNSVHSLHGYGQCDL : 340
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIG---DGLASHHAAPQFIMSPAENKMFHA--AAFNFPNIDPSAL : 413
+       ::::::.:|.      :: .::   :|  :||: .|:  ::: :.  ||  :. :: :: . ::
+ 341 : DQGTGSSSGSQQQLLQHQVAMAHTHQGGYPHHPHHQLASPAPMQHPHHAHISQSSYISVPQMSV : 404
+
+ 414 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLH : 477
+        : .   | :|:  || . .  | :. |. .:: .|:... :::  .:.||  .::|:. |   
+ 405 : SSQAFSAQTGGGTYVSVPMTTVIQHRMAGQQAALGSAHQRLAASPACAVSS-ATNFATNFYIQT : 467
+
+ 478 : SHAHGHVLGHATSP-PRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATN : 540
+       : : .|  :|:. | | |.:..::..:.  |:  :  :..:|:::|...|:::.::.: ::  :
+ 468 : AASVPHPHSHTPVPIPTPTPTPTPTPAPTPTPQQVVASTGGGSQGGAGGGSSGTSSCSLAKLQQ : 531
+
+ 541 : NNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSG : 581
+        .|. .  :.:| :  |::..  . :. .| . . |||:::
+ 532 : LTNGLEMVPPTPCNTMTPPPPMNITPPHHPHTTMTPPPSTS : 572
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 290 581 . Medex_00050387-RA 276 572 . 102 M 86 86 G 0 3 M 24 24 G 0 2 M 64 64 G 1 0 M 26 26 G 0 1 M 90 90
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082046-RA
+         Model: affine:local:protein2protein
+     Raw score: 151
+   Query range: 1 -> 49
+  Target range: 203 -> 251
+
+   2 : DDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVV :  49
+       |:. ||||:|::.|::    |. | ::||| ||||||||: |.||:||
+ 204 : DEGSHFCLKWKHHQNNQRHMFSLLLNQEAFCDVTLACEGQLIEAHKVV : 251
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 1 49 . Medex_00082046-RA 203 251 . 151 M 48 48
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072080-RA
+         Model: affine:local:protein2protein
+     Raw score: 157
+   Query range: 80 -> 268
+  Target range: 0 -> 184
+
+  81 : LHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNT : 144
+       :::|: |:|:|||:: |. |..|||||::|:|.||:: .:.|:| .|:.. |  : . :. :..
+   1 : MESLLRFMYNGEVHIGQEQLADFLKTAQMLQVRGLADVPTKDSH-KLPPTSNSHSWPQQNDVRD :  63
+
+ 145 : HTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAE : 208
+       : ..  :|  .::. . ::.  ||     ::|:::..  .:: ::|:::   : :  .: ::: 
+  64 : NYAE--EPMSPPMKRSRSNDHHFS-----PSPASSATHNNNNGDQQMMRETLLGQALEGMPPSL : 120
+
+ 209 : ETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLP----PLHARSASPQQTPADFSTIKHHNNNN : 268
+       :|::| .:::|:.:|   : :.|..||::...|:    |: . :. |: .|.|::.:.:.:.::
+ 121 : HTPNASHQMKGNSDSSLQAHSTGEESNSSDTALSDHGGPMSDLPVHPKTEPNDYGGMDDPHPHH : 184
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 80 268 . Medex_00072080-RA 0 184 . 157 M 44 44 G 1 0 M 23 23 G 2 0 M 18 18 G 5 0 M 69 69 G 0 4 M 26 26
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00049573-RA
+         Model: affine:local:protein2protein
+     Raw score: 151
+   Query range: 2 -> 57
+  Target range: 1 -> 56
+
+  3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYF : 57
+      :. :| ::|::..| ::: :.:| :::::||||| |:.::::.||.||:||||||
+  2 : GGTRFMVQWEEHPSHLATRLGQLLEHQTLVDVTLMCNTHTLRVHRAVLAACSPYF : 56
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 57 . Medex_00049573-RA 1 56 . 151 M 55 55
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00049574-RA
+         Model: affine:local:protein2protein
+     Raw score: 154
+   Query range: 24 -> 116
+  Target range: 0 -> 94
+
+  25 : LRDDEAFVDVTLACEGRSIKAHRVVLSACSPYF--RELLKSTPCKHPVILLQDVNFMDLHALVE :  86
+       :.:. .:.::   |   ||.:  | :..|  |:  :.:|:.    ||:|:|:|::|  |.:|:|
+   1 : MSGTRVYTHILSICCKYSIETVAVYVKNCLEYLLWQTILQRQLGLHPLIVLKDMQFSVLKSLIE :  64
+
+  87 : FIYHGEVNVHQKSLQSFLKTAEVLRVSGLT : 116
+       |:| ||.:| :.:| ::|::|. ::|.||:
+  65 : FMYCGETSVTEDNLGALLQAAKFFQVKGLS :  94
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 24 116 . Medex_00049574-RA 0 94 . 154 M 33 33 G 0 2 M 59 59
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00080229-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 224 -> 465
+  Target range: 84 -> 326
+
+ 225 : PLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGN : 288
+       :|... :. :: ...::.:| :: :|:::.||:::::| :::.|.|::.   ..|.. .:::|:
+  85 : SLEPQQSKRTQLRKHGMQSL-GKVPSARRPPANLPSLKSEHSGNDPAISLVPSGGTGWGSKPGE : 147
+
+ 289 : GNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSN-DSTGE : 351
+       |.|:...:|::.  :.|   .:::.:. .:::...: |.. .:  |..:|.:.   :: :|.: 
+ 148 : GTGQPATSSQSAQPATSVAQTTVSTAQTQQPAQTTIPSSTTAVSASPAQAPGPVITTQTQSVAP : 211
+
+ 352 : HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMS-PAENKMFHAAAFNFPNIDPSALL : 414
+       ..|.::. .| : :|: :|.:|.:  .    |.:|||  . |  :.   ..: . |: ::.:  
+ 212 : PAAGQTCVTDKSWSSIMAGPGEAVHPPSFLAHQSPQFQQEFPKLSSGDGQVTAAGPKGGSDSQY : 275
+
+ 415 : GLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSL : 465
+       | .. |:. .: :  . |.:: ..:.:.:|.::   .|:| :: ::|...|
+ 276 : GPGPSLRPQTEGSWIQGGGRNAVPPVGNPPPAALVQGPGPLAPHLPPGKRL : 326
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 224 465 . Medex_00080229-RA 84 326 . 108 M 20 20 G 1 0 M 101 101 G 0 1 M 45 45 G 0 1 M 74 74
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00033330-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 177 -> 585
+  Target range: 408 -> 816
+
+ 178 : TAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSG----AVGSGSNNN : 237
+       ..:.::..::.:   | :.:  | ...:. ::|.:.:. |  .:||:||::    .|::. ...
+ 409 : NQLRTMQEQLAEMQQKYVQLCTRMEQESDCQDTEDVLSDLEQDGNSMPLPDKPQPVVSTPVTTP : 472
+
+ 238 : SPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSG-NGNGNGNGASNGN : 300
+         : ..: :: :. ..::|. :.  :.:   ::.| : |.. ..  :.:| .|.|.|.:::.|.
+ 473 : VKEQRRFLGKQSEVAAAAAAAAEQLNKDLLMASQLLDRKSPRTKVIDRGGATGPGGGGAGAGGG : 536
+
+ 301 : GISISDKLGS-LTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGG : 363
+       | ::: . || :.::.::::|::   :.| : :   |. | :: ::: :::  ::.::::|:::
+ 537 : GQGVPRMNGSAFPSTGMTHGGGGPGGGAPENNI---NTMNLQHVRPSPNASMFQTPKAPGGGSS : 597
+
+ 364 : KGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLA : 427
+       . : |::.  .  :|:::  ::|:  |:|        .:.. .| . | ::. :.: :: .|  
+ 598 : SVNNSAAALYSSMGGMGGGGGGPH--MNPFCMPENSREGMPEQNEALSLVVTPKKKRHKVTDTR : 659
+
+ 428 : VSPQG-PHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATS : 490
+       ::|:. :: :::.: .:|.:| .:|.|:.::  :.::.: | :|::  : :|.:..:   .:.:
+ 660 : ITPRTVSRILAQDGMVPPPGSMDGPTSAGAPSGPGATKFGGMMASTSGGAESPPPPRPYHPPPP : 723
+
+ 491 : PPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGS : 554
+       |  | |:.:||:  : .::  .. | |. ::  :: ::.::: ....:..::: :|||:.: |:
+ 724 : PILPVSLPTSVA--IPNPSLHESQVFSPYSPFYHHQQQQQQQQAPPPPPPHQHMASSSPPGMGA : 785
+
+ 555 : QATAAGGTVTQAGTPPLPLRMPPPTSGGINE : 585
+       :: :.:..: ::.|   |  ::::  || .:
+ 786 : DPRGESPPLQHPPTLLHPALIAAAQHGGSPD : 816
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 177 585 . Medex_00033330-RA 408 816 . 124 M 51 51 G 0 4 M 59 59 G 0 1 M 23 23 G 0 1 M 22 22 G 3 0 M 52 52 G 2 0 M 43 43 G 0 1 M 70 70 G 2 0 M 81 81
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00033330-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 245 -> 473
+  Target range: 488 -> 734
+
+ 246 : ARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNG-NGNGNGASNGNGISISDK- : 308
+       | :|:::| . |:   .:  :.::|. |  .|.|:||.|.:|.| .|.|:|.:. || :::.. 
+ 489 : AAAAAAEQLNKDLLMASQLLDRKSPRTKVIDRGGATGPGGGGAGAGGGGQGVPRMNGSAFPSTG : 552
+
+ 309 : LGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSS----SGDGGKGSL : 367
+       :.  ..:| : |..::::: .:: | ::.||:  :.... :.|. ..|.|:    |: ||.|: 
+ 553 : MTHGGGGPGGGAPENNINTMNLQHVRPSPNASMFQTPKAPGGGSSSVNNSAAALYSSMGGMGGG : 616
+
+ 368 : SSGND-------EEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSG : 424
+       ::|.:       |:  :|::.::.|  ::::| .:|. ..:. .:.. . | :|: :. :..:|
+ 617 : GGGPHMNPFCMPENSREGMPEQNEALSLVVTP-KKKRHKVTDTRITPRTVSRILAQDGMVPPPG : 679
+
+ 425 : DL-----AVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSS-LKGSLAAAV : 473
+       .:     | :| || :.. ::  ::||:.:.:|:|| :  :|.:: |  ||:::|
+ 680 : SMDGPTSAGAPSGPGATKFGGMMASTSGGAESPPPPRPYHPPPPPILPVSLPTSV : 734
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 245 473 . Medex_00033330-RA 488 734 . 106 M 44 44 G 0 1 M 18 18 G 0 1 M 51 51 G 0 4 M 14 14 G 0 7 M 20 20 G 1 0 M 33 33 G 0 5 M 38 38 G 0 1 M 9 9
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00062059-RA
+         Model: affine:local:protein2protein
+     Raw score: 114
+   Query range: 587 -> 644
+  Target range: 440 -> 495
+
+ 588 : ECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSS : 644
+       ||: | ..|:   :|:|||  : : |:. | | :|::|:| .|:::.||.  |:.::
+ 441 : ECATCGMKFGNRSNLRRHF--RSHSSEKPYSCPICNQRFRFSNNISKHKKKYHKTTA : 495
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 587 644 . Medex_00062059-RA 440 495 . 114 M 19 19 G 2 0 M 36 36
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 131 -> 581
+  Target range: 360 -> 810
+
+ 132 : NLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTL-FSRQGAGSPPPTAVP-SLPSHINNQLLK : 193
+       .::::.||:: .. :::|. . ::::  :::::.:    |... | |  || :: .|:. .: :
+ 361 : GVGSGTGRSSGTGSANGLGAGIDSGIGLGAAAPVVQTITQTVPVPVPQLVPVTVERHVPVPITQ : 424
+
+ 194 : RMAM-MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPA : 256
+       :::. :.|:  .:.:: .: :  |  . . : |:: :|: :   . |:  |::.. : | |.| 
+ 425 : HVPFEIPRPYLVSVPHPVPVSVPRPYPVSVPRPVAVPVAQAVLVPVPQPYPVNVPHPVPVQVPH : 488
+
+ 257 : DFS-TIKHHNNNNTPPLKEEKR-NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLAR : 318
+         : .: :  . :.| | ...  .| :::| :|:| |.:|:.:|: | :|:: ::::.: : : 
+ 489 : PVAIPVPQLITVDKPILIASSGFGGDASSGLGGSGIGRDNAENNAFGSGIGGGIAGVNSFS-SG : 551
+
+ 319 : AGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASH : 382
+        |::..  ::.:   :..::. |.  |. :.|. :.|. :|| || ::  :: :..||:| |: 
+ 552 : IGGGSAGVNSFGSEIGAGSTGINSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGSGIGGGSAGV : 615
+
+ 383 : HAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTS : 446
+       :: .  | :.:..    ..:|.|.  :.||  |:|:     |: :.:. | :  . :::|.:.|
+ 616 : NSFGSGIGGGSAG----VNSFGFGIGGGSA--GVNSFGSGIGGGSTGGTGLDFEIGGSSTRSNS : 673
+
+ 447 : STSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHA-TSPPRPGSVG-SSVGSNLCTS : 508
+        .|: ...::: |: .|::.|: |.:.    : : |:.:::. .|.. .||:| :: ||.: .|
+ 674 : FGSGIGEGSSSGINYGSGIEGGSAVSTVQGSGIGGGRTVDNNLGSGTGGGSIGDNNFGSGITGS : 737
+
+ 509 : TSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLP : 572
+       ::   : .|| .:|::.| ..: . ..|||..|: .|  ::.|.|: :.. | . : |.:.:|.
+ 738 : SAGVQSFGSGIGGGSSGGIGNSYGIGGGNAGANSYGSVVAGGSTGGVGNNYGIEGAGAEANSLG : 801
+
+ 573 : LRMPPPTSG : 581
+         :.. ::|
+ 802 : SGVGGDSTG : 810
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 131 581 . Medex_00023493-RA 360 810 . 117 M 35 35 G 0 1 M 15 15 G 0 1 M 16 16 G 0 1 M 62 62 G 0 1 M 18 18 G 0 1 M 38 38 G 1 0 M 79 79 G 4 0 M 13 13 G 2 0 M 74 74 G 0 1 M 10 10 G 0 1 M 83 83
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 199 -> 586
+  Target range: 367 -> 759
+
+ 200 : RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPL----HARSASPQQTPADFS : 259
+       |||::::|:. : ::..  | :.: |:  ::. . . . |:| |:    |.. : .|:.| :::
+ 368 : RSSGTGSANGLGAGIDSGIGLGAAAPVVQTITQTVPVPVPQLVPVTVERHVPVPITQHVPFEIP : 431
+
+ 260 : TIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNG--NGASNGNGISISDKLGSLTPSPLARAGA : 321
+            : .:. |:.  :. . : . . : . :::   ..::. .::::: :.  .| |:| : :
+ 432 : RPYLVSVPHPVPVSVPRPYPVSVPRPVAVPVAQAVLVPVPQPYPVNVPHPVPVQVPHPVAIPVP : 495
+
+ 322 : DDVKSE-PMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGN--DEEIGDGLASH : 382
+       : :. : |: :..|. .::|:.. :..:.| ::|:.:: |.|  |:::: |  ...||:| |: 
+ 496 : QLITVDKPILIASSGFGGDASSGLGGSGIGRDNAENNAFGSGIGGGIAGVNSFSSGIGGGSAGV : 559
+
+ 383 : HA-APQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPT : 445
+       :: ::::  :::. : | ::  . :.  .|   |:..  .  ..:: :  |. : ..| ::: .
+ 560 : NSFGSEIGAGSTGINSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGSGIG : 623
+
+ 446 : SSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTST : 509
+       ::::: .| . :: :.::::: |::::: :  : : |  :. :.|:.|:.| ||::|.. .::.
+ 624 : GGSAGVNSFGFGIGGGSAGVN-SFGSGIGGGSTGGTGLDFEIGGSSTRSNSFGSGIGEGSSSGI : 686
+
+ 510 : SMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPL : 573
+       : |.|:::|:. :. :|    :. ..|.:.:|| .|::::.| |.:. ::| | : ||..::. 
+ 687 : NYGSGIEGGSAVSTVQG----SGIGGGRTVDNNLGSGTGGGSIGDNNFGSGITGSSAGVQSFGS : 746
+
+ 574 : RMPPPTSGGINEP : 586
+        :...:||||.::
+ 747 : GIGGGSSGGIGNS : 759
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 199 586 . Medex_00023493-RA 367 759 . 112 M 45 45 G 0 4 M 49 49 G 0 2 M 34 34 G 0 1 M 44 44 G 0 2 M 13 13 G 0 1 M 82 82 G 1 0 M 59 59 G 4 0 M 56 56
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 227 -> 586
+  Target range: 573 -> 927
+
+ 228 : GAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNG : 291
+       .: ||| ...|:::.:: :  ::. .. ..|::    .:....:: ..  .|::| .: | | |
+ 574 : NSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGFGIG : 637
+
+ 292 : NGNGASNGNGISISDKLGSLTPSPLA-RAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       .|::: |: | :|::  || ..:.|.   |:...:|::.:   ::.:::: :  |. ..|.  :
+ 638 : GGSAGVNSFGSGIGG--GSTGGTGLDFEIGGSSTRSNSFGSGIGEGSSSGINYGSGIEGGSAVS : 699
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDG-LASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLN : 417
+       .  :|| ||  ::.:. :...|:| ::.:: :: :. |:|. : | ::  . :: : :.  |:.
+ 700 : TVQGSGIGGGRTVDNNLGSGTGGGSIGDNNFGSGITGSSAGVQSFGSGIGGGSSGGIGNSYGIG : 763
+
+ 418 : TQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAH : 481
+       .  . :.. :   .|. : . :.. : .::.:.:.| .::: : ::::| |::::. :  : : 
+ 764 : GGNAGANSYGSVVAGGSTGGVGNNYGIEGAGAEANSLGSGVGGDSTGVK-SFSSGTGGGSTGGI : 826
+
+ 482 : GHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNS : 545
+       |:  | :.:.: : |:||:||::   ||::  : |||..:|:..| ..| . . |||..|: .|
+ 827 : GNNYGIGVGNAGAYSLGSGVGGD---STGVK-SFNSGTGGGSTGGIGNNYGIGVGNAGTNSLGS : 886
+
+ 546 : SSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+       : ::.|:| :: ::|.. . ||. ::.  :...: |||.::
+ 887 : GIGGGSAGVNSFGSGNGGESAGVKSFGSGIGGGSVGGIGNS : 927
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 227 586 . Medex_00023493-RA 573 927 . 110 M 79 79 G 2 0 M 9 9 G 0 1 M 61 61 G 0 1 M 88 88 G 1 0 M 37 37 G 3 0 M 5 5 G 1 0 M 73 73
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 106
+   Query range: 217 -> 581
+  Target range: 535 -> 894
+
+ 218 : RGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+       .| :.:::  .: :|| ...|:::.:: :  ::.  . ..|::    .:....:: ..  .|::
+ 536 : SGIGGGIAGVNSFSSGIGGGSAGVNSFGSEIGAGSTGINSFGSGIGGGSAGVNSFGSGIGGGSA : 599
+
+ 282 : GNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLAR-AGADDVKSEPMDMVCSNNNANANDEH : 344
+       | .: |:| |.|::: |: | :|::  :::.: .::  :|:.:|:| . ::  ::..:.: | :
+ 600 : GVNSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGFGIGGGSAGVNSFGSGIGGGSTGGTGLDFE : 663
+
+ 345 : SNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNI : 408
+        .:|:.  ::  |: |:|:.:::: |:: | |.:::: :::.    ...:|::  ::: . .:|
+ 664 : IGGSSTRSNSFGSGIGEGSSSGINYGSGIEGGSAVSTVQGSGIGGGRTVDNNL--GSGTGGGSI : 725
+
+ 409 : DPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAA : 472
+       : :.: :  |   .: :   |. |. | .  :.: ..::.::.::: .::::..|:  |:::..
+ 726 : GDNNFGSGITGSSAGVQSFGSGIGGGSSGGIGNSYGIGGGNAGANSYGSVVAGGST--GGVGNN : 787
+
+ 473 : VYSLHSH-AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNN : 535
+        |::::  |::: || :.:. ..|  : | |:.  .::: | | | | . ||..: : .:. ..
+ 788 : -YGIEGAGAEANSLGSGVGGDSTGVKSFSSGTG--GGSTGGIGNNYGIGVGNAGAYSLGSGVGG : 848
+
+ 536 : GNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSG : 581
+       :::. :: ||::::.|.|: :.. | .|.:|||.:|.  :...::|
+ 849 : DSTGVKSFNSGTGGGSTGGIGNNYGIGVGNAGTNSLGSGIGGGSAG : 894
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 217 581 . Medex_00023493-RA 535 894 . 106 M 101 101 G 0 1 M 79 79 G 2 0 M 65 65 G 2 0 M 6 6 G 1 0 M 6 6 G 0 1 M 25 25 G 2 0 M 75 75
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 199 -> 587
+  Target range: 647 -> 1026
+
+  200 : RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTI :  261
+        .: :::::..|: .|.   :|..| ::::::|.||::. .  :.::: || :   .::::. 
+  648 : SGIGGGSTGGTGLDFEIGGSSTRSNSFGSGIGEGSSSGINYGSGIEGGSAVSTVQGSGIGGG :  709
+
+  262 : KHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADD :  323
+        :  :||    | ... .|:.|:.| |:| ..:::: :: | :|::  :: ..:: : :|::.
+  710 : RTVDNN----LGSGTGGGSIGDNNFGSGITGSSAGVQSFGSGIGGGSSGGIGNSYGIGGGNA :  767
+
+  324 : VKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAA :  385
+          :.  .:| :.:.:...::.: :::|. :||. :|| ||.::  .: ....|:| ::   :
+  768 : GANSYGSVVAGGSTGGVGNNYGIEGAGA-EANSLGSGVGGDSTGVKSFSSGTGGG-STGGIG :  827
+
+  386 : PQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSS :  447
+        .:: :: ::.  :  :  :  . |:::: ::|:    ::. :::.: . ::..:::.| .|:
+  828 : NNYGIGVGNAGAYSLG--SGVGGDSTGVKSFNSGTGGGSTGGIGNNYGIGVGNAGTNSLGSG :  887
+
+  448 : TSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTST :  509
+        .::.::. .:: |..:: .::: :   :: : : | : |:: : . ..: ::| :|.: .::
+  888 : IGGGSAGVNSFGSGNGGESAGVKSFGSGIGGGSVGGI-GNSYGIGGGNAGANSFSSGFGGGS :  948
+
+  510 : SMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPL :  571
+        |   . .|| .:|:.. || .:.::.|:|.. ::: : ::.|.| :. ::|.. :: :..::
+  949 : SGVNNFGSGITGGSTGINNFGSGNSGGSAGGIDHSYGIGGGSTGVNNFGSGTGGSNIAINSF : 1010
+
+  572 : PLRMPPPTSGGINEPQ :  587
+        .  ::.: |:||...:
+ 1011 : GSGISGSHSSGIGGGN : 1026
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 199 587 . Medex_00023493-RA 647 1026 . 104 M 68 68 G 4 0 M 80 80 G 1 0 M 26 26 G 1 0 M 22 22 G 2 0 M 81 81 G 1 0 M 102 102
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 226 -> 585
+  Target range: 516 -> 870
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       ||  ||| ..:::: .:: :  ::. .. ..||:    .:....:: .|  .|:|| .: |:| 
+ 517 : SGLGGSGIGRDNAENNAFGSGIGGGIAGVNSFSSGIGGGSAGVNSFGSEIGAGSTGINSFGSGI : 580
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDA : 354
+       |.|::: |: | :|::  :::.: . :  |::..  ::.:   :..:|..|.   . :.|. :.
+ 581 : GGGSAGVNSFGSGIGGGSAGVNSFG-SGIGGGSAGVNSFGSGIGGGSAGVNSFGFGIGGGSAGV : 643
+
+ 355 : NRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNT : 418
+       |. :|| || :: ::| | |||:: :. :: .  | ..:.: : .::::: .. . |:: | ..
+ 644 : NSFGSGIGGGSTGGTGLDFEIGGSSTRSNSFGSGIGEGSSSGINYGSGIE-GGSAVSTVQGSGI : 706
+
+ 419 : QLQQSGDLAV-SPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSL-HSHA : 480
+          :: | .: |. |. ||. :. .|..:::|:.  : .: |:..||  |:::.: |::  ::|
+ 707 : GGGRTVDNNLGSGTGGGSIGDNNFGSGITGSSAGVQSFGSGIGGGSS--GGIGNS-YGIGGGNA : 767
+
+ 481 : HGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNN : 544
+        ::  | ..:....|:||:: | :  .:.: : ::.|| .:::.. :: ::.:..|::.. .||
+ 768 : GANSYGSVVAGGSTGGVGNNYGIE--GAGAEANSLGSGVGGDSTGVKSFSSGTGGGSTGGIGNN : 829
+
+ 545 : SSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINE : 585
+        : : .::|: : ::| . . :|. ::.   ...::|||.:
+ 830 : YGIGVGNAGAYSLGSGVGGDSTGVKSFNSGTGGGSTGGIGN : 870
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 585 . Medex_00023493-RA 516 870 . 103 M 89 89 G 1 0 M 88 88 G 1 0 M 23 23 G 0 1 M 36 36 G 2 0 M 6 6 G 1 0 M 3 3 G 0 1 M 28 28 G 2 0 M 79 79
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00023493-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 176 -> 562
+  Target range: 478 -> 865
+
+ 177 : PTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRL--RGSDNSLPLSGAVGSGSNNNS : 238
+       | :||   :|  .  : ::  ::::   |::. .::| . |  .| :.. : :.| ||| ... 
+ 479 : PHPVPVQVPHPVAIPVPQLITVDKPILIASSGFGGDASSGLGGSGIGRDNAENNAFGSGIGGGI : 542
+
+ 239 : PDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGI : 302
+       :::.:: :  ::. .. ..|::    .:....:: ..  .|::| .: |:| |.|::: |: | 
+ 543 : AGVNSFSSGIGGGSAGVNSFGSEIGAGSTGINSFGSGIGGGSAGVNSFGSGIGGGSAGVNSFGS : 606
+
+ 303 : SISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       :|::  :::.: . :  |::..  ::.:.  :..:|..|.  |. :.|. ::.  . . ||.::
+ 607 : GIGGGSAGVNSFG-SGIGGGSAGVNSFGFGIGGGSAGVNSFGSGIGGGSTGGTGLDFEIGGSST : 669
+
+ 367 : LSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSAL-LGLNTQLQQSGDLAVS : 429
+        |:: :..||:| :|  . .  | :.:. .  :::::. ...  :.|  | ..    ..::: :
+ 670 : RSNSFGSGIGEGSSSGINYGSGIEGGSAVSTVQGSGIGGGRTVDNNLGSGTGGGSIGDNNFGSG : 733
+
+ 430 : PQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPR : 493
+         |: : .:| ::: .:::|:. :.: : |:..::  .| ::.| :  : : |:  | ..:.: 
+ 734 : ITGSSAGVQSFGSGIGGGSSGGIGNSYG-IGGGNAGANSYGSVVAGGSTGGVGNNYGIEGAGAE : 796
+
+ 494 : PGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQAT : 557
+       :.|:||:||::  . .|.:.|..:|:.:| .|. . . .:..: : .:. .:.|::..: : :|
+ 797 : ANSLGSGVGGDSTGVKSFSSGTGGGSTGGIGNNYGIGVGNAGAYSLGSGVGGDSTGVKSFNSGT : 860
+
+ 558 : AAGGT : 562
+       ::|:|
+ 861 : GGGST : 865
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 176 562 . Medex_00023493-RA 478 865 . 102 M 41 41 G 0 2 M 98 98 G 1 0 M 97 97 G 0 1 M 44 44 G 1 0 M 104 104
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00063918-RA
+         Model: affine:local:protein2protein
+     Raw score: 108
+   Query range: 586 -> 660
+  Target range: 85 -> 161
+
+ 587 : QECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRG-SSGMLKR : 649
+       .:|. | :...   ||:||.|| |  : |: :| :| : :|:|||| ||.|| ||:  :|.| :
+  86 : ANCHLCGKGMR-KSSLNRHMQDCH-LPPTVEMCPLCGKVFRSKNSLQTHTSLYHRAVHAGRLLK : 147
+
+ 650 : L---LKTTAIKHGL : 660
+       |   |.::::| .|
+ 148 : LQSFLDSSPLKANL : 161
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 586 660 . Medex_00063918-RA 85 161 . 108 M 11 11 G 1 0 M 12 12 G 1 0 M 31 31 G 0 1 M 8 8 G 0 3 M 10 10
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00049848-RA
+         Model: affine:local:protein2protein
+     Raw score: 151
+   Query range: 332 -> 673
+  Target range: 443 -> 790
+
+ 333 : CSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENK : 396
+       .:.:::. ..:| . :.. |:: ::::  .:  :| ...    .::| :||  |. . .| |..
+ 444 : SGASSPGMPAHHQPPPPPPHHPFHPGGFPPAALPLYRPPPPPPPHDLLPHHIHPPPTHRPLEPH : 507
+
+ 397 : MFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVS---PQGPHSITRSAATSPTSSTSSPPSPPTA : 457
+        :.: ::  ..|:...  .|:.. . |: |:.|    :.|.. . ::.:::: :.. :|.. ..
+ 508 : QLPPHSLFGHRIEQDVPENLSKPQATSSPLPASERVKKEPPDEDVATVSAAAVAERMSPKQEPE : 571
+
+ 458 : LISPTSSLKGS--LAAAVYSLHS-HAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSG : 518
+            ..|.:|  | .. .||:| .: .: :| .. | . :|  .: .:.   :.|:. . . :
+ 572 : TDQEQEELDASRYLYDDDCSLDSKYSSEDSMGMQDQPENLSSKQEPPTAGQRLPPSLPFPHTVS : 635
+
+ 519 : NNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       ..::.::|:. ...: :.. ...  .|  :..::..:: .:  .||:::..:   ::  ...  
+ 636 : PPGSTSSGSGHAGGPLDPAKDPAIYTSLLPRPGSNDNSWESLIEVTKTSETSKLQQLVDNIEHK : 699
+
+ 583 : INEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQH-RGSSG : 645
+       :.:|::|  |:|.:||  :|:.|:  : : ::  : |.:| | : ||.:|.||.:::: :.:  
+ 700 : LTDPNQCVICHRVLSCKSALQMHY--RTHTGERPFKCKICGRAFTTKGNLKTHMGVHRAKPPVR : 761
+
+ 646 : MLKR-LLKTTAIKHGLVGHGHGHGHVHHP : 673
+       :|.:  :  . :.::|| : | : |. :|
+ 762 : VLHQCPVCHKKFTNALVLQQHIRLHTGEP : 790
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 332 673 . Medex_00049848-RA 443 790 . 151 M 97 97 G 0 3 M 39 39 G 0 2 M 10 10 G 0 1 M 128 128 G 2 0 M 32 32 G 0 1 M 9 9 G 0 1 M 24 24
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00049848-RA
+         Model: affine:local:protein2protein
+     Raw score: 124
+   Query range: 428 -> 635
+  Target range: 202 -> 408
+
+ 429 : SPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSP- : 492
+       ||... .::|:::.  |. :: ||:||.:  ..: : . | : :  : || : . . .  . | 
+ 203 : SPAPQAKVSRPPSPVKTEHSPLPPPPPPPAACQAVPATQSQPMPPQPPHSSPTPAATTTLIVPK : 266
+
+ 493 : PRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQ : 555
+       |...:|.:: . ::|   |::.::.|:  :.::... :|:.:. .   ...::  .::: .  .
+ 267 : PPTPPVPPPPPFSMC---SISSSLASSIITNSDPPPLPNEPNTLEMLQRRAQEVLDNASQGLLA : 327
+
+ 556 : ATAAGGTVTQAGTPPLPLRMPPPTSGGINEP---QECPYCRRTFSCYYSLKRHFQDKHEQSDTL : 616
+       .. |:. . : :. . :|.   ..||| |||   : |.|| :.|:.  :|: |:  : : ::  
+ 328 : NNLADELAFRKSGKGGSLSPYDGKSGGRNEPFFKHRCRYCGKVFGSDSALQIHI--RSHTGERP : 389
+
+ 617 : YVCEFCHRRYRTKNSLTTH : 635
+       : |: | .|: ||.:|..|
+ 390 : FKCNVCGSRFTTKGNLKVH : 408
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 428 635 . Medex_00049848-RA 202 408 . 124 M 63 63 G 0 1 M 15 15 G 3 0 M 77 77 G 0 3 M 20 20 G 2 0 M 27 27
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00049849-RA
+         Model: affine:local:protein2protein
+     Raw score: 130
+   Query range: 413 -> 645
+  Target range: 83 -> 319
+
+ 414 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTS-STSSPPSPPTALISPTSSLKGSLAAAVYSL : 476
+       :| . ::| :   : .|: .:. :|....::.. ::. || |  :  : :|. :. |:.    :
+  84 : FGGGRDIQTTQPKPKRPRKRNEESRKQNGGSKKYTARIPPLPLLGSAGYASDWNPLLGNMKQHM : 147
+
+ 477 : HSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATN : 540
+        :|   :: :|  .|.:||: .:: .::|. :.. :. ::. .. :......::::..: . ..
+ 148 : LTHKIRDMPSHLFEPNKPGP-PPPPPPSLSMGDDSSSVIDDVARQAPPPPPPPHHDKPDLGIKR : 210
+
+ 541 : NNNNSSSSSTSPGSQATA-AGGTVTQAGTPPLPLRMPPPTSGGIN-----EPQECPYCRRTFSC : 598
+       :..::.:: . | .|:..  .:|:. :.   : |||.|::  ::.     . : |. |.:.||.
+ 211 : SPPEGEGGLPVPKRQPGELHNATLGSPPLLLMLLRMQPAAQHDVRPRSGLAKHLCHVCNKNFSS : 274
+
+ 599 : YYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSG : 645
+         :|: |.  : : :|. : |.:|:: : ||.:|..|.: : :::::
+ 275 : SSALQIHM--RTHTGDKPFRCTICQKAFTTKGNLKVHMGTHMWSNGA : 319
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 413 645 . Medex_00049849-RA 83 319 . 130 M 33 33 G 0 1 M 50 50 G 1 0 M 61 61 G 0 1 M 26 26 G 0 5 M 22 22 G 2 0 M 37 37
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00041021-RA
+         Model: affine:local:protein2protein
+     Raw score: 123
+   Query range: 114 -> 387
+  Target range: 113 -> 383
+
+ 115 : LTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPT : 178
+       |..:: :|:|.| :: ::  | |::.. :    |  |. |    :: ||    |:: :: :..:
+ 114 : LEPHRHHDSHEHNSHEHHSHNHGSHEHGSYLHGSHEHGSHRHGSHEHGSHHHGSHEHGSHSHGS : 177
+
+ 179 : AVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLP : 242
+         .: ..| :::  .:.   |  :: . :.:..|: :: |: ::::.  |: . .|:::::: .
+ 178 : HGHGSHKHGSHEHGSHKHGSHEHGSHQHGSHERHSHNH-RSHEHGFHHHGSHEHESHQHGSHNH : 240
+
+ 243 : PLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISD : 306
+       . |.:.: .:::..: .: :|  :::.:  :....:|: .:|:  :|: :..:  :|:  . |:
+ 241 : GSHEHRSHNHDSHEN-RSHNHSLHEHGSLNRSSHNHGSHEHGSHQHGSHENGSHQHGSHERRSH : 303
+
+ 307 : KLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSG : 370
+       : || ..:: . :: :: . |...    .::.::::||:::  |.|: ..   |. ..||   .
+ 304 : NHGSHERGSHEYGSHQHGSHERRSHN-HGSHQHGSHEHGSHQHGSHEHGSHQHGSHEHGSHHHE : 366
+
+ 371 : NDEEIGDGLASHHAAPQ : 387
+       ::|  ::. :||:  |:
+ 367 : SHERGSHNHGSHEHRPH : 383
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 114 387 . Medex_00041021-RA 113 383 . 123 M 102 102 G 1 0 M 40 40 G 1 0 M 74 74 G 1 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00043803-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 583 -> 667
+  Target range: 157 -> 239
+
+ 584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSGML : 647
+       :.| ||. |.::||   :|:.|:  . :.::: :.| :|::.:. |.|||:|..: | |:... 
+ 158 : EKPFECQQCSKSFSTESNLRSHI--MSHPGNSPFTCVICDKSFSQKRSLTAHHKI-HIGNCPFR : 218
+
+ 648 : KRL-LKTTAIKHGLVGHGHGH : 667
+         |  |: ::|:||  | . |
+ 219 : CELCGKSFTVKDGLNKHIKVH : 239
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 583 667 . Medex_00043803-RA 157 239 . 107 M 23 23 G 2 0 M 30 30 G 1 0 M 11 11 G 0 1 M 17 17
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00063392-RA
+         Model: affine:local:protein2protein
+     Raw score: 102
+   Query range: 167 -> 585
+  Target range: 45 -> 473
+
+ 168 : SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSH--AFKRLRGSDNSLPLSGA : 229
+       .|::.:| ...: ::: .  :.:  |  ::::.|  :.|:. ...  .:. :.:.. | | :|.
+  46 : RRHSDSSKQRDSSAAVKRSHKRRQSKDGSVLDPSVLSVASSLVKPLVEYSDVSSEALSGPEAGE : 109
+
+ 230 : VGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNN----TPPLKEEKR-NGPTGNGNSGN : 288
+       : |:.: .| . . : :|: :.:: .:| .: :||.:.:    ::| :.||| :::. ....::
+ 110 : IQSDDSVASISEGEVSPRGHGHRKHHPDSRSNRHHGDRKSRTASSPARSEKRSHSAKRRERRSS : 173
+
+ 289 : GNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEH : 352
+       :.|:.:: :. :  |  ..  .| :.:::.::: :| .. .| |.|::: : ::: :: .. .|
+ 174 : SAGSNEARNRKHRDSPLTERHRLRSRSMSPSSTLEVYRKLKDDVSSSSSRHHSGNTNKRKDKKH : 237
+
+ 353 : DANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLG- : 416
+         :|..:.   : : |.::.. :|:   ...: .:   |: ::.: .:.: . | |:. .| : 
+ 238 : --KRDKGERKFRVGRSRSSKSPLGNKKKKKKSKHHSRSSSCDDTLVKPVT-PPPIIEQLVLADK : 298
+
+ 417 : LNTQLQQSGDLAVSPQGPHSI-TRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHS : 478
+       ::| : :|.. : .  :| :: . |:|.|:::|.:..|.:|::|:.||:| :.: . .| | :.
+ 299 : VSTSVTKSPSKSWDKSAPLNVNVVSPAPSSSPSKNENPDSPASLVCPTTSAQEGSDMDVESDQE : 362
+
+ 479 : HAHGHVL---GHATSPPRPGSVGSSVGSNLCTSTSMGCG-VNSGNNSGNNNGNNANNNSNNGNA : 538
+       :  :: |   ::.:. :...: .::|:::  . .:.:.. :|::: ..::.. ::..:|:..| 
+ 363 : EKGSQPLTLIDNVSCESPGETRTPPVSPHTPPLPPKAYERLNPSKLCPEEGEVSGRRSSSPTNR : 426
+
+ 539 : TNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINE : 585
+       .  ||.:...|.||:.|.. . |.  :  ||. .  ..:|::: |::
+ 427 : KIYNNPGRRKSPSPSKQEVFVVGVRRRHHTPTTGHGKHSPSPDRISH : 473
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 167 585 . Medex_00063392-RA 45 473 . 102 M 45 45 G 0 2 M 56 56 G 0 4 M 9 9 G 0 1 M 75 75 G 2 0 M 48 48 G 1 0 M 12 12 G 0 1 M 21 21 G 0 1 M 49 49 G 0 3 M 29 29 G 0 1 M 71 71
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00062866-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 284 -> 585
+  Target range: 270 -> 575
+
+ 285 : NSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDS : 348
+       ::::: :::.: :|.  ||  : |.: .  .|   . :  .:.|:::  :. ::::.:  | ::
+ 271 : DASKDYDKDAAITNTVQISSQEILPTAEKQTLILKTKEIGDNTPVEVSRPTISSQSTQVASLGP : 334
+
+ 349 : TGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSA : 412
+         :. ::..|:|.::.:.||:::..::. :  .  :. :  ::  ::| :|::. :: |.::.:
+ 335 : RIDYIGSSKSTGAAAESDLSTDSSSQLTIDSLDTSSNVDHEIPEHNDKAYHSPVVQLKNTEAKS : 398
+
+ 413 : LL--GLNTQL---QQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTS--SLKGSL : 469
+       ::  : :|::   | ||. :| .:..::  .| : ... | |.:| :.: |||..:  : : ::
+ 399 : FVSTSHSTEFSGSQYSGSYSVLGHTGNNKQSSFGHKTDVSHSDSPVSHSLLISTPGHETDRQTV : 462
+
+ 470 : AAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNS : 533
+       |... .|:| | . :|  :::.    . :.| ||:   |.|: . :   ::|  :.:::::::|
+ 463 : ANNASDLDSTAFPTILKFSSAHITDQKSDDSSGSH---SKSIISQMVLKSSSYLETAQETDDKS : 523
+
+ 534 : NNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINE : 585
+       .:.:. . :..:: ||:|.. :. :.: :|:::|:. |.    ||::  |::
+ 524 : ASNSNFTVSGAAPVSSASHEIDQQTEDISVSHSGSTELQTEAKPPSGYKIDQ : 575
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 284 585 . Medex_00062866-RA 270 575 . 109 M 130 130 G 0 2 M 6 6 G 0 3 M 43 43 G 0 2 M 41 41 G 3 0 M 78 78
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 218 -> 582
+  Target range: 229 -> 596
+
+ 219 : GSDNSLPLSGAVGSGSNNNSPDLPPLHARSA-SPQQTPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+       | :.  .::|. | |::.. .: ..: :::: ..| . :: |.:  :.. .... ...::: ..
+ 230 : GVGGQGGVGGQGGVGGQGGVGGQGGVGGQGGVDGQGGVGGHSGVGGQGGVGGQGGMGGQWEMGG : 293
+
+ 282 : GNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHS : 345
+        .| :|:|. .|:|::.|:| ::::: |:::. .:::: ::. ..|  :    .. :. ::. :
+ 294 : QGGIGGQGGMGGQGGTGGQG-GMGGQGGGISGQTVTWSYGGSGSEE--ESFGQGGFSGHHESSG : 354
+
+ 346 : NDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNID : 409
+       :::::.|::: : :|.||:|: | |:...:|:| :. |.::  | :::.:    ::.:.|.  :
+ 355 : HGGSSGHGGSGGQGGSGGQGG-SYGQAGSVGHGGSDGHDGSGGIGGSGGQGG-AGSQLGFGIHG : 416
+
+ 410 : PSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTAL--ISPTSSLKGSLAA : 471
+        |  || :.  : ||: : :.||. :   : :. ..|:. :.:|...::   :.::: .|| : 
+ 417 : ESLSLGGSGGQNGSGHGGSGGQGGSGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGL : 480
+
+ 472 : AVYS--LHSHAHGHVLGHATSPPRPGSVG----SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNA : 529
+       : ::  :: :::|    :..|: :.|| |    |: |:::  :.  |.| ::|:.: :. |.::
+ 481 : GGFGGYIEYEGQGGSSVQNGSSYHHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSG : 544
+
+ 530 : NNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG : 582
+       .:.::.|::.:..:.:|:: .::|:|: ::||  . :| .. .:: .:.: ||
+ 545 : GQGGSGGQGGSGGQGGSGGQGGSGGQG-GSGGQGGSGGQGGSGVQGGSGSHGG : 596
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 218 582 . Medex_00021391-RA 229 596 . 117 M 31 31 G 0 1 M 52 52 G 1 0 M 25 25 G 2 0 M 37 37 G 1 0 M 30 30 G 1 0 M 60 60 G 0 2 M 17 17 G 0 2 M 23 23 G 0 4 M 58 58 G 1 0 M 25 25
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 117
+   Query range: 276 -> 568
+  Target range: 378 -> 669
+
+ 277 : RNGPTGNGNSGNGNGNGNGASNGNGISISDKLG-SLTPSPLARAGADDVKSEPMDMVCSNNNAN : 339
+       :.|:.|:|.|:. :|:|. :::|.  : :.:|| :: ..:|: :|::: ::.. :   |..::.
+ 379 : QAGSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGGSGGQNGSGHG--GSGGQGG : 440
+
+ 340 : ANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF : 403
+       :.:::: :. |. ::: :|||:|| |: :::.::| ::||::  :  ::  :.:.:.: :::::
+ 441 : SGNQEGLGDYGGSGGQGGSSGQGGFGGYGGSGGQEGSGGLGGFGGYIEY-EGQGGSSVQNGSSY : 503
+
+ 404 : NFPNIDPSALLGLNTQLQQSGDLAVSPQGPH-SITRSAATSPTSSTSSPPSPPTALISPTSSLK : 466
+       : .: :. :  | .. : ::|  : :. |.: :::  ::::. :::::..::...  |.. : .
+ 504 : HHGSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGS : 567
+
+ 467 : GSLAAAVYSLHSHAHGHVLGHATSPPRPGSVG-SSVGSNLCTSTSMGCGVNSGNNSGNNNGNNA : 529
+       |: :::     | ::|    ::.|.::.|| | :: |::  ::.  |.| : |:.: :..:. :
+ 568 : GGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLG : 631
+
+ 530 : NNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       .::|::| :.: .: : ::|...|: :...||  .|:|:
+ 632 : GSSSQHGFTGHVGSVGHGGSGDQGG-SGDQGGLGGQGGS : 669
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 276 568 . Medex_00021391-RA 378 669 . 117 M 33 33 G 0 1 M 21 21 G 2 0 M 56 56 G 1 0 M 45 45 G 0 1 M 64 64 G 0 1 M 56 56 G 1 0 M 13 13
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 79 -> 568
+  Target range: 478 -> 966
+
+  80 : DLHALVEFI-YHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPL : 142
+       :| :: .:| |:|: .   ::  |: ..:.  :  | : : :. .|: |:   . :. || :. 
+ 479 : GLGGFGGYIEYEGQGGSSVQNGSSYHHGSSGQH--GSSGHGGSVGHGGLGGYGGSGGQGGFSGY : 540
+
+ 143 : NTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPS--LPSHINNQLLKRMAMMHRSSAA : 204
+       .. .   . . :|:  ::|||:.  :. |.|::.. : ::   .| ::.   .: :    :: :
+ 541 : GGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFG : 604
+
+ 205 : AAAEETSH-AFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNN : 267
+       :.:...:| ::    ||:.  . ||  ||:|::. .:  .  ::::|.:|..::  .    :..
+ 605 : GQGGSGGHGGYGGQLGSGGQEGASGLGGSSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGG : 668
+
+ 268 : NTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDM : 331
+       :...   ..:.| .::|. |: .|:|. . :|.  : ::: || ..:. : .|:.: ::.: : 
+ 669 : SGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQ : 732
+
+ 332 : VCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAEN : 395
+         |. ::.:.:: ::|: |. ::: :| |::| |: ::.:::|  :: .  :: | |:  .:..
+ 733 : GGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSG : 796
+
+ 396 : KMFHAAAFNFPN-IDPSALLGLNTQLQQSGDLAVSPQGPH-SITRSAATSPTSSTSSPPSPPTA : 457
+       .  ::.:|. .: ::..: :| ..   |:|.::  . |.| : . |:: :.:|: .::.:...:
+ 797 : S--QGETFGHGEFVGQDGSIGHGGSGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGS : 858
+
+ 458 : LISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNS : 521
+        : .. :::|:|::.     | ::|   |::.|..:.|| | : ::.  .|.: |   . |. :
+ 859 : GVQGGLGVQGGLGGQG---GSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYG : 919
+
+ 522 : GNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       |:..:.....::.:|.:.::..::: :: :. : :. .||: :::|:
+ 920 : GQGGSGGQGGSGGQGGSGDQGGSGGQGGCGGFGGPVCQGGSDSDGGS : 966
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 79 568 . Medex_00021391-RA 478 966 . 113 M 9 9 G 0 1 M 23 23 G 2 0 M 69 69 G 0 2 M 30 30 G 0 1 M 184 184 G 2 0 M 9 9 G 0 1 M 27 27 G 0 1 M 39 39 G 3 0 M 92 92
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 276 -> 589
+  Target range: 641 -> 948
+
+ 277 : RNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPL-ARAGADDVKSEPMDMVCSNNNAN : 339
+       : |:.|:|.||: .|:|: :: |.  : ::: |: :.:.: :::| :|  :.. :::.:.:.::
+ 642 : HVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQVISGGQGGS : 705
+
+ 340 : ANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF : 403
+       :    :::::|.:::: : :|.||:|: :: .:..: :| ::| ::  :   .::.    .::|
+ 706 : G----GQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSVGQSGF : 765
+
+ 404 : NFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG : 467
+       . .: :.|.  .:.:|   ::. .   ||. : :::.: :... .:  .| . :  :: ::  :
+ 766 : G-GQGGNSNQEEIGAQEVSNSKPVFVDQGGSG-SQGETFGHGEFVGQDGSIGHGGSGSQGGTFS : 827
+
+ 468 : SLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANN : 531
+        :::: .: :. : |:  | :.  ...|  ||:| :.| . .::|   .||.::|:.. ..:..
+ 828 : QFGSGGHGGQEGSGGQG-GSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQGGSGG : 890
+
+ 532 : NSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQEC : 589
+       ::.:|....:..:::|:: :. : ..: ||  . :| .. . : .:.. || ... .|
+ 891 : QGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGSGGQGGC : 948
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 276 589 . Medex_00021391-RA 641 948 . 112 M 40 40 G 0 1 M 24 24 G 4 0 M 60 60 G 1 0 M 30 30 G 1 0 M 48 48 G 1 0 M 104 104
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 113 -> 560
+  Target range: 505 -> 944
+
+ 114 : GLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPP : 177
+       | : |::...|:  .   .|:. ||... .. :   . . :|:  ::|||:.  :. |.|::..
+ 506 : GSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQGGSGGQGGSGGQGGSGG : 569
+
+ 178 : TAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDL : 241
+        : :: .:  ..|     : :: :|:: ::...  :|    ||:.  . :|.:|||:::.:::|
+ 570 : QGGSGGQGGSGGQ---GGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGL : 630
+
+ 242 : PPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGIS-I : 304
+       ..    |:|.:  .:: ::: | .:.: ..  ::   |. |.:.: .|.|: .| :: .|::  
+ 631 : GG----SSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDY : 690
+
+ 305 : SDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLS : 368
+       ::. | :.::. : :|::: .:.. :    ..::...:. :::::| :::: : :|.:| |:::
+ 691 : GGSGGQVISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFG : 754
+
+ 369 : SGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF--NFPNIDPSALLGLNTQLQQSGDLAVSP : 430
+       : .:.   .|:::: :.::    .|::     :.|  : .: ..:. :| .. : |.|.:: :.
+ 755 : GQGGSVGQSGFGGQGGNSNQEEIGAQEVSNSKPVFVDQGGSGSQGETFGHGEFVGQDGSIGHGG : 818
+
+ 431 : QGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRP : 494
+        |::: | |. .|.. :. ..::...:  :..:|  |: :::       .:| : |::.|..:.
+ 819 : SGSQGGTFSQFGSGGHGGQEGSGGQGGSSGQEGS--GGQGGSGVQGGLGVQGGLGGQGGSGGQG : 880
+
+ 495 : GSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATA : 558
+       || | : ::.   :.| | | ::|:.::..:|. :.:.: .|::.:..:.:|:: .::|.|:.:
+ 881 : GSGGQGGSGG--QGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGGSGGQGGSGGQGGSGDQGGS : 942
+
+ 559 : AG : 560
+       :|
+ 943 : GG : 944
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 113 560 . Medex_00021391-RA 505 944 . 111 M 77 77 G 3 0 M 50 50 G 4 0 M 56 56 G 0 1 M 100 100 G 0 2 M 61 61 G 2 0 M 38 38 G 2 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 134 -> 586
+  Target range: 505 -> 954
+
+ 135 : NSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMM : 198
+       .|:|: . :.|. |:.|.  |:  :.|| :.: :  |:|:...:: .: .|  :.    : :  
+ 506 : GSSGQHGSSGHGGSVGHGGLGGYGGSGGQGGFSGYGGSGGQGGSGGQG-GSGGQGGSGGQGGSG : 568
+
+ 199 : HRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGS-GSNNNSPDLPPLHARSASPQQTPADFSTI : 261
+        ::::::.:...::: . ::|:..| . ||: |: |::..|.: ..  :: :|. |..|.  . 
+ 569 : GQGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGGQEGASGLGG : 632
+
+ 262 : KHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK : 325
+       .  ::. |..: .  :.|:.::|.||: .| |. :::|.  : :.: |  :.:.::  |:.: :
+ 633 : SSSQHGFTGHVGSVGHGGSGDQGGSGDQGGLGGQGGSGGQGGPGSQGGFGSHGGFGDYGGSGGQ : 696
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFI : 389
+         : :   |..::.:.:: :::: |. ::: :|:|:||.|  :::.::. :|| ::  :..  :
+ 697 : VISGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGGQGGSGVQGGSGGHGGSDGYGGFGGQGGSV : 760
+
+ 390 : MSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS : 453
+         :: .   :::. |  :|:: .: . :. : : |: : |. .. : .  .: ..: : :::.|
+ 761 : GQSGFGG--QGGNSNQEEIGAQEVSNSKPVFVDQGG-SGSQGETFGHGEFVGQDGSIGHGGSGS : 821
+
+ 454 : PPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPG-SVGSSVGSNLCTSTSMGCGVN : 516
+       ...::   .|: .|: .::     | ::.   |::.|. :.| :| :::|::  ::.  |.| :
+ 822 : QGGTFSQFGSGGHGGQEGSGGQGGSSGQEGSGGQGGSGVQGGLGVQGGLGGQGGSGGQGGSGGQ : 885
+
+ 517 : SGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTS : 580
+       :|:.: ..:|.::.:.::.|::.:.. .: :: .:.|: :.:.||: .|:|:.  . . .....
+ 886 : GGSGGQGGSGGQGGSGGQGGSGGQGGYGGQGGYGGQGG-SGGQGGSGGQGGSGDQGGSGGQGGC : 948
+
+ 581 : GGINEP : 586
+       ||:..|
+ 949 : GGFGGP : 954
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 134 586 . Medex_00021391-RA 505 954 . 111 M 48 48 G 1 0 M 49 49 G 0 1 M 164 164 G 2 0 M 27 27 G 1 0 M 69 69 G 0 1 M 59 59 G 1 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00021391-RA
+         Model: affine:local:protein2protein
+     Raw score: 109
+   Query range: 115 -> 560
+  Target range: 189 -> 623
+
+ 116 : TQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTA : 179
+       |:::::: . : :: :.::: |: :. .. .   . . :|:: ::|| :.  :  |.|: .. :
+ 190 : TEENTQNQKYNATDQKGMSSHGSVAGHGGIGGQGGVGGQGGVGGQGGVGGQGGVGGQGGVGGQG : 253
+
+ 180 : VPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPP : 243
+         : .: ::.|     :    ::.::.:.:.: : :: .|::.::.  |::|: :...:.:  .
+ 254 : GVGGQGGVDGQ-GGVGGHSGVGGQGGVGGQGGMGGQWEMGGQGGIGGQGGMGGQGGTGGQGGMG : 316
+
+ 244 : LHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK : 307
+        :: : |.| .. .::.   :::: ...  ...::::. .|:||:|.:.|:|:|.|:| | :: 
+ 317 : GQGGGISGQTVTWSYGGSGSEEESFGQGGFSGHHESSGHGGSSGHGGSGGQGGSGGQGGSYGQA : 380
+
+ 308 : LGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGN : 371
+        :   .:: ::.|:::: :.. :   ::: : : :.:| . .|  .:.:::||:||.|: :::.
+ 381 : GSVGHGGSDGHDGSGGIGGSGGQGGAGSQLGFGIHGESLSLGG--SGGQNGSGHGGSGGQGGSG : 442
+
+ 372 : DEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHS : 435
+       ::|   ||:.. ::.    :::.:  | : : : .: ::::| |:.. :: .|: : | |.. |
+ 443 : NQE---GLGDYGGSGG-QGGSSGQGGFGGYGGSGGQEGSGGLGGFGGYIEYEGQGGSSVQNGSS : 502
+
+ 436 : ITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGS : 499
+         ::::. ..||. :.: ...:| :. ::  |  : : |:  | ::|   |::.|..:.|| | 
+ 503 : YHHGSSGQHGSSGHGGSVGHGGL-GGYGGSGGQGGFSGYG-GSGGQGGSGGQGGSGGQGGSGGQ : 564
+
+ 500 : SVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAG : 560
+       : ::.   :.| | | ::|:.::. :|.::::.::.| :. ..:.:|:: .: |:| .::|
+ 565 : GGSGG--QGGSGGQGGSGGQGGSGVQGGSGSHGGSGGYGGFGGQGGSGGHGGYGGQLGSGG : 623
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 560 . Medex_00021391-RA 189 623 . 109 M 75 75 G 1 0 M 159 159 G 2 0 M 22 22 G 3 0 M 10 10 G 1 0 M 70 70 G 1 0 M 16 16 G 1 0 M 28 28 G 2 0 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00092684-RA
+         Model: affine:local:protein2protein
+     Raw score: 154
+   Query range: 95 -> 648
+  Target range: 157 -> 728
+
+  96 : HQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHH--GSL : 157
+       |: : .:::. :.  :   :  :|  ..: :|.  :.|: ::: :: .: : ::|.||.  :: 
+ 158 : HHPPAPGLFTRPSSHHDHHFRMEQLVSEQFRLNTHHGLGLAAAAAAAAAAAGAVPPPHPPFAPA : 221
+
+ 158 : HDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSD : 221
+        .:  ||:| :. :|..:.:::.|:|:  ::.||    ..::: ::::::..::       ||.
+ 222 : ATERVSSSLPASSSAPRSTSASTPALALSLEPQLDFYSQRLRQLAGTTSPGAAN-------GSS : 278
+
+ 222 : NSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGN : 285
+       :: | .. :.:. .:.:..:||| | :::   ...: :| :::|||:.:  ::.:|..: ::.:
+ 279 : SPSPRKPILTPPFTSPTNTIPPLSAATTPILMNNNNNNTSNNNNNNSGSISNNSNRPESLSSPE : 342
+
+ 286 : SGNGNGNGNGASNGNGI---SISDKLGSLTPSPLARAGADDVKSEPMDMV-----CSNNNANAN : 341
+       . :. ::. .:|.: .:   | |.  |:|.|: ::|::|| ..::. :..     |::.    :
+ 343 : KQSPLSDPINSSAALTVTPRSASTPPGNLKPTDFSRGAADLTSGQGEERTRACEFCGKTFRFLS : 406
+
+ 342 : DEHSNDSTGEHDANRSSSGDGG-KGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFH-AAAF : 403
+       :   : .| .:. ..|:|  |. .:.:: .: :: :::   .:| .: ::|| : .: | ..::
+ 407 : NLIVHRRTHTEKIASSGSLVGEFMDKFGLTSIQQYSEAY--KQALQESVVSPHHLHLNHKDDPL : 468
+
+ 404 : NFPNI--DPSALLGLNTQLQQSGDLAVSPQGPHSIT-RSAATSPTSSTSSPP----SPPTALIS : 460
+       : :.|  |.:. : :::.| :: : ::  ::: ::  |.. :... ::: ||    ::| :|::
+ 469 : HRSPIISDNNNAVKIESPLSKNLENGILDKSAAAMRFREEFAKNIIAAGQPPLDLIGAPHGLFG : 532
+
+ 461 : PTSSLKGSLAAA--VYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSG : 522
+       :.:::..::.||    .|: :.| |   |||: .|.::||:. :| |.::  :.  ..: :.. 
+ 533 : SGTTFDNPFEAANKRLKLELENHHHSNHHATALGRGSAVGNDRDS-LYAGLWLPAMAAAHHRDH : 595
+
+ 523 : NNNGNNANNNSNNGNATNNNNNSS--SSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGG-- : 583
+         .|:.|.. .  .: :::: :|:  .::.:.||::.:::::::.|:::: :|.:. |::||  
+ 596 : IFAGDTAAAMDLLTSRSSKSMESALLKATGNNGSKTGPSASSLAAAAAAAAALNLGLPSAGGQL : 659
+
+ 584 : -----INEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHR : 641
+             : .:.| :| :.|. . :|. |   : : ::. | ||:|   .  .:.|| |.. : |
+ 660 : AMKKESKRNDTCEFCGKVFKNCSNLTVH--RRSHTGEKPYKCELCSYACAQSSKLTRHMKTHGR : 721
+
+ 642 : GSSGMLK : 648
+        :.:: :
+ 722 : LGKDVYR : 728
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 95 648 . Medex_00092684-RA 157 728 . 154 M 59 59 G 0 2 M 57 57 G 7 0 M 84 84 G 0 3 M 30 30 G 0 5 M 31 31 G 0 1 M 16 16 G 2 0 M 18 18 G 0 1 M 9 9 G 0 2 M 29 29 G 0 1 M 15 15 G 0 4 M 20 20 G 0 2 M 31 31 G 1 0 M 42 42 G 0 2 M 36 36 G 0 7 M 23 23 G 2 0 M 41 41
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00092684-RA
+         Model: affine:local:protein2protein
+     Raw score: 122
+   Query range: 238 -> 698
+  Target range: 20 -> 472
+
+ 239 : PDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGI : 302
+       .::.. |: .   : :|:. || .  :. .|::|.:. :||:.:..| ::::.:: ::|:::: 
+  21 : QHVQNTHGIKLYVESSPSSSSTGSSSSPCTTSSLSNTGKNGSNAANNHSSSSTSSCSGSSSSSS :  84
+
+ 303 : SISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       | :::: | || :|:.:  .   : | .:| :::: :|    |.:: |  :  | : ||  .  
+  85 : SAGQQV-SQTPLSLSSSRLAMQPPVPTSLVDPHHSLHA----SANPFGVGGLLRMPLGDRHHQF : 143
+
+ 367 : LSSGNDEEIGDGLASHHAAPQFIMSPA--ENKMFHAAAFNFPN--IDPSALLGLNTQLQQSGDL : 426
+        ::: .. ::: :: |.:|| :: .|:  ::. |: ..:   :  ::.   |||.:. ..::. 
+ 144 : PPTSMAAPLSNHIPHHPPAPGLFTRPSSHHDHHFRMEQLVSEQFRLNTHHGLGLAAAAAAAAAA : 207
+
+ 427 : AVSPQGPH-SITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV--YS--LHSHAHGHVL : 485
+       | : ..|| :::.:|:.. :|| ::::|:| :  ::|::|  ||.:.:  ||  |:  | .   
+ 208 : AGAVPPPHPPFAPAATERVSSSLPASSSAPRSTSASTPALALSLEPQLDFYSQRLRQLAGTTSP : 271
+
+ 486 : GHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNS--GNNNGNNANNNSNNGNATNNNNNSSS : 547
+       | |.:::.|::  : :.:.: ::|:   .::::..:   |||.||::||:||.::: :||::.:
+ 272 : GAANGSSSPSPRKPILTPPFTSPTNTIPPLSAATTPILMNNNNNNTSNNNNNNSGSISNNSNRP : 335
+
+ 548 : SSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSLKRHFQDKHE : 611
+       .| |:..:.:: ::.:. ::: .:. | ::..:|.:: .:   :.| :         :: . :.
+ 336 : ESLSSPEKQSPLSDPINSSAALTVTPRSASTPPGNLKPTD---FSRGA--------ADLTSGQG : 388
+
+ 612 : QSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSGMLKRLLKTTAIKHGLVGHGHGHGHVHHPHA : 675
+       :. |  .|||| : :|  ::|..|:.  | .. :   .|: .   | ||.:  : .::....  
+ 389 : EERTR-ACEFCGKTFRFLSNLIVHRR-THTEKIASSGSLVGEFMDKFGLTSI-QQYSEAYKQAL : 449
+
+ 676 : HHHALSHPRTSLYDFTSELGQPP : 698
+       :: .:|..:  | : .. | ::|
+ 450 : QESVVSPHHLHLNHKDDPLHRSP : 472
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 238 698 . Medex_00092684-RA 20 472 . 122 M 70 70 G 1 0 M 31 31 G 4 0 M 49 49 G 0 2 M 14 14 G 0 2 M 27 27 G 0 1 M 39 39 G 0 2 M 2 2 G 0 2 M 46 46 G 0 2 M 66 66 G 3 0 M 5 5 G 8 0 M 13 13 G 1 0 M 20 20 G 1 0 M 25 25 G 1 0 M 34 34
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00080941-RA
+         Model: affine:local:protein2protein
+     Raw score: 144
+   Query range: 67 -> 142
+  Target range: 8 -> 82
+
+  68 : HPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQ : 131
+       :|:|:::||:  ::.||::|:| ||..| :. |.:.|||||.|:::||| : :|:.: .: :::
+   9 : NPIIFMRDVKVEEMKALLNFMYTGEATVSREVLPGMLKTAEALQITGLTSNSSEEPQLYV-RMD :  71
+
+ 132 : NLANSGGRTPL : 142
+       ::::.:... :
+  72 : EMSQCDENDLM :  82
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 67 142 . Medex_00080941-RA 8 82 . 144 M 60 60 G 1 0 M 14 14
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00016975-RA
+         Model: affine:local:protein2protein
+     Raw score: 168
+   Query range: 2 -> 117
+  Target range: 26 -> 143
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST-- :  65
+       .||: |:| :....   : .|:   .:.:.||||  .:|.| |||:|||| | || .::.|.  
+  27 : TTQEECFRSSRHAELSLGRMESYLIKNQLTDVTLIAGSRRIPAHRLVLSAASEYFAAMFTSDLR :  90
+
+  66 : PCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQ : 117
+         .:: ::|:||:  .| :||:: | |.:::|:.:::::| || :::::.:.:
+  91 : EASQSEVVLRDVDGDALWTLVHYCYTGSIELHEETVETLLATACLFQLTEVVD : 143
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 117 . Medex_00016975-RA 26 143 . 168 M 62 62 G 0 2 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00087971-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 0 -> 62
+  Target range: 95 -> 157
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLK :  62
+       |:..| :.| |.:: :|:.|| : || :..:|||||| .|||: ||::||.| ||:: :|||
+  96 : MGSNQLYSLTWGEFGTSLVSAVQLLRCHGDLVDVTLAAGGRSFPAHKIVLCAASPFLLNLLK : 157
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 62 . Medex_00087971-RA 95 157 . 153 M 62 62
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 184
+   Query range: 104 -> 586
+  Target range: 289 -> 768
+
+ 105 : KTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFS : 168
+       .:::: .::: |::.:: : :  |. .: .:|:| ..:.. |   :.:: ::: .: :::.: :
+ 290 : TSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPA : 353
+
+ 169 : RQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGS : 232
+        :| :: |:::  : .| ..:.     ::   ::|. :...: .: .: .  .:: | |.. ::
+ 354 : ANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAA : 417
+
+ 233 : GSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGA : 296
+       :.:.: |. : :.|:||:. .:::.  ::. :. .|.|  ..:...:..:   ||:..:|..:|
+ 418 : ADSASVPAPSDVPAQSATGSAAAPA-QSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAA : 480
+
+ 297 : SNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSG : 360
+       :::..:: |..:.: :.:. | |.|:.|.|:.:. :  ..:.::..: |  ::|:.::| ::::
+ 481 : ADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAA : 544
+
+ 361 : DGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSG : 424
+       |::  : ||.  .: |.| |   |||. |:|:..   :..|: : :. ::|.: : ::  :.::
+ 545 : DSAPVPASSNVPAQSGTGSA---AAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPA : 605
+
+ 425 : DLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALIS-PTSSLKGSLAAAVYSLHSHAHGHVLGH : 487
+       . . :| .: | ..:.:.:.::::::.:  :.:: : |.:: ::||:.:     ::: ::: : 
+ 606 : AADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAA : 669
+
+ 488 : ATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTS : 551
+       |.|:| |:| : :. |.  :::: : :|:|:..:. . :.:.::.|::: .::.:..|: |:::
+ 670 : ADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAA : 733
+
+ 552 : PGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+        :: ..|:::. :|::|.: : . .: :|:||.:|
+ 734 : DSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANP : 768
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 104 586 . Medex_00072710-RA 289 768 . 184 M 153 153 G 1 0 M 122 122 G 3 0 M 77 77 G 0 1 M 126 126
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 165
+   Query range: 105 -> 583
+  Target range: 566 -> 1047
+
+  106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLF :  167
+        .|:::. .|::: ....::   :|   ::.| : :. .: ::| | |  :.:..::|:::  
+  567 : PANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGS-- :  627
+
+  168 : SRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGA :  229
+        : ..| |  :.:::::|  .::: |.: ::: .: :::.  .::::     :|| : . :.:
+  628 : AAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATG :  688
+
+  230 : VGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNG :  291
+         ::::.:: :. :. : . |::|::|:: |.:   :..:. :  .:. : |:.:: ::::..
+  689 : SAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSAT :  750
+
+  292 : NGNGAS----NGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDST :  349
+        .:.:|:    :::||: :. : |  |:: :.|:||..   : . | :::.:.:....::. :
+  751 : GSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVS :  812
+
+  350 : GEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPS :  411
+        ::  || : :.. :.:| ||  ... .::  :  |.:. : :|::     .:: . :. :: 
+  813 : SDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSV :  874
+
+  412 : ALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV :  473
+        :  |:..   .::::: |. :  | ::|::.:||::.|:| ::::.: :.::: .:: :|. 
+  875 : SSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQS :  936
+
+  474 : YSLHSHAHGHVLGHATSPPRPGSVGSS-VGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSN :  534
+         | :: |. .| . ..||:::: |:|:  |||: :::. :  :.|:: ::::...:|...::
+  937 : VSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPAQSATGSAAAPAQ :  998
+
+  535 : NGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGI :  583
+        : ::.. .| : ::| .:.:|::.. :. . :.||: : . | |:::.:
+  999 : SVSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNV : 1047
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 583 . Medex_00072710-RA 566 1047 . 165 M 60 60 G 2 0 M 130 130 G 0 4 M 203 203 G 0 1 M 83 83
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 159
+   Query range: 100 -> 590
+  Target range: 221 -> 714
+
+ 101 : QSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLAN-SGGRTPLNTHTQ-SLPHPHHGSLHDDGG : 162
+       :: |:.:: |.|.| .  .:..:. :|:  .::.. |.| |.|:. |  |:...  .:  :.|:
+ 222 : EASLRNTNSLPVEGSGVSPTAKSPVELPSGPSIDTISEGITNLSVGTSYSFTKGAVNASGQSGS : 285
+
+ 163 : SSTLFSRQGAGSPPPTAVPS-LPSHINNQLLKRMAM-MHRSSAAAAAEETSHAFKRLRGSDNSL : 224
+       . .  |.: |. |::|. |: |::  ...  :.::     : :.|:::::: . . : ::::: 
+ 286 : DIPATSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGN : 349
+
+ 225 : PLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGN : 288
+       .:::| | :: ..|:|:|:  ..::::..:||:  ::. :...|.|  ..: ..:.::  .||:
+ 350 : NIPAANGFAPVPASSDVPA--QSGTGSAAAPAQ--SVSSDATANIPVATSQYSPSQSSVVASGQ : 409
+
+ 289 : GNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEH : 352
+       ..:| .:|:::.::: :..:.: :::. | |.|:.|.|:.:. |  ..:.::..:.:   :|:.
+ 410 : PGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQP : 473
+
+ 353 : DANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGL : 416
+       ::| ::::|:  :::::::|    .|  |  |::| : | : .::  |:: : |: .: .  | 
+ 474 : GSNTPAAADS--APVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQ : 535
+
+ 417 : -NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALIS-PTSSLKGSLAAAVYSLHS : 478
+        .:::..::| |  |.:::  ::|::.|::::::  :| ..| |: :|| :..| ::.| : :|
+ 536 : PGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQS : 599
+
+ 479 : HAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGC---GVNSGNNSGNNNGNNANNNSNNGNAT : 539
+        :::.. ::::: | ::.|.:  |:.  ::.: :    |:.: . :.:::: :.::  .:|::.
+ 600 : GSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPG : 663
+
+ 540 : NNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       :| ..::.|:. |:| ..:| ::.. |::|: ::.  :.:: .:..:|:.|
+ 664 : SNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSP : 714
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 100 590 . Medex_00072710-RA 221 714 . 159 M 35 35 G 0 1 M 12 12 G 0 1 M 35 35 G 0 1 M 15 15 G 0 1 M 46 46 G 2 0 M 12 12 G 2 0 M 103 103 G 2 0 M 52 52 G 0 1 M 44 44 G 0 1 M 53 53 G 0 3 M 77 77
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 159
+   Query range: 130 -> 587
+  Target range: 431 -> 901
+
+ 131 : QNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR : 194
+       |: :.|:: .: :. :::::: . :: :|..: :::  .  :||..|:|. | | . ::::  :
+ 432 : QSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQ : 495
+
+ 195 : MAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNN----SPDLPPLHARSASPQQT : 254
+        : .  :::|.:....: |  .: .|::| : |:.|:|| ..:    ::| :|:.|.|. |.|:
+ 496 : SGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQS : 559
+
+ 255 : PADFST-----IKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTP : 313
+       .:: ::     :. :. .|.|  ..: ..:.::  :::::.:|:.:|:::..:: |..:.: :.
+ 560 : GTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSG : 623
+
+ 314 : SPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGD : 377
+       :. | |.|:.| |:.:. :  ..:.:: .: |  ::|:.::| ::::|::  : ||:  .: :.
+ 624 : TGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSAT : 687
+
+ 378 : GLASHHAAPQFIMSPAENKM--FHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGP-HSITR : 438
+       | |: .|.:    :.|:  :   :.:: : : :.::.  :  :. .:|:.::.::: | :| | 
+ 688 : GSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATG : 751
+
+ 439 : SAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPG-SVGSSV : 501
+       |||::: | :|.. :.|:.::|. :: :.: ||.  ::.: :: .. : : |:: |: ||:|. 
+ 752 : SAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDG : 815
+
+ 502 : GSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQ : 565
+        :|: .:|| :.: :|:  ::.:.|:| ...::::.....:: :: : |::::.::.: :: . 
+ 816 : IANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGI : 879
+
+ 566 : AGTPPLPLRMPPPTSGGINEPQ : 587
+       |..|  . :::|: |: ::.:|
+ 880 : ANIPVATSQVSPSQSSVVSASQ : 901
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 130 587 . Medex_00072710-RA 431 901 . 159 M 107 107 G 0 4 M 23 23 G 0 5 M 137 137 G 0 2 M 36 36 G 0 1 M 62 62 G 0 1 M 92 92
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 159
+   Query range: 105 -> 587
+  Target range: 542 -> 1027
+
+  106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSL-HDDGGSSTL :  166
+        :|:  .|:: :: .|:.. :  |. .|:.:|:| :.:.. |  ::.:: : :  .::||:: 
+  543 : AADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAP :  604
+
+  167 : FSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSG :  228
+         : ::|. |:::.||: .| ..:.     ::.  : |. :...: :::.: .  .:: | |.
+  605 : AAADSAPVPASSDVPA-QSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSN :  665
+
+  229 : AVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN :  290
+          :::.:.. |. : :.|:||:. .:::.  ::. :...|.|  ..:...:.::  .||:..
+  666 : IPAAADSAPVPASSDVPAQSATGSAAAPA-QSVSSDATANIPVATSQDSPSQSSVVASGQPG :  726
+
+  291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPM-DMVCSNNNANANDEHSNDSTGE :  351
+        :| ::|:::.::: :..:.: :::. | |.|:.|.|:.: : .   :...:::..:...:: 
+  727 : SNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAP :  788
+
+  352 : HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHA-AAFNFPNIDPSA :  412
+          |:.. ::::|. | ::..:.  :||:|: ..|.    |:..: :  : :: |:|. . ||
+  789 : VPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSA :  850
+
+  413 : LLGLNTQLQQSGDLAVSPQGPHSITRSA-ATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV :  473
+         :. .:::.. .  : ::..::|::..: |. |.:::  :||.::.: :: |: ::: ||. 
+  851 : PVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADS :  912
+
+  474 : YSLHSHAHGHVLGHATSPPRPG-SVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSN :  534
+         ::.: :: .. : : |:: |: ||:|.  ::: .:|| :.. :|:  ::...|:| ...::
+  913 : APVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAAD :  974
+
+  535 : NGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ :  587
+        ::.. .::: :: |:|::::.::.: :. . |..|  . : :|: :: : ..|
+  975 : SAPVLASSDVPAQSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQ : 1027
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 587 . Medex_00072710-RA 542 1027 . 159 M 52 52 G 0 1 M 25 25 G 1 0 M 74 74 G 1 0 M 71 71 G 0 1 M 71 71 G 0 1 M 40 40 G 0 1 M 55 55 G 0 1 M 92 92
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 157
+   Query range: 117 -> 573
+  Target range: 492 -> 947
+
+ 118 : QQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVP : 181
+       ....:|:|  |. |::::.|  .   : :|. | .      ::.||:.  : ::|. |:::.||
+ 493 : PAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVP : 556
+
+ 182 : SLPSHINNQLLKRMAMMH--RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPP : 243
+       : ::  :..   .:.  :   : :.|::: :: . . :.:|::: . ::|.:|:: ..|:|:|:
+ 557 : AQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPA : 620
+
+ 244 : LHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK : 307
+         : ::::..:.: ||    :. .|.|  ..:.. :.::  .||:..:| .:|:::..:: |..
+ 621 : QSGTGSAAAPAQSVFS----DGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSD : 680
+
+ 308 : LGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSG- : 371
+       :.: :::. | |.|:.|.|:: . :  ..:.::..: |  ::|:.::| |:::|::. : :|: 
+ 681 : VPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDV : 744
+
+ 372 : -NDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGP : 433
+        .:...|.: |: ::.:   ::.:.  :  .:: | |. . || :. ::::.. ::   ::..:
+ 745 : PAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPA : 808
+
+ 434 : HSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSV : 497
+       :|::..: :: . :||  :|:.::::::. :  ::::||. | . .|.::| :::.:.: :::.
+ 809 : QSVSSDGIANIPVATSQDSSSQSSVVASGQP-GSNIPAAADSAPVPAPSDVPAQTVTGSAAAPA : 871
+
+ 498 : GSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGG : 561
+        |  :..: . .  .. |:::::|  :.:::::|.:..::::. ..:|. :: |... |:|:: 
+ 872 : QSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQ : 935
+
+ 562 : TVTQAGTPPLPL : 573
+       :|: .|.: :|:
+ 936 : SVSSDGIAKIPV : 947
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 117 573 . Medex_00072710-RA 492 947 . 157 M 82 82 G 0 2 M 60 60 G 4 0 M 107 107 G 0 2 M 94 94 G 1 0 M 108 108
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 155
+   Query range: 154 -> 587
+  Target range: 162 -> 598
+
+ 155 : GSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLR : 218
+       ..|  : :::.|  . ::.|  |:. .::.  ..:|: . :.  :..:..  ::..| :  .||
+ 163 : TDLTIEISATNLPINTATESLKPAEDQGITYTTTDQVASDVQSSQPDTNVLLTNTNSVTEASLR : 226
+
+ 219 : GSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQ-TPADFSTIKHHNNNNTPPLKEEKRNGPT : 281
+        :.||||:.|:  |.:.::: :||: .: .: ::  |. . :|    .:....:  :. .: |:
+ 227 : -NTNSLPVEGSGVSPTAKSPVELPSGPSIDTISEGITNLSVGTSYSFTKGAVNASGQSGSDIPA : 289
+
+ 282 : GNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHS : 345
+       .::| :. .:..::::: .. | :.   |:::.. .. .... :..| :    ....::|: .:
+ 290 : TSSNIAPIPAATDDPTQLATGSAAAPAQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPA : 353
+
+ 346 : NDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLAS-HHAAPQFIMSPAENKMFHAAAFNFPNI : 408
+       .:: :   |:.. ::::|.|| ::..:.  :|: |: . |::|:  |.:.     .:: | |. 
+ 354 : ANGFAPVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAA : 417
+
+ 409 : DPSALLGLNTQLQQSGDLAVSPQGPHSITRSA-ATSPTSSTSSPPSPPTALISPTSSLKGSLAA : 471
+       . || :. .:::.. :. : ::..::|::..: |. | ::: .:|:.|:.::|. :: :.: ||
+ 418 : ADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAA : 481
+
+ 472 : AVYSLHSHAHGHVLGHATSPPRPG-SVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSN : 534
+       .  ::.: :: .. : : |:: |: ||:|.  :|: .:|| :.. :|:  ::.:.|:| ...::
+ 482 : DSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAAD : 545
+
+ 535 : NGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQ : 587
+       ::....::| :: |:|::::.::.  :: . |..|  . :::|: |: ::.:|
+ 546 : SAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQ : 598
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 154 587 . Medex_00072710-RA 162 598 . 155 M 64 64 G 1 0 M 34 34 G 0 1 M 128 128 G 0 1 M 59 59 G 0 1 M 55 55 G 0 1 M 92 92
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 110 -> 581
+  Target range: 358 -> 829
+
+ 111 : RVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSL-HDDGGSSTLFSRQGAG : 173
+       .|:: :: .|:.. :  |. .: .:|:: :.:.. |   :.:: : :  ::.||:.  : ::|:
+ 359 : PVPASSDVPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSAS : 422
+
+ 174 : SPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNN : 237
+        |:|:.||: .| ..:.     ::   : |..: ..: ::  :     :: | |.: :::.:..
+ 423 : VPAPSDVPA-QSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAP : 485
+
+ 238 : SPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNG : 301
+        |. : :.|:|::. .:::.  ::. :. .|.|  ..:...:.::  .||:..:| .:|:::..
+ 486 : VPASSDVPAQSGTRSAAAPA-QSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAP : 548
+
+ 302 : ISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKG : 365
+       :: |.::.: :.:. | |.|: |.|:.:. :  ..:. :..: |  |::: ::| ::::|::  
+ 549 : VPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPV : 612
+
+ 366 : SLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVS : 429
+       : ||:  .: |.| |: .|.: |  : |:  :  :.. :::: .  |    .:::..::| |  
+ 613 : PASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQD-SLSQSSVVASGQPGSNIPAAADSAPV : 675
+
+ 430 : PQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG-SLAAAVYSLHSHAHGHVLGHATSPP : 492
+       |.:::  ::||:.|::::: | :| :|| |: ::| .: | ::.| | :: ::  . ::::| |
+ 676 : PASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVP : 739
+
+ 493 : RPGSVGSSVGSNLCTSTSMGCGVNS-GNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQ : 555
+        |:.|.:  ::.  ::.: : : :: :|.:   :|:.::|.:..::::. ..:|. :: |... 
+ 740 : APSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRS : 803
+
+ 556 : ATAAGGTVTQAGTPPLPLRMPPPTSG : 581
+       |:|:: :|: .|.:.:|:  :. :|:
+ 804 : AAAPAQSVSSDGIANIPVATSQDSSS : 829
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 110 581 . Medex_00072710-RA 358 829 . 153 M 47 47 G 0 1 M 25 25 G 1 0 M 74 74 G 1 0 M 144 144 G 1 0 M 64 64 G 0 1 M 50 50 G 0 1 M 64 64
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 153
+   Query range: 130 -> 585
+  Target range: 620 -> 1070
+
+  131 : QNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLL :  192
+        |: :.|:: .: :. :::::: . :: :|. : |:: :.  :||. |:|. | | . :::: 
+  621 : QSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVP :  682
+
+  193 : KRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQT :  254
+         : |    :::|.:....: |  .: .|::| : |:.|:|| ..:: . ::  |. ::| :.
+  683 : AQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDV :  744
+
+  255 : PADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPL :  316
+        ||: :|    ....:.::..:  ..|:    ||:..:|..:|:::..:: |..:.: :.:. 
+  745 : PAQSAT--GSAAAPAQSVSSDGIANPAV-VVSGQPGSNTPAAADSAPVPASSDVPAQSGTRS :  803
+
+  317 : ARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDG :  378
+        | |.|:.|.|:.:. :  ..:.:::.: |  ::|:.::| ::::|::     ::..:  ::.
+  804 : AAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAP---VPAPSDVPAQT :  862
+
+  379 : LASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSA :  440
+        :::  |||.  :|:..   :..|: : :. ::|.: : ::  :.:.. . :| .: | ..:.
+  863 : VTGSAAAPAQSVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQ :  924
+
+  441 : ATSPTSSTSSPPSPPTALIS-PTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSV :  501
+        :.:.::::::.: ::.:: . |.:: ::| :.:     ::: ::: : |.|:|  :| : :.
+  925 : SGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPA :  986
+
+  502 : GSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTV :  563
+         |.  :::: : :|:::. :. . :.:.::.::.: ..:.:..|:::::: ::...|::.. 
+  987 : QSATGSAAAPAQSVSPDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNVP : 1048
+
+  564 : TQAGTPPLPLRMPPPTSGGINE :  585
+        :|:||.: : . .  :|:||.:
+ 1049 : AQSGTGSAAAPANIVSSDGIAN : 1070
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 130 585 . Medex_00072710-RA 620 1070 . 153 M 130 130 G 2 0 M 20 20 G 1 0 M 81 81 G 3 0 M 93 93 G 0 1 M 125 125
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 150
+   Query range: 110 -> 586
+  Target range: 337 -> 810
+
+ 111 : RVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGS : 174
+       : |:::. |:.:. :  . :..::.|:: .| :: | | : | ::   |..:: .: :.| :.|
+ 338 : QSSAVAAGQSGNNIPAANGFAPVPASSD-VPAQSGTGSAAAPAQSVSSDATANIPVATSQYSPS : 400
+
+ 175 : PPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNS : 238
+       .::...:: |:   ..  .. ::  .|..:|.:...| |    . |.:::   :.|. :::::|
+ 401 : QSSVVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGI---ANVPLATSQDS : 461
+
+ 239 : PDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGI : 302
+       |. |:: ..:.:. :|||. .:   ..:::.|: ...:..::.::: |::| :| . |:: :: 
+ 462 : PAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSP : 525
+
+ 303 : SISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGS : 366
+       | |. ::|  |::  .|:||..   : . | :::.:.:....:|  :::  || : :..  ..|
+ 526 : SQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPS : 589
+
+ 367 : LSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSP : 430
+        ||  ... ::: |:  |.:. : ::::     ::: . :. ::    |:..   .::: ::|.
+ 590 : QSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQ : 653
+
+ 431 : QGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRP : 494
+        :  : .::::. |:::.|:| ::::.: :.::: .:: :|.  | :: |: .| . ..||:::
+ 654 : SSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQS : 717
+
+ 495 : GSVGSS-VGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQAT : 557
+       : |:|:  |||:.:::. :.  .::: ::::...:|...::: ::.. .|.:   |. |||::.
+ 718 : SVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTP : 781
+
+ 558 : AAGGTVTQAGTPPLPLRMPPPTSGGINEP : 586
+       ||:::.. :::: :| : ...:::: .::
+ 782 : AAADSAPVPASSDVPAQSGTRSAAAPAQS : 810
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 110 586 . Medex_00072710-RA 337 810 . 150 M 28 28 G 1 0 M 85 85 G 3 0 M 273 273 G 0 1 M 86 86
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 150
+   Query range: 149 -> 590
+  Target range: 409 -> 850
+
+ 150 : PHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHA : 213
+       | :: .:  |.:: ::  . .:.::..::|.|: :   :.    .:|  : |:|.:|.  ::::
+ 410 : PGSNVPAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQP : 473
+
+ 214 : FKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKR : 277
+        .. .::.:| |:::: : .:::.:.. ::  .. :|   :.   :| :: .::::   ..:  
+ 474 : GSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPG : 537
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       :. .:.::|:. .:::| ::::.. | :.  . :::..:|. .... : .| :    :.:.:::
+ 538 : SNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGS : 601
+
+ 342 : DEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLAS-HHAAPQFIMSPAENKMFHAAAFN : 404
+       :..:...::   |:.. ::::|.|| ::..:. ::||:|: . |::|  :|.:.     .:: |
+ 602 : NAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSN : 665
+
+ 405 : FPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGS : 468
+       :|. . || :. ::::.. :. : ::..::|:: |.||:..: ::|. ||: : : :::   ::
+ 666 : IPAAADSAPVPASSDVPAQSATGSAAAPAQSVS-SDATANIPVATSQDSPSQSSVVASGQPGSN : 728
+
+ 469 : LAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNN : 532
+       ::||. |   .|.::| :::::.: :::. |  :..: .:: : .| .::|.::..::.....:
+ 729 : VSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPAS : 792
+
+ 533 : SNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+       |: ...:...:.:::: : ::.  :. . :.:|.:::. ::  :...::.|..:.:.:
+ 793 : SDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSA : 850
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 149 590 . Medex_00072710-RA 409 850 . 150 M 232 232 G 0 1 M 56 56 G 1 0 M 152 152
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 79 -> 585
+  Target range: 128 -> 641
+
+  80 : DLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRV-SGLTQQQAEDTHSHLAQIQNLANSGGRTPL : 142
+       :::  .|:|  |..:  : :  :: .:..::|: ::|| : :... :  :..::| .:.::.  
+ 129 : GIEISTEYILAGAAESVDGGGTTISDSDGIVRITTDLTIEISATNLPINTATESLKPAEDQGIT : 192
+
+ 143 : NTHTQSL------PHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHR : 200
+        | |: :      ::|: . | .:..| |  | :.:.| | .: .  |:  :.  | . : :: 
+ 193 : YTTTDQVASDVQSSQPDTNVLLTNTNSVTEASLRNTNSLPVEGSGVSPTAKSPVELPSGPSIDT : 256
+
+ 201 : SSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHH : 264
+        |.: :. ..: ::.  :|: |:   ||. ||: ...|::::|:.| :..| | ::: ::   :
+ 257 : ISEGITNLSVGTSYSFTKGAVNA---SGQSGSDIPATSSNIAPIPAATDDPTQLATGSAAAPAQ : 317
+
+ 265 : NNNNTPPLK---EEKRNGPTGNGNSGNG-NGNGNGASNG-NGISISDKLGSLTPSPLARAGADD : 323
+       : ::...::   ...:::|: ::. :.| :||. .|:|| ..:: |..:.: :.:. | |.|:.
+ 318 : SVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPAQS : 381
+
+ 324 : VKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQ : 387
+       |.|:: . :  ..:. :..: |  ::|:.::| ::::|:  :|:::.:|    .: :|  |::|
+ 382 : VSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADS--ASVPAPSDVPAQSATGSAAAPAQ : 443
+
+ 388 : FIMSPAENKMFHAAAFNFPNIDPSALLGL-NTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSS : 450
+        : | : .::  |:: : |.  : .: |  .:: ..::| |  |.:::  ::|:: |::::: |
+ 444 : SVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQS : 507
+
+ 451 : PPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCG : 514
+        :| ..| |: ::| .:: .::| :  ::: ::: : |.|:| |:| . :. |.  :::: :  
+ 508 : VSSDGIANIPVATSQDSPSQSSVVA-SGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANI : 570
+
+ 515 : VNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPP : 578
+       |:|:. :. . :.:. :.|::: .:.:::.|:::::: ::...|:::. :|:||.: : . .: 
+ 571 : VSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSV : 634
+
+ 579 : TSGGINE : 585
+        |:||.:
+ 635 : FSDGIAN : 641
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 79 585 . Medex_00072710-RA 128 641 . 148 M 33 33 G 0 1 M 37 37 G 0 6 M 74 74 G 3 0 M 47 47 G 0 3 M 16 16 G 0 1 M 10 10 G 0 1 M 63 63 G 2 0 M 52 52 G 0 1 M 59 59 G 1 0 M 109 109
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 148
+   Query range: 133 -> 582
+  Target range: 422 -> 865
+
+ 134 : ANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAM : 197
+       ..:.: .| :: | | : | ::   |: :: .| :.|::.:.|:..|:: |:  ...  .. ::
+ 423 : VPAPSDVPAQSATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPV : 486
+
+ 198 : MHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTI : 261
+         .|..:|.:.. | |    . |.:::   :.:. :::::||. ::: |.:.:. :.||. .: 
+ 487 : PASSDVPAQSGTRSAAAPAQSVSSDGI---ANIPVATSQDSPSQSSVVASGQPGSNIPAAADSA : 547
+
+ 262 : KHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK : 325
+         ..::|.|: ... ..::.:|  |::| :| . |::  : | |. :::  ::: |.|:||.. 
+ 548 : PVPASSNVPAQSGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAP : 611
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFI : 389
+         : . | :::.:.:....::.  ::  ||   : ..:::||| ::  . |:. :: .||::  
+ 612 : VPASSDVPAQSGTGSAAAPAQSVFSDGIAN--IPVATSQDSLSQSSVVASGQPGSNIPAAADSA : 673
+
+ 390 : MSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPS : 453
+         ||.:.:  .:| . :.  : :: : .|.  . :. . ||  :  ::.:.:.|..|:::.::|
+ 674 : PVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSAS : 737
+
+ 454 : PPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNS : 517
+        |::   |: | .|| ||:. |: |:: ::  . .. :.:||| .::.:.:  .::| : ..:|
+ 738 : VPAPSDVPAQSATGSAAAPAQSVSSDGIAN--PAVVVSGQPGSNTPAAADSAPVPASSDVPAQS : 799
+
+ 518 : GNNSGNNNGNNANNNS-NNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTS : 580
+       |..|:...:::.:::: .| ..:.::::|| ||. :::|:.:. .:.::::. | |  :|:.| 
+ 800 : GTRSAAAPAQSVSSDGIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTV : 863
+
+ 581 : GG : 582
+       .|
+ 864 : TG : 865
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 133 582 . Medex_00072710-RA 422 865 . 148 M 91 91 G 3 0 M 128 128 G 2 0 M 126 126 G 2 0 M 48 48 G 0 1 M 49 49
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 147
+   Query range: 130 -> 585
+  Target range: 368 -> 818
+
+ 131 : QNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR : 194
+       |: :.|:: .: :. ::: :: . :: : ..: |:: :.  :||. |:|. | : . .:::  :
+ 369 : QSGTGSAAAPAQSVSSDATANIPVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQ : 432
+
+ 195 : MAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADF : 258
+        |    :::|.:....: |  .| .|::| : ::.| || ..::.  ::  |. ::: :.||: 
+ 433 : SATGSAAAPAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQS : 496
+
+ 259 : STIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGAD : 322
+       :| .  ...:: : ..  . . :.: :|.: ::  .:: .|:.|: :.. :::.:|: ..| ::
+ 497 : GTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSG : 560
+
+ 323 : DVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAP : 386
+       . .:.: . : |::. ..    ::: :..:.:  |:| .|:::: ::::.   :.: .: :::.
+ 561 : TGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGT : 624
+
+ 387 : QFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATS-PTSSTS : 449
+           :||:: :| .:  |:|  .: . |: :: :. :   :  |.:::| . :|::. |: |::
+ 625 : GSAAAPAQS-VFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSAT : 687
+
+ 450 : SPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGC : 513
+       :::::|:. :|:.:: : ::|:   | :|.::: |:  |::.| :.  ::: :::: :::.:. 
+ 688 : GSAAAPAQSVSSDATANIPVAT---SQDSPSQSSVV--ASGQPGSNVSAAADSASVPAPSDVPA : 746
+
+ 514 : GVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPP : 577
+         .:|:.::..:: :::. :|.: ..:.:..|:::::: ::...|:::. :|:||.: : . .:
+ 747 : QSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQS : 810
+
+ 578 : PTSGGINE : 585
+        :|:||.:
+ 811 : VSSDGIAN : 818
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 130 585 . Medex_00072710-RA 368 818 . 147 M 265 265 G 1 0 M 47 47 G 0 1 M 28 28 G 3 0 M 11 11 G 2 0 M 98 98
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 146
+   Query range: 105 -> 588
+  Target range: 629 -> 1114
+
+  106 : TAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLF :  167
+        .|: :  .|::: ....::. |:|   :|:: . :.:.: ::| | |  :.:..::::::  
+  630 : PAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAA :  691
+
+  168 : SR-QGAGSPPPTAVPSLPSHINNQLLKRMAMMHR-SSAAAAAEETSHAFKRLRGSDNSLPLS :  227
+        :. |:.:| :.:.:|  .|: :.   . :|  :. |:.:|||:.:| :  .  .:::: . :
+  692 : APAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSA :  753
+
+  228 : GAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNG :  289
+        :| : : :::: . |:: ..:.:. :|||. .:   ..:::.|: ...:..::.::: |::|
+  754 : AAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDG :  815
+
+  290 : NGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGE :  351
+         :| . |:: :: | |. ::|  |::  .|:||..   : . | ::. :.:....::. :::
+  816 : IANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSD :  877
+
+  352 : HDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSAL :  413
+          || : :..  ..| ||  ... ::: |:  |.:. : ::::     ::  . :. :: : 
+  878 : GIANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSS :  939
+
+  414 : LGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYS :  475
+         |:..   .::: : |. :  : .|:::. |:::.|:|  :::.: :.::: .:: :|.  |
+  940 : DGIAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPAQSATGSAAAPAQSVS : 1001
+
+  476 : LHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGN :  537
+         :: |: .| . ..||::|: | |: .::  .::: : .|.:.:| ..::|..:...:.|  
+ 1002 : PDGIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNVPAQSGTGSAAAPANIV : 1063
+
+  538 : ATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQE :  588
+        :::. .| : :::  :: .::. ::   ::. | . .  :|.|:: :.: :
+ 1064 : SSDGIANIPVATSQVSPSQSSVVSASQLGSNIPYTNSDVSPGSAASDSSGQ : 1114
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 105 588 . Medex_00072710-RA 629 1114 . 146 M 64 64 G 0 1 M 31 31 G 0 1 M 388 388
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 144
+   Query range: 110 -> 580
+  Target range: 538 -> 1004
+
+  111 : RVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGA :  172
+        .::: :: .:  : |:::.  . :::::.:.: . :::::: . :: : ..: |:: |   :
+  539 : NIPAAADSAPVPASSNVPAQSGTGSAAAPANI-VSSDGIANIPVATSQVSPSQSSVVSASQS :  599
+
+  173 : GSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGS :  234
+        ||.:|:|. | | . ::::  : :    :::|.:. ..: |  .: .|::||: |:.|:|| 
+  600 : GSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQ :  661
+
+  235 : NNNSPDLPPLHARSASPQQTPADFST-IKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNG :  295
+        ..::   ::  |. ::: :.||: :|     ..::.::  ..: . :|:::::::::  ::|
+  662 : PGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASG :  723
+
+  296 : ASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRS :  357
+        .:.:|  : :|. :  :|| :: .:|.:  :.| : |.|:. ||:.   |.::.::  |. .
+  724 : QPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAAD :  785
+
+  358 : SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQ :  419
+        |:. .:.:.::: ::.  :.: |   ::  :   |....  :.:: : : :.::.  :  ..
+  786 : SAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATS--QDSSSQSSVVASGQPGSNIPA :  845
+
+  420 : LQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAH :  481
+         .:|: ::.::: |  .. ::|::|: |.|| . :..::  :|| :..| ::.| : :| ::
+  846 : AADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPV--ATSQVSPSQSSVVSASQSGSN :  905
+
+  482 : GHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNN :  543
+        :.. ::::: | ::.|.:  |:.  ::.: : : :: .: . ..::::.::|:  .:....:
+  906 : APTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAKIPVATSQDSPSQSSVVASGRPGS :  967
+
+  544 : NSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTS :  580
+        | ::::.|:.  |::. .: :.:|::: | :  :|.:
+  968 : NIPAAADSAPVLASSDVPAQSATGSAAAPAQSVSPDG : 1004
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 110 580 . Medex_00072710-RA 538 1004 . 144 M 32 32 G 1 0 M 117 117 G 0 1 M 136 136 G 2 0 M 60 60 G 2 0 M 120 120
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 144
+   Query range: 132 -> 587
+  Target range: 634 -> 1090
+
+  133 : LANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKR :  194
+        :::: :..|:.|  :||:::   :  ::.||:.  : ::|. |:::.||: .| ..:.    
+  635 : FSDGIANIPVATSQDSLSQSSVVA-SGQPGSNIPAAADSAPVPASSDVPA-QSATGSAAAPA :  694
+
+  195 : MAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPA :  256
+         ::   ::|. :...: :: .: .  .:: | |.. :::.:.: |. : :.|:||:. .:::
+  695 : QSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAP :  756
+
+  257 : DFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLAR :  318
+        . |. .:  .|.:  :..:  :...:.::|:. .:::: ::::.. | :.   |:::..:|.
+  757 : AQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIAN :  818
+
+  319 : AGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLA :  380
+         .... :..: :    .:...::: .:...::   |... :::. .|| ::..:.  :||:|
+  819 : IPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIA :  880
+
+  381 : SHHAAPQFIMSPAENKMFHA--AAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSA :  440
+        : ..|.   :||:::.:  |  :: | |. . || :. ::::.. ::   ::..::|::..:
+  881 : NIPVATS-QVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDG :  941
+
+  441 : -ATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPG-SVGSS :  500
+         |. |.::: .:||.::.: |. :: : : ||.  :: : :: .. : :.|:: |: ||::.
+  942 : IAKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPVLASSDVPAQSATGSAAAPAQSVSPD : 1003
+
+  501 : VGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGT :  562
+          :|: .:|| :...:::   :.:.|:|:...::::.....:| :: |:|::::.::.  ::
+ 1004 : GIANIPVATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPAPSNVPAQSGTGSAAAPANIVSS : 1065
+
+  563 : VTQAGTPPLPLRMPPPTSGGINEPQ :  587
+         . |..|  . :::|: |: ::.:|
+ 1066 : DGIANIPVATSQVSPSQSSVVSASQ : 1090
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 132 587 . Medex_00072710-RA 634 1090 . 144 M 24 24 G 1 0 M 25 25 G 1 0 M 204 204 G 1 0 M 12 12 G 0 2 M 40 40 G 0 1 M 55 55 G 0 1 M 92 92
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 143
+   Query range: 115 -> 590
+  Target range: 315 -> 790
+
+ 116 : TQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTA : 179
+       :|  :.|.  :::   : .::: .:::.:   : . |  .::   .:||.: :: |:||:::.|
+ 316 : AQSVSSDGTVNIPVATSQDSPSQSSAVAAGQSGNNIPAANGFAPVPASSDVPAQSGTGSAAAPA : 379
+
+ 180 : VPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPP : 243
+        .|::|: ..::  .:|  : |::.::. .:::: ..:.::.:| ::::: : .:::.:.. ::
+ 380 : -QSVSSDATANI--PVATSQYSPSQSSVVASGQPGSNVPAAADSASVPAPSDVPAQSATGSAAA : 440
+
+ 244 : LHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDK : 307
+         .. :|   :.. ::| :: ..:.:  :..:  :...:.::|:. .:::: ::::.. | :. 
+ 441 : PAQSVSSDGIANVPLATSQDSPAQPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAP : 504
+
+ 308 : LGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGN : 371
+         |:::..:|. .... :..| :    .:...::: .:...::   |:.: ::::|.|| ::..
+ 505 : AQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPA : 568
+
+ 372 : DEEIGDGLASHHAAPQFIMSPAENKMFHA--AAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGP : 433
+       :   :||:|: ..|.   :||:::.:  |  :: | |. . || :. ::::.. :: : ::..:
+ 569 : NIVSSDGIANIPVATS-QVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPA : 631
+
+ 434 : HSI-TRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPG- : 496
+       :|: : : |. |.::: .: |.::.: |. :: : : ||.  ::.: :: .. : :.|:: |: 
+ 632 : QSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQ : 695
+
+ 497 : SVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAA : 559
+       ||:|...:|: .:|| :.. :|:  ::.:.|:|.:..:::::....:: :: |:|::::.::.:
+ 696 : SVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSATGSAAAPAQS : 759
+
+ 560 : GGTVTQAGTPPLPLRMPPPTSGGINEPQECP : 590
+        :: . |..: :    |.:.:.: .::.  |
+ 760 : VSSDGIANPAVVVSGQPGSNTPAAADSAPVP : 790
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 115 590 . Medex_00072710-RA 315 790 . 143 M 64 64 G 1 0 M 11 11 G 2 0 M 194 194 G 1 0 M 12 12 G 0 2 M 36 36 G 0 1 M 59 59 G 0 1 M 95 95
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 142
+   Query range: 111 -> 583
+  Target range: 449 -> 921
+
+ 112 : VSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPH----PHHGSLHDDGGSSTLFSRQG : 171
+       ::.:. . ::|:.:: | : : :::|:.|| .:::.::|     | ::: :..::::   |.:|
+ 450 : IANVPLATSQDSPAQPAVVVS-GQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDG : 512
+
+ 172 : AGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSN : 235
+        :: | :: .. ||: :     : :   .::|.:|:  :| .    .|:::: : :. |:|:: 
+ 513 : IANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQSGTGSAAAPANIVSSDGI : 576
+
+ 236 : NNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNG : 299
+       .| |  .:  :.|.|:  :::: ::  . ..:::|   ... .:.:|.|:::... :  :.: :
+ 577 : ANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQSGTGSAAAPAQSVFSDGIA : 640
+
+ 300 : NGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGG : 363
+       | |:::.. :||:.|::. :|. : :  : .   : ..::.  .:|..:::.  |:. ||:..:
+ 641 : N-IPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSATGSAAAPAQSVSSDATA : 703
+
+ 364 : KGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLA : 427
+       : ::::::|.   .::.:  :.|   :|:|.:.   :|: : |. .:::  : .:. |  :. :
+ 704 : NIPVATSQDSPSQSSVVA-SGQPGSNVSAAADSASVPAPSDVPAQSATG--SAAAPAQSVSSDG : 764
+
+ 428 : VSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSP : 491
+       ::..:    .::::.:|:::.|:| ::::.: :.::: .:: :|.  | :: |: .| . ..|:
+ 765 : IANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGIANIPVATSQDSS : 828
+
+ 492 : PRPGSVGSS-VGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGS : 554
+       :::: |:|:  |||: :::. :   .::: :::. ..:|...::: ::.. .| : ::|  :.|
+ 829 : SQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDGIANIPVATSQVSPS : 892
+
+ 555 : QATAAGGTVTQAGTPPLPLRMPPPTSGGI : 583
+       |::..::: : :.:|. : . | |:|:::
+ 893 : QSSVVSASQSGSNAPTAADSAPVPASSDV : 921
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 111 583 . Medex_00072710-RA 449 921 . 142 M 21 21 G 1 0 M 18 18 G 0 4 M 149 149 G 1 0 M 80 80 G 1 0 M 30 30 G 2 0 M 86 86 G 0 1 M 83 83
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00072710-RA
+         Model: affine:local:protein2protein
+     Raw score: 142
+   Query range: 96 -> 573
+  Target range: 494 -> 978
+
+  97 : QKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDD : 160
+       |.: :|   .|: :. .|::: ....::.  :|   :|:: . :.:.: ::| | |  :::..:
+ 495 : QSGTRSAAAPAQSVSSDGIANIPVATSQDSPSQSSVVASGQPGSNIPAAADSAPVPASSNVPAQ : 558
+
+ 161 : GGSSTLFSRQGAGSPPPTA-VPSLPSHINNQLLKRMAMMHRSSAAAAAEETS--HAFKRLRGSD : 221
+       :|:::  :...  |: ..| :|  .|:::.   . ::  :.:|.|:||.:::  .| . :.: .
+ 559 : SGTGSAAAPANIVSSDGIANIPVATSQVSPSQSSVVSASQSGSNAPAAADSAPVPASSDVPAQS : 622
+
+ 222 : NSLPLSGAVGSGSNNNSPDLPPLHARSASPQQT--PADFSTIKHHNNNNTPPLKEEKRNGPTGN : 283
+       .: : :::. |  ::. :::|   ::.: :| :  ::: :. : ....:::|: ...  .: :.
+ 623 : GTGSAAAPAQSVFSDGIANIPVATSQDSLSQSSVVASGQPGSNIPAAADSAPVPASSDVPAQSA : 686
+
+ 284 : GNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVK-SEPMDMVCSNNNANANDEHSN : 346
+       ..|:.:.::: ::.....|:::.. :| :.|::. :|. : : |.: | .. ...::...: :.
+ 687 : TGSAAAPAQSVSSDATANIPVATSQDSPSQSSVVASGQPGSNVSAAADSASVPAPSDVPAQSAT : 750
+
+ 347 : DSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAEN-KMFHAAAFNFPNID : 409
+       :|::....: ||.| :. : : ||: .. . : |.  :.|.    ||:: ..  ||: :  : |
+ 751 : GSAAAPAQSVSSDGIANPAVVVSGQPGSNTPAAADSAPVPASSDVPAQSGTRSAAAPAQSVSSD : 814
+
+ 410 : PSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAV : 473
+       . | :.:.|  : |:: :| : |..: . :||:.::: .:::  |: ::.:::::   |:::. 
+ 815 : GIANIPVATSQDSSSQSSVVASGQPGSNIPAAADSAPVPAPSDVPAQTVTGSAAAPAQSVSSDG : 878
+
+ 474 : YSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGN : 537
+        :  : | ::| . .:|  .::  ||:..:.  ::.  :.:  :::::..:.:..|:: |::| 
+ 879 : IANIPVATSQVSPSQSSVVSASQSGSNAPTAADSAPVPASSDVPAQSGTRSAAAPAQSVSSDGI : 942
+
+ 538 : ATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPL : 573
+       |. . ..| .|:: ::  |:: .|: ..|:: : |:
+ 943 : AKIPVATSQDSPSQSSVVASGRPGSNIPAAADSAPV : 978
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 96 573 . Medex_00072710-RA 494 978 . 142 M 83 83 G 0 1 M 32 32 G 0 2 M 43 43 G 0 2 M 71 71 G 0 1 M 70 70 G 0 1 M 178 178
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00008993-RA
+         Model: affine:local:protein2protein
+     Raw score: 104
+   Query range: 92 -> 387
+  Target range: 2589 -> 2886
+
+   93 : VNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHLAQIQNLANSGGRTPLNTHTQSLPHPHH :  154
+        |:|::.:|:. :..:::||:|: . ..: :.   |  ::.| :.|  .| .. :   |:.:.
+ 2590 : VSVDHTNLEKTVSESQMLRISSKNVPASMNPVVVLKGMKRLMDKGVANPDPKSAVLPPQQEP : 2651
+
+  155 : GSLHDDGGSSTL----FSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSH :  212
+         . :|. |.:.|     : :|:.|  .::|:.| :. .|: : : :    : .:..:||.  
+ 2652 : QDKEDKRGDGILPEETNAVEGSTSVDNSSVADLYTKDGNESVLKSPAEGTTVDTVVTEENIT : 2713
+
+  213 : AFKRLRGSDNSLPLSGAVGSGSN-NNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLK :  273
+        | .. .:|..||.: |.: ::|. :.. :::  :  |... ..:|:|:|  : .:::.|. |
+ 2714 : AVESAPDSSASLNVYGDMQASSTCSTRVNISEPNLASQCTVAEAANFTT--DTTKDQEPQEK : 2773
+
+  274 : EEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSN :  335
+         : .: :|.:.: .:..:..| ::  :::: :..:|::.:   . :.:.|:.: | .: .: 
+ 2774 : INISSQSTEHNDLPETRDTENVPAIVSDLPETSDIGNVPAVVSDLPETSDIENVP-AVDSAL : 2834
+
+  336 : NNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHHAAPQ :  387
+        :: .. :: :.  :: .::.  .:     :.|:...|.|   ::.: :.| :
+ 2835 : SEKRDIENVPGIVSAVPETRAIENVPVVVSDLPETRDTENVPAIVGIQVADE : 2886
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 92 387 . Medex_00008993-RA 2589 2886 . 104 M 74 74 G 0 4 M 69 69 G 0 1 M 25 25 G 2 0 M 66 66 G 1 0 M 58 58
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00068757-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 226 -> 662
+  Target range: 671 -> 1119
+
+  227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGN :  288
+        : : .:..::.||:|:.  : ..:|. ||:  :| .  :.:  .::..   :: .:.:. |.
+  672 : PVPPTTPRHHRSPNLATDLSAKDGPPTTPGPDTTSTSSSPSVLNAIEKLIEKSFDSRARHGA :  733
+
+  289 : GN-GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEH-SNDS :  348
+        |. |.|.:::.. | || .:||  .:   :::    |.::.|::: | :: :.:::| ..:.
+  734 : GAFGAGPAGNAPIGSSILKRLGIDESVDYTKP---LVDPQTMNLLRSYHHHQQQQHHFRRER :  792
+
+  349 : TGEHDANRSSSGDGGKGSLSSG--NDEEIGDGLASHHAAPQ--FIMSPAENKMFHAAAFNFP :  406
+        :|.:.:: |..| |  .:|:::  .| . .: |::.:::|:  :: :|  :. ::.. ::  
+  793 : SGSESSSVSDRGLGRGETLTPDRKPDPSPEQRLGTPRTTPDKGLMSPPKLEEPIDEDRIKKE :  854
+
+  407 : NIDPSALLGLNTQLQQSG----DLAVSPQGPHSITRSAATSPTSSTSSPPSPPTAL----IS :  460
+        .:. ..  : ..::::.     : . . :: ::  :|:::.| .|.. | :| :|     :.
+  855 : PVTDDEREDTRKNVRRDVIVKKEEVEEEEDDRASFHSGGARPRRSEDVPLTPVSAAGEDDVD :  916
+
+  461 : PTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNS-GNNS :  521
+         ..: :|| ::.  . ::   :: :  |.|| |.:: ::: :.. ..:.....::.: ::  
+  917 : DGRGSRGSAGTVSPRQNTLLVDQQVVGAGSPCRNSTGSPAGSDRSSGADKKPSSLGALSSMF :  978
+
+  522 : GNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGI :  583
+        :| :|..::.::.:|:|..:::.|.|:|: | :.     :...: |... : . .:.::|| 
+  979 : DNLSGGGSQGSAADGSAPGSSSGSRSASSHPLAALQKLCDKTERHGGGRSSASATSGSGGGH : 1040
+
+  584 : NEPQECPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSG :  645
+        ..: ...   .| :   ::.:  :|    :|::  |.||: .: :|.:   | |  |  ..|
+ 1041 : ASSSSSQMGGPTPGAILAFSWACNDAVVTADSIMKCAFCDTPFISKGAYRHHLSKMHFVKDG : 1102
+
+  646 : MLKRLLKTTAIKHGLVG :  662
+        ::   :  .: ::|  |
+ 1103 : IIPDPVALKSQQQGSGG : 1119
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 662 . Medex_00068757-RA 671 1119 . 113 M 64 64 G 0 1 M 29 29 G 3 0 M 22 22 G 0 1 M 26 26 G 0 2 M 17 17 G 0 2 M 37 37 G 0 4 M 34 34 G 0 4 M 59 59 G 0 1 M 145 145
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00068757-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 160 -> 605
+  Target range: 94 -> 535
+
+ 161 : GGSSTLFSRQGAGSPPPTAVPSLPSHINNQLLKRMAMMHRSSAAAAAEETSHAFKRLRGSDNSL : 224
+       |. |.| :. ::.:  | |||  |.| .:.:|.  :. : |:.: :.::|. |::  :.:.. |
+  95 : GPVSPLVTSSSSPPLLPLAVPVSPDHDASAVLDFSTKPRGSGVPRTEHDTDAALNLSKPATPVL : 158
+
+ 225 : PLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGN : 288
+       | |:|      |:: ||:   :|. : :.:|:: :: .||.: ..|: |..: ::|.:: ::  
+ 159 : PPSDA----HLNSPLDLSVSGSRKRGLDASPPQAPSPHHHAHLTPPARKSSRASAPPADFKPVV : 218
+
+ 289 : GNGNGNGASNGNG--ISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTG : 350
+       :. .:. .::  .   :  .  :||:|.: :.: ...: :. :.:   :.::.|. ..|.: :|
+ 219 : SPWTSPVVASHFPYFAAAVAAASSLSPKSNGSPVDTSLWNGKLKLPPMDAKSPAAPAPSAHFAG : 282
+
+ 351 : EHDANRSSSGDGGKGSLSSGNDEEI---GDGLASHHAAPQFI-MSPAENKMFHAAAFNFPNIDP : 410
+        ..:: ::.: . .:.||. .:|::   ::: :::|:| |   :: :.::  :.    . : . 
+ 283 : VPTPSDATKALEKMSELSKLGGEDLFRPANSAGNRHSAWQSHWLNKGAEQAKDVLKCVWCKQSF : 346
+
+ 411 : SALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVY : 474
+       ::| ::.:::::: : :|| .:|.: ..::. :|.::|::.::.. :  :...:  :.|.  : 
+ 347 : PSLAAMTAHMKEAKHCGVSVPAPPPPPPPPQQPPPPPTTAHSGGGQT-GGGGKPTPADLNLLIK : 409
+
+ 475 : SLHSHAHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNA : 538
+       .  : ::  | |:..  .:.:. .. : .  |   : :    :. .|  ::.:: .|  ::.: 
+ 410 : ETMPLPRKLVRGQDVWLGKGAEQTRQILK--CMWCGQSFRSLAEMTSHMQQTQHYTNIISQEQI : 471
+
+ 539 : TNNNNNSSSSSTSPGSQATAAGGTVTQAGTPPLPLRMPPPTSGGINEPQECPYCRRTFSCYYSL : 602
+       .: ::...::.::|| :|.::||:|. ||.|. .   ...:|: ::.  .|  | ::||.  .|
+ 472 : ISWKSADDNGKAGPG-NAGGGGGSVPGAGGPGGG--GGGGASSHVSAVLTCKVCDQAFSSLKEL : 532
+
+ 603 : KRH : 605
+       ..|
+ 533 : SNH : 535
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 160 605 . Medex_00068757-RA 94 535 . 107 M 69 69 G 4 0 M 68 68 G 0 2 M 74 74 G 0 3 M 14 14 G 0 1 M 68 68 G 1 0 M 45 45 G 2 0 M 48 48 G 1 0 M 18 18 G 2 0 M 31 31
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00086613-RA
+         Model: affine:local:protein2protein
+     Raw score: 361
+   Query range: 2 -> 127
+  Target range: 4 -> 129
+
+   3 : DTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPC :  66
+       .:::|.|:|||::::::|:|:.: :::.:|||||| .|: |:||::|||.||:||::|:. .||
+   5 : KSEQFSLQWNNFHTNLSSGFHAFLQGQNLVDVTLAAGGKFIQAHKLVLSVCSSYFKDLFEVNPC :  68
+
+  67 : KHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQQQAEDTHSHL : 127
+       |||:::::||. .:|:|::||:|:||.|| |..| .||||||:|:|.||::  :| : . |
+  69 : KHPIVIMKDVGHKELEAILEFMYRGETNVCQDDLTDFLKTAEMLQVKGLADSSTEVSIKLL : 129
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 2 127 . Medex_00086613-RA 4 129 . 361 M 125 125
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060877-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 588 -> 669
+  Target range: 524 -> 603
+
+ 589 : CPYCRRTFSCYYSLKRHFQDKHEQSDTLYVCEFCHRRYRTKNSLTTHKSLQHRGSSGMLKRLLK : 652
+       |  |..::   ::||||:  ||. ::  :.|: | | :: |::|..|..:: . .    .:  |
+ 525 : CDQCSMSYYNIFALKRHYL-KHT-GERKFTCNVCSRAFWMKDALNVHMRVHSSVKLFPCTQCPK : 586
+
+ 653 : TTAIKHGLVGHGHGHGH : 669
+       : : ||.| :| :.| :
+ 587 : AFSHKHTLESHLRTHQN : 603
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 588 669 . Medex_00060877-RA 524 603 . 112 M 19 19 G 1 0 M 3 3 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00007793-RA
+         Model: affine:local:protein2protein
+     Raw score: 313
+   Query range: 5 -> 115
+  Target range: 69 -> 179
+
+   6 : HFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKSTPCKHP :  69
+       ::||:|:||.:.::: | :: :.| .||||:  :|:.:.|||:||||||||::|:|..|  .||
+  70 : EYCLKWSNYPADVANIFLEVLHSEFMVDVTICADGHELHAHRIVLSACSPYLQEILSCTEETHP : 133
+
+  70 : VILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGL : 115
+       |::| :::| |::|::||:|:||:|| ...::| |:||| |::.||
+ 134 : VVILSGISFDDIQAIIEFMYQGEINVGADRIKSVLNTAEELQIRGL : 179
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 5 115 . Medex_00007793-RA 69 179 . 313 M 110 110
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060036-RA
+         Model: affine:local:protein2protein
+     Raw score: 112
+   Query range: 136 -> 473
+  Target range: 322 -> 661
+
+ 137 : GGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFS-RQGAGSPPPTAVPSLPSHINNQLLKRMAMMH : 199
+       |... |... ::|:.| : |:. ..:|:.| | |.::.:::    :| |:|::  : |. : . 
+ 323 : GPPDKLPPKQDPLSKPVNISIKPATDSPPLSSVRPSSPASSIRKYASSPTHVSLSVSKSGSGKS : 386
+
+ 200 : RSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKH : 263
+       .||: .::.: |.::   ...::: : |.   ::|.:..|.:::|.: :.||  .: . |.  :
+ 387 : SSSSHQSPKH-SPGYATSSPKHHGTS-SPKHQASSGSGKPSMSALKSAANSPSTISKSSSGDIQ : 448
+
+ 264 : HNNNNTPPLKEEKRNG-PTGNGNSGNGNGNGNGASNGNGISISDKLGS-LTPSPLARAGADDVK : 325
+       .:::::.  |: |:.: .:| ::||::.   ::: : : :.::|  :. |..:. :.:::.:  
+ 449 : KSKSSSNKDKDRKQTSFGSGISSSGSSPKLKSSSVKLKQLDLTDGNARMLGGGNTSPSDTSGDG : 512
+
+ 326 : SEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIGDGLASHH-AAPQF : 388
+       ..: .   .|.: .: .:  :. .: |:.. ::.| ||.|. : .:.:. :: :..|  .: ::
+ 513 : RKSSTPQARNRKHASISDVIDKLNSMHNVTDTGDGRGGTGKSPVTDSNKNSEYMVKHSLDGIKI : 576
+
+ 389 : IMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPP : 452
+       .:: : .|  .::: . :: ..::    :| |:.: : : ::: || :.:  :.|..:|.:: :
+ 577 : TINKTRTKESKSGGGRSSSCTGTGSPKTHTGLKPGVNSGPASKKPHQVVQQKSPSGVASGTGKS : 640
+
+ 453 : SPPTALISPTSSLKGSLAAAV : 473
+       |:.::   |:|. .||  :.:
+ 641 : SSGSSSKMPSSKSSGSPIPNI : 661
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 136 473 . Medex_00060036-RA 322 661 . 112 M 32 32 G 0 1 M 41 41 G 1 0 M 15 15 G 1 0 M 53 53 G 0 1 M 31 31 G 0 1 M 73 73 G 0 1 M 90 90
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00060036-RA
+         Model: affine:local:protein2protein
+     Raw score: 111
+   Query range: 126 -> 574
+  Target range: 274 -> 716
+
+ 127 : LAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINNQ : 190
+       ::.| : ::|.:|:. .. ::| :  :. .|:..  ..   |. |.: .||. :|: ...:::.
+ 275 : ITPITSKSSSEDRARDRKSSKSRSSDEKVKLDKKRKRKREDSPSGVAMGPPDKLPPKQDPLSKP : 338
+
+ 191 : LLKRMAMMHRSSAAAAAEETSHA--FKRLRGSDNSLPLS-GAVGSGSNNNSPDLPPLHAR---S : 248
+       :  .:     |:: ::.  :|.|  :::  :| . ::|| :  |||.:::|:: :| |:.   :
+ 339 : VNISIKPATDSPPLSSVRPSSPASSIRKYASSPTHVSLSVSKSGSGKSSSSSHQSPKHSPGYAT : 402
+
+ 249 : ASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLT : 312
+       :||:: .:. :. :  :.:..|::.. |..:.:.:. | :::|: : :.:::. . . | .|:.
+ 403 : SSPKHHGTSSPKHQASSGSGKPSMSALKSAANSPSTISKSSSGDIQKSKSSSNKDKDRKQTSFG : 466
+
+ 313 : PSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDSTGEHDANRSSSGDGGKGSLSSGNDEEIG : 376
+       ::  :.::: .:||.::.:    :: : .|.::.  .|.:.:...:|||| |:| : :.: . :
+ 467 : SGISSSGSSPKLKSSSVKL----KQLDLTDGNARMLGGGNTSPSDTSGDGRKSSTPQARNRKHA : 526
+
+ 377 : DGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSA : 440
+        :::.  .  : : : ::.   :::: : | .|::   .  .: :  ::: :: : .:: ...:
+ 527 : -SISDVIDKLNSMHNVTDTGDGRGGTGKSPVTDSNKNSEYMVK-HSLDGIKITINKTRTKESKS : 588
+
+ 441 : ATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSHAHGHVLGHATSPPRPGSVGSSVGSN : 504
+       :.:.:|| ::..|| |      ::||.::.::  | .:|.  :  :.:. :: .|. :|: :|:
+ 589 : GGGRSSSCTGTGSPKT-----HTGLKPGVNSGPASKKPHQVVQQKSPSGVASGTGKSSSGSSSK : 647
+
+ 505 : LCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGT : 568
+       : :|.| |..:.:  :.:::::..:.:  ::.:::..:::.:.:|:..:. . :: |: .:  :
+ 648 : MPSSKSSGSPIPNIMSKSSSKSTGSPKMVSSNDTSRRDKSRPKNSSDRDKSVFSSKGADGRK-S : 710
+
+ 569 : PPLPLR : 574
+       :||.||
+ 711 : SPLTLR : 716
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 126 574 . Medex_00060036-RA 274 716 . 111 M 87 87 G 0 2 M 14 14 G 0 1 M 20 20 G 0 3 M 84 84 G 4 0 M 41 41 G 1 0 M 42 42 G 1 0 M 36 36 G 5 0 M 105 105 G 1 0 M 7 7
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 119
+   Query range: 277 -> 566
+  Target range: 141 -> 433
+
+ 278 : NGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAN : 341
+       :|. ::|::|:::|:| |.|:|:|   |:. |  :. .  .:| :: .|.. :  .::...::.
+ 142 : HGGHSSGHGGQSSGHG-GQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSG : 204
+
+ 342 : DEHSNDSTGEHDANRS--SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAF : 403
+       :.  :.: |.|.:.::  |:| ||.:|  :|:... |:  ::| : :.   :.:...  ::|::
+ 205 : HGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGY : 268
+
+ 404 : NFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKG : 467
+       . .: :.::  :  .    : :   |. |.|| .::: ::. :: ||..:..:|  :. || .|
+ 269 : GGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHG : 332
+
+ 468 : SLAAAVYSLHSHAH-GHVLGHATSPPRPGSVGSSVGSNL--CTSTSMGCGVNSGNNSGNNNGNN : 528
+       : .:: |: || :. ||  ||:..::  |: :|: |::   ..:.|:| | :|:.::|:::|:.
+ 333 : G-QSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSGHG : 395
+
+ 529 : ANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQA : 566
+       ::::::.|::.. .. | : :.:: :::. ::|  .:|
+ 396 : GHSSGHGGKSVGYGGYSYGHGGNSVGHGGHSSGYGGHA : 433
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 277 566 . Medex_00082084-RA 141 433 . 119 M 16 16 G 1 0 M 63 63 G 0 2 M 111 111 G 1 0 M 12 12 G 0 1 M 24 24 G 0 2 M 61 61
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 113
+   Query range: 279 -> 561
+  Target range: 115 -> 400
+
+ 280 : PTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDE : 343
+       ..::|::|:::| |. :|. .| | ::   | ..:. :.: ::: .::. :    ..::::::.
+ 116 : GISSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGG : 179
+
+ 344 : HSNDSTGEHDANRS-SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFP : 406
+       ||:: .|: .:: : |||:||::|  :|:... |:  ::| :.:.   :.:...  ::|::. .
+ 180 : HSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGH : 243
+
+ 407 : NIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLA : 470
+       : :.::  :  .    : : . :. |.|| .:::.::. :: ||..:..::  :. || .|:  
+ 244 : SSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGG-K : 306
+
+ 471 : AAVYSLHSHAH-GHVLGHATSPPRPGSVGSSVGSNLCT--STSMGCGVNSGNNSGNNNGNNANN : 531
+       :| |: || :| |:  |.:. :: .|: ::: |:: .:  : | | | :|:. :|:::|:.:::
+ 307 : SAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAGYGGHSSGHGGKS : 370
+
+ 532 : NSNNGNATNNNNNSSSSSTSPGSQATAAGG : 561
+        : .|::..:..:||: :. :::::. ::|
+ 371 : VGYGGKSVGHGGHSSGHGGHSSGHGGHSSG : 400
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 279 561 . Medex_00082084-RA 115 400 . 113 M 78 78 G 0 1 M 111 111 G 1 0 M 12 12 G 0 1 M 26 26 G 0 2 M 54 54
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 110
+   Query range: 278 -> 561
+  Target range: 128 -> 407
+
+ 279 : GPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANAND : 342
+       |. ::|::|:: |:|. :|. .| | ::   | ..:. :.: ::: .::. :    ..::::::
+ 129 : GGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGHGGHSSGYGGQSSGHG : 192
+
+ 343 : EHSNDSTGEHDANRS-SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNF : 405
+       .||:: .|: .:: : |||:||.:|  :|:... |:  ::| :.:.   :.:...  .:|::. 
+ 193 : GHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGKSAGYGG : 256
+
+ 406 : PNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSL : 469
+       .: :.::  :  .    : : . :. |.|| .::: :|. :: ||..:. :|  :. || .|: 
+ 257 : HSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGYGGHSSGHGGKSAGYGGHSSGHGG- : 320
+
+ 470 : AAAVYSLHSHAHGHVLGHATS-PPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNN : 532
+       .:| |: || :||   |::|: ..:::| |:  :::  .:.| |.| :|:.::|:: | .::: 
+ 321 : QSAGYGGHSSGHG---GQSTGYGGHSSSYGGHSSGH--GGKSAGYGGHSSGHGGKSVGYGGKSV : 378
+
+ 533 : SNNGNATNNNNNSSSSSTSPGSQATAAGG : 561
+       ::.|:::.:..:||: :. :::::. : |
+ 379 : GHGGHSSGHGGHSSGHGGHSSGHGGKSVG : 407
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 278 561 . Medex_00082084-RA 128 407 . 110 M 79 79 G 0 1 M 111 111 G 1 0 M 13 13 G 3 0 M 5 5 G 0 1 M 14 14 G 2 0 M 55 55
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 107
+   Query range: 226 -> 572
+  Target range: 102 -> 450
+
+ 227 : SGAVGSGSNNNSPDLPPLHARSASPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGN : 290
+       .|: | ...:.|.:::: |:  :|.  ..:.  . |  .:.. :: ...:.:|..|:::: .|:
+ 103 : CGSKGHNCGHGSHGISSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGH : 166
+
+ 291 : GNGNGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSNNNANANDEHSNDST-GEHD : 353
+       ::|:|: ::.  : |.  |: :::. ::::::: :|.. :  .|.:.:::::: ::.:. |.|.
+ 167 : SSGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHS : 230
+
+ 354 : ANRS--SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNIDPSALLG : 415
+       :.::  |:| ||.:|  :|:... |:  ::| :.:.   :.:...  ::|::. .: :.::  :
+ 231 : SGHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSS : 294
+
+ 416 : LNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAAVYSLHSH : 479
+         .    : :   :. |.|| .:::.::. :: ||..:..::  :. ||  |: :::  :  : 
+ 295 : GYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAG : 358
+
+ 480 : AHGHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGNNNGNNANNNSNNGNATNNNN : 543
+         ||  ||:..:   |: : : |:: .. .: :.| ::|::||:.. : : .. : |::.|: .
+ 359 : YGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSSG-HGGHSSGHGGKSVGYGGYSYGHGGNSVG : 421
+
+ 544 : NSSSSSTSPGSQATAAGGTVTQAGTPPLP : 572
+       ::: ||. .| ... :| .:.::|:. |:
+ 422 : HGGHSSGYGGHAVGIGGHVIIKGGSGCLA : 450
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 226 572 . Medex_00082084-RA 102 450 . 107 M 123 123 G 0 1 M 8 8 G 0 2 M 157 157 G 1 0 M 57 57
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 103
+   Query range: 333 -> 570
+  Target range: 113 -> 349
+
+ 334 : SNNNANANDEHSNDSTGEHDANRS-SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENK : 396
+       |:. :::::.||:: .|: .:: : |.|:||.:|  :|:... |:  ::| : :    :.:...
+ 114 : SHGISSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHSSGHGGQSSGH : 177
+
+ 397 : MFHAAAFNFPNIDPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALIS : 460
+         |::::. .: :.::  : :.    : :   |.:|.|| .:::.::. :: ||..:..:|  :
+ 178 : GGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSSGHGGQSAGYG : 241
+
+ 461 : PTSSLKGSLAAAVYSLHSHAH-GHVLGHATSPPRPGSVGSSVGSNLCTSTSMGCGVNSGNNSGN : 523
+       . || .|:  :| |: || :| |:  |.:. :: .|: ::: |:: .. .: :.|   |.:|:.
+ 242 : GHSSGHGG-KSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSGY--GGHSSG : 302
+
+ 524 : NNGNNANNNSNNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAGTPP : 570
+       :.|::|. .::::. ..::.. :: |::.|:|:|: ||  :  |..:
+ 303 : HGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHS : 349
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 333 570 . Medex_00082084-RA 113 349 . 103 M 24 24 G 0 1 M 111 111 G 1 0 M 12 12 G 0 1 M 34 34 G 2 0 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00082084-RA
+         Model: affine:local:protein2protein
+     Raw score: 100
+   Query range: 283 -> 567
+  Target range: 103 -> 392
+
+ 284 : GNSGNGNGNG-NGASNGNGISISDKLGSLTPSPLARAGADDVKSEPMDMVCSN-NNANANDEHS : 345
+       |:.|:. |:| :| |:|:|   |:  |  :. .  . | :: .|.. :  .:: .::::::.||
+ 104 : GSKGHNCGHGSHGISSGHGGHSSGYGGQSSGHGGKSCGHGGHSSGHGGQSSGHGGQSSGHGGHS : 167
+
+ 346 : NDSTGEHDANRS-SSGDGGKGSLSSGNDEEIGDGLASHHAAPQFIMSPAENKMFHAAAFNFPNI : 408
+       :: .|: .:: : ||| ||::|  :|:... |:  ::| : :    :.:...  ::|::. .: 
+ 168 : SGHGGQSSGHGGHSSGYGGQSSGHGGHSSGHGGQSSGHGGHSSGHGGHSSGHGGQSAGYGGHSS : 231
+
+ 409 : DPSALLGLNTQLQQSGDLAVSPQGPHSITRSAATSPTSSTSSPPSPPTALISPTSSLKGSLAAA : 472
+       :.::  :  .    : :   :. |.|| .:::.::. :: ||..:..:|  :. || .|: :::
+ 232 : GHGGQSAGYGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSAGYGGHSSGHGGHSSG : 295
+
+ 473 : VYSLHSHAH-GHVLGHATSPPRPGSVGSSVGSNLC--TSTSMGCGVNSGNNSGNNNGNNANNNS : 533
+        |: || :| |.  |.:. :: .|: ::: |:: .  .: | |.| :|:: :|:::|:.:::.:
+ 296 : -YGGHSSGHGGKSAGYGGHSSGHGGQSAGYGGHSSGHGGQSTGYGGHSSSYGGHSSGHGGKSAG : 358
+
+ 534 : NNGNATNNNNNSSSSSTSPGSQATAAGGTVTQAG : 567
+        .|:::.:..:| : :..: :::. ::|  .:::
+ 359 : YGGHSSGHGGKSVGYGGKSVGHGGHSSGHGGHSS : 392
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 283 567 . Medex_00082084-RA 103 392 . 100 M 10 10 G 0 1 M 42 42 G 0 1 M 22 22 G 0 1 M 115 115 G 1 0 M 8 8 G 0 1 M 25 25 G 0 2 M 61 61
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00009059-RA
+         Model: affine:local:protein2protein
+     Raw score: 172
+   Query range: 22 -> 117
+  Target range: 24 -> 121
+
+  23 : ENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST--PCKHPVILLQDVNFMDLHAL :  84
+       |::| :. : ||||  :: |:.|||::|:|  |||:.::.:.   .|: .|::::::  .|:||
+  25 : EEIRRQGKLCDVTLKVDDESFSAHRIILAATIPYFHAMFTNDMLESKQKAIVIRGIDPGALEAL :  88
+
+  85 : VEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQ : 117
+       ::| | | |.::::::||:| .|. |::: : :
+  89 : INFAYSGRVALDNNNVQSLLAGASFLQLTKVRD : 121
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 22 117 . Medex_00009059-RA 24 121 . 172 M 42 42 G 0 2 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00027176-RA
+         Model: affine:local:protein2protein
+     Raw score: 152
+   Query range: 64 -> 117
+  Target range: 63 -> 116
+
+  65 : PCKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLTQ : 117
+       | :||||:|.:.:| || |||.|:| ||||:.|. ||::|: |:.:::.||::
+  64 : PVQHPVIILPGASFTDLCALVTFMYSGEVNIYQEQLQGLLNMADAMQIRGLAE : 116
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 64 117 . Medex_00027176-RA 63 116 . 152 M 53 53
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00080928-RA
+         Model: affine:local:protein2protein
+     Raw score: 379
+   Query range: 0 -> 343
+  Target range: 8 -> 354
+
+   1 : MDDTQHFCLRWNNYQSSITSAFENLRDDEAFVDVTLACEGRSIKAHRVVLSACSPYFRELLKST :  64
+       |:. |:|||:||:: |::::||.|| ..|::.||.| ||| ::||||::|:||| .|::|:..:
+   9 : MESQQQFCLKWNSFGSNLATAFGNLFKSESLTDVILFCEGVTFKAHRLILAACSKHFQDLFERA :  72
+
+  65 : P-CKHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSLQSFLKTAEVLRVSGLT--QQQAEDTHS : 125
+       | |   :::|::.:  :: ||:||:|.|||:| |.|| ||||:|| |:|.||:  ::: . .::
+  73 : PLCPSVLVILDGTSSSNMSALLEFMYKGEVHVSQESLSSFLKAAECLQVKGLSIEHEKLAVVQG : 136
+
+ 126 : HLAQIQNLANSGGRTPLNTHTQSLPHPHHGSLHDDGGSSTLFSRQGAGSPPPTAVPSLPSHINN : 189
+        :::  :|.::.||.  ::.. | .:. . .:.|:||||:  | ..:  .|:|: .|  :.: :
+ 137 : SVTHDSQLDSPTGRK--QAKITSSGNGIKKEVPDGGGSSSSSSVPEPMIHPSTSSGSTYTPVIS : 198
+
+ 190 : QLLK----RMAMMHRSSAAAAAEETSHAFKRLRGSDNSLPLSGAVGSGSNNNSPDLPPLHARSA : 249
+       . :.    | |  :| :|:|:  :|:.  :: |: .:::| ::  :|  .:.| . || :: . 
+ 199 : PYMHPPHYRPAYEQRIPASAPHYDTAPRKRHHRSLSEAVPDASMRASVLRDGSKARPPSESEKL : 262
+
+ 250 : SPQQTPADFSTIKHHNNNNTPPLKEEKRNGPTGNGNSGNGNGNGNGASNGNGISISDKLGSLTP : 313
+       ||   : .:..:..:.::::     . : :. :.|:.:.:.|.:.:.: :.. ::... .: .:
+ 263 : SP--MALSYRPLHPEAESQSEDKVYGAHMSRYDGGQDSAAAGAATSVTYDRTAAVDAENNTKVS : 324
+
+ 314 : SPLARAGADDVKSEPMDMVCSNNNANANDE : 343
+           :::||  :| | |:  : : :. :||
+ 325 : MESRHSSADPGNSCPEDLRVNMELSTRQDE : 354
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 0 343 . Medex_00080928-RA 8 354 . 379 M 65 65 G 0 1 M 51 51 G 0 2 M 24 24 G 2 0 M 51 51 G 0 4 M 58 58 G 2 0 M 90 90
+
+C4 Alignment:
+------------
+         Query: br-PA_FBpp0070255_FBgn0283451_broad (br)
+        Target: Medex_00093209-RA
+         Model: affine:local:protein2protein
+     Raw score: 118
+   Query range: 66 -> 100
+  Target range: 5 -> 39
+
+  67 : KHPVILLQDVNFMDLHALVEFIYHGEVNVHQKSL : 100
+       |||:|:|:||:: |:..|::|:|.||||::|:::
+   6 : KHPIIILKDVKYEDMKVLLQFMYKGEVNIEQNTM :  39
+
+vulgar: br-PA_FBpp0070255_FBgn0283451_broad 66 100 . Medex_00093209-RA 5 39 . 118 M 34 34
+-- completed exonerate analysis

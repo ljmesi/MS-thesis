@@ -1,0 +1,30 @@
+name	description
+C_hook1	maker-scaffold740-size695741-augustus-gene-1.8-mRNA-1
+C_lec1	CLEC001685-PA
+C_lec2	CLEC002970-PA
+C_lec3	CLEC009091-PA
+C_lec4	CLEC011186-PA
+C_lec5	CLEC004176-PA
+M_ext1	Medex_00100153-RA
+M_ext2	Medex_00089546-RA
+M_ext3	Medex_00043961-RA
+G_bue1	GBUE021126-PA
+G_bue2	GBUE008733-PA
+G_bue3	GBUE021125-PA
+G_bue4	GBUE007923-PA
+G_bue5	GBUE004076-PA
+N_lug1	XP_022188091.1 homeotic protein distal-less-like isoform X1 [Nilaparvata lugens]
+F_exs1	XP_029674465.1 homeotic protein distal-less isoform X1 [Formica exsecta]
+A_pis1	XP_003244593.1 homeotic protein distal-less [Acyrthosiphon pisum]
+C_lec6	XP_014245971.1 homeotic protein distal-less isoform X1 [Cimex lectularius]
+D_mel1	FBpp0072286 FBgn0000157 Dll [Drosophila melanogaster]
+D_sim1	FBpp0210303 FBgn0183640 Dll [Drosophila simulans]
+D me	1
+N lu	1
+F ex	1
+A pi	1
+G bu	5
+C le	6
+M ex	3
+C ho	1
+D si	1

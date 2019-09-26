@@ -1,0 +1,27 @@
+name	description
+G_bue1	GBUE008361-PA
+G_bue2	GBUE009916-PA
+G_bue3	GBUE012840-PA
+M_ext1	Medex_00103380-RA
+M_ext2	Medex_00022200-RA
+M_ext3	Medex_00059238-RA
+C_hook1	maker-scaffold680-size715670-augustus-gene-4.7-mRNA-1
+C_hook2	maker-scaffold212-size1131905-augustus-gene-1.5-mRNA-1
+C_lec1	CLEC009111-PA
+C_lec2	CLEC003449-PA
+D_mel1	NP_730287.1 Ecdysone-induced protein 74EF, isoform A [Drosophila melanogaster]
+N_lug1	XP_022185398.1 ecdysone-induced protein 74EF [Nilaparvata lugens]
+N_lug2	XP_022207261.1 ecdysone-induced protein 74EF-like [Nilaparvata lugens]
+F_exs1	XP_029678074.1 ecdysone-induced protein 74EF isoform X1 [Formica exsecta]
+A_pis1	XP_029347438.1 ecdysone-induced protein 74EF isoform X1 [Acyrthosiphon pisum]
+C_lec3	XP_014251487.1 ecdysone-induced protein 74EF isoform X1 [Cimex lectularius]
+D_sim1	FBpp0323369 FBgn0184127 Eip74EF [Drosophila simulans]
+D me	1
+N lu	2
+F ex	1
+A pi	1
+G bu	3
+C le	3
+M ex	3
+C ho	2
+D si	1
