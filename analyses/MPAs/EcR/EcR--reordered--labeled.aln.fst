@@ -17,7 +17,7 @@ TVR--YARLLSVLTELRTLGNENSELCMTLKLKNRVVPPFLAEIWDVMP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->G_bue1+4 GBUE004915-PA merged with GBUE021385-PA
+>Polyphenic_G_bue1+4 GBUE004915-PA merged with GBUE021385-PA
 M-----------------------------------------------------------
 ----GEESGRLAA-----------------------------------------------
 ------------------------------------------------------------
@@ -36,7 +36,7 @@ PTI--FAKLLSVLTELRTLGNQNSEMCFSLKLKNKNIPPFLAEIWDVNT-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->C_hook1 maker-scaffold389-size1115929-augustus-gene-10.2-mRNA-1
+>Monom._apt_C_hook1 maker-scaffold389-size1115929-augustus-gene-10.2-mRNA-1
 M-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -55,7 +55,7 @@ GAV--FAKLLSVLTELRTLGNQNSEMCFSLKLKNKKLPPFLAEIWDVMP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->M_ext1 Medex_00015863-RA
+>Monom._apt_M_ext1 Medex_00015863-RA
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -74,7 +74,7 @@ GAV--FAKLLSVLTELRTLGNQNSEMCFSLKLKNKKLPPFLAEIWDVMP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->C_lec1 CLEC002129-PA
+>Monom._apt_C_lec1 CLEC002129-PA
 MWVR----GYAMR------------------EEG--CDQVTSSC----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -93,7 +93,7 @@ PTI--FAKLLSVLTELRTLGNQNSEMCFSLKLQNRKLPPFLAEIWDVNP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->C_lec4 XP_014241436.1 ecdysone receptor isoform X1 [Cimex lectularius]
+>Monom._apt_C_lec4 XP_014241436.1 ecdysone receptor isoform X1 [Cimex lectularius]
 MWVR----GYAMR------------------EEG--CDQVTSSC----------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -112,7 +112,7 @@ PTI--FAKLLSVLTELRTLGNQNSEMCFSLKLQNRKLPPFLAEIWDVNP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->F_exs1 XP_029677557.1 ecdysone receptor isoform X1 [Formica exsecta]
+>Polyphenic_F_exs1 XP_029677557.1 ecdysone receptor isoform X1 [Formica exsecta]
 M------------------------------------DTSGDSSL---------------
 ----DTANGTAAASVAASVAAIASVV------GGT---------ASLTVKAE--------
 RPDHLAGTSTSPAVAAGPIGT----GSSL----FAGIANSNKTSRPDDWLATSSPESPQS
@@ -131,7 +131,7 @@ GTI--FAKLLSVLTELRTLGNQNSEMCLNLKFKNKKLPVFLAEIWDVMP-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------
->N_lug1 XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
+>Polyphenic_N_lug1 XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
 ME---------LKLALYPVHNLPPLPNPL-------QDLQTKSTLLQRLPSTPTLQQNLP
 TEPTQLRNLSPLPNPHQ-----------NLQRTSTLLQNQPSEPTPLQN--------LPT
 KPTQLRNLSPEPNLLLNPQTQ----PTQLQNLSPENILHQNLHPQP------TLSQNPQS
@@ -150,7 +150,7 @@ KEKENEKKKAAAENNNSMSSS---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------TS
->N_lug2 XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
+>Polyphenic_N_lug2 XP_022195205.1 ecdysone receptor-like [Nilaparvata lugens]
 ME---------LKLALYPVHNLPPLPNPL-------QDLQTKSTLLQRLPSTPTLQQNLP
 TEPTQLRNLSPLPNPHQ-----------NLQRTSTLLQNQPSEPTPLQN--------LPT
 KPTQLRNLSPEPNLLLNPQTQ----PTQLQNLSPENILHQNLHPQP------TLSQNPQS
@@ -169,7 +169,7 @@ KEKENEKKKAAAENNNSMSSS---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------TS
->D_mel1 NP_724456.1 ecdysone receptor, isoform A [Drosophila melanogaster]
+>Monom._mac_D_mel1 NP_724456.1 ecdysone receptor, isoform A [Drosophila melanogaster]
 M----------------------------LTTSGQQQSKQKLSTL----PSHILLQQQL-
 -------AASAGPSSSVS--------------------LSPSSSAALTLHVASANGGARE
 TTSAAAVKDKLRPTPTAIKIEPMPDVISVGTVAGGSSVATVVAPAA-----TTTSNKPNS
@@ -188,7 +188,7 @@ TQEENERLERAERMRASVGGAITAGIDCDSASTSAAAAAAQHQPQPQPQPQPSSLTQNDS
 QHQT----QPQLQPQLPPQLQGQLQPQLQPQLQTQLQPQIQPQPQLLP--VSAPVPASVT
 APGSLSAVSTSSEYMGGSAAIGPITPATTSSITAAVTASSTTSAVPMGNGVGVGVGVGGN
 VSMYANAQTAMALMGVALHSHQEQLIGGVAVKSEHSTTA
->D_sim1 FBpp0208736 FBgn0182106 EcR [Drosophila simulans]
+>Monom._mac_D_sim1 FBpp0208736 FBgn0182106 EcR [Drosophila simulans]
 MKRRWSNNGGFMRLPEESSSEVTSSSNGLVLPSGVNMSP---SSL----DSHDYCDQDLW
 L--CGNESGSFGGSNGHG--------------------LNQQQQSVITLAMHGCSSTLPA
 QTTIIPINGNANGNAGSTNGQYVPGATNLGALANG-------------------------
