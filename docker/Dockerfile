@@ -12,10 +12,6 @@ RUN R -e "install.packages('DT')" \
 && chmod a+rx /usr/bin/phantomjs \
 && R -e "install.packages('revealjs', type = 'source')" \
 && R -e "install.packages('reticulate')"
-# Install DESeq2
-#RUN R -e "BiocManager::install('DESeq2')" \
-#&& R -e "BiocManager::install('apeglm')" \
-#&& R -e "BiocManager::install('ashr')"
 
 # Install miniconda
 RUN wget --quiet https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh && \
@@ -32,9 +28,6 @@ RUN conda update -n base -c defaults conda
 RUN conda config --add channels conda-forge
 RUN conda config --add channels bioconda
 RUN conda install biopython
-RUN conda install gffutils
-RUN conda install bedtools
-RUN conda install emboss
-RUN conda install samtools
+
 # This is needed for multiline grep searches
 RUN apt-get install -y pcre2-utils
