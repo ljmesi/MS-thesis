@@ -729,12 +729,12 @@ exonerate_results="analyses/exonerate_against_5_pps"
 # From gff in species_annotations name matched protein sequences of: C lectularius and G buenoi
 #species_name_matched_proteins="analyses/2019-08-29"
 # Exonerate searches on M ext and C hook genome assemblies
-exonerate_on_wgs="analyses/exonerate_against_2_wgs"
+exonerate_on_wgs="analyses/exonerate_against_2_wgs/whole_results"
 
 # Some variables and data structures used for exploration 
 declare -a genes_with_most_matches=("br-PA.fas" "Dll-PA.fas" "Ubx-PA.fas" "EcR-PA.fas" "en-PA.fas" "Eip74EF-PA.fas" "exd-PA.fas" "InR-PA.fas")
 
-declare -a newest_exonerate_search_query_genes=("Ubx-PA.fas" "en-PA.fas" "Eip74EF-PA.fas")
+declare -a exonerate_against_wgs=("Ubx-PA.fas" "en-PA.fas" "Eip74EF-PA.fas")
 
 # Alternatives available for the newest exonerate search results
 # Eip74EF-PA--to--M_extradentata.res 
@@ -743,12 +743,12 @@ declare -a newest_exonerate_search_query_genes=("Ubx-PA.fas" "en-PA.fas" "Eip74E
 # Ubx-PA--to--C_hookeri.res
 
 # Gene to be explored
-gene="en"
+gene="Ubx"
 # How large should query coverage at least be?
 lim="0.00"
 # How many hits do we want to preview?
 number_of_hits="10"
-# Organism which exonerate searched in
+# Organism which exonerate searched in (alternatives: C_hookeri, C_lectularius, D_simulans, G_buenoi and M_extradentata)
 organism="C_hookeri"
 
 protein_length=$(fastalength $D_mel_proteins/$gene"-PA.fas" | awk '{print $1}')
@@ -988,13 +988,13 @@ curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0210303/FBpp" -H  "
 #D melanogaster
 curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0072286/FBpp" -H  "accept: application/json" > $download_dir/Dll/D_melanogaster_FBpp0072286.json
 
-#UBx
+#Ubx
 #D simulans
 curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0314200/FBpp" -H  "accept: application/json" > $download_dir/Ubx/D_simulans_FBpp0314200.json
 #D melanogaster
 curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0082793/FBpp" -H  "accept: application/json" > $download_dir/Ubx/D_melanogaster_FBpp0082793.json
 
-#EcD
+#EcR
 #D simulans
 curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0208736/FBpp" -H  "accept: application/json" > $download_dir/EcR/D_simulans_FBpp0208736.json
 curl -X GET "http://api.flybase.org/api/v1.0/sequence/id/FBpp0315934/FBpp" -H  "accept: application/json" > $download_dir/EcR/D_simulans_FBpp0315934.json
