@@ -2091,3 +2091,14 @@ code/gff2fasta.pl $FASTAS/M_extradentata_PNEQ01062987.1.fna $GFFS/Eip74EF-PA--to
 code/gff2fasta.pl $FASTAS/M_extradentata_PNEQ01084081.1.fna $GFFS/Eip74EF-PA--to--M_extradentata_PNEQ01084081.1.gff Eip74EF-PA--to--M_extradentata_PNEQ01084081.1 M_ext2
 code/gff2fasta.pl $FASTAS/M_extradentata_PNEQ01093675.1.fna $GFFS/Eip74EF-PA--to--M_extradentata_PNEQ01093675.1.gff Eip74EF-PA--to--M_extradentata_PNEQ01093675.1 match_1_Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced
 ```
+
+# References 
+
+```{r}
+#citation('knitr')
+
+RStudio.Version()
+
+devtools::session_info()
+```
+
