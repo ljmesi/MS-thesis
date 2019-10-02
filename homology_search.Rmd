@@ -7,6 +7,13 @@ bibliography: bibliography.bib
 documentclass: report
 #fontsize: 12pt
 output:
+  bookdown::pdf_document2:
+    keep_tex: no
+    latex_engine: xelatex
+    #highlight: pygments #Other options: default, tango, kate, monochrome, espresso, zenburn, haddock, and textmate
+    #theme: spacelab
+    pandoc_args: ["--variable", "subparagraph",
+                "--top-level-division","chapter"] # Could also be chapter 
   bookdown::html_document2:
     link-citations: true
     highlight: tango
@@ -16,13 +23,6 @@ output:
     toc: yes
     toc_float: TRUE
     code_folding: hide
-  bookdown::pdf_document2:
-    keep_tex: no
-    latex_engine: xelatex
-    #highlight: pygments #Other options: default, tango, kate, monochrome, espresso, zenburn, haddock, and textmate
-    #theme: spacelab
-    pandoc_args: ["--variable", "subparagraph",
-                "--top-level-division","chapter"] # Could also be chapter 
 ---
 
 ```{r setup, include=FALSE}
@@ -2092,13 +2092,14 @@ code/gff2fasta.pl $FASTAS/M_extradentata_PNEQ01084081.1.fna $GFFS/Eip74EF-PA--to
 code/gff2fasta.pl $FASTAS/M_extradentata_PNEQ01093675.1.fna $GFFS/Eip74EF-PA--to--M_extradentata_PNEQ01093675.1.gff Eip74EF-PA--to--M_extradentata_PNEQ01093675.1 match_1_Eip74EF-PA_FBpp0074965_FBgn0000567_Ecdysone-induced
 ```
 
-# References 
+# Packages
 
 ```{r}
 #citation('knitr')
 
-RStudio.Version()
+#RStudio.Version()
 
 devtools::session_info()
 ```
 
+# References
